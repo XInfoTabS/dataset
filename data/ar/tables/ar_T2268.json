@@ -1,0 +1,45 @@
+{
+    "\u0639\u0646\u0648\u0627\u0646": [
+        "Union TurnpikeManhattan-Queens Express"
+    ],
+    "System": [
+        "\u0627\u0644\u062e\u0637\u0648\u0637 \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0642\u0637\u0631\u064a\u0629"
+    ],
+    "Operator": [
+        "MTA Bus Company"
+    ],
+    "\u062d\u062f\u064a\u0642\u0629": [
+        "College Point Depot"
+    ],
+    "\u0633\u064a\u0627\u0631\u0629": [
+        "Motor Coach Industries D4500",
+        "Motor Coach Industries D4500CL"
+    ],
+    "\u0628\u062f\u0621 \u0627\u0644\u062e\u062f\u0645\u0629": [
+        "26 \u0641\u0628\u0631\u0627\u064a\u0631 1968 (QM1)"
+    ],
+    "Locale": [
+        "\u0643\u064a\u0646\u0632\u060c \u0645\u0627\u0646\u064a\u0644\u0627"
+    ],
+    "\u0627\u0644\u0645\u062c\u062a\u0645\u0639\u0627\u062a \u0627\u0644\u0645\u0645\u0644\u0648\u0643\u0629": [
+        "\u0627\u0644\u0643\u0648\u064a\u0633: \u0643\u0648 \u062c\u0648\u062f\u0632 \u0647\u064a\u0644\u0632, \u0647\u064a\u0644\u0643\u0631\u064a\u0633\u062a, Fresh Meadows, Oakland Gardens, Bellaire, Little Neck, Glen Oaks, Floral Park"
+    ],
+    "Start": [
+        "Fresh Meadows, Queens - 188th Street & Horace Harding Expressway (QM1, QM7, QM31), Glen Oaks, Queens - 260th Street & Union Turnpike (QM5, QM8, QM35), Glen Oaks, Queens / Lake Success, Nassau County - North Shore Towers (QM6, QM36)"
+    ],
+    "Via": [
+        "Union Turnpike, Queens Boulevard, Long Island Expressway & Midtown Tunnel (westbound) / Queensboro Bridge (eastbound)"
+    ],
+    "End": [
+        "Midtown Manhattan - Sixth Avenue (QM1, QM5, QM6), Midtown Manhattan - Third Avenue (QM31, QM35, QM36), Downtown Manhattan - Downtown Loop (QM7, QM8)"
+    ],
+    "\u0627\u0644\u062a\u0645\u0648\u064a\u0644 \u0627\u0644\u0633\u0646\u0648\u064a": [
+        "QM1/QM31: 115,135 (2016), QM5/QM35: 502,997 (2016), QM6/QM36: 270,411 (2016), QM7: 167,127 (2016), QM8: 148,744 (2016)"
+    ],
+    "\u062a\u062d\u0648\u064a\u0644\u0627\u062a": [
+        "\u0646\u0639\u0645"
+    ],
+    "\u0627\u0644\u0645\u062f\u0629": [
+        "QM1/QM5/QM6/QM31/QM35/QM36, QM7/QM8"
+    ]
+}
