@@ -1,0 +1,54 @@
+{
+    "titel": [
+        "Debian"
+    ],
+    "Ontwikkelaar": [
+        "Die Debian Projek"
+    ],
+    "Os familie": [
+        "Linux (Unix- tipe)"
+    ],
+    "Werkstasie": [
+        "Huidige"
+    ],
+    "Bron model": [
+        "Open bron"
+    ],
+    "Aanvanklike vrylaat": [
+        "September 1993; 26 jaar geleden (1993-09)"
+    ],
+    "Laaste vrylaat": [
+        "10.1 (Buster) (September 7, 2019; 47 dae terug (2019-09-07)) [\u00b1]"
+    ],
+    "Laaste voorskou": [
+        "11 (Bullseye)"
+    ],
+    "beskikbaar in": [
+        "75 tale"
+    ],
+    "Dateer op metode": [
+        "Langterm ondersteuning"
+    ],
+    "Paket bestuurder": [
+        "APT (front- end), dpkg"
+    ],
+    "Platforms": [
+        "x86- 64, arm64, armel, armhf, i386, mips, mipsel, mips64el, ppc64el, s390x, riscv64 (in proses)"
+    ],
+    "Kernel tipe": [
+        "Monolithic (Linux)"
+    ],
+    "Userland": [
+        "GNU"
+    ],
+    "Verstek gebruiker koppelvlak": [
+        "GNOME op DVD",
+        "XFCE op CD en nie- Linux poorte"
+    ],
+    "Lisensie": [
+        "DFSG- compatible lisensies"
+    ],
+    "Offisionele web bladsy": [
+        "www. debian. org"
+    ]
+}

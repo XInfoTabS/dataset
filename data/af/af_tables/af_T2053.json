@@ -1,0 +1,53 @@
+{
+    "titel": [
+        "Acorn Mikrocomputer"
+    ],
+    "ontwikkelaar": [
+        "Acorn Rekenaar"
+    ],
+    "Tipe": [
+        "8- bit semi- professional"
+    ],
+    "Verwyder datum": [
+        "Mars 1979; 40 jaar geleden (1979- 03)"
+    ],
+    "Inleidingspreis": [
+        "\u00a3 65 (kit), \u00a3 75 (assemblage)"
+    ],
+    "Sve": [
+        "6502 @ 1MHz"
+    ],
+    "Geheue": [
+        "1. 125K"
+    ],
+    "Stoorplek": [
+        "CUTS kaset kaset band koppelvlak"
+    ],
+    "Vertoon": [
+        "LED"
+    ],
+    "Grafieka": [
+        "-"
+    ],
+    "Klank": [
+        "-"
+    ],
+    "Invoer": [
+        "25- sleutelbord"
+    ],
+    "Kontroleur invoer": [
+        "-"
+    ],
+    "Verbinding": [
+        "INS8154 RAMIO uitbreiding chip (opsionele), CUTS kaset kaset kaset band koppelvlak, soket vir opsionele aditionele ROM/EPROM"
+    ],
+    "Elektrisiteit": [
+        "7,5 V+ van eksterne PSU deur boonste 5 V regulator"
+    ],
+    "Dimensions": [
+        "160 x 100mm twee opgestapte borde"
+    ],
+    "Navolg": [
+        "Acorn Stelsel 2, Acorn Atom"
+    ]
+}

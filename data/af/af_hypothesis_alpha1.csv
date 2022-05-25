@@ -1,0 +1,1801 @@
+,annotater_id,table_id,hypothesis,label
+0,GW0,T12,Aksel V. Johannesen dien in die regering van die Faroe-eilande.,E
+1,GW0,T12,Meer mense in Faroe-eilande praat Deens as Faroese.,N
+2,GW0,T12,Faroe-eilande het slegs een amptelike taal.,C
+3,GW1,T12,Die Faroe-eilande het meer as een amptelike taal.,E
+4,GW1,T12,"As die Hoë Kommissaris in die Faroe-eilande sterf, dan sal die premier daardie rol oorneem.",N
+5,GW1,T12,Die Faroe-eilande het meer as een amptelike godsdiens.,C
+6,GW4,T12,Die monarg van die Faeröe-eilande is Margethe II.,E
+7,GW4,T12,Baie mense op die Faroe-eilande praat Faroese.,N
+8,GW4,T12,Die Faroë-eilande word gelei deur Lene Moyell Johnansen.,C
+9,GW0,T13,“Fearless” is meer as 50 minute lank.,E
+10,GW0,T13,Fearless was Taylor Swift se tweede vrylating.,N
+11,GW0,T13,Scott Borchetta het 'n produksie van Fearless geproduseer.,C
+12,GW4,T13,Die album Fearless is in die winter van 2008 vrygestel.,E
+13,GW4,T13,Scott Borchetta werk regstreeks aan Fearless.,N
+14,GW4,T13,Die album Fearless was meer as 'n uur lank.,C
+15,GW1,T13,Die opname van Fearless spandeer oor twee jaar.,E
+16,GW1,T13,Taylor Swift het meer op die produksie-kant van dinge gedoen as Nathan Chapman.,N
+17,GW1,T13,Fearless is in die lente van 2008 vrygestel.,C
+18,GW1,T14,Flatliners is redelik naby twee uur lank.,E
+19,GW1,T14,Rick Bieber het meer geld in Flatliners gegee as Michael Douglas.,N
+20,GW1,T14,Flatliners het 50 miljoen meer as sy begroting by die kassa gemaak.,C
+21,GW4,T14,Flatliners was 'n film wat in staat was om geld op die kassa te net.,E
+22,GW4,T14,Flatliners is hoofsaaklik geproduseer deur Michael Douglas.,N
+23,GW4,T14,Flatliners was 'n film wat meer as twee uur lank was.,C
+24,GW0,T14,Flatliners het meer as verdubbel wat dit gekos het om by die kassa te maak.,E
+25,GW0,T14,Flatliners was Peter Filardi se eerste skryfkrediet.,N
+26,GW0,T14,Flatliners is in die winter van 1990 vrygestel.,C
+27,GW1,T17,Bryce Dallas Howard is al ongeveer 30 jaar akteur.,E
+28,GW1,T17,Bryce Dallas Howard hou meer van Cheryl Alley as Ron Howard.,N
+29,GW1,T17,Bryce Dallas Howard is in die herfs van 1981 gebore.,C
+30,GW4,T17,Bryce Dallas Howard is gebore op die westekust van die VSA.,E
+31,GW4,T17,Bryce Dallas Howard het vir 'n lang tyd saam met Ron Howard geleef.,N
+32,GW4,T17,Bryce Dallas Howard werk sedert 1981.,C
+33,GW2,T17,Bryce Dallas Howard is al meer as 20 jaar akteur.,E
+34,GW2,T17,Bryce Dallas Howard se eerste aktiewe werk was in 'n graanwinkel.,N
+35,GW2,T17,Bryce Dallas Howard het drie seuns.,C
+36,GW4,T20,Die rappers Flatbush Zombies het hul begin op die oostkust.,E
+37,GW4,T20,Die rappers Flatbush Zombies is onderteken deur 'n groot label.,N
+38,GW4,T20,Die rappers Flatbush Zombies is bekend vir optrede met rock bands.,C
+39,GW0,T20,Flatbush Zombies maak musiek vir meer as vyf jaar nou.,E
+40,GW0,T20,Flatbush Zombies het saam met rappers buite New York gewerk.,N
+41,GW0,T20,Flatbush Zombies is onderteken aan RCA rekords.,C
+42,GW1,T20,Flatbush Zombies word gedeeltelik genoem na die stad waaruit hulle kom.,E
+43,GW1,T20,Flatbush Zombies verkies om musiek te maak met RecordsWarner oor The Glorious Dead.,N
+44,GW1,T20,Flatbush Zombies is aktief as 'n band vir meer as 10 jaar.,C
+45,GW1,T29,Bullet for My Valentine was vroeër bekend as Jeff Killed John.,E
+46,GW1,T29,Jeff Killed John het dieselfde soort musiek gemaak wat Bullet for My Valentine uiteindelik gemaak het.,N
+47,GW1,T29,Bullet for My Valentine is al meer as 25 jaar as 'n band aktief.,C
+48,GW4,T29,Bullet for My Valentine is 'n band wat sedert die einde van die 1990's speel.,E
+49,GW4,T29,Die band Bullet for My Valentine is die gewildste in die Verenigde Koninkryk.,N
+50,GW4,T29,Die band Bullet for My Valentine is bekend vir die speel van popmusiek.,C
+51,GW0,T29,Bullet for My Valentine is 'n band uit Europa.,E
+52,GW0,T29,Bullet for My Valentine het al sedert 1998 elke jaar musiek vrygestel.,N
+53,GW0,T29,Bullet for My Valentine het slegs musiek vir RCA rekords vrygestel.,C
+54,GW0,T64,Equestrian Portrait of Charles I is geleë in Engeland.,E
+55,GW0,T64,Anthony van Dyck het meer as 'n jaar geneem om Equestrian Portrait of Charles I te voltooi.,N
+56,GW0,T64,Equestrian Portrait of Charles I is minder as 100 duim breed.,C
+57,GW1,T64,Equestrian Portrait of Charles I is in die 17de eeu geverf.,E
+58,GW1,T64,Equestrian Portrait of Charles I is geleen aan die National Gallery in Londen.,N
+59,GW1,T64,Die langste kant van Equestrian Portrait of Charles I meet minder as 11 voet lank.,C
+60,GW4,T64,Die Equestrian Portrait of Charles I is deur Anthony van Dyck voltooi.,E
+61,GW4,T64,Die Equestrian Portrait of Charles I is in Londen geverf.,N
+62,GW4,T64,Die Equestrian Portrait of Charles I word in 'n museum in Parys bewaar.,C
+63,GW4,T68,Die band Jet is gevorm in Australië.,E
+64,GW4,T68,Die musikante in Jet het nie enige musiek tussen 2012 en 2016 geproduseer nie.,N
+65,GW4,T68,"Nadat hulle in 2012 geskei is, het Jet nooit weer saam gekom nie.",C
+66,GW0,T68,Jet het 'n vier-jaar-pause van die optrede geneem.,E
+67,GW0,T68,Jet het hul eerste album in 2001 vrygestel.,N
+68,GW0,T68,Jet het meer as vyf jaar gelede ophou optree.,C
+69,GW1,T68,Jet is 'n band vir meer as 10 jaar.,E
+70,GW1,T68,Jet beskou hulself meer as alternatiewe rock as indie rock.,N
+71,GW1,T68,Jet het musiek gemaak vir 5 of meer platenmaatskappye.,C
+72,GW1,T74,Katharine McPhee is op die Westkust gebore.,E
+73,GW1,T74,Katharine McPhee hou daarvan om liedjies te skryf meer as wat sy hulle uitvoer.,N
+74,GW1,T74,Katharine McPhee is al meer as 20 jaar aktief.,C
+75,GW0,T74,Katharine McPhee kom van die westekust van die VSA.,E
+76,GW0,T74,Katharine McPhee skryf elke liedjie wat sy optree.,N
+77,GW0,T74,Katharine McPhee is al meer as twintig jaar akteur.,C
+78,GW4,T74,Katharine McPhee is gebore op die westekust van die Verenigde State.,E
+79,GW4,T74,Katharine McPhee is bekend om 'n R & B sanger te wees.,N
+80,GW4,T74,Katharine McPhee het meer as 7 rekords label.,C
+81,GW0,T104,Die E Street Band is van die Westkust van die VSA.,E
+82,GW0,T104,Die E Street Band het al sy oorspronklike lede.,N
+83,GW0,T104,E Street band is van die hoofstad van New Jersey.,C
+84,GW1,T104,Die E Street Band is gevorm op die Oos-Kust.,E
+85,GW1,T104,Die E Street Band sal voortgaan om musiek te speel totdat sy lede sterf.,N
+86,GW1,T104,Die E Street Band is al meer as 50 jaar aktief as 'n band.,C
+87,GW4,T104,Die E Street Band is gevorm op die oostkust van die VSA.,E
+88,GW4,T104,Bruce Springsteen het baie gewerk met die E Street Band.,N
+89,GW4,T104,Die E Street Band het in 1999 geskei.,C
+90,GW1,T137,Hawkwind is aktief as 'n band vir ongeveer 50 jaar.,E
+91,GW1,T137,Hawkwind verander name baie as gevolg van kopieregte.,N
+92,GW1,T137,Hawkwind was altyd die naam van die band.,C
+93,GW4,T137,Die band Hawkwind het begin sing in 1969.,E
+94,GW4,T137,Die band Hawkwind het buite Londen Engeland gereis.,N
+95,GW4,T137,Die band Hawkwind is bekend vir optrede met Motley Crue.,C
+96,GW0,T137,“Hawkwind” speel al meer as 40 jaar.,E
+97,GW0,T137,Hawkwind was bekend as die Elwe van Silbury Hill vir die meeste van hul loopbaan.,N
+98,GW0,T137,Hawkwind is 'n Noord-Amerikaanse band.,C
+99,GW4,T146,Jeff Bridges is 'n performer sedert hulle 2 jaar oud was.,E
+100,GW4,T146,Jeff Bridges het hul hele lewe in Kalifornië geleef.,N
+101,GW4,T146,Jeff Bridges het vyf kinders gehad.,C
+102,GW1,T146,Jeff Bridges is in die winter van 1949 gebore.,E
+103,GW1,T146,Jeff Bridges verkies om te sing as om dinge te komponer.,N
+104,GW1,T146,Jeff Bridges is aktief in sy loopbaan vir minder as 60 jaar.,C
+105,GW12,T146,Jeff Bridges is in die winter van 1949 gebore.,E
+106,GW12,T146,Jeff Bridges het 'n broer en 'n suster.,N
+107,GW12,T146,Beau Bridges se ma is Susan Geston.,C
+108,GW0,T152,Jane Austen is in haar geboorteland begrawe.,E
+109,GW0,T152,James Austen is die oudste broer van Jane Austen.,N
+110,GW0,T152,Jane Austen het nie leef om 40 te sien nie.,C
+111,GW4,T152,Jane Austen is in Engeland gebore.,E
+112,GW4,T152,Jane Austen het sy hele lewe in Engeland geleef.,N
+113,GW4,T152,Jane Austen is oorlede toe sy 45 was.,C
+114,GW1,T152,Jane Austen is in die somer van 1817 oorlede.,E
+115,GW1,T152,Jane Austen het James Austen meer lief as George Austen.,N
+116,GW1,T152,Jane Austen het 'n kollege graad gehad.,C
+117,GW1,T154,Charlie Sheen is in die herfs van 1965 gebore.,E
+118,GW1,T154,Charlie Sheen hou nie van sy oorspronklike geboortenaam nie.,N
+119,GW1,T154,Charlie Sheen is al meer as 50 jaar akteur.,C
+120,GW4,T154,Charlie Sheen het vyf kinders.,E
+121,GW4,T154,Charlie Sheen werk sedert die 70's.,N
+122,GW4,T154,Charlie Sheen is nog steeds getroud met Brooke Mueller.,C
+123,GW0,T154,Charlie Sheen gebruik nie sy oorspronklike voornaam nie.,E
+124,GW0,T154,Charlie Sheen is die oudste in die Estevez-familie.,N
+125,GW0,T154,Charlie Sheen is vier keer geskei.,C
+126,GW4,T203,Die hoofstad van Japan is in Tokio.,E
+127,GW4,T203,Die regering van Japan het 'n grondwet.,N
+128,GW4,T203,"Die meerderheid van die mense wat in Japan woon, is etniese Koreërs.",C
+129,GW0,T203,Die Huis van Raad van Japan is hoër as die Huis van Verteenwoordigers.,E
+130,GW0,T203,Die Ainu mense is die gewildste tipe van Japannese inheemse etniese groep.,N
+131,GW0,T203,Judaïsme is die gewildste godsdiens in Japan.,C
+132,GW1,T203,Meer as die helfte van die mense in Japan beoefen Folk Shinto as 'n godsdiens of het geen godsdiens nie.,E
+133,GW1,T203,"Indien die premier van Japan sterf, neem die vice-premier onmiddellik sy plek in.",N
+134,GW1,T203,Die Japannese bevolking is tussen 90 en 95% Japannese.,C
+135,GW1,T207,Burn Energy is relatief naby die Millennium geïntroduceer.,E
+136,GW1,T207,Die Burn Lemon Ice variëteit is meer gewild as die Burn Blue variëteit.,N
+137,GW1,T207,Burn Energy kom in meer as tien variëteite of geure.,C
+138,GW4,T207,Burn Energy is gemaak deur dieselfde maatskappy wat Monster maak.,E
+139,GW4,T207,Burn Energy was suksesvol in die verhoging van energie vir mense wat dit gedrink het.,N
+140,GW4,T207,Verbrand energie kom in 'n sjokolade smaak.,C
+141,GW0,T207,Burn Energy kom in baie verskillende smake.,E
+142,GW0,T207,Burn Energy is Monster se beste verkoop energiedrank.,N
+143,GW0,T207,Alle Burn Energy drankies is suikervrye.,C
+144,GW28,T261,Die Jin-dynastie se hoofstad het rondgegaan na verskillende stede.,E
+145,GW28,T261,Die Jin-dynastie was 'n monargie met twee keisers gedurende hierdie tydperk.,N
+146,GW28,T261,Die hereniging van China het die vestiging van Jin voorafgegaan.,C
+147,GW4,T261,Jin was 'n streek in China vir meer as 300 jaar.,E
+148,GW4,T261,Jin het tipies 'n baie godsdiens agter hul benadering tot regeer.,N
+149,GW4,T261,Die Jin het nooit hul kapitaal beweeg nie.,C
+150,GW27,T261,Daar was monargieë in drie verskillende hoofstede in die geskiedenis van Jin.,E
+151,GW27,T261,Keiser Wu was 'n Boeddhiste.,N
+152,GW27,T261,Luoyang was die hoofstad op die tyd dat die Oosterse Jin begin het.,C
+153,GW2,T272,Gerry Mulligan is geassosieer met Chesney Henry Baker.,E
+154,GW2,T272,Chesney Henry Baker het voor sy 10de geleer om klavier te speel.,N
+155,GW2,T272,Chesney Henry Baker is in Nederland gebore.,C
+156,GW4,T272,Die musikant Chet Baker het hoofsaaklik jazzmusiek gespeel.,E
+157,GW4,T272,Die musikus Chet Baker het van die Verenigde State na Nederland verhuis.,N
+158,GW4,T272,Die musikus Chet Baker het professionele musiek begin speel op die ouderdom van 10.,C
+159,GW28,T272,Chet Baker was 'n Amerikaanse musikant.,E
+160,GW28,T272,Chet Baker was ook goed met die gitaar.,N
+161,GW28,T272,Chet Baker was aktief sedert sy tienerjare.,C
+162,GW28,T274,Fawad Khan is 'n Pakistaanse entertainer.,E
+163,GW28,T274,Fawad Khan het studeer om 'n rekenaar programmeerder te word voordat hy 'n entertainer geword het.,N
+164,GW28,T274,Fawad Khan het sy vrou getroud voordat hy aktief in die vermaakbedryf geword het.,C
+165,GW21,T274,"Fawad Khan is 'n baie bekende model en akteur, nie net 'n musikant nie.",E
+166,GW21,T274,"Fawad Khan het baie toekennings ontvang, insluitend 'n gramy in die VSA.",N
+167,GW21,T274,Fawad Khan het 'n rekenaar met Jay Z gemaak wat baie gewild was.,C
+168,GW0,T274,Fawad Khan is onderteken met Lips Music toe hy met Sadaf Khan getroud is.,E
+169,GW0,T274,Die kinders van Fawad Khan is beide in hul tienerjare.,N
+170,GW0,T274,Fawad Khan het al meer as twintig jaar musiek uitgevoer.,C
+171,GW28,T277,Charo is 'n Spaanse entertainer.,E
+172,GW28,T277,Charo verskyn op baie TV-programme.,N
+173,GW28,T277,Die loopbaan van Charo het agt dekades geduur.,C
+174,GW27,T277,Mar'a del Rosario Mercedes Pilar Mart'nez Molina Baeza begin 'n aktiewe loopbaan in 1963.,E
+175,GW27,T277,Mar'a del Rosario Mercedes Pilar Mart'nez Molina Baeza het vir die eerste keer beroemdheid in die optrede verkry.,N
+176,GW27,T277,Mar'a del Rosario Mercedes Pilar Mart'nez Molina Baeza was getroud voordat sy 'aktief' in haar loopbaan geword het.,C
+177,GW4,T277,Charo is twee keer in haar lewe getroud.,E
+178,GW4,T277,Charo het begin optree toe sy 'n tiener was.,N
+179,GW4,T277,“Charo” het nog nooit kinders gehad nie.,C
+180,GW4,T286,Fan Bingbing is die kop van hul eie label.,E
+181,GW4,T286,Fan Bingbing is al jare saam met Li Chen.,N
+182,GW4,T286,Fan Bingbing het musikale opname begin toe hulle twaalf jaar oud was.,C
+183,GW27,T286,B_ngb_ng is in 1981 gebore.,E
+184,GW27,T286,B_ngb_ng is 'n akteur en lid van die Kommunistiese Party.,N
+185,GW27,T286,Sy is getroud.,C
+186,GW28,T286,Fan Bingbing is 'n Chinese entertainer.,E
+187,GW28,T286,Fan Bingbing is die mees suksesvolle aktrise in China.,N
+188,GW28,T286,Fan Bingbing se loopbaan spandeer vier dekades.,C
+189,GW28,T294,Fast & Furious is 'n Amerikaanse film.,E
+190,GW28,T294,Fast & Furious gaan oor straatrace met gemodifiseerde motors.,N
+191,GW28,T294,Fast & Furious was nie 'n winsgewend film nie.,C
+192,GW27,T294,Universal Pictures het Fast & Furious in 2009 vrygestel.,E
+193,GW27,T294,Die regisseur van Fast & Furious is geïnspireer om die film te maak nadat hy die boek van Gary Scott Thompson gelees het.,N
+194,GW27,T294,Fast & Furious is geskryf en geregisseer deur dieselfde persoon.,C
+195,GW4,T294,Die film Fast & Furious het meer as $ 250 miljoen op die kassa gemaak.,E
+196,GW4,T294,Vin Diesel het baie te sê gehad in die finale uitgawe van Fast & Furious.,N
+197,GW4,T294,Fast & Furious is vrygestel aan die algemene publiek in die Verenigde State voordat dit op Universal CityWalk getoon is.,C
+198,GW0,T306,Europa is oorspronklik van 'n noordelike Europaland.,E
+199,GW0,T306,“Europa” het die afgelope vyftien jaar die wêreld gereis.,N
+200,GW0,T306,“Europa” is die afgelope veertig jaar onophoudelik aktief.,C
+201,GW30,T306,Europe het 'n lang loopbaan in die hard rock besigheid gehad.,E
+202,GW30,T306,Europa het verskeie nummer een hits in die billboards charts.,N
+203,GW30,T306,Europe is 'n Franse popband wat met Universal ingeskryf is.,C
+204,GW28,T306,Europa is sedert die 70's aktief.,E
+205,GW28,T306,Die etikette vir Europa is groot Swede maatskappye.,N
+206,GW28,T306,Europa het in 1979 begin en het sedertdien ononderbroke musiek gemaak.,C
+207,GW21,T308,Kalman Tihanyi was 'n werklik groot fisikus en het baie teorieë geskep wat nog geldig is.,E
+208,GW21,T308,Hy is nomineer vir 'n edele prys in fisika.,N
+209,GW21,T308,Sy familie is deur die kommunistiese regering vermoor.,C
+210,GW28,T308,K?lm?n Tihanyi was 'n opgevoede Europeër.,E
+211,GW28,T308,K?lm?n Tihanyi het wetenskap by die universiteit gestudeer.,N
+212,GW28,T308,K?lm?n Tihanyi was 'n onkundige persoon.,C
+213,GW0,T308,Tihanyi het in verskeie Europese lande geleef.,E
+214,GW0,T308,K?lm?n Tihanyi is verantwoordelik vir die uitvinding van die infrarooi kamera.,N
+215,GW0,T308,K?lm?n Tihanyi het sy opleiding in Italië ontvang.,C
+216,GW4,T310,Christchurch is geleë op die suidelike eiland van Nieu-Seeland.,E
+217,GW4,T310,Die stad Christchurch is ontdek deur mense uit die Verenigde Koninkryk.,N
+218,GW4,T310,Die stad Christchurch het slegs een hoofkwartier.,C
+219,GW21,T310,Christ Church is gestig deur groepe van Engelse koloniste en missie verspreiders.,E
+220,GW21,T310,Die Christelike Kerk het 'n groot groep inheemse voorbevolking.,N
+221,GW21,T310,Christ Church was die toneel van 'n groot Tweede Wêreldoorlog Naval Slag.,C
+222,GW28,T310,Christchurch bestaan uit afdelings en word bestuur deur 'n raad.,E
+223,GW28,T310,Christchurch is 'n stad in Nieu-Seeland,N
+224,GW28,T310,Christchurch is meer as 200 jaar oud.,C
+225,GW2,T319,Die Tsjeggiese Republiek het meer Katolieke as Moraviërs.,E
+226,GW2,T319,Die president van die Tsjeggiese Republiek praat Pools.,N
+227,GW2,T319,Die amptelike taal in Praag is Duits.,C
+228,GW28,T319,Die Tsjeggiese Republiek is 'n multi-etnische en meertalige nasie.,E
+229,GW28,T319,Die Tsjeggiese Republiek is hoofsaaklik 'n Christelike nasie.,N
+230,GW28,T319,Die Tsjeggiese Republiek bestaan hoofsaaklik uit Slowake en Moslems.,C
+231,GW14,T319,Daar is meer Moraviërs as Slowake in die Tsjeggiese Republiek.,E
+232,GW14,T319,"Voordat hy premier geword het, was Andrej Babi voorheen 'n lid van die onderste huis van die Tsjeggiese parlement.",N
+233,GW14,T319,Die Tsjeggiese Republiek het slegs een amptelike taal.,C
+234,GW27,T323,Die Tsjeggiese Republiek het uit die Tsjeggiese Republiek gekom.,E
+235,GW27,T323,Boheemse en Tsjeggiese is dieselfde mense.,N
+236,GW27,T323,Die Tsjeggiese Republiek was deel van die Europese Unie voor sy onafhanklikheid.,C
+237,GW0,T323,Die Tsjeggiese Republiek het meer as 100 jaar gelede van die Oostenryk-Hongaarse Ryk geskei.,E
+238,GW0,T323,Die Tsjeggiese Republiek was een van die eerste lande wat by die Europese Unie aangesluit het.,N
+239,GW0,T323,Die Koninkryk van Bohemië is voor die Hertogdom van Bohemië uitgeroep.,C
+240,GW28,T323,Die Tsjeggiese Republiek het aan die einde van die 20ste eeu onafhanklikheid verkry.,E
+241,GW28,T323,Die Tsjeggiese Republiek het by die Europese Unie aangesluit vir beskerming teen Rusland.,N
+242,GW28,T323,Die Tsjeggiese Republiek verloor sy onafhanklikheid in 2004.,C
+243,GW35,T331,Bryan Adams is 'n Kanadese pop-sanger.,E
+244,GW35,T331,Bryan Adams is die eienaar van die label A&M.,N
+245,GW35,T331,Bryan Adams is in Hamilton in Ontario gebore.,C
+246,GW28,T331,Bryan Adams is 'n Kanadese musikant.,E
+247,GW28,T331,Bryan Adams het geskryf en uitgevoer Everything I Do.,N
+248,GW28,T331,Bryan Adams is sedert sy twintigste aktief.,C
+249,GW4,T331,Bryan Adams is oorspronklik in die winter van 1959 in Kanada gebore.,E
+250,GW4,T331,Bryan Adams het die klavier geleer voordat hy kon sing.,N
+251,GW4,T331,Die musikant Bryan Adams het die meeste van sy lewe in die Verenigde State gebly.,C
+252,GW4,T332,Jay Park is 'n musikus sedert hulle 21 jaar oud was.,E
+253,GW4,T332,Jay Park het 'n voorvorm op die toneel met die Hoër Brothers.,N
+254,GW4,T332,Jay Park het hul rap loopbaan in Oakland begin.,C
+255,GW27,T332,"Park Jae-beom is in Edmonds, Washington gebore.",E
+256,GW27,T332,Park Jae-beom het in Seattle grootgeword.,N
+257,GW27,T332,Park Jae-beom beoefen meer genres as die aantal etikette wat hy gehad het.,C
+258,GW28,T332,Jay Park is 'n Amerikaanse entertainer.,E
+259,GW28,T332,Jay Park is 'n Koreaanse Amerikaanse rapper.,N
+260,GW28,T332,Jay Park het sy loopbaan in sy tienerjare begin.,C
+261,GW0,T340,Jennifer Love Hewitt woon in 'n ander staat as wat sy gebore is.,E
+262,GW0,T340,Jennifer Love Hewitt het twee kinders met Brian Hallisay.,N
+263,GW0,T340,Jennifer Love Hewitt het professioneel gesing sedert sy 'n kind was.,C
+264,GW2,T340,Jennifer Love Hewitt is 'n aktrise wat 'n singende loopbaan in popmusiek gehad het.,E
+265,GW2,T340,Jennifer Love Hewitt was in Party of Five in 1998.,N
+266,GW2,T340,Jennifer Love Hewitt het in 1989 in Party of Five begin optree.,C
+267,GW28,T340,Jennifer Love Hewitt is 'n Amerikaanse entertainer.,E
+268,GW28,T340,Die twee kinders van Jennifer Love Hewitt is dogters.,N
+269,GW28,T340,Jennifer Love Hewitt is tans 'n singer.,C
+270,GW0,T348,Christina Aguilera sing al meer as twintig jaar.,E
+271,GW0,T348,Christina Aguilera het twee kinders met Matthew Rutler.,N
+272,GW0,T348,Jordan Bratman het Christina Aguilera geskei na twee jaar saam.,C
+273,GW14,T348,Christina Aguilera het popmusiek onder die RCA-label vrygestel.,E
+274,GW14,T348,Christina Aguilera ontmoet Matthew Rutler by 'n Hollywood partytjie.,N
+275,GW14,T348,"Christina Aguilera het altyd in die stad waar sy gebore is, geleef.",C
+276,GW45,T348,RCA Record Label is 'n Amerikaanse platenlabel wat deur Sony Music besit word.,E
+277,GW45,T348,sy kan 'n singer en liedskrywer alleen wees,N
+278,GW45,T348,sy kan nie in pop en soul genre op 'n keer bydra nie,C
+279,GW4,T361,Joaquin Phoenix het getroud toe hulle 42 jaar oud was.,E
+280,GW4,T361,Joaquin Phoenix was bekend as Leaf Phoenix in sommige vroeë films.,N
+281,GW4,T361,Joaquin Phoenix is in die Verenigde State gebore.,C
+282,GW27,T361,Joaquin Rafael Bottom is bekend as Leaf Phoenix.,E
+283,GW27,T361,Al die broers en susters van Joaquin Rafael Bottom is betrokke by die optrede soos hy.,N
+284,GW27,T361,Joaquin Rafael Bottom woon in die stad waar hy gebore is.,C
+285,GW28,T361,Joaquin Phoenix is 'n Amerikaanse entertainer.,E
+286,GW28,T361,Joaquin Phoenix het 'n suster wat gesterf het.,N
+287,GW28,T361,Joaquin Phoenix is al sedert hy 'n tiener was.,C
+288,GW28,T370,Everclear is 'n Amerikaanse rockband.,E
+289,GW28,T370,“Everclear” bestaan uit vier lede.,N
+290,GW28,T370,Everclear ontbind en herenig verskeie keer.,C
+291,GW14,T370,Everclear is aktief vir meer as 'n kwart eeu.,E
+292,GW14,T370,"Die Cleopatra record label is gevestig in Portland, Oregon.",N
+293,GW14,T370,Die musiek van Everclear kan slegs in 'n enkele genre gekategoriseer word.,C
+294,GW0,T370,Everclear is van die Stille Oseaan noordwestelike streek van die Verenigde State.,E
+295,GW0,T370,Everclear is gedurende die 1990's aan die Capitol-rekords onderteken.,N
+296,GW0,T370,Everclear speel grunge musiek vir meer as dertig jaar.,C
+297,GW27,T372,Annie Bridgwood het in 1938 selfmoord gepleeg.,E
+298,GW27,T372,Florence Annie Bridgwood word naby haar eerste man begrawe in Hollywood Forever Cemetery.,N
+299,GW27,T372,Florence Annie Bridgwood se laaste huwelik het met haar selfmoord beëindig.,C
+300,GW0,T372,Florence Lawrence het die meeste van haar mans geskei.,E
+301,GW0,T372,Florence Lawrence het in dosyne films gespeel.,N
+302,GW0,T372,Florence Lawrence het getroud Charles Woodring na die egskeiding van Henry Bolton.,C
+303,GW28,T372,Florence Lawrence was verantwoordelik vir haar eie dood.,E
+304,GW28,T372,Florence Lawrence het van 'n gebroke hart gesterf.,N
+305,GW28,T372,Florence Lawrence het voor haar derde man gesterf.,C
+306,GW28,T382,Jeff Hardy is 'n Amerikaanse entertainer.,E
+307,GW28,T382,Jeff Hardy opgelei sonder die gebruik van steroïede.,N
+308,GW28,T382,Jeff Hardy het getroud voor sy debuut.,C
+309,GW4,T382,Jeff Hardy het professioneel begin veg toe hulle slegs 16 jaar oud was.,E
+310,GW4,T382,Jeff Hardy het beide kinders met Beth Britt gehad.,N
+311,GW4,T382,Jeff Hardy het hul musiek loopbaan begin voor hul worstel loopbaan.,C
+312,GW2,T382,Jeff Hardy is 'n wrestler en 'n musikus.,E
+313,GW2,T382,Jeff Hardy het 3 verskillende metal bands gestig en was die hoof sanger vir al drie.,N
+314,GW2,T382,Jeff Hardy het vir die eerste keer professionele veg in 1990.,C
+315,GW4,T400,Jordan Peele begin professionele optrede op 23 jaar oud.,E
+316,GW4,T400,Jordan Peele het sy kind met sy vrou Chelsea Peretti.,N
+317,GW4,T400,Jordan Peele het nooit na die kollege gegaan nie.,C
+318,GW27,T400,Jordan Haworth Peele is opgelei by Sarah Lawrence College.,E
+319,GW27,T400,Jordan Haworth Peele het begin optree by Sarah Lawrence College.,N
+320,GW27,T400,Jordan Haworth Peele was getroud voordat hy 'aktief' in die showbedryf geword het.,C
+321,GW28,T400,Jordan Peele is 'n Amerikaanse entertainer.,E
+322,GW28,T400,Jordan Peele is bekend vir Get Out en Keanu.,N
+323,GW28,T400,Jordan Peele is sedert sy tienerjare aktief.,C
+324,GW28,T403,John Harrison is 'n bekroonde Engelse horoloog.,E
+325,GW28,T403,John Harrison het 'n waterdichte horlosie ontwerp.,N
+326,GW28,T403,John Harrison is na sy dood 'n medalje toegeken.,C
+327,GW27,T403,John Harrison is in dieselfde land gebore en gesterf.,E
+328,GW27,T403,John Harrison ontvang die Copley-medalje vir sy mariene chronometer.,N
+329,GW27,T403,John Harrison is in dieselfde stad gebore en gesterf.,C
+330,GW0,T403,John Harrison het gesterf voordat die Onafhanklikheidsverklaring onderteken is.,E
+331,GW0,T403,John Harrison is verantwoordelik vir die maak van chronometers op horlosie gewild.,N
+332,GW0,T403,John Harrison is in die Engelse hoofstad gebore.,C
+333,GW4,T405,Die meeste mense in die Republiek Burundi is Hindoes.,E
+334,GW4,T405,Die volgende president van die Republiek van Burundi sal Gaston Sindimwo wees.,N
+335,GW4,T405,Die Republiek Burundi het meer Suid-Asiërs as Europeërs.,C
+336,GW28,T405,"Die Republiek Burundi is 'n meertalige, multi-etniese land.",E
+337,GW28,T405,Die Hutus bestaan uit 100% Hutus met geen helfte of gemengde kinders in die statistiek ingesluit nie.,N
+338,GW28,T405,Die Republiek Burundi lê noord van die Equator.,C
+339,GW0,T405,Die hoofstad van die Republiek Burundi is nie die grootste stad in die land nie.,E
+340,GW0,T405,Pierre Nkurunziza het as vicepresident gediens voordat hy president geword het.,N
+341,GW0,T405,Daar is meer Tutsi as Hutus in Burundi.,C
+342,GW0,T408,Karen Gilan het na 'n uitvoerende kunsskool gegaan.,E
+343,GW0,T408,Caitlin Blackwood en Karen Gilan het dieselfde broerlike ouers.,N
+344,GW0,T408,Karen Gilan speel sedert sy 5 jaar oud was.,C
+345,GW32,T408,Karen Gillan is in 1987 gebore.,E
+346,GW32,T408,Karen Gillan woon nou in die Verenigde Koninkryk.,N
+347,GW32,T408,Karen Gillan is die tante van Caitlin Blackwood.,C
+348,GW28,T408,Karen Gillan werk voor en agter die skerm in die vermaakbedryf.,E
+349,GW28,T408,Karen Gillan is meertalig in Engels en Italiaans.,N
+350,GW28,T408,Karen Gillan is 'n akteur sedert die kinderjare.,C
+351,GW27,T413,Justus von Liebig is in 1803 gebore en sterf op die ouderdom van 69.,E
+352,GW27,T413,Justus von Liebig het die Wet van die Minimum by die Universiteit van Bonn uitgevind.,N
+353,GW27,T413,Justus von Liebig het die Albert-medalje posthumous ontvang.,C
+354,GW4,T413,Justus von Liebig studeer en onderrig chemie in hul lewe.,E
+355,GW4,T413,Justus von Liebig het gehelp om studente te onderrig wat rokette gemaak het.,N
+356,GW4,T413,Justus von Liebig het nooit enige toekenning vir hul werke gewen nie.,C
+357,GW28,T413,Justus von Liebig was 'n Europese wetenskaplike.,E
+358,GW28,T413,Justus von Liebig was 'n getroude man met kinders.,N
+359,GW28,T413,Justus von Liebig is die Albert-medalje posthumous toegeken.,C
+360,GW34,T416,Johnny Depp is twee keer getroud.,E
+361,GW34,T416,"Johnny Depp het nog 'n kinderjarehuis in Owensboro, Kentucky.",N
+362,GW34,T416,"Johnny Depp is 'n akteur, produsent, musikus en motormehaanikus.",C
+363,GW30,T416,Johnny Depp is 'n Amerikaanse akteur wat in Kentucky gebore is en in Los Angeles woon.,E
+364,GW30,T416,Johnny Depp het verskeie toekennings gewen vir sy deelname in Hollywood films.,N
+365,GW30,T416,Johnny Depp het begin 2015 in 'n motorongeluk gesterf.,C
+366,GW4,T416,Die akteur Johnny Depp het begin speel toe hulle 21 jaar oud was.,E
+367,GW4,T416,Die akteur Johnny Depp het albei sy kinders met Amber Heard gehad.,N
+368,GW4,T416,Die akteur Johnny Depp het drie vroue gehad.,C
+369,GW28,T422,Jerry Lee Lewis is 'n Amerikaanse entertainer.,E
+370,GW28,T422,Jerry Lee Lewis het sy hele loopbaan in Louisiana bestee.,N
+371,GW28,T422,Jerry Lee Lewis het gesterf terwyl hy die klavier gespeel het.,C
+372,GW27,T422,Jerry Lee Lewis is 'n rock and roll sanger uit Louisiana.,E
+373,GW27,T422,Jerry Lee Lewis was op Sun Records op dieselfde tyd as sy eerste geassosieerde daad Johnny Cash.,N
+374,GW27,T422,Jerry Lee Lewis het 'n groter aantal genres gedoen as geassosieerde akte.,C
+375,GW0,T422,Jerry Lee Lewis is al meer as vyftig jaar in die musiek.,E
+376,GW0,T422,Jerry Lee Lewis het die klavier saam met Johnny Cash gespeel.,N
+377,GW0,T422,Jerry Lee Lewis is van die Stille Oseaan noordwestelike streek van die Verenigde State.,C
+378,GW4,T433,Die film Concussion is geskryf en geregisseer deur dieselfde persoon.,E
+379,GW4,T433,Die film Concussion is gebaseer op 'n gewilde boek.,N
+380,GW4,T433,Concussion het in die Verenigde State uitgegee voordat dit op AFI fest getoon is.,C
+381,GW28,T433,“Concussion” is ’n Amerikaanse film.,E
+382,GW28,T433,Concussion gaan oor die NFL behandeling van verwondings aan die brein van hul spelers.,N
+383,GW28,T433,Concussion het meer op die kassa gemaak as sy begroting.,C
+384,GW27,T433,'Concussion' is geskryf en geregisseer deur Peter Landesman.,E
+385,GW27,T433,Columbia Pictures het Concussion aan die AFI Fest eerste versprei om bekendheid te kry.,N
+386,GW27,T433,'Concussion' se kassa was groter as sy hoogste begrotingskoers.,C
+387,GW0,T435,Kinders van Bodom het deur 'n ander naam gegaan hul eerste vier jaar van optrede.,E
+388,GW0,T435,Kinders van Bodom optree hoofsaaklik in hul geboorteland Finland.,N
+389,GW0,T435,“Kinders van Bodom” kom uit Suid-Europa.,C
+390,GW27,T435,Die band Inearthed kom uit Finland.,E
+391,GW27,T435,Lede van Inearthed is in Finland gebore.,N
+392,GW27,T435,Die band wat voorheen bekend was as Inearthed is op vier etikette.,C
+393,GW28,T435,Kinders van Bodom speel sedert die 90's.,E
+394,GW28,T435,Kinders van Bodom is gesond vergoed terwyl hulle gewerk het.,N
+395,GW28,T435,Kinders van Bodom het 'n kort geskiedenis van die speel van musiek.,C
+396,GW4,T440,Die Republiek Chili het hoofsaaklik 'n wit bevolking.,E
+397,GW4,T440,Die Republiek Chili het verkiesings vir sy president.,N
+398,GW4,T440,Die Republiek Chili praat Engels as hul moedertaal.,C
+399,GW28,T440,Die wetgewing van die Republiek Chili bestaan uit twee kamers.,E
+400,GW28,T440,Die Republiek Chili is 'n voormalige kolonie van Spanje.,N
+401,GW28,T440,Die president van die Republiek Chili is 'n vrou.,C
+402,GW14,T440,Spaans is die nasionale taal in Santiago.,E
+403,GW14,T440,Maya Fernandez en Carlos Montes Cisternas het saam middagete geëet.,N
+404,GW14,T440,Sebasti‡n Pi-era is ondergeskik aan Maya Fern‡ndez.,C
+405,GW27,T447,China het twee republikeine gehad.,E
+406,GW27,T447,Die Volksrepubliek van China het gekom as gevolg van die mislukkings van die regering wat sedert 1912 in plek was.,N
+407,GW27,T447,Die grondwet van China het gekom voordat die Volksrepubliek geproklameer is.,C
+408,GW4,T447,Die Volksrepubliek China het sy huidige grondwet in die 1980's geskryf.,E
+409,GW4,T447,Die “Volksrepubliek China” het sedert 1949 soortgelyke politieke beleid gehad.,N
+410,GW4,T447,Die “Volksrepubliek China” het al meer as 1000 jaar dieselfde heersende gesinne gehad.,C
+411,GW28,T447,Die Volksrepubliek China is voor die Proklamasie verklaar.,E
+412,GW28,T447,Die huidige grondwet het sedert sy invoering nie verander nie.,N
+413,GW28,T447,Die Proklamasie van die Volksrepubliek het die Proklamasie van die Volksrepubliek voorafgegaan.,C
+414,GW28,T458,Contract Bridge is 'n multiplayer kaartspel.,E
+415,GW28,T458,Die kontrak brug is beperk tot slegs 4 spelers.,N
+416,GW28,T458,Contract bridge is suiwer geluk gebaseer.,C
+417,GW4,T458,Die spel kontrak brug word dikwels gespeel in 'n groep mense.,E
+418,GW4,T458,Die spel Contract Bridge is professioneel gespeel.,N
+419,GW4,T458,Die spel Contract Bridge gebruik die joker kaart.,C
+420,GW27,T458,Bridge is 'n trick-taking spel.,E
+421,GW27,T458,Vier spelers deel die dek van 52 tussen hulle.,N
+422,GW27,T458,Elkeen van die vier spelers gebruik 'n verskillende vaardigheid.,C
+423,GW28,T491,Cory Monteith was 'n Kanadese entertainer wat minder as 'n dekade gelede gesterf het.,E
+424,GW28,T491,Cory Monteith was op 'n gewilde TV-reeks voor sy dood.,N
+425,GW28,T491,Cory Monteith het begin as 'n tiener akteur.,C
+426,GW0,T491,Cory Monteith is in die weste van Kanada oorlede.,E
+427,GW0,T491,Cory Monteith oordosis heroïen,N
+428,GW0,T491,Cory Monteith is nege maande na sy 31ste verjaarsdag oorlede.,C
+429,GW33,T491,Cory Monteith is op 11 Mei 1982 gebore.,E
+430,GW33,T491,Cory Monteith is verslaaf aan dwelms,N
+431,GW33,T491,Cory Monteith begin sy loopbaan in 2013,C
+432,GW45,T534,Rooi berry (rooi) en kokos (silwer) is die variasies van wodka,E
+433,GW45,T534,Ciroc Vodka kan 'n handelsnaam of produknaam van vodka wees,N
+434,GW45,T534,Circo het meer as 25 variante gehad,C
+435,GW0,T534,C?OC is al meer as 15 jaar op die mark.,E
+436,GW0,T534,C?OC word hoofsaaklik in sy oorspronklike land verbruik.,N
+437,GW0,T534,C?OC word in minder as 'n dosyn geure verkoop.,C
+438,GW28,T534,COC is 'n Franse wodka wat in verskillende smake kom.,E
+439,GW28,T534,C?OC is 'n redelike prys alkohol vir prys bewuste drinkers.,N
+440,GW28,T534,C?OC is 'n twee dekades ou handelsmerk.,C
+441,GW0,T535,Die eerste uitgawe van Crisis on Infinite Earths is in die lente van 1985 vrygestel.,E
+442,GW0,T535,DC Comics het Crisis on Infinite Earths beëindig as gevolg van slegte verkope.,N
+443,GW0,T535,Crisis on Infinite Earths is 'n roman wat in die winter van 1985 vrygestel is.,C
+444,GW51,T535,Crisis on Infinite Earth was 'n DC-komik wat maandeliks gedurende ongeveer 'n jaar in die 80's hardloop.,E
+445,GW51,T535,Crisis on Infinite Earths was George R.R. Martin se eerste vooruitgang in fantasie skryf.,N
+446,GW51,T535,"Die hoofkarakter van Crisis on Infinite Earth was Batman, wat deur Dumbledore in die laaste uitgawe vermoor word.",C
+447,GW28,T535,Crisis on Infinite Earths is 'n ou Amerikaanse komiese boekreeks uit die 80's.,E
+448,GW28,T535,Crisis on Infinite Earths bevat baie cameo voorkoms van ander bekende DC-superhelde.,N
+449,GW28,T535,“Crisis on Infinite Earths” vier sy 35ste verjaardag sedert sy publikasie.,C
+450,GW51,T536,Denver is 'n stad in Colorado in die Verenigde State wat na James Denver genoem is.,E
+451,GW51,T536,"Denver was oorspronklik die plek waar die eerste Bronco in Amerika gesien is, vandaar waarom die plaaslike sokkerspan die Broncos genoem word.",N
+452,GW51,T536,Denver is gestig deur 'n plaaslike groep mynwerkers in 1848.,C
+453,GW28,T536,"Denver, Colorado is 'n Amerikaanse stad wat in die 19de eeu gestig is.",E
+454,GW28,T536,"Denver, Colorado is geleë naby die Rockie-berge.",N
+455,GW28,T536,"Denver, Colorado is gestig en ingesluit binne 'n dekade van mekaar",C
+456,GW0,T536,Denver City en County is 'n paar jaar na die keer van die 20ste eeu gekonsolideer.,E
+457,GW0,T536,Denver is gestig deur James W. Denver.,N
+458,GW0,T536,Denver City is geleë in die diep suidelike streek van die Verenigde State.,C
+459,GW27,T543,Indië se grootste enkele wedstryd het in vyf dae 465.000 getrek.,E
+460,GW27,T543,"26,528 was Indië se grootste skare per wedstryd ooit.",N
+461,GW27,T543,Indië teen Pakistan by Eden Gardens in 1999 het meer getrek as Indië se totale 2017 seisoen.,C
+462,GW51,T543,Indië het in 1999 teen Pakistan in 'n vyfdaagse wedstryd gekonfronteer.,E
+463,GW51,T543,465.000 unieke mense het die cricketwedstryd tussen Indië en Pakistan gekyk.,N
+464,GW51,T543,Byna 1 miljoen mense het kriket in Indië vir die 2017 seisoen gekyk.,C
+465,GW28,T543,Indië kompetisie in cricket en het die Indiese Premier League.,E
+466,GW28,T543,Indië en Pakistan het 'n rivaliteit in sportwedstryde.,N
+467,GW28,T543,Cricket is 'n onpopulêre sport in Indië.,C
+468,GW51,T544,Despicable Me 3 is 'n geanimeerde film wat deur Universal Pictures in 2017 versprei is.,E
+469,GW51,T544,"Despicable Me 3 is eintlik die vierde film van die Despicable Me-reeks, ten spyte van die drie in die titel.",N
+470,GW51,T544,Despicable Me 3 het vir die eerste keer sy boks-offie-loop in die somer van 2016 gespeel.,C
+471,GW28,T544,“Despicable Me 3” is ’n Hollywood-film.,E
+472,GW28,T544,Despicable Me 3 is 'n geanimeerde film.,N
+473,GW28,T544,Despicable Me 3 was 'n box office teleurstelling.,C
+474,GW0,T544,Despicable Me 3 is twee weke voor sy nasionale vrylating in Annecy getoon.,E
+475,GW0,T544,Despicable Me 3 het dieselfde cast as die eerste twee films van dieselfde titel.,N
+476,GW0,T544,Despicable Me 3 was nie 'n box office sukses in vergelyking met sy oorspronklike begroting nie.,C
+477,GW28,T554,Danehill was 'n Amerikaanse raspaard.,E
+478,GW28,T554,Danehill is uitgestel om te studeer nadat sy wedrendae verby was.,N
+479,GW28,T554,Danehill is in die wild gebore met 'n onbekende ouderdom.,C
+480,GW27,T554,Danehill se sire was Danzig en sy kleinkind was Northern Dancer.,E
+481,GW27,T554,Danehill is opgevoed deur Juddmonte Farms vir prins Khalid Abdullah.,N
+482,GW27,T554,Danehill se eienaar en afrigter was dieselfde man.,C
+483,GW51,T554,Danehill is 'n bekende raspaard uit die Verenigde State.,E
+484,GW51,T554,Juddmonte Farms is een van die mees suksesvolle telers in die Verenigde State.,N
+485,GW51,T554,Danehill het nooit in sy hele loopbaan 'n paartyd verloor nie.,C
+486,GW51,T557,Club is 'n Ierse sagte drank.,E
+487,GW51,T557,"Club kom in baie verskillende smake, soos oranje en druiwe.",N
+488,GW51,T557,Club is die gewildste sagte drank in die wêreld.,C
+489,GW33,T557,Club is 'n koolhydrateerde sagte drankie wat deur Britvic Ierland vervaardig word.,E
+490,GW33,T557,Club word slegs in Ierland vervaardig,N
+491,GW33,T557,Club is 'n oranje sap,C
+492,GW28,T557,Club is 'n Ierse drank.,E
+493,GW28,T557,Club is 'n soet suiker drankie.,N
+494,GW28,T557,Die klub het nooit sy resep vir die drank verander nie.,C
+495,GW28,T578,"Close Encounters of the Third Kind was 'n Hollywood-film, geskryf en geregisseer deur 'n bekende regisseur.",E
+496,GW28,T578,Close Encounters of the Third Kind was 'n wetenskapfiksie film.,N
+497,GW28,T578,Close Encounters of the Third Kind was 'n mislukking by die boks.,C
+498,GW51,T578,Close Encounters of the Third Kind is 'n wetenskapfiksie film van Stephen Spielberg.,E
+499,GW51,T578,"Close Encounters of the Third Kind het baie toekomstige films en TV-programme geïnspireer, naamlik die show Stranger Things.",N
+500,GW51,T578,"Close Encounters of the Third Kind is geïnspireer op 'n ander Spielberg-film, E.T., wat voor Close Encounters of the Third Kind in 1982 vrygestel is.",C
+501,GW0,T578,Close Encounters of the Third Kind het meer as 'n kwart miljard dollar by die kassa oor sy begroting ingesamel.,E
+502,GW0,T578,'N Man en vrou-duo het Close Encounters of the Third Kind geproduseer.,N
+503,GW0,T578,Close Encounters of the Third Kind is geproduseer en versprei deur dieselfde maatskappy.,C
+504,GW54,T581,Polmos Krak—w is die vervaardiger Krakow,E
+505,GW54,T581,Cracovia is in 1995 ingevoer,N
+506,GW54,T581,Cracovia is slegs beskikbaar in Poland,C
+507,GW28,T581,“Cracovia” is die Poolse alkohol.,E
+508,GW28,T581,Cracovia is die mees verkoopde wodka in Poland.,N
+509,GW28,T581,Cracovia is 'n swak alkoholische drank,C
+510,GW51,T581,Cracovia is 'n soort Poolse wodka.,E
+511,GW51,T581,Krakow is vernoem na 'n streek in die land van Polen.,N
+512,GW51,T581,Cracovia was oorspronklik 'n bier en verander in 40 Proof Vodka.,C
+513,GW51,T596,Ciara is 'n Amerikaanse R & B sanger en danser.,E
+514,GW51,T596,Ciara se eerste hit single was Goodies met Petey Pablo.,N
+515,GW51,T596,Ciara is 'n professionele R & B sedert 1971.,C
+516,GW28,T596,Ciara is 'n Amerikaanse entertainer getroud met 'n atleet.,E
+517,GW28,T596,“Ciara” is 'n enigste kind.,N
+518,GW28,T596,Ciara is sedert haar twintig jaar aktief.,C
+519,GW33,T596,"Ciara Prinses Harris is op 25 Oktober 1985 in Austin, Texas, Verenigde State gebore.",E
+520,GW33,T596,sy musikale loopbaan met Nayvadious Wilburn,N
+521,GW33,T596,'Ciara' Prinses Harris is getroud met Nayvadious Wilburn,C
+522,GW28,T662,"Detroit, Michigan is goed bo die see vlak.",E
+523,GW28,T662,"Detroit, Michigan metro gebied is groter as die meeste ander Amerikaanse metropolitaanse gebiede.",N
+524,GW28,T662,"Die stad Detroit, Michigan bevat minder as 'n tiende van die stedelike area.",C
+525,GW0,T662,Die stad Detroit is groter as die suiwer landruimte wat dit besit.,E
+526,GW0,T662,Detroit se hoogste deel is geleë in die sentrum.,N
+527,GW0,T662,Detroit se stedelike gebied is groter as die metro gebied.,C
+528,GW51,T662,Detriot is 'n baie groot stad in Michigan.,E
+529,GW51,T662,Detroit is die grootste stad in die Verenigde State van Amerika.,N
+530,GW51,T662,Detroit is geleë onder die sealevel.,C
+531,GW51,T667,"Crimson Peak het $ 19,7 miljoen in wins gemaak nadat sy boksboeke voltooi is.",E
+532,GW51,T667,Guilllermo Del Toro en Universal Pictures is al lank 'n vennoot.,N
+533,GW51,T667,Crimson Peak is in 2014 op Blu-Ray vrygestel.,C
+534,GW0,T667,Crimson Peak is net 'n bietjie minder as twee uur lank.,E
+535,GW0,T667,Crimson Peak is die eerste keer dat Guillermo del Toro nie die script van sy film alleen geskryf het nie.,N
+536,GW0,T667,Crimson Peak het in die winter van 2015 gepreem.,C
+537,GW28,T667,Crimson Peak is 'n Amerikaanse onafhanklike film van die 21ste eeu.,E
+538,GW28,T667,Crimson Peak het baie lof gekry van kritikus en filmkritikus.,N
+539,GW28,T667,Crimson Peak het 'n beduidende wins op die kassa gemaak.,C
+540,GW51,T680,Camp Kill Yourself is 'n grunge rock band wat al meer as 30 jaar in die musiekbedryf aktief is.,E
+541,GW51,T680,Camp Kill Yourself is soms bekend as CKY om nie sommige kritici en luisteraars van hul musiek te beledig nie.,N
+542,GW51,T680,Camp Kill Yourself is onderteken met Universal en Paramount.,C
+543,GW28,T680,CKY is 'n Amerikaanse rock band wat nog tot vandag toe optree.,E
+544,GW28,T680,CKY het baie toekennings vir sy musiek gekry.,N
+545,GW28,T680,CKY het gedurende sy loopbaan met slegs 'n paar etikette gewerk.,C
+546,GW27,T680,"Camp Kill Yourself is van West Chester, Pennsylvania.",E
+547,GW27,T680,Camp Kill Yourself is sedert 1998 op die Entertainment One-label.,N
+548,GW27,T680,Camp Kill Yourself is op meer etikette as wat hulle verband hou.,C
+549,GW0,T688,Die vrou van Dennis Gabor het hom met twee jaar oorleef.,E
+550,GW0,T688,Dennis Gabor het die Nobelprys vir sy werk in holografie ontvang.,N
+551,GW0,T688,Dennis Gabor het sy opvoeding buite sy geboorteland ontvang.,C
+552,GW28,T688,Dennis Gabor was 'n 20ste eeu Nobelpryswinnaar vir fisika.,E
+553,GW28,T688,Dennis Gabor onderrig aan die Imperial College in Londen.,N
+554,GW28,T688,Dennis Gabor het sy toekennings in opeenvolgende jare begin in 1967.,C
+555,GW51,T688,Dennis Gabor is 'n bekende Hongaarse / Britse wetenskaplike.,E
+556,GW51,T688,Dennis Gabor het die bekendste geword terwyl hy by die Imperial College van Londen studeer toe hy die Nobelprys in Fisika ontvang het.,N
+557,GW51,T688,Dennis Gabor het die Nobelprys vir Vrede ontvang terwyl hy in 1982 vir Oxford gewerk het.,C
+558,GW51,T702,Die Stad van Londen is 'n groot stad in die Verenigde Koninkryk wat al amper 2000 jaar bestaan.,E
+559,GW51,T702,Die stad het deur die Wessex-reformasie gegaan nadat die Romeinse Ryk val het.,N
+560,GW51,T702,Die Stad van Londen het 27 verskillende afdelings na die Wessex hervestiging.,C
+561,GW0,T702,Daar is meer as twee dosyn wandelinge in die stad Londen.,E
+562,GW0,T702,Londen is die mees bevolkte stad in die Verenigde Koninkryk.,N
+563,GW0,T702,Die Romeine het Londen 'n paar jaar na die Wessex gevestig.,C
+564,GW28,T702,Stad van Londen is 'n unieke gebied van Engeland.,E
+565,GW28,T702,Stad van Londen het sy eie polisie magte geskei van ander jurisdiksies.,N
+566,GW28,T702,Die stad Londen is 'n Romeinse land.,C
+567,GW28,T709,Crack-Up is 'n musiekalbum wat oor 'n tydperk van twee jaar opgeneem en vrygestel is.,E
+568,GW28,T709,Crack-Up is 'n studio album van die band Fleet Foxes.,N
+569,GW28,T709,Crack-Up is hoofsaaklik in die staat Washington opgeneem.,C
+570,GW51,T709,Crack-Up is 'n indie rock album wat in 2017 vrygestel is.,E
+571,GW51,T709,Crack-Up is oorspronklik geïnspireer deur die tydskrif Cracked.,N
+572,GW51,T709,Crack-Up is geproduseer deur Barry Gordy en in 2003 opgeneem.,C
+573,GW0,T709,Crack-Up het ongeveer 'n half jaar geneem om die opname te voltooi.,E
+574,GW0,T709,Robin Pecknold produseer musiek slegs by Electric Lady-studio's.,N
+575,GW0,T709,Crack-Up het in verskeie studio's slegs op die oostkust opgeneem.,C
+576,GW51,T719,Cristiano Ronaldo is 'n bekende voorloper in sy 30s.,E
+577,GW51,T719,Cristiano Ronaldo is 'n bekende sokkerspeler vir Juventus.,N
+578,GW51,T719,Ronaldo staan meer as 6 en 'n half voet hoog.,C
+579,GW4,T719,Cristiano Ronaldo speel 'n aanvallende posisie eerder as 'n verdedigende.,E
+580,GW4,T719,Cristiano Ronaldo het altyd in Portugal geleef.,N
+581,GW4,T719,Cristiano Ronaldo is minder as 6 voet hoog.,C
+582,GW28,T719,Cristiano Ronaldo is 'n Europese atleet.,E
+583,GW28,T719,Cristiano Ronaldo speel in die Spaanse La Liga.,N
+584,GW28,T719,Cristiano Ronaldo is 'n Britse millennial.,C
+585,GW14,T720,David Bowie se self-titulêre album is gedurende twee verskillende jaar opgeneem.,E
+586,GW14,T720,Mike Vernon is 'n burger van die Verenigde Koninkryk.,N
+587,GW14,T720,David Bowie se self-titlede album is meer as 'n halfuur vrygestel nadat die opname voltooi is.,C
+588,GW51,T720,David Bowie is 'n album wat in Londen opgeneem is.,E
+589,GW51,T720,David Bowie was een van 'n paar self-titulêre albums van David Bowie.,N
+590,GW51,T720,David Bowie is in 'n week in Januarie 1967 opgeneem.,C
+591,GW4,T720,Die album David Bowie is in die Verenigde Koninkryk opgeneem.,E
+592,GW4,T720,Die album David Bowie is almal geskryf deur David Bowie.,N
+593,GW4,T720,Die album David Bowie was meer as 'n uur lank.,C
+594,GW14,T727,Die middelste inisiale van Dick Van Dyke word naby die einde van die Engelse alfabet gevind.,E
+595,GW14,T727,Dick Van Dyke is tydens die Tweede Wêreldoorlog in die buiteland gestuur.,N
+596,GW14,T727,Dick Van Dyke is nog nie 'n oupa nie.,C
+597,GW6,T727,Arlene Silver se man is in die twintigste gebore.,E
+598,GW6,T727,Dick Van Dyke was 'n pa tydens die Tweede Wêreldoorlog.,N
+599,GW6,T727,Shane Van Dyke het geen groot oontjies nie.,C
+600,GW51,T727,Dick Van Dyke is 'n akteur en komediant uit Malibu.,E
+601,GW51,T727,Dick Van Dyke het sy eie show genaamd The Dick Van Dyke Show.,N
+602,GW51,T727,Van Dyke het vir die Tweede Wêreldoorlog vir meer as 4 jaar in die weermag gedien.,C
+603,GW4,T729,David Byrne het na die Verenigde State verhuis.,E
+604,GW4,T729,“David Byrne” het met die Talking Heads opgetree.,N
+605,GW4,T729,David Byrne het in die Verenigde Koninkryk geleef toe hulle eers 'n musikus geword het.,C
+606,GW28,T729,David Byrne is 'n Skotse Amerikaanse musikant.,E
+607,GW28,T729,"David Byrne was 'n singer, songwriter en gitaar vir die Talking Heads.",N
+608,GW28,T729,David Byrne het sy musikale loopbaan in sy twintigste begin.,C
+609,GW51,T729,David Byrne is 'n Skotse musikant uit Dunbartonshire.,E
+610,GW51,T729,Byrne het oorspronklik sy begin as die hoof sanger vir die Talking Heads.,N
+611,GW51,T729,Byrne het in 1989 met pensioen gegaan van musiek om op sy boerdery te werk.,C
+612,GW51,T733,Coca-Cola met Lime is 'n soda wat deur Coca-Cola geproduseer word en beide in die Verenigde Koninkryk/VS geproduseer is.,E
+613,GW51,T733,"Coca-Cola Lime is per ongeluk geskep toe 'n bestuurder Lime, Tequila en Coca-Cola saamgemeng het.",N
+614,GW51,T733,Coca-Cola met Lime is in Noord-Ierland ingevoer voordat dit in die Verenigde Koninkryk gemaak is.,C
+615,GW28,T733,Coca-Cola met Lime / Diet Coke met Citrus Zest is 'n Brits-Amerikaanse drank.,E
+616,GW28,T733,Coca-Cola met Lime / Diet Coke met Citrus Zest was 'n bestseller in die Verenigde Koninkryk.,N
+617,GW28,T733,Coca-Cola met Lime / Dieet Coke met Citrus Zest bevat 'n werklike wedstryd van lime.,C
+618,GW4,T733,Coca-Cola met Lime / Dieet Coke met Citrus Zest is meer as een keer ingevoer.,E
+619,GW4,T733,Coca-Cola met Lime / Dieet Coke met Citrus Zest het na Coca-Cola met Lemon gekom.,N
+620,GW4,T733,Coca-Cola met Lime / Diet Coke met Citrus Zest word slegs in die Verenigde State vervaardig.,C
+621,GW6,T734,David Cook het ten minste twee onmiddellike familielede.,E
+622,GW6,T734,David Cook ontwerp speletjies in Michigan.,N
+623,GW6,T734,David Cook is 'n lewenslange bachelor.,C
+624,GW4,T734,David Cook is bekend vir die maak van videospeletjies.,E
+625,GW4,T734,David Cook het altyd in Michigan geleef.,N
+626,GW4,T734,David Cook het meer as een kind.,C
+627,GW51,T734,David Cook is 'n Amerikaanse spelontwerper.,E
+628,GW51,T734,David Cook is bekend vir die skepping van die Mass Effect-reeks.,N
+629,GW51,T734,"David Cook het nog nooit 'n kind gehad met sy vrou, Helen.",C
+630,GW14,T738,Die Cockerel FabergŽ eiers bestaan uit verskeie verskillende kostbare juwele.,E
+631,GW14,T738,Die voël in die Cockerel FabergŽ eiers klop sy vleue.,N
+632,GW14,T738,"Die persoon wat die Cockerel FabergŽ eier gemaak het, is in staat om geboorte te gee.",C
+633,GW4,T738,Die Cockerel FabergŽ eier het 'n voël daarin.,E
+634,GW4,T738,Die Cockerel FabergŽ eiers is baie waardevol.,N
+635,GW4,T738,Die Cockerel FabergŽ eiers is meer as 'n voet hoog.,C
+636,GW51,T738,Die Cockerel FabergŽ eier is 'n goud- en diamant-geïnfuseerde voorwerp ongeveer 'n halwe voet hoog.,E
+637,GW51,T738,Die Cockerel FabergŽ eier was Perkhin se eerste Faberge eier skep.,N
+638,GW51,T738,Die Cockerel FabergŽ eier toon meer as 10 verskillende materiaal gebruik.,C
+639,GW51,T741,David Duchovny was een keer getroud met Tea Leona vir ongeveer meer as 15 jaar.,E
+640,GW51,T741,Duchovny is bekend vir sy rol in die X-Files as Fox Mulder.,N
+641,GW51,T741,Duchovny is al ongeveer 10 jaar akteur.,C
+642,GW4,T741,David Duchovny het na die kollege in die VSA gegaan.,E
+643,GW4,T741,David Duchovny het albei sy kinders met TŽa Leoni.,N
+644,GW4,T741,David Duchovny is sedert die 1960's akteur.,C
+645,GW2,T741,David Duchovny woon in die weste van die VSA,E
+646,GW2,T741,David Duchovny het Engels by Princeton gestudeer.,N
+647,GW2,T741,David Duchovny het sy groot skerm-debut op die ouderdom van 24 gemaak.,C
+648,GW28,T745,Men's 50 kilometer freestyle by die XXII Olimpiese Winterspeletjies was 'n atletiese gebeurtenis.,E
+649,GW28,T745,Men's 50 kilometer freestyle by die XXII Olimpiese Winterspeletjies was 'n kruis-land ski-evenement gedomineer deur Russe.,N
+650,GW28,T745,Men's 50 kilometer freestyle by die XXII Olimpiese Winterspeletjies is in Amerika gehou.,C
+651,GW4,T745,Die manlike 50 kilometer freestyle by die XXII Olimpiese Winterspeletjies het meer as 50 mededingers gehad.,E
+652,GW4,T745,Die mans se 50 kilometer freestyle by die XXII Olimpiese Winterspeletjies was baie koud.,N
+653,GW4,T745,Die mans se 50 kilometer freestyle by die XXII Olimpiese Winterspeletjies is in minder as 'n uur voltooi.,C
+654,GW51,T745,Die Men's 50 km freestyle by die XXII Olimpiese Winterspeletjies het vir 'n dag in Februarie verloop.,E
+655,GW51,T745,Die Man's 50 kilometer freestyle was die eerste gebeurtenis waarin Michael Phelps 'n goudmedalje gewen het.,N
+656,GW51,T745,Die winnaar van die Men's 50 km freestyle by the XXII Olympic Winter Games het met 'n tyd net meer as 2 minute geëindig.,C
+657,GW0,T746,Sommige nasies stuur verskeie atlete om te wedloop in kruis-land skiën by die Olimpiese Spele.,E
+658,GW0,T746,2018 was die eerste jaar dat kruis-land ski gehou is by die Alpensia Cross-Country Centre.,N
+659,GW0,T746,Daar is meer manlike kruis-land ski-wedstryde gehou as vroue se op die Olimpiese Spele.,C
+660,GW4,T746,Cross-country skiën by die XXIII Olimpiese Winterspeletjies het mans- en vroulike rasse gehad.,E
+661,GW4,T746,Die Cross-country skiing by die XXIII Olimpiese Winterspeletjies het elke dag gedurende twee weke gebeur.,N
+662,GW4,T746,Meer as 500 mense het in Cross-country skiën by die XXIII Olimpiese Winterspeletjies deelgeneem.,C
+663,GW51,T746,Die cross-country ski-evenement by die XXIII Olimpiese Spele het by die Alpensia Cross-Country Centre verloop,E
+664,GW51,T746,Die cross-country ski-evenement by die XXIII Olimpiese Spele het in 2018 plaasgevind.,N
+665,GW51,T746,Die cross-country ski-evenement by die XXIII Olimpiese Spele het meer as 3 weke lank gehou en het honderde deelnemers uit meer as 70 lande gevind.,C
+666,GW51,T749,Crossed was 'n beperkte reeks wat vir ongeveer 2 en 'n half jaar deur Avatar Press gepubliseer is.,E
+667,GW51,T749,Crossed was die beste verkoop reeks in die Avatar Press se katalogus.,N
+668,GW51,T749,Crossed word in konsekwente intervalle gepubliseer en is nog steeds 'n voortgesette reeks.,C
+669,GW14,T749,Crossed is 'n post-apokaliptiese reeks wat na die keer van die eeu gepubliseer is.,E
+670,GW14,T749,Issue 100 (Badlands) is die mees gewilde uitgawe van die Crossed reeks.,N
+671,GW14,T749,Die volgende uitgawe van die Crossed reeks sal in Junie 2019 vrygestel word.,C
+672,GW4,T749,Die komiese Crossed is vir minder as twee jaar gepubliseer.,E
+673,GW4,T749,Die komiese Crossed is onder verskillende name vrygestel.,N
+674,GW4,T749,Die komiese Crossed was 'n superheld komiese.,C
+675,GW28,T758,Code Blue is 'n Amerikaanse Bull.,E
+676,GW28,T758,Code Blue is 'n Bucking Bull wat in Amerikaanse rodeo's gebruik word.,N
+677,GW28,T758,“Code Blue” weeg 'n ton.,C
+678,GW4,T758,Die stier Code Blue het minder as 'n ton gewig.,E
+679,GW4,T758,Die Stier Code Blue leef nog vandag.,N
+680,GW4,T758,Die Stier Code Blue was oorspronklik uit die Verenigde Koninkryk.,C
+681,GW6,T758,Kish se #624 Wolfman het ten minste twee geslagte.,E
+682,GW6,T758,Code Blue is slegs deur een persoon gery.,N
+683,GW6,T758,Die Amerikaanse Bucking Bull merk 644 het meestal donker vel.,C
+684,GW51,T761,Code Orange is 'n Amerikaanse punk en metalcore band.,E
+685,GW51,T761,Die band het mekaar ontmoet by 'n mosh pit in Philadelphia voordat hulle hul band begin.,N
+686,GW51,T761,Code Orange het al meer as 15 jaar onder Death Row-rekords optree.,C
+687,GW2,T761,Code Orange het hul begin in die 21ste eeu.,E
+688,GW2,T761,David Cross het twee wêreldtoere in 2009 en 2010 gedoen.,N
+689,GW2,T761,David Cross is 'n popgroep uit Pennsylvania.,C
+690,GW28,T761,Code Orange is 'n Amerikaanse punkband.,E
+691,GW28,T761,Code Orange het talle toekennings vir sy musiek gekry.,N
+692,GW28,T761,Code Orange is al 'n dekade aan die gang.,C
+693,GW28,T777,David Packouz is 'n Amerikaanse veroordeelde misdadiger.,E
+694,GW28,T777,David Packouz was die inspirasie vir 'n Hollywood-film.,N
+695,GW28,T777,David Packouz het nooit 'n besigheid besit nie.,C
+696,GW4,T777,David Packouz het in regsprobleme gegaan.,E
+697,GW4,T777,“David Packouz” het onwettige wapens verkoop.,N
+698,GW4,T777,“David Packouz” moes in die tronk gaan.,C
+699,GW51,T777,David Packouz is 'n voormalige wapenhandelaar wat in die Verenigde State tot huisarrest veroordeel is.,E
+700,GW51,T777,Packouz is bekend vir die bewapening van Iraniërs in die Iraniese Contral-skandaal in die 80's.,N
+701,GW51,T777,Packous is die dag na sy 40ste verjaardag onder huisarrest.,C
+702,GW2,T778,Crystal Head Vodka het oorsprong in die noorde van die VSA.,E
+703,GW2,T778,Crystal Head Vodka het 'n blou en goud etikette.,N
+704,GW2,T778,Crystal Head Vodka is meer as die helfte van alkohol in volume.,C
+705,GW6,T778,Crystal Head Vodka is in 'n ander land geïntroduceer waar dit ontstaan het.,E
+706,GW6,T778,Crystal Head Vodka is jare voor 2008 in Kanada ontwikkel.,N
+707,GW6,T778,Crystal Head Vodka kan nie deursien word nie.,C
+708,GW4,T778,Crystal Head Vodka is in die Verenigde State vrygestel.,E
+709,GW4,T778,Crystal Head Vodka word in Kanada verkoop.,N
+710,GW4,T778,Crystal Head Vodka is bekend om 'n rooi kleur te hê.,C
+711,GW4,T785,Die album Ctrl het drie jaar geneem om op te spoor.,E
+712,GW4,T785,Die album Ctrl het baie mense daarop gesing.,N
+713,GW4,T785,Die album Ctrl is meer as 'n uur lank.,C
+714,GW6,T785,"Ctrl het drie jaar voordat dit vrygestel is, begin registreer.",E
+715,GW6,T785,Ctrl is die helfte alternatiewe R & B en die helfte neo soul.,N
+716,GW6,T785,Ctrl is nie geproduseer deur iemand wat hul eie studio het nie.,C
+717,GW51,T785,Ctrl is 'n R&B album wat deur Top Dawg Entermtainment in 2017 versprei is.,E
+718,GW51,T785,Ctrl was SZA se debuut studio album.,N
+719,GW51,T785,Ctrl het net weke geneem om in 2016 te registreer.,C
+720,GW28,T787,"Die Republiek van Cuba is 'n multi-etnische, mono-taalkundige nasie.",E
+721,GW28,T787,"Die Republiek Cuba word gelei deur Raul Castro, die broer van die stigter, Fidel Castro.",N
+722,GW28,T787,Die Republiek van Cuba is geleë in die Golf van Mexiko.,C
+723,GW4,T787,Die Republiek van Cuba het slegs een amptelike taal.,E
+724,GW4,T787,In die Republiek van Cuba word verkiesings vir die president gehou.,N
+725,GW4,T787,Die Republiek van Cuba praktiseer 'n kapitalistiese stelsel.,C
+726,GW51,T787,Die Republiek van Cuba is 'n land in die Noordelike Hemisfeer.,E
+727,GW51,T787,Die hoofstad van Cuba is na die Tweede Wêreldoorlog na Havana verhuis.,N
+728,GW51,T787,Cuba is meestal swart met wit mense wat die tweede grootste etniese groep vorm.,C
+729,GW14,T790,Cuba se onafhanklikheidsoorlog het byna drie dekades na sy onafhanklikheidsverklaring gevoer.,E
+730,GW14,T790,Ongeveer 30% van die Cubaanse bevolking is meertalig.,N
+731,GW14,T790,Die Cubaanse Revolusie het minder as vyf jaar geduur.,C
+732,GW51,T790,Die Republiek van Cuba was 'n voormalige Spaanse en Amerikaanse kolonie voor 1900.,E
+733,GW51,T790,Cuba word al meer as 50 jaar deur die Castro-familie bestuur.,N
+734,GW51,T790,Die Cubaanse Revolusie het ongeveer jare lank geduur voordat dit uiteindelik vreedsaam eindig.,C
+735,GW4,T790,Die Republiek van Cuba het 30 jaar geneem om as onafhanklik te erken.,E
+736,GW4,T790,Die Republiek van Cuba het 'n oorlog geveg om onafhanklik te word.,N
+737,GW4,T790,Die Republiek Cuba het sy huidige grondwet vir 20 jaar gehad.,C
+738,GW28,T791,Kollektiewe nagklubbrand was 'n nalatige brand in Europa wat baie sterftes veroorsaak het.,E
+739,GW28,T791,Kollektiewe nagklubbrand het in 'n hip-hop klub gebeur.,N
+740,GW28,T791,Kollektiewe nagklubbrand het vir ure hardloop en ander besighede vernietig.,C
+741,GW4,T791,Meer as 50 mense het in die Kollektiewe nagklubbrand gesterf.,E
+742,GW4,T791,Die Kollektiewe nagklubbrand is veroorsaak deur schuim wat vuur gevang het.,N
+743,GW4,T791,Die Kollektiewe nagklubbrand het geen strafprocedure gehad nie.,C
+744,GW61,T791,Die brand in Club Colectiv verdachte lys bevat ten minste een politikus.,E
+745,GW61,T791,Die vermoedelikes van die Club Colectiv-brand het gesinsverbindings.,N
+746,GW61,T791,Die verdagtes van Club Colectiv werk almal in die private sektor.,C
+747,GW12,T792,David Ronald de Mey Warren is in die lente van 1925 gebore.,E
+748,GW12,T792,Die Universiteit van Sydney was een van die vele kolleges wat David Ronald de Mey Warren bygewoon het.,N
+749,GW12,T792,David Ronald de Mey Warren was 'n vlugrekenaar sedert die vroeë 1920's.,C
+750,GW4,T792,David Ronald de Mey Warren het 'n masjien gebou wat in vliegtuie kan vlieg.,E
+751,GW4,T792,David Ronald de Mey Warren het sy hele lewe in Australië geleef.,N
+752,GW4,T792,David Ronald de Mey Warren het nog nooit 'n vliegtuig in hul lewe gehad nie.,C
+753,GW51,T792,David Ronald de Mey Warren is 'n Australiese wetenskaplike uit Melbourne.,E
+754,GW51,T792,David Ronald de Mey Warren was bekend vir die uitvinding van die swarte boks wat nou in elke groot kommersiële vliegtuig geleë is.,N
+755,GW51,T792,David Ronald de Mey Warren het meer as 90 jaar in Austraila geleef voordat hy uiteindelik oorlede het.,C
+756,GW4,T793,Colin Farrell het begin sing toe hulle 21 jaar oud was.,E
+757,GW4,T793,Colin Farrell het as kind na die VSA verhuis.,N
+758,GW4,T793,Colin Farrell het 'n oom met dieselfde naam as hy.,C
+759,GW6,T793,Colin James Farrell het na 'n ander land verhuis.,E
+760,GW6,T793,Die kinders van Colin Farrell is in die VSA gebore,N
+761,GW6,T793,Tommy Farrell het geen neef nie.,C
+762,GW51,T793,Colin Farrell is 'n Ierse akteur en sanger met verskeie kinders.,E
+763,GW51,T793,Farrell speel die opposisie van Brendan Gleeson in die film In Brudges.,N
+764,GW51,T793,Farrell het 'n broer met die naam Tommy.,C
+765,GW51,T794,David met die kop van Goliat is 'n olieverf van die kunstenaar Caravaggio.,E
+766,GW51,T794,Die Galleria Borghese bevat ook die Mons Venus en die Mona Lisa.,N
+767,GW51,T794,"David met die kop van Goliat is 'n klein skildery, wat slegs 'n voet hoog en 2 voet breed meet.",C
+768,GW4,T794,David met die kop van Goliat is in die 17de eeu geverf.,E
+769,GW4,T794,David met die kop van Goliat het 'n paar jaar geneem om te maak.,N
+770,GW4,T794,David met die kop van Goliat is geleë in Spanje.,C
+771,GW14,T794,David met die kop van Goliat is in die 17de eeu voltooi.,E
+772,GW14,T794,David met die kop van Goliat is in Italië geverf.,N
+773,GW14,T794,David met die kop van Goliat is die grootte van 'n posstempel.,C
+774,GW28,T797,Cue Card is 'n gekasteerde Britse raspaard.,E
+775,GW28,T797,Cue Card is 'n kompetitiewe raspaar wat in kompetisies regoor die wêreld hardloop.,N
+776,GW28,T797,Cue Card is gepensioneer om sy oorblywende jare te studeer.,C
+777,GW4,T797,Die perd Cue Card het meer as 'n miljoen pond op rasse gemaak.,E
+778,GW4,T797,Die perd Cue Card het 'n meerderheid van hul rasse gewonnen.,N
+779,GW4,T797,Die perd Cue Card was van die Verenigde State.,C
+780,GW51,T797,Cue Card is 'n raspaar wat in die Verenigde Koninkryk verval is.,E
+781,GW51,T797,Die naam Cue Card is geïnspireer op die kaarte wat sy afrigter in sy verbeteringsklasse gebruik het.,N
+782,GW51,T797,Cue Card het net minder as £ 1 miljoen in inkomste in die horse se wedrenne loopbaan gemaak.,C
+783,GW4,T799,Colin Kaepernick het meer as 2000 yards hardloop.,E
+784,GW4,T799,"Colin Kaepernick het baie wedstryde wat hy gespeel het, gewen.",N
+785,GW4,T799,Colin Kaepernick speel tans vir 'n span.,C
+786,GW6,T799,Colin Kaepernick het meer rushing yards as rushing touchdowns.,E
+787,GW6,T799,Colin Kaepernick het altyd 'n TD-Int verhouding bo 2 gehad.,N
+788,GW6,T799,Iedereen met meer as 12 000 passing yards word aan 'n spesifieke span gekontrak.,C
+789,GW51,T799,"Colin Kaepernick is 'n NFL-voetbalspeler met meer as 10,000 passing yards.",E
+790,GW51,T799,Kaepernick is nie onderteken deur 'n NFL-span as gevolg van sy openhartigheid oor sosiale en kriminele geregtigheid nie.,N
+791,GW51,T799,Kaepernick het 74 totale touchdowns in sy NFL loopbaan.,C
+792,GW6,T805,"Kultuur is meer as drie weke nadat dit opgeneem is, vrygestel.",E
+793,GW6,T805,Twintig vervaardigers het almal saam gewerk op Kultuur.,N
+794,GW6,T805,"Dit sal meer as 'n uur neem om die hele album wat in Januarie 2017 vrygestel is, te luister.",C
+795,GW51,T805,Culture is 'n hip-hop album wat in 2017 vrygestel is.,E
+796,GW51,T805,Culture is ongetwyfeld die Migos se mees suksesvolle album vrylating in terme van kommersiële sukses.,N
+797,GW51,T805,"Culture was die hoogtepunt van 'n produksie samewerking tussen die Migos en 808God, wat al die liedjies op die album geproduseer het.",C
+798,GW0,T805,"Die album, Kultuur is net skaam van 'n uur lank.",E
+799,GW0,T805,808Godz het die meeste van die produksie op Kultuur gedoen.,N
+800,GW0,T805,Culture is vrygestel in dieselfde jaar wat die opname van die album begin het.,C
+801,GW27,T811,'Collision Course' is in dieselfde jaar opgeneem en vrygestel.,E
+802,GW27,T811,Die DVD van Collision Course is langer as gevolg van spesiale funksies.,N
+803,GW27,T811,'Collision Course' is beskikbaar op meer etikette as die aantal genres wat dit samel.,C
+804,GW51,T811,Collision Course is 'n multi-disk rap/rock mash-up wat in 2004 vrygestel is.,E
+805,GW51,T811,Collision Course was die resultaat van 'n samewerking tussen die rapper Jay-Z en die rockgroep Linkin Park.,N
+806,GW51,T811,Collision Course het 3 maande geneem om op te spoor voordat dit begin in 2004 vrygestel is.,C
+807,GW28,T811,Collision Course is al in dieselfde jaar ingeskryf en vrygestel.,E
+808,GW28,T811,"Collision Course is 'n multi-genre album, met verskeie gaste verteenwoordigers.",N
+809,GW28,T811,Collision Course is 'n 20ste-eeuse musiekalbum.,C
+810,GW6,T816,Die XXIII Winter Olimpiese Spele het in 2018 plaasgevind.,E
+811,GW6,T816,Sommige nasies het slegs vroue bygevoeg tot curling by die XXIII Olimpiese Winterspeletjies.,N
+812,GW6,T816,Curling by die Gangneug Gymnasium tydens die Olimpiese Spele het geen vroulike gebeure gehad nie.,C
+813,GW4,T816,Die Curling by die XXIII Olimpiese Winterspeletjies het in Februarie plaasgevind.,E
+814,GW4,T816,Beide mans en vroue het saam in die curling by die XXIII Olimpiese Winterspeletjies.,N
+815,GW4,T816,Daar was meer as 150 lande betrokke.,C
+816,GW51,T816,Curling in die XXIII Olimpiese Winterspeletjies het oor 2 weke gehou met 3 belangrikste gebeure.,E
+817,GW51,T816,Curling het oorspronklik as 'n sport in Swede ontstaan.,N
+818,GW51,T816,Curling in die 2018 Winter Olimpiese Spele het minder as 100 mans en vroue gedurende 4 weke meeding.,C
+819,GW0,T822,"Columbus, Georgia is vernoem na 'n ontdekkingsreiziger.",E
+820,GW0,T822,Columbus is die hoofstad van Georgia.,N
+821,GW0,T822,"Columbus, Georgia is in die tweede helfte van die negentiende eeu gestig.",C
+822,GW51,T822,Columbus is 'n stad in Georgië wat na Christopher Columbus genoem is.,E
+823,GW51,T822,Die stad Columbus is een van 72 verskillende stede in die Verenigde State wat na Christopher Columbus genoem is.,N
+824,GW51,T822,"Die stad Columbus in Georgia is kort nadat die Burgeroorlog begin het, gestig.",C
+825,GW4,T822,"Columbus, Georgia is in die 19de eeu gestig.",E
+826,GW4,T822,"Columbus, Georgia is kleiner as Muscogee County.",N
+827,GW4,T822,"Columbus, Georgia is nie na Christopher genoem nie.",C
+828,GW4,T828,Die musikus Common is gebore met die naam Lonnie.,E
+829,GW4,T828,Die musikus Common weet hoe om instrumente te speel.,N
+830,GW4,T828,Die musiek Common is al 30 jaar op die toneel.,C
+831,GW61,T828,Lonnie Corant Jaman Shuka het saamgewerk met ten minste een bekende rapper.,E
+832,GW61,T828,Lonnie Corant Jaman Shuka optree goed met musical.instruments.,N
+833,GW61,T828,Lonnie Corant Jaman Shuka het nooit vir R'n'B kunstenaars gewerk nie.,C
+834,GW51,T828,Common is 'n hip hop musikus uit Chicago.,E
+835,GW51,T828,Die grootste kommersiële hit van Common is die liedjie Go.,N
+836,GW51,T828,Common maak hip hop musiek sedert die laat 90's.,C
+837,GW51,T829,Die Commonwealth van die Filippyne is 'n gebied van die Verenigde State van Amerika met 'n hoofstad Manila.,E
+838,GW51,T829,Die Commonwealth van die Filippyne is na die Tweede Wêreldoorlog as 'n Amerikaanse grondgebied gestig.,N
+839,GW51,T829,Die Filippyne het 'n nasionale vergadering regering vir hul hele geskiedenis gehad.,C
+840,GW28,T829,Die Commonwealth van die Filippyne is deur die Verenigde State beheer.,E
+841,GW28,T829,Die Verenigde State van Amerika was 'n kolonie van die Filippyne.,N
+842,GW28,T829,Die Verenigde Filippyne was 'n onafhanklike soewereine nasie.,C
+843,GW14,T829,Die Tydings-cDuffie-wet is meer as 'n dekade voor die Verdrag van Manila ingestel.,E
+844,GW14,T829,Paul V. McNutt het gekies vir herverkiesing vir die seat van 1939-2 Hoë Kommissaris.,N
+845,GW14,T829,Sergio Osme?a het nooit in meer as een gekose kantoor gedien nie.,C
+846,GW51,T831,Die Unie van die Komore is 'n gebied wat deur die Portugese in die 1500's ontdek is.,E
+847,GW51,T831,Die Unie van die Comores is waar die huidige Franse president as 'n kind grootgeword is.,N
+848,GW51,T831,Die Unie van die Komore het in die vroeë 1800's onder Franse beheer gegaan.,C
+849,GW4,T831,Die Unie van Komore het in 2009 'n grondwet aangeneem.,E
+850,GW4,T831,Die Unie van die Comores het baie tyd onder Franse heerskappy bestee.,N
+851,GW4,T831,Die Unie van die Comoros is in 2009 ontbind.,C
+852,GW28,T831,"Die Unie van die Komore was vroeër die staat van die Komore, en voordien die protektoraat van die Komore.",E
+853,GW28,T831,Die Unie van die Komore is beïnvloed deur die Portugese en die Franse.,N
+854,GW28,T831,Die Unie van die Komore is onafhanklik vir 50 jaar.,C
+855,GW51,T839,DC Comics was 'n voortgesette komiese reeks wat meer as 100 uitgawes gedurende aktiewe tyd uitgevoer het.,E
+856,GW51,T839,DC Comics het die Joker en die Riddler as Batman se archrivals geïntroduceer.,N
+857,GW51,T839,DC Comics presents was aktief vir meer as 20 jaar voordat sy laaste uitgawe gepubliseer is.,C
+858,GW4,T839,DC Comics Presents het meer as 8 jaar geduur.,E
+859,GW4,T839,Daar was baie superhelde in DC Comics Presents.,N
+860,GW4,T839,Die DC Comics Presents kom slegs jaarliks uit.,C
+861,GW28,T839,DC Comics Presents was 'n Amerikaanse komiese boekreeks.,E
+862,GW28,T839,"DC Comics Presents het baie DC-superhelde soos Green Lantern en Wonder Woman, The Flash, ens.",N
+863,GW28,T839,DC Comics Presents is 'n voortdurende reeks wat sedert 1978 voortdurend gepubliseer word.,C
+864,GW28,T840,Dead Can Dance is 'n Australiese musiekgroep.,E
+865,GW28,T840,Dead Can Dance is 'n multi-lid band wat internasionaal optree.,N
+866,GW28,T840,Dead Can Dance is 'n verlore band uit die 19de eeu.,C
+867,GW4,T840,“Dead Can Dance” het in die verlede in gebreke gegaan.,E
+868,GW4,T840,Dead Can Dance het live met die Scavengers voorgestel.,N
+869,GW4,T840,Die band Dead Can Dance het slegs op Australiese platenlêers verskyn.,C
+870,GW6,T840,deadcandance.com is die webwerf van 'n Antipodean band.,E
+871,GW6,T840,Dead Can Dance is onderteken aan vyf etikette op 'n keer.,N
+872,GW6,T840,'N Band uit die suidelike hemisfeer het nog nooit in die gotiese rock genre gewerk nie.,C
+873,GW51,T845,Dean Kamen is 'n Amerikaanse uitvinder uit New Hampshire.,E
+874,GW51,T845,Kamen is die bekendste vir die uitvinding van die Dyson-vakuum.,N
+875,GW51,T845,Dean het die Hoover-medalje gekry vir sy werk op die Segway in die middel van die 2000's.,C
+876,GW4,T845,Dean Kamen het meer as vyf groot toekennings gewen.,E
+877,GW4,T845,Dean Kamen het 'n graad in ingenieurswese.,N
+878,GW4,T845,Dean Kamen het begin werk vir 'n groot maatskappy.,C
+879,GW6,T845,Dean Kamen het in ten minste twee oostkuststede geleef.,E
+880,GW6,T845,Dean Kamen het 'n prys gewen vir die uitvinding van die iBot Wheelchair.,N
+881,GW6,T845,Die Segway is nie uitgevind deur iemand wat in Amerika gebore is nie.,C
+882,GW51,T846,Dean Martin is 'n musikus uit Ohio wat bekend is vir sy sing en optrede.,E
+883,GW51,T846,Dean Martin was deel van die bekende Rat Pack met Frank Sinatra.,N
+884,GW51,T846,Dean Martin is aktief in die musiekbedryf vir meer as 60 jaar.,C
+885,GW6,T846,Leonard Barr se neef was vir meer as 'n halwe eeu aktief.,E
+886,GW6,T846,Catherine Hawn het geen kinders nie.,N
+887,GW6,T846,Dean Martin was 'n lewenslange mute.,C
+888,GW4,T846,Dean Martin was 'n toneelnaam wat deur Dean Paul Crocetti gebruik is.,E
+889,GW4,T846,Dean Martin het musiek vir meer as vyftig jaar ingeskryf.,N
+890,GW4,T846,Dean Martin het 8 kinders met 'n vrou gehad.,C
+891,GW4,T848,“Dear White People” is geskryf en geregisseer deur dieselfde persoon.,E
+892,GW4,T848,Dear White People het 'n paar jaar geneem om te film.,N
+893,GW4,T848,Dier White People het geld verloor by die kassa.,C
+894,GW6,T848,Die skrywer van Dear White People was ook een van sy produkteurs.,E
+895,GW6,T848,"Dear White People het $ 5,4 miljoen in 2014 verdien.",N
+896,GW6,T848,Dear White People het na sy Amerikaanse premier op Sundance gepreem.,C
+897,GW51,T848,Dear White People is 'n TV-reeks wat deur Justin Simien geregisseer en geskryf is.,E
+898,GW51,T848,Dear White People is 'n baie gewilde show om op Netflix te stroom sedert dit oorspronklik op die Sundance Film Festival getoon is.,N
+899,GW51,T848,Dear White People het oorspronklik beroemd geword nadat Dreamworks die show vrygestel het om op die Cannes-festival te vertoon.,C
+900,GW51,T885,Caracas is 'n hoofstad van 'n paar duisend voet bo die see.,E
+901,GW51,T885,Caracas is die hoofstad van Venezuela.,N
+902,GW51,T885,Caracas laagste punt is onder die seevlak.,C
+903,GW27,T885,Die metro-gebied van Caracas is meer as tien keer die grootte van die stad.,E
+904,GW27,T885,Caracas het baie hoë heuwels in sy grense.,N
+905,GW27,T885,Die stad Caracas is op seevlak.,C
+906,GW28,T885,Caracas is 'n stad goed bo die see vlak.,E
+907,GW28,T885,Caracas is die hoofstad van Venezuela.,N
+908,GW28,T885,Caracas op sy hoogste punt is 'n myl bo die seevlak.,C
+909,GW51,T899,Chengdu is 'n provinsiële stad wat ongeveer 1600 voet in die lug sit.,E
+910,GW51,T899,Chengdu is die hoofstad van die Sichuan provinsie.,N
+911,GW51,T899,Chengdu is die enigste stad in China wat onder die seevlak lê.,C
+912,GW28,T899,Chengdu is 'n groot gebied met baie verskillende klassifikasies.,E
+913,GW28,T899,Die grootste gebied van Chengdu is byna 10 keer groter as sy kleinste area.,N
+914,GW28,T899,Chengdu se sentrum en stedelike gebiede is groter as die metro gebied.,C
+915,GW0,T899,Die hoogste hoogte van Chengdu is meer as 5000 meter.,E
+916,GW0,T899,Die sentrum van Chengdu bevat die laagste hoogte.,N
+917,GW0,T899,Die laagste hoogte van Chengdu is seevlak.,C
+918,GW1,T910,Die patroonheilige van Catania is 'n vrou.,E
+919,GW1,T910,Catania het meer as een amptelike webwerf.,N
+920,GW1,T910,Catania het meer as 325 000 mense daarin.,C
+921,GW51,T910,Catania is 'n stad van 'n paar honderd duisend mense.,E
+922,GW51,T910,“Catania” is ook sy eie land.,N
+923,GW51,T910,Catania lê ten weste van die primêre meridiaan en erken nie daaglikse besparing tyd nie.,C
+924,GW28,T910,Catania is 'n klein grootte Christelike stad.,E
+925,GW28,T910,Catania is 'n Italiaanse kusstad.,N
+926,GW28,T910,Catania maak geen bemarking aan potensiële besoekers nie.,C
+927,GW11,T928,Charlie en die sjokoladefabriek is 'n film-aanpassing van 'n roman.,E
+928,GW11,T928,Charlie en die sjokoladefabriek het die meeste van sy geld in die Verenigde State verdien.,N
+929,GW11,T928,Charlie en die sjokoladefabriek is in vier lande vrygestel.,C
+930,GW14,T928,Charlie en die sjokoladefabriek het meer as drie keer sy begroting op die kassa verdien.,E
+931,GW14,T928,Sommige van die akteurs in Charlie en die sjokoladefabriek was van Australië.,N
+932,GW14,T928,Die narrator en redakteur van Charlie en die sjokoladefabriek het dieselfde voornaam.,C
+933,GW19,T928,Tim Burton se film-aanpassing van Charlie en die sjokoladefabriek was 'n kommersiële sukses.,E
+934,GW19,T928,Charlie en die sjokoladefabriek was Roald Dahl se bekendste roman.,N
+935,GW19,T928,Tim Burton se filmadaptasie van Charlie en die sjokoladefabriek is nie in die Verenigde State vrygestel nie totdat dit reeds kommersiële sukses in die Verenigde Koninkryk bereik het.,C
+936,GW27,T940,Brugge het vier poskode.,E
+937,GW27,T940,Brugge is een van België se dichtste stede.,N
+938,GW27,T940,Brugge het meer area kode as postkode.,C
+939,GW51,T940,Brugge is 'n stad met meer as 100.000 inwoners.,E
+940,GW51,T940,Brugge is 'n groot stad in België.,N
+941,GW51,T940,Brugge het 'n enkele poskode wat die hele stad verteenwoordig.,C
+942,GW28,T940,"Brugge is 'n klein geografiese streek van België, maar groot genoeg vir vier poskode.",E
+943,GW28,T940,Brugge is 'n skaars bevolkte gebied met min waterbron.,N
+944,GW28,T940,Brugge is 'n xenofobe gebied met geen begeerte vir buitelandse besoekers nie.,C
+945,GW12,T947,"Die Republiek Botswana, wat bestuur word onder 'n eenheidsparlement, het 'n president en 'n vicepresident.",E
+946,GW12,T947,"Engels is die enigste taal in Gaborone, die hoofstad van die Republiek Botswana.",N
+947,GW12,T947,Daar is meer mense wat die tradisionele Afrikaanse godsdiens beoefen as die Christelike godsdiens in die Republiek Botswana.,C
+948,GW0,T947,Tswana is die grootste etniese groep in Botswana.,E
+949,GW0,T947,Mokgweetsi Masisi is die president van Botswana vir meer as 'n dekade.,N
+950,GW0,T947,Christene is die kleinste godsdienstige groep in Botswana.,C
+951,GW51,T947,Die Republiek Botswana is 'n meerderheid Christelike land.,E
+952,GW51,T947,Die hoofstad van Botswana is Gaborone.,N
+953,GW51,T947,Die Republiek Botswana is geleë noord van die ekvator.,C
+954,GW28,T974,"Chicago, Illinois is 'n stad met klein waterbronne in verhouding tot sy landmassa.",E
+955,GW28,T974,"Chicago, Illinois is naby die Great Lakes.",N
+956,GW28,T974,"Chicago, Illinois bevat 10% van die metro gebied.",C
+957,GW14,T974,Daar is ten minste 1 meer in Chicago genoem na 'n Amerikaanse staat.,E
+958,GW14,T974,Daar is baie min see in Chicago.,N
+959,GW14,T974,Chicago se laagste hoogte en gemiddelde hoogte verskil met meer as 16 voet.,C
+960,GW12,T974,Die vierkante kilometer van die stad Chicago is groter as die vierkante kilometer van die land.,E
+961,GW12,T974,"Die hoogste hoogte van Chicago is 672 voet, wat naby Lake Michigan is.",N
+962,GW12,T974,Die stedelike vierkante kilometer van Chicago is groter as die metro vierkante kilometer.,C
+963,GW28,T982,Die Republiek Chili is op die westelike kus van Suid-Amerika.,E
+964,GW28,T982,Die Republiek Chili is 'n multi-etniese samelewing met wit Europeërs as die grootste groep.,N
+965,GW28,T982,Die Republiek Chili is 'n militêre diktatuur met 'n verteenwoordigende parlement.,C
+966,GW51,T982,Die Republiek Chili is 'n Spaanssprekende land met 'n hoofstad Santiago.,E
+967,GW51,T982,Die Republiek Chili was die plek van die mees onlangse Somer Olimpiese Spele.,N
+968,GW51,T982,Die Republiek Chili lê noord van die ekvator.,C
+969,GW27,T982,Die hoofstad en grootste stad van die Republiek van Chili is dieselfde.,E
+970,GW27,T982,President Sebastien Pi?era is wit.,N
+971,GW27,T982,Die Republiek van Chili het drie kamers in sy wetgewing.,C
+972,GW12,T983,Camilla Rosemary Shand het prins Charles getroud nadat sy van Andrew Parker Bowles geskei is.,E
+973,GW12,T983,Tom Parker Bowles is 'n broer van Laura Lopes.,N
+974,GW12,T983,"Rosalind Cubitt is die moeder van Charles, Prins van Wales.",C
+975,GW28,T983,Camilla is deel van die Britse koninklike familie.,E
+976,GW28,T983,"Camilla was kinderloos en 'n geskei toe sy met Charles, Prins van Wales, getroud het.",N
+977,GW28,T983,"Camilla het polygamie gepleeg toe sy Charles, Prins van Wales, getroud het.",C
+978,GW27,T983,Camilla Rosemary Shand is twee keer getroud.,E
+979,GW27,T983,Beide van Camilla Rosemary Shand se kinders was met Andrew Parker Bowles.,N
+980,GW27,T983,Camilla Rosemary Shand het meer huwelike as kinders gehad.,C
+981,GW51,T1002,Catalonië is 'n konstitusionele monargie met kongresvertegenwoordigers en senators.,E
+982,GW51,T1002,Catalonië is 'n streek van Spanje wat probeer om van Spanje af te skei.,N
+983,GW51,T1002,Catalonië is hoofsaaklik kommunisties en het geen republikeinse verteenwoordiging nie.,C
+984,GW6,T1002,"Catalonië het 16,5% van die senators.",E
+985,GW6,T1002,Quim Torra is deur die algemene publiek verkies.,N
+986,GW6,T1002,Catalonië het 50% van die afgevaardigdes in die Kongres van Afgevaardigdes.,C
+987,GW28,T1002,Catalonië word bestuur deur verkiesde ambassadeurs en beheer deur 'n monargie.,E
+988,GW28,T1002,Catalonië is 'n streek van Spanje wat bekend staan vir separatistiese neigings.,N
+989,GW28,T1002,Catalonië het geen stem of verteenwoordigende bestuur in plek nie.,C
+990,GW66,T1010,Caravaggio het ten minste een stuk met olie op canvass geskep.,E
+991,GW66,T1010,Die Caravaggio-stuk Boy Peeling Fruit is vir 'n miljoen dollar verkoop.,N
+992,GW66,T1010,Caravaggio het Boy Peeling Fruit geverf om die ontdekking van elektrisiteit te vier.,C
+993,GW28,T1010,Boy Peeling Fruit is 'n 16de-eeuse Europese kunswerk.,E
+994,GW28,T1010,Boy Peeling Fruit was Caravaggio se laaste kunswerk.,N
+995,GW28,T1010,Boy Peeling Fruit is 'n muurbeeld op die plafon van 'n kerk.,C
+996,GW0,T1010,Caravaggio het Boy Peeling Fruit teen die einde van die 16de eeu geverf.,E
+997,GW0,T1010,Caravaggio het Boy Peeling Fruit aan die Italiaanse regering verkoop.,N
+998,GW0,T1010,Caravaggio se Boy Peeling Fruit is meer as drie voet breed.,C
+999,GW28,T1017,Casablanca is 'n klassieke Amerikaanse Hollywood-film.,E
+1000,GW28,T1017,Casablanca het 'n Oscar vir beste film gekry.,N
+1001,GW28,T1017,Casablanca is 'n oorspronklike verhaal en scenario.,C
+1002,GW0,T1017,Casablanca is in die VSA twee maande na die verteenwoordiging by die Hollywood Theatre vrygestel.,E
+1003,GW0,T1017,Casablanca was Peter Lorre se eerste filmrol.,N
+1004,GW0,T1017,Casablanca is geproduseer en geregisseer deur dieselfde persoon.,C
+1005,GW51,T1017,Casablanca is geregisseer deur Michael Curtiz en geproduseer deur verskeie individue.,E
+1006,GW51,T1017,Casablanca was die hoogste inkomste film gedurende die 1942-1943 jaar.,N
+1007,GW51,T1017,Casablanca is bewerk en geskryf deur Humphrey Bogart.,C
+1008,GW51,T1031,Case Closed is 'n manga wat deur Weekly Shonen Sunday ontwikkel is.,E
+1009,GW51,T1031,Case Closed is gemaak in 'n anime genaamd Detective Conan.,N
+1010,GW51,T1031,Case Closed het vir 6 maande hardloop voordat die publikasie gestop het.,C
+1011,GW27,T1031,'Case Closed' is geskryf deur Takahiro Arai en gepubliseer deur Shogakukan.,E
+1012,GW27,T1031,'Weekly Sh_nen Sondag' was gerig op die Sh_nen demografie.,N
+1013,GW27,T1031,Die dieselfde uitgewer van Case Closed het ook die Engelse vertaling verskaf.,C
+1014,GW28,T1031,Case Closed is 'n Japannese komiese reeks.,E
+1015,GW28,T1031,Case Closed is 'n gewilde Japannese manga wat internasionaal uitgevoer is.,N
+1016,GW28,T1031,Case Closed was 'n langlopende Japannese komiese reeks.,C
+1017,GW28,T1047,Changsha is 'n stad in China.,E
+1018,GW28,T1047,Changsha is die geboorteplek van Mao Zedong.,N
+1019,GW28,T1047,Changsha is beide 'n stad en 'n prefektuur.,C
+1020,GW27,T1047,Changsha se prefektuurdichtheid is laer as sy stedelike dichtheid.,E
+1021,GW27,T1047,Die bevolkingsrang van Changsha in China het baie toeneem.,N
+1022,GW27,T1047,Changsha het meer mense in sy stedelike gebied as in sy metro gebied.,C
+1023,GW0,T1047,Changsha is in die top twintig grootste stede in China.,E
+1024,GW0,T1047,Meer mense woon in Changsha vandag as tien jaar gelede.,N
+1025,GW0,T1047,Die metro-gebied van Changsha bevat 'n ekstra miljoen mense meer as die stedelike bevolking.,C
+1026,GW27,T1131,George Mason Universiteit is 'n openbare universiteit gestig in 1949.,E
+1027,GW27,T1131,"George Mason Universiteit is hoofkwartier in Arlington, VA.",N
+1028,GW27,T1131,George Mason Universiteit het meer postgraduate as undergraduate.,C
+1029,GW35,T1131,George Mason Universiteit het die afgelope 68 jaar gewerk.,E
+1030,GW35,T1131,APLU is alleen aangesloten by George Mason Universiteit.,N
+1031,GW35,T1131,Die dominante kleure van George Mason Universiteit is rooi en violet.,C
+1032,GW17,T1131,George Mason Universiteit het meer as 35 000 studente.,E
+1033,GW17,T1131,George Mason Universiteit het meer manlike studente as vroulike studente.,N
+1034,GW17,T1131,Die mascot van George Mason Universiteit is die walvis.,C
+1035,GW27,T1134,Caravan Palace is 'n elektro swing band uit Frankryk.,E
+1036,GW27,T1134,Caravan Palace is die grootste elektro swing band uit Frankryk.,N
+1037,GW27,T1134,Caravan Palace is op 'n ander etiket vir elke jaar wat hulle aktief was.,C
+1038,GW28,T1134,Caravan Palace is 'n Franse musiekgroep.,E
+1039,GW28,T1134,Caravan Palace is 'n band wat bestaan uit vier lede.,N
+1040,GW28,T1134,Caravan Palace maak geen bemarking nie en het hoofsaaklik deur middel van woord-van-mond bekendheid verkry.,C
+1041,GW22,T1134,"Caravan Palace is geleë in Parys, Frankryk en is aktief sedert 2008.",E
+1042,GW22,T1134,"Caravan Palace is alleen geassosieer met Wagram, MVKA en Le Plan Recordings.",N
+1043,GW22,T1134,www.caravanpalace.com is nie die amptelike webwerf van Caravan Palace.,C
+1044,GW12,T1148,Britney Spears getroud Kevin Federline dieselfde jaar wat sy geskei Jason Alexander.,E
+1045,GW12,T1148,Britney Spears is geassosieer met musiek label Jive en RCA.,N
+1046,GW12,T1148,Jamie Lynn Spears is die dogter van Britney Spears.,C
+1047,GW1,T1148,Britney Spears is in die suide van die Verenigde State gebore.,E
+1048,GW1,T1148,Britney Spears se twee kinders was met Jason Allen Alexander.,N
+1049,GW1,T1148,Britney Spears is al meer as 30 jaar aktief.,C
+1050,GW28,T1148,Britney Spears is 'n Amerikaanse songwriter.,E
+1051,GW28,T1148,Britney Spears is geskei met 'n dogter en 'n seun.,N
+1052,GW28,T1148,Britney Spears is in die Midde-Weste gebore en grootgemaak.,C
+1053,GW17,T1164,Die eerste Roemeense sokker van die Jaar-toekenning is in 1966 uitgereik.,E
+1054,GW17,T1164,Daar is 5 herhaalde winnaars van die Roemeense Sokker van die Jaar-toekenning.,N
+1055,GW17,T1164,Die Roemeense sokkerspeler van die Jaar het nog nooit 'n herhalende wenner gehad nie.,C
+1056,GW0,T1164,Die Roemeense Sokker van die Jaar-toekenning is meer as 50 keer uitgereik.,E
+1057,GW0,T1164,Gheorghe Hagi het die Roemeense sokkerspeler van die Jaar-toekenning in sy nuwe jaar gekry.,N
+1058,GW0,T1164,Die Roemeense sokker van die Jaar-toekenning is net twintig jaar oud.,C
+1059,GW28,T1164,Roemeniese sokker van die Jaar word elke jaar sedert 1966 toegeken.,E
+1060,GW28,T1164,Die Roemeense Sokker van die Jaar word 'n monetêre prys toegeken.,N
+1061,GW28,T1164,Roemeense sokkerspeler van die Jaar-toekenning word elke jaar aan 'n nuwe sokkerspeler toegeken.,C
+1062,GW68,T1177,"JFK-lughawe het beton- en asfaltaalbaan, sowel as 'n paar helipads.",E
+1063,GW68,T1177,Die eerste helikopter het in 1951 op die JFK-lughawe geland.,N
+1064,GW68,T1177,"Die verskil tussen die langste en kortste loopbaan is 1,252 meter.",C
+1065,GW28,T1177,John F. Kennedy Internasionale Vliegveld dien tientallen miljoene passasiers elke jaar.,E
+1066,GW28,T1177,John F. Kennedy International Airport is die drukste vliegveld in Amerika.,N
+1067,GW28,T1177,John F. Kennedy Internasionale Vliegveld word uitsluitlik gebruik vir vliegtuie.,C
+1068,GW0,T1177,"Norwegian Air Shuttle is gefokus uit Queens, New York.",E
+1069,GW0,T1177,JFK is die grootste vliegveld in New York.,N
+1070,GW0,T1177,JFK se skane is gemaak van slegs een oppervlak.,C
+1071,GW22,T1179,"Brigadier Gerard was 'n Britse Thoroughbred raspaar en sire, wat in 1968 geslaan is.",E
+1072,GW22,T1179,John L. Hislop het slegs Brigadier Gerard opgevoed.,N
+1073,GW22,T1179,Die coach van Brigadier Gerard is Mr & Mrs. John L. Hislop.,C
+1074,GW28,T1179,Brigadier Gerard is 'n Britse manlike raspaard.,E
+1075,GW28,T1179,Brigadier Gerard is opgevoed om te hardloop op die internasionale perde-race circuit.,N
+1076,GW28,T1179,Brigadier Gerard het 'n perfekte loopbaan-wins-verlies rekord,C
+1077,GW1,T1179,Daar was slegs een wedloop wat Brigadier Gerard hardloop wat nie deur die perd gewen is nie.,E
+1078,GW1,T1179,Groot-Brittanje is die enigste land waar Brigadier Gerard in gerig het.,N
+1079,GW1,T1179,Brigadier Gerard is in die begin van die 20ste eeu verval.,C
+1080,GW4,T1182,Bradley Cooper was vir 'n jaar getroud.,E
+1081,GW4,T1182,Bradley Cooper woon saam met Irina Shayk.,N
+1082,GW4,T1182,Bradley Cooper het in die Verenigde Koninkryk geleef.,C
+1083,GW28,T1182,Bradley Cooper is 'n bekroonde Amerikaanse akteur.,E
+1084,GW28,T1182,Bradley Cooper het 'n dogter.,N
+1085,GW28,T1182,Bradley Cooper is sedert sy tienerjare aktief.,C
+1086,GW12,T1182,"Die winter van 1975 was toe Bradley Cooper, die akteur, gebore is.",E
+1087,GW12,T1182,Bradley Cooper woon sedert 1975 in Philadelphia.,N
+1088,GW12,T1182,Jennifer Esposito en Irina Shayk is beide getroud met Bradley Cooper.,C
+1089,GW28,T1212,Glacier Nasionale Park is meer as 'n miljoen hectare en meer as 'n eeu oud.,E
+1090,GW28,T1212,Glacier Nasionale Park is 'n Amerikaanse park wat baie wilde diere bevat.,N
+1091,GW28,T1212,Glacier Nasionale Park is minder as 'n eeu gelede 'n park aangewys.,C
+1092,GW27,T1212,Glacier Nasionale Park is in twee County naby Columbia Falls.,E
+1093,GW27,T1212,Glacier Nasionale Park is deel van die wêreld se eerste internasionale vrede park.,N
+1094,GW27,T1212,Glacier Nasionale Park het meer hectare as 2018 besoekers.,C
+1095,GW12,T1212,Glacier Nasionale Park het meer as 2 miljoen besoekers in die jaar 2018.,E
+1096,GW12,T1212,"Glacier Nasionale Park, wat deel is van die Waterton-Glacier Internasionale Vrede Park, is in die lente van 1910 gestig.",N
+1097,GW12,T1212,"Glacier Nasionale Park bestaan uit 'n graafskap, Flathead County, in Montana.",C
+1098,GW28,T1241,Atari 2600 is 'n Amerikaanse spelkonsole.,E
+1099,GW28,T1241,Atari 2600 het met verskeie bestuurder-inputs ingesluit.,N
+1100,GW28,T1241,Atari 2600 is slegs in die land verkoop.,C
+1101,GW22,T1241,"Atari 2600 ook bekend as Atari VCS is vervaardig deur Atari, Inc. is 'n tweede generasie huis video game konsole.",E
+1102,GW22,T1241,Die aanvanklike prys van Atari 2600 was US $ 199 in 1977 en dit was die duurste huis video game konsole op daardie tyd.,N
+1103,GW22,T1241,Die Atary 2600 het 64 byte RAM en 16-bits MOS-tegnologie 6507 @ 1.19 MHz.,C
+1104,GW6,T1241,Die Atari 2600 is gestop 14 jaar nadat dit in Europa vrygestel is.,E
+1105,GW6,T1241,Atari 2600 kos $ 199 toe dit gestop is.,N
+1106,GW6,T1241,Konsole met 128 byte RAM is nie compatibel met joystick nie.,C
+1107,GW28,T1265,Brian May is 'n bekroonde Britse rockmusikus.,E
+1108,GW28,T1265,"Brian May het drie kinders, 'n seun en twee meisies.",N
+1109,GW28,T1265,Brian May se wetenskaplike prestasies het hom beroemd gemaak.,C
+1110,GW35,T1265,Brian May het op 53-jarige ouderdom met Anita Dobson getroud.,E
+1111,GW35,T1265,Anita Dobson het drie kinders.,N
+1112,GW35,T1265,Brian May het in 2005 geen toekenning gewen nie.,C
+1113,GW1,T1265,Brian May is al meer as 50 jaar aktief.,E
+1114,GW1,T1265,Al drie van Brian May se kinders was saam met Christine Mullen.,N
+1115,GW1,T1265,Brian May is in die winter van 1947 gebore.,C
+1116,GW28,T1267,Brandon Richard Flowers is 'n Amerikaanse musikant.,E
+1117,GW28,T1267,Brandon Richard Flowers is 'n bekroonde musikant.,N
+1118,GW28,T1267,Brandon Richard Flowers is sedert sy tienerjare aktief.,C
+1119,GW27,T1267,Brandon Richard Flowers is in Nevada gebore.,E
+1120,GW27,T1267,Brandon Richard Flowers is die bekendste vir sy alternatiewe rock.,N
+1121,GW27,T1267,Brandon Richard Flowers het meer geassosieerde akte as etikette wat hy gehad het.,C
+1122,GW22,T1267,Brandon Flowers se geboortenaam is Brandon Richard Flowers en hy is op 21 Junie 1981 gebore.,E
+1123,GW22,T1267,Brandon Flowers Besighede sluit Singer-songwriter en musiek alleen in.,N
+1124,GW22,T1267,Brandon Flowers kan geen instrumente speel nie en word slegs geassosieer met Vertigo-label.,C
+1125,GW2,T1287,Die American Automobile Association bied hulp langs die pad en verkoop kaarte.,E
+1126,GW2,T1287,Die American Automobile Association verskaf kaarte vir meer as 1000 bestemmings regoor die wêreld.,N
+1127,GW2,T1287,Die American Automobile Association is hoofkwartier in Chicago.,C
+1128,GW28,T1287,American Automobile Association is 'n eeu-oude nie-winsgewende organisasie wat toegewy is aan motorveiligheid.,E
+1129,GW28,T1287,Die American Automobile Association is die oudste organisasie in Amerika wat toegewy is aan die ondersteuning van motorbestuurders.,N
+1130,GW28,T1287,American Automobile Association is 'n openbaar gefinansierde regeringsorganisasie.,C
+1131,GW12,T1287,American Automobile Association is 'n nie-winsgewende organisasie wat spesialiseer in padhulp.,E
+1132,GW12,T1287,"Heathrow, Florida is die hoofkwartier van die American Automobile Association.",N
+1133,GW12,T1287,"Die American Automobile Association net dienste insluit kaarte, reis gidse en motor batterye.",C
+1134,GW22,T1311,Die Royal Society of Edinburgh het meer as 1600 lede.,E
+1135,GW22,T1311,Professor Dame Anne Glover is die enigste president van die Royal Society of Edinburgh.,N
+1136,GW22,T1311,Die Royal Society of Edinburgh fokus uitsluitlik op Wetenskap en Tegnologie.,C
+1137,GW28,T1311,Die Royal Society of Edinburgh is 'n Britse liefdadigheidsorganisasie.,E
+1138,GW28,T1311,Die Royal Society of Edinburgh vertrou op honderde vrywilligers.,N
+1139,GW28,T1311,Die Royal Society of Edinburgh is gestig om die Britse koninkryk te bevorder.,C
+1140,GW27,T1311,Die Royal Society of Edinburgh het sy oorsprong in 1737 en word in Skotland gevind.,E
+1141,GW27,T1311,Die motto van die Royal Society of Edinburgh is in Latyn.,N
+1142,GW27,T1311,Die Royal Society of Edinburgh het meer stigters as fokus.,C
+1143,GW17,T1369,Die FSU Mascot is die Seminole.,E
+1144,GW17,T1369,FSU het die grootste begroting van alle kolleges in Amerika.,N
+1145,GW17,T1369,FSU is geleë in Georgië.,C
+1146,GW22,T1369,Florida State University is gestig in 1851 en sy president is John E. Thrasher.,E
+1147,GW22,T1369,State universiteit is die tipe van Florida State University.,N
+1148,GW22,T1369,Florida State University het meer postgraduate as undergraduate in die herfs 2017.,C
+1149,GW28,T1369,Florida State University is 'n Amerikaanse onderwysinstelling.,E
+1150,GW28,T1369,Die bynaam Florida State University is afgelei van 'n plaaslike inheemse Amerikaanse stam.,N
+1151,GW28,T1369,Florida State University is gestig in die 20ste eeu.,C
+1152,GW12,T1390,Cape Cross is 'n stallion wat 'n geskiedenis met Ahonoora en Green Desert deel.,E
+1153,GW12,T1390,Ierland is die land waar die Cape Cross in 1994 geslaan is.,N
+1154,GW12,T1390,Godolphin Racing is die eienaar van Cape Cross sedert 1994.,C
+1155,GW4,T1390,Die paard Cape Cross was 'n manlike perd.,E
+1156,GW4,T1390,Die perd Cape Cross het die meeste van hul rasse gewonnen.,N
+1157,GW4,T1390,Die perd Cape Cross het meer as 'n miljoen dollar gemaak.,C
+1158,GW27,T1390,Die sire van Cape Cross was Green Desert en sy kleinkind was Danzig.,E
+1159,GW27,T1390,Cape Cross is opgevoed vir Godolphin Racing.,N
+1160,GW27,T1390,Die kleur van Cape Cross is dieselfde as die naam van sy sire.,C
+1161,GW4,T1395,National Rail begin in Liverpool Engeland.,E
+1162,GW4,T1395,Die Nasionale Spoorweg loop daagliks vir meer as 170 jaar.,N
+1163,GW4,T1395,Die Nasionale Spoorweg is nooit met ander spoorweë gegroepeer nie.,C
+1164,GW0,T1395,Die Broadgreen-trein is in die herfs van 1830 geopen.,E
+1165,GW0,T1395,Broadgreen is die drukste stasie in Liverpool.,N
+1166,GW0,T1395,Die pre-grouping en post-grouping van Broadgreen het dieselfde gebly.,C
+1167,GW72,T1395,Die stasie kode BGE word bestuur deur Northern,E
+1168,GW72,T1395,Die stasie het altyd 2 stasies bedryf,N
+1169,GW72,T1395,Broadgreen is gestig na 1830,C
+1170,GW1,T1404,Die laaste dekade van die 20ste eeu is toe Kaya Scodelario gebore is.,E
+1171,GW1,T1404,Kaya Scodelario het altyd in Engeland geleef.,N
+1172,GW1,T1404,Die loopbaan van Kaya Scodelario het meer as 'n dekade en 'n half.,C
+1173,GW84,T1404,Kaya Scodelario is gebore met 'n ander voornaam.,E
+1174,GW84,T1404,Kaya Scodelario het begin optree terwyl hy in Londen woon.,N
+1175,GW84,T1404,Kaya Scodelario is al meer as tien jaar akteur.,C
+1176,GW4,T1404,Kaya Scodelario het begin optree toe hulle 15 was.,E
+1177,GW4,T1404,Kaya Scodelario het altyd in Engeland geleef.,N
+1178,GW4,T1404,“Kaya Scodelario” het geen kinders nie.,C
+1179,GW4,T1406,Kazakh Khanate het die hoofstad 'n paar keer verhuis.,E
+1180,GW4,T1406,Die Kazakh Khanate het slegs Islam beoefen.,N
+1181,GW4,T1406,Die Kazakh Khanate het meer as 500 jaar geduur.,C
+1182,GW28,T1406,Kazakh Khanate was 'n gebied wat bestuur word deur 'n monarg.,E
+1183,GW28,T1406,Kazakh Khanate was 'n multi-etnische Islamitiese gebied.,N
+1184,GW28,T1406,Kazakh Khanate is in die 14de eeu gestig.,C
+1185,GW1,T1406,Kazakh Khanate is op die keer van die 19de eeu ontbind.,E
+1186,GW1,T1406,Kazakh Khanate het altyd 'n monargie gehad as dit die regering is.,N
+1187,GW1,T1406,Kazakh Khanate het meer as ses verskillende hoofstede gehad.,C
+1188,GW14,T1412,Slave Labor Graphics het ten minste een maandelikse reeks gepubliseer.,E
+1189,GW14,T1412,Elke uitgawe van Johnny the Homicidal Maniac het meer verkoop as die vorige.,N
+1190,GW14,T1412,Jy kan volgende maand 'n nuwe uitgawe van Johnny the Homicidal Maniac kry.,C
+1191,GW84,T1412,Johnny the Homicidal Maniac kom 'n keer per maand uit.,E
+1192,GW84,T1412,“Johnny the Homicidal Maniac” het geëindig toe Johnny C. oorlede is.,N
+1193,GW84,T1412,Johnny die Homicidal Maniac is 'n aksie komedie.,C
+1194,GW4,T1412,Johnny die Homicidal Maniac is in die 90's geproduseer.,E
+1195,GW4,T1412,Johnny the Homicidal Maniac is gebaseer op 'n ander komiek.,N
+1196,GW4,T1412,Johnny the Homicidal Maniac kom elke week uit toe dit geproduseer is.,C
+1197,GW14,T1435,Kapil Sharma is in die 21ste eeu getroud.,E
+1198,GW14,T1435,Kapil Sharma het sy vrou in sy geboortestad Amritsar ontmoet.,N
+1199,GW14,T1435,Kapil Sharma is oud genoeg om sosiale versekering te versamel.,C
+1200,GW28,T1435,Kapil Sharma is 'n entertainer van die 21ste eeu.,E
+1201,GW28,T1435,Kapil Sharma is 'n Engelstalige entertainer uit Indië.,N
+1202,GW28,T1435,Kapil Sharma is sedert sy tienerjare aktief.,C
+1203,GW84,T1435,Kapil Sharma is 'n nuwe gesin.,E
+1204,GW84,T1435,Kapil Sharma het hul hele lewe in Indië geleef.,N
+1205,GW84,T1435,Kapil Sharma is al 'n paar jaar getroud.,C
+1206,GW1,T1436,Kate Micucci se verjaardag val op die laaste dag van die maand.,E
+1207,GW1,T1436,Kate Micucci was 'n komediant voordat sy 'n singer-songwriter was.,N
+1208,GW1,T1436,Kate Micucci het 'n loopbaan vir meer as twee dekades.,C
+1209,GW84,T1436,Kate Micucci het getroud toe sy in haar 30s was.,E
+1210,GW84,T1436,Kate Micucci het haar hele lewe op die ooste kus geleef.,N
+1211,GW84,T1436,Kate Micucci is al sedert sy tieners was.,C
+1212,GW4,T1436,Kate Micucci het getroud toe hulle 38 jaar oud was.,E
+1213,GW4,T1436,Kate Micucci het begin sing voordat hulle 'n komediant geword het.,N
+1214,GW4,T1436,Kate Micucci het na die kollege gegaan in dieselfde staat waarin hulle gebore is.,C
+1215,GW1,T1440,Keeping Up with the Joneses het geld verloor by die kassa in vergelyking met sy begroting.,E
+1216,GW1,T1440,Keeping Up with the Joneses is heeltemal in 2016 gefilm.,N
+1217,GW1,T1440,Keeping Up with the Joneses neem meer as twee uur om te kyk.,C
+1218,GW84,T1440,Keeping Up with the Joneses duur minder as twee uur.,E
+1219,GW84,T1440,Keeping Up with the Joneses was die eerste film van Greg Mottola.,N
+1220,GW84,T1440,Keeping Up with the Joneses het twee keer soveel geld in die kassa gemaak as wat dit begroting gehad het.,C
+1221,GW28,T1440,Keeping Up with the Joneses het minder geld geneem as wat dit gekos het om te produseer.,E
+1222,GW28,T1440,"Keeping Up with the Joneses is goed ontvang deur kritici, maar nie die gehoor nie.",N
+1223,GW28,T1440,Keeping Up with the Joneses was 'n lae begroting onafhanklike film.,C
+1224,GW1,T1443,Karachi het 'n halwe dosyn distrikte.,E
+1225,GW1,T1443,Karachi is altyd geleë in wat Pakistan genoem word.,N
+1226,GW1,T1443,Die tweede dekade van die 21ste eeu is wanneer Karachi 'n Metropolitan Corporation geword het.,C
+1227,GW28,T1443,Karachi is 'n stad wat bestaan uit verskeie distrikte.,E
+1228,GW28,T1443,Karachi is die hoofstad en die grootste stad van Pakistan.,N
+1229,GW28,T1443,Karachi is 'n klein dorpie wat deur dorpie-ouders bestuur word.,C
+1230,GW85,T1443,“Karachi” is in Pakistan.,E
+1231,GW85,T1443,Daar is slegs ses distrikte in Karachi.,N
+1232,GW85,T1443,Karachi is nie 'n metropolitaanse gebied nie.,C
+1233,GW84,T1444,Kasabian is al meer as twintig jaar op die toneel.,E
+1234,GW84,T1444,Kasabian is eers onderteken met RCA.,N
+1235,GW84,T1444,Kasabian is 'n band van die Verenigde State.,C
+1236,GW28,T1444,Kasabian is 'n Engelse rockband.,E
+1237,GW28,T1444,Kasabian het talle toekennings vir hul musiek gekry.,N
+1238,GW28,T1444,Kasabian het slegs met kleiner onafhanklike etikette gewerk.,C
+1239,GW4,T1444,Kasabian is al meer as 20 jaar op die toneel.,E
+1240,GW4,T1444,Kasabian het 'n album met Oasis opgeteken.,N
+1241,GW4,T1444,Kasabian is bekend vir die speel van jazz musiek.,C
+1242,GW28,T1446,Jennifer Aniston het na skool in New York gegaan.,E
+1243,GW28,T1446,Jennifer Aniston besit verskeie besighede.,N
+1244,GW28,T1446,Jennifer Aniston is sedert haar vroeë twintig jaar aktief.,C
+1245,GW74,T1446,Jennifer Aniston was ten minste 17 toe sy professionele loopbaan begin het.,E
+1246,GW74,T1446,Jennifer Aniston het Brad Pitt na haar 31ste verjaarsdag getroud.,N
+1247,GW74,T1446,Jennifer Aniston woon in 'n ander staat as waar sy gebore is.,C
+1248,GW1,T1446,Jennifer Aniston se loopbaan het meer as drie dekades tot dusver uitgebrei.,E
+1249,GW1,T1446,Jennifer Aniston het altyd in Kalifornië geleef.,N
+1250,GW1,T1446,Die val van 1969 is wanneer Jennifer Aniston gebore is.,C
+1251,GW84,T1449,Kareem Abdul-Jabbar het in die 1960's na die kollege gegaan.,E
+1252,GW84,T1449,Kareem Abdul-Jabbar het die toekennings van sy nuwe jaar in die NBA gewonnen.,N
+1253,GW84,T1449,Kareem Abdul-Jabbar speel meer as vier dekades lank basketbal.,C
+1254,GW4,T1449,Kareem Abdul-Jabbar was 'n eerste ronde kies vir basketbal.,E
+1255,GW4,T1449,"Kareem Abdul-Jabbar het die meeste van die wedstryde wat hy in was, gewonnen.",N
+1256,GW4,T1449,Kareem Abdul-Jabbar het professionele basketbal gespeel in dieselfde staat wat hy na hoërskool gegaan het.,C
+1257,GW28,T1449,Kareem Abdul-Jabbar het vir dertig jaar as 'n sentrum gespeel.,E
+1258,GW28,T1449,Kareem Abdul-Jabbar het kampioene met die Los Angeles Lakers.,N
+1259,GW28,T1449,Kareem Abdul-Jabbar is in sy eerste jaar van kollege opgestel.,C
+1260,GW4,T1456,Jupiter neem meer as 10 jaar om die son te draai.,E
+1261,GW4,T1456,Jupiter is die grootste planeet in die sonnestelsel.,N
+1262,GW4,T1456,Jupiter het 'n baie hoë eksentrisiteit.,C
+1263,GW84,T1456,Jupiter het meer as 'n dosyn bekende satelliete.,E
+1264,GW84,T1456,Wetenskaplikes is nog steeds studeer om satelliete van Jupiter te vind.,N
+1265,GW84,T1456,Die orbitale spoed van Jupiter is minder as 5 km / s.,C
+1266,GW1,T1456,Die neiging van Jupiter na die son se ekvator is groter as 'n halwe dosyn grade.,E
+1267,GW1,T1456,Meer satelliete is gevind om Jupiter te draai sedert 2018.,N
+1268,GW1,T1456,Die orbitale periode van Jupiter is meer as 12 keer so lank as die aarde se.,C
+1269,GW0,T1457,Jimmy Fallon speel al meer as 20 jaar.,E
+1270,GW0,T1457,Jimmy Falon het sy eerste boek in 1998 geskryf.,N
+1271,GW0,T1457,Jimmy Fallon is nog nie getroud nie.,C
+1272,GW84,T1457,Jimmy Fallon het die kollege bygewoon.,E
+1273,GW84,T1457,Jimmy Fallon het in die 90's aan die kollege bygewoon.,N
+1274,GW84,T1457,Jimmy Fallon is al meer as 20 jaar getroud.,C
+1275,GW1,T1457,Jimmy Fallon se loopbaan is al meer as twee dekades aan die gang.,E
+1276,GW1,T1457,Die moeder van Jimmy Fallon se twee kinders is Nancy Juvonen.,N
+1277,GW1,T1457,Jimmy Fallon is in die somer van 1974 gebore.,C
+1278,GW84,T1464,John James Rickard Macleod was in sy vyftigste jaar toe hy gesterf het.,E
+1279,GW84,T1464,John James Rickard Macleod was op die top van sy klas toe hy aan die Universiteit van Aberdeen besoek het.,N
+1280,GW84,T1464,John James Rickard Macleod het in 'n land buite sy geboorte gesterf.,C
+1281,GW1,T1464,"John James Rickard Macleod, FRS het die dood in die lente van 1935 gekonfronteer.",E
+1282,GW1,T1464,"John James Rickard Macleod, FRS het die Nobelprys in Fisiologie of Geneeskunde gedeel met die ander mede-ontdekker(s) van insulien.",N
+1283,GW1,T1464,"John James Rickard Macleod, FRS is in die vroeë 19de eeu gebore.",C
+1284,GW28,T1464,"John James Rickard Macleod, FRS was 'n Britse Nobelpryswinnaar.",E
+1285,GW28,T1464,"John James Rickard Macleod, FRS het insulien ontdek terwyl hy nog op universiteit was.",N
+1286,GW28,T1464,"Die Nobelprys is toegeken aan John James Rickard Macleod, FRS terwyl hy in sy twintigste was.",C
+1287,GW28,T1473,Jimson Weed is 'n kunswerk wat deur 'n vrou geskep is.,E
+1288,GW28,T1473,Jimson Weed was Georgia O'keeffe se bekendste kunswerk.,N
+1289,GW28,T1473,Jimson Weed is 'n 19de eeu kunswerk.,C
+1290,GW68,T1473,Jimson Weed is deur 'n vroulike kunstenaar en tans in Indiana.,E
+1291,GW68,T1473,Jimson Weed is verkoop aan die Indianpolis Museum of Art vir twee miljoen dollar.,N
+1292,GW68,T1473,Die kunststuk Jimson Weed is twee jaar na Georgia O'Keeffe se dood gemaak.,C
+1293,GW0,T1473,Jimson Weed is geleë in die hoofstad van Indiana.,E
+1294,GW0,T1473,Jimson Weed was Georgia O'Keefe se eerste verkochte skildery.,N
+1295,GW0,T1473,Jimson Weed is breër as wat dit hoog is.,C
+1296,GW1,T1477,In die somer van 1977 is “Kanye West” gebore.,E
+1297,GW1,T1477,Al die kinders van Kanye West is met Kim Kardashian vasgestel.,N
+1298,GW1,T1477,Kanye West is meer as 'n derde van 'n miljard dollar waard.,C
+1299,GW84,T1477,Kanye West het verskeie toekennings gewen.,E
+1300,GW84,T1477,"Alle kinders van Kanye West is vir sy vrou, Kim.",N
+1301,GW84,T1477,Kanye West is in dieselfde staat gebore waarin hy nou leef.,C
+1302,GW4,T1477,Kanye West speel al 23 jaar.,E
+1303,GW4,T1477,Kanye West het al sy drie kinders met Kim Kardashian gehad.,N
+1304,GW4,T1477,Kanye West kom van New York City.,C
+1305,GW1,T1491,Judith en die kop van Holofernes is minder as 'n voet en 'n half breed op sy smalste punt.,E
+1306,GW1,T1491,Die...austriese Galerie het Judith en die Hoof van Holofernes omdat dit geleen is.,N
+1307,GW1,T1491,Judith en die kop van Holofernes is aan die einde van die 19de eeu geverf.,C
+1308,GW84,T1491,Judith en die kop van Holofernes is in die 1900's geverf.,E
+1309,GW84,T1491,Die kunstenaar van Judith en die kop van Holofernes was van Wene.,N
+1310,GW84,T1491,Judith en die hoof van Holofernes is gemaak in steenkool.,C
+1311,GW28,T1491,Judith en die kop van Holofernes is 'n 20ste eeu kunswerk.,E
+1312,GW28,T1491,Gustav Klimt se gunsteling skildery was Judith en die kop van Holofernes.,N
+1313,GW28,T1491,Judith en die kop van Holofernes is op 'n massiewe doek geverf.,C
+1314,GW1,T1500,Die geboorte van John Napier het reg in die middelpunt van die 16de eeu plaasgevind.,E
+1315,GW1,T1500,John Napier het sy hele lewe in Skotland geleef.,N
+1316,GW1,T1500,Die somer van 1617 was toe John Napier gesterf het.,C
+1317,GW84,T1500,John Napier is in dieselfde land gebore en gesterf.,E
+1318,GW84,T1500,“John Napier” ontmoet Henry Briggs.,N
+1319,GW84,T1500,“John Napier” het nie aan die kollege toe gegaan nie.,C
+1320,GW4,T1500,John Napier het gehelp om wiskundige konsepte te ontwikkel.,E
+1321,GW4,T1500,John Napier het hul hele lewe in Skotland geleef.,N
+1322,GW4,T1500,John Napier het gesterf toe hulle 50 was.,C
+1323,GW1,T1502,Die somermaande van 1850 is wanneer Karl Ferdinand Braun gebore is.,E
+1324,GW1,T1502,Karl Ferdinand Braun se Nobelprys in Fisika was te danke aan sy werk wat verband hou met die katode-straalbuis.,N
+1325,GW1,T1502,Karl Ferdinand Braun het in dieselfde eeu gesterf waarin hy gebore is.,C
+1326,GW84,T1502,Karl Ferdinand Braun het meer as een universiteit bygewoon.,E
+1327,GW84,T1502,Karl Ferdinand Braun het slegs een prys gekry.,N
+1328,GW84,T1502,Karl Ferdinand Braun is in dieselfde land gebore en gesterf.,C
+1329,GW4,T1502,Karl Ferdinand Braun het 'n prys vir hul uitvindings gewen.,E
+1330,GW4,T1502,Karl Ferdinand Braun het nooit 'n televisie gesien nie.,N
+1331,GW4,T1502,Karl Ferdinand Braun het hul hele lewe in Duitsland liefgehad.,C
+1332,GW4,T1503,Jim Belushi het drie vroue gehad.,E
+1333,GW4,T1503,Jim Belushi het al drie kinders met Jennifer Sloan gehad.,N
+1334,GW4,T1503,Jim Belushi het begin optree toe hulle 10 was.,C
+1335,GW28,T1503,“Jim Belushi” is 'n entertainer.,E
+1336,GW28,T1503,Jim Belushi is 'n twee keer geskei pa van drie meisies.,N
+1337,GW28,T1503,Jim Belushi het sy loopbaan in sy tienerjare begin.,C
+1338,GW86,T1503,Jim Belushi het as 'n entertainer gewerk.,E
+1339,GW86,T1503,“Jim Belushi” het 'n seun.,N
+1340,GW86,T1503,Jim Belushi was aktief in sy opgetelde beroepe in die vroeë 1970's.,C
+1341,GW0,T1508,Josta het minder as vyf jaar geduur voordat dit gestop is.,E
+1342,GW0,T1508,Josta was PepsiCo se minst verkoop softdrink gedurende die 1990's.,N
+1343,GW0,T1508,PepsiCo het nog nooit probeer om 'n energiedrank te maak nie.,C
+1344,GW1,T1508,Josta is vir die eerste keer gemaak in die laaste 10 jaar van die 20ste eeu.,E
+1345,GW1,T1508,“Josta” is meer soos Jolt as Surge.,N
+1346,GW1,T1508,Josta is nog in die 21ste eeu gemaak.,C
+1347,GW84,T1508,Josta is 'n drank wat in die 1990's gewild was.,E
+1348,GW84,T1508,Mense het in 1998 begin om Josta te verbied.,N
+1349,GW84,T1508,Niemand kan Josta sedert 1997 drink nie,C
+1350,GW4,T1512,John McCain het sy eerste politieke oorwinning in die 90's gehad.,E
+1351,GW4,T1512,John McCain was in die kantoor 'n paar afsonderlike tye.,N
+1352,GW4,T1512,John McCain het nooit teruggekeer na die kantoor sedert 2005.,C
+1353,GW28,T1512,John McCain het verskeie stints in die kantoor gedoen.,E
+1354,GW28,T1512,John McCain was 'n Amerikaanse politikus.,N
+1355,GW28,T1512,John McCain het in die twintigste eeu verskeie keer in die kantoor gedien.,C
+1356,GW40,T1512,John McCain het twee volle jaar in die kantoor spandeer.,E
+1357,GW40,T1512,"John McCain is beide voorafgegaan en gevolg deur dieselfde persoon, Ben Nighthorse Campbell.",N
+1358,GW40,T1512,"John McCain het opeenvolgende jare in die kantoor gebly, wat in 1995 begin en in 2007 eindig.",C
+1359,GW84,T1516,Justice League Dark loop vir meer as 'n uur.,E
+1360,GW84,T1516,Justice League Dark is die enigste produksie wat Jay Oliva regisseer.,N
+1361,GW84,T1516,Justice League Dark is in die 1990's vrygestel.,C
+1362,GW1,T1516,"Justice League Dark het 'n loop tyd wat minder as 1,5 uur lank is.",E
+1363,GW1,T1516,Ernie Altbacker het die storie vir Justice League Dark uitgevind voordat J. M. DeMatteis hom begin help.,N
+1364,GW1,T1516,Justice League Dark is eers in die somer van 2017 vrygestel.,C
+1365,GW4,T1516,Justice League Dark het 'n storie en scenario van dieselfde persoon gehad.,E
+1366,GW4,T1516,Justice League Dark het 'n wins op die kassa gemaak.,N
+1367,GW4,T1516,Justice League Dark het 'n span wat die musiek geskryf het.,C
+1368,GW1,T1518,Die somer van 1993 is toe Jurassic Park vir die eerste keer sy premier gemaak het.,E
+1369,GW1,T1518,Sam Neill was nie oorspronklik bedoel om in Jurassic Park te speel nie.,N
+1370,GW1,T1518,Jurassic Park se loop tyd is minder as twee uur.,C
+1371,GW84,T1518,Jurassic Park is gebaseer op 'n boek.,E
+1372,GW84,T1518,Jurassic Park is dieselfde jaar in ander lande as die VSA vrygestel.,N
+1373,GW84,T1518,Jurassic Park loop vir minder as twee uur.,C
+1374,GW28,T1518,Jurassic Park was 'n roman wat 'n Hollywood-film geword het.,E
+1375,GW28,T1518,Jurassic Park was die beste film van 1993.,N
+1376,GW28,T1518,Jurassic Park was nie winsgewend vir die filmstudio nie.,C
+1377,GW4,T1534,Joe Rogan het getroud toe hy in sy veertig was.,E
+1378,GW4,T1534,Joe Rogan het albei sy kinders met Jessica Ditzel gehad.,N
+1379,GW4,T1534,Joe Rogan het begin staan op toe hy 16 was.,C
+1380,GW0,T1534,Joe Rogan is al meer as dertig jaar komiese optrede.,E
+1381,GW0,T1534,Die twee dogters van Joe Rogan is genoem na sy vrou.,N
+1382,GW0,T1534,Joe Rogan het na die kollege aan die Westkust gegaan.,C
+1383,GW1,T1534,Joe Rogan se loopbaan is al meer as 30 jaar sterk.,E
+1384,GW1,T1534,Die ma van beide Joe Rogan se kinders is Jessica Ditzel.,N
+1385,GW1,T1534,Joe Rogan is al 15 jaar getroud.,C
+1386,GW4,T1544,Johnny Cash het twee vroue gehad.,E
+1387,GW4,T1544,Johnny Cash het al sy kinders met June Carter gehad.,N
+1388,GW4,T1544,Johnny Cash gebruik dieselfde naam met wat hy gebore is.,C
+1389,GW84,T1544,Johnny Cash was in sy sewentigste toe hy gesterf het.,E
+1390,GW84,T1544,Johnny Cash was by Sun Records voordat hy met Mercury was.,N
+1391,GW84,T1544,Johnny Cash was 'n enigste kind.,C
+1392,GW1,T1544,Johnny Cash het gedurende twee verskillende eeue geleef.,E
+1393,GW1,T1544,Alle kinders van Johnny Cash het dieselfde biologiese ma gehad.,N
+1394,GW1,T1544,Johnny Cash het 'n loopbaan gehad wat oor meer as vyf dekades strek.,C
+1395,GW28,T1545,Jim Mattis het 44 jaar in die militêre diens gedien.,E
+1396,GW28,T1545,Jim Mattis het verskeie kommando's van Amerikaanse mariniers na die oorwinning in die Midde-Ooste gelei.,N
+1397,GW28,T1545,Jim Mattis was die hoof van die Joint Chiefs of Staff.,C
+1398,GW84,T1545,Jim Mattis was in die Amerikaanse weermag.,E
+1399,GW84,T1545,Jim Mattis was die beste bekend as Mad Dog.,N
+1400,GW84,T1545,Jim Mattis het meer as vyftig jaar in die militêre diens gedien.,C
+1401,GW0,T1545,Jim Mattis het meer as veertig jaar in die weermag gedien.,E
+1402,GW0,T1545,Jim Mattis lei die 1ste Marine Division tydens die oorlog in Irak.,N
+1403,GW0,T1545,Jim Mattis is nog steeds aktief in die Marine Corps.,C
+1404,GW4,T1550,J?rgen Skafte Rasmussen het vier kinders gehad.,E
+1405,GW4,T1550,J?rgen Skafte Rasmussen het altyd in Denemarke geleef.,N
+1406,GW4,T1550,J?rgen Skafte Rasmussen was bekend vir hul besigheidsvaardighede.,C
+1407,GW84,T1550,Jürgen Skafte Rasmussen is in dieselfde land gebore en gesterf.,E
+1408,GW84,T1550,Jérgen Skafte Rasmussen se kinders was almal vir sy vrou Theresie.,N
+1409,GW84,T1550,J?rgen Skafte Rasmussen het net as ingenieur gewerk.,C
+1410,GW1,T1550,J?rgen Skafte Rasmussen het dieselfde nationaliteit gehad waar hy gebore is.,E
+1411,GW1,T1550,J?rgen Skafte Rasmussen het altyd in Denemarke geleef.,N
+1412,GW1,T1550,Jérgen Skafte Rasmussen is getroud met Theresie Liebe.,C
+1413,GW1,T1557,Die Oos-West Jerusalem divisie het in Jerusalem by die keer van die 20ste eeu plaasgevind.,E
+1414,GW1,T1557,Meer mense praat Hebreeus as Arabies in Jerusalem.,N
+1415,GW1,T1557,Die Gihon Spring nederlaag (Jerusalem) het meer as 225 jaar lank geduur.,C
+1416,GW4,T1557,“Jerusalem” in die 1900’s verdeel.,E
+1417,GW4,T1557,Jerusalem is al meer as 5000 jaar 'n stad.,N
+1418,GW4,T1557,“Jerusalem” het 'n groot taal.,C
+1419,GW14,T1557,"Oos- en Wes-Jerusalem het minder as 'n kwart eeu nadat dit verdeel is, teruggekom.",E
+1420,GW14,T1557,Baie voorouers van die Gihon Spring-bevolking het na die Stad van Dawid gemigreer.,N
+1421,GW14,T1557,Die mure van die Oude Stad van Jerusalem is na sy hereniging gebou.,C
+1422,GW84,T1562,Jun-ichi Nishizawa het by verskillende universiteite gewerk.,E
+1423,GW84,T1562,Jun-ichi Nishizawa was by Tohoku Universiteit vir langer as Sophia Universiteit.,N
+1424,GW84,T1562,Jun-ichi Nishizawa het die Edison-medalje posthumous na sy dood ontvang.,C
+1425,GW28,T1562,Die IEEE Edison Medal is toegeken aan Jun-ichi Nishizawa in sy 70's.,E
+1426,GW28,T1562,Jun-ichi Nishizawa was 'n Japannese man wetenskaplike.,N
+1427,GW28,T1562,Jun-ichi Nishizawa is afgestudeer van verskeie universiteite.,C
+1428,GW1,T1562,Jun-ichi Nishizawa het 'n loopbaan by dieselfde universiteit gehad waar hy skool toe gegaan het.,E
+1429,GW1,T1562,Beide van Jun-ichi Nishizawa se toekennings is aan hom in die 21ste eeu gegee.,N
+1430,GW1,T1562,Die somer van 2018 is wanneer Jun-ichi Nishizawa gesterf het.,C
+1431,GW1,T1580,Die lente van 1979 was toe Kate Hudson gebore is.,E
+1432,GW1,T1580,Kate Hudson het al haar drie kinders met Chris Robinson gehad.,N
+1433,GW1,T1580,Kate Hudson se huwelik het meer as 'n dekade geduur.,C
+1434,GW84,T1580,Kate Hudson is in haar dertigs.,E
+1435,GW84,T1580,Kate Hudson se enigste broer is Oliver.,N
+1436,GW84,T1580,Kate Hudson was onlangs getroud met Matthew.,C
+1437,GW4,T1580,Kate Hudson speel sedert sy 17 was.,E
+1438,GW4,T1580,Kate Hudson het drie kinders met Matthew Bellamy.,N
+1439,GW4,T1580,Kate Hudson het geen bekende ouers nie.,C
+1440,GW1,T1586,Die afstand tot Kappa Coronae Borealis b is meer as 100 ligjaar.,E
+1441,GW1,T1586,Kappa Coronae Borealis b is altyd beskou as deel van die sterrestelsel Corona Borealis.,N
+1442,GW1,T1586,Kappa Coronae Borealis b het 'n duidelike magnitude van meer as 5.,C
+1443,GW28,T1586,Kappa Coronae Borealis b is 'n hemelse voorwerp.,E
+1444,GW28,T1586,Kappa Coronae Borealis b is ontdek deur 'n Griekse astronoom.,N
+1445,GW28,T1586,Kappa Coronae Borealis b is 'n paar ligjaar van die aarde af.,C
+1446,GW4,T1586,Kappa Coronae Borealis b is meer as 100 ligjaar weg.,E
+1447,GW4,T1586,Kappa Coronae Borealis b is groter as die son.,N
+1448,GW4,T1586,Kappa Coronae Borealis b is deel van die constellasie Little Dipper.,C
+1449,GW4,T1592,Joy was in staat om 'n wins op die boks te net.,E
+1450,GW4,T1592,David O. Russell was betrokke by elke aspek van die film Joy.,N
+1451,GW4,T1592,Die film Joy is vrygestel deur Disney.,C
+1452,GW40,T1592,"Joy is geproduseer deur John Davis, Megan Ellison, Jonathan Gordon, Ken Mok en David O. Russell.",E
+1453,GW40,T1592,"Die scenario is geskryf deur David O. Russell, wat ook 'n produkteur is.",N
+1454,GW40,T1592,Joy is 'n film wat geen musiek in dit ingesluit het nie.,C
+1455,GW28,T1592,Joy is 'n Amerikaanse film met bekende Amerikaanse akteurs.,E
+1456,GW28,T1592,Joy is in Desember vrygestel om in 2015 vir 'n Oscar-konflik in aanmerking te kom.,N
+1457,GW28,T1592,Die film was nie winsgewend vir 20th Century Fox nie,C
+1458,GW28,T1598,Judy was 'n hond en mascot van die Koninklike Navy.,E
+1459,GW28,T1598,Judy het verskeie lande besoek terwyl hy in die Koninklike Marine dien.,N
+1460,GW28,T1598,Judy was 'n aangestelde offisier terwyl hy in die Koninklike Marine was.,C
+1461,GW1,T1598,Judy was aktief as 'n skip mascot vir meer as 'n dosyn jaar.,E
+1462,GW1,T1598,Judy het die Dickin-medaljie naby die hond se dood gekry.,N
+1463,GW1,T1598,Judy het in die val van 1950 gesterf.,C
+1464,GW40,T1598,Judy was 'n Pointer hond wat ook 'n mascot vir die Koninklike Navy was.,E
+1465,GW40,T1598,Judy het 'n toekenning ontvang vir 'n lid van die Koninklike Marine.,N
+1466,GW40,T1598,Judy was bekend as 'n Chinese oorlogsgevangene.,C
+1467,GW28,T1600,K. Zipernowsky is in die 19de eeu in Wene gebore.,E
+1468,GW28,T1600,K. Zipernowsky het elektriese ingenieurswese by die Universiteit gestudeer.,N
+1469,GW28,T1600,K. Zipernowsky het gesterf waar hy gebore is.,C
+1470,GW40,T1600,K. Zipernowsky is in 1853 as Carl Zipernowsky gebore.,E
+1471,GW40,T1600,K. Zipernowsky se nationaliteit is Hongaars en Oostenrykse.,N
+1472,GW40,T1600,K. Zipernowsky het nie skool toe gegaan om 'n ingenieur te word nie.,C
+1473,GW84,T1600,K'roly Zipernowsky was bekend onder 'n ander naam.,E
+1474,GW84,T1600,Kóroly Zipernowsky was die top van sy klas by die Tegniese Universiteit van Budapest.,N
+1475,GW84,T1600,K. Zipernowsky was meer as honderd jaar oud toe hy gesterf het.,C
+1476,GW4,T1601,Jimmy Eat World is van die staat Arizona.,E
+1477,GW4,T1601,Die band Jimmy Eat World het tot vandag toe voortgegaan.,N
+1478,GW4,T1601,Die band Jimmy Eat World is slegs op 2 label gedurende hul musiekloopbaan.,C
+1479,GW28,T1601,"Emo popgroep, Jimmy Eat World is van die suidweste van die Verenigde State.",E
+1480,GW28,T1601,Hulle het baie toekennings in hul lang loopbaan gewen.,N
+1481,GW28,T1601,Jimmy Eat World is grotendeels getrou aan hul oorspronklike label.,C
+1482,GW1,T1601,Jimmy Eat World maak musiek vir meer as 25 jaar.,E
+1483,GW1,T1601,Jimmy Eat World het meer musiek op die Capitol-label gemaak as Dreamworks.,N
+1484,GW1,T1601,Jimmy Eat World het in die suidoos-Amerikaanse deel van die VSA begin.,C
+1485,GW1,T1612,Johann Nikolaus von Dreyse is in die laaste paar dekades van die 18de eeu gebore.,E
+1486,GW1,T1612,Johann Nikolaus von Dreyse was 'n ondernemer voor hy 'n uitvinder was.,N
+1487,GW1,T1612,Johann Nikolaus von Dreyse is in die somer van 1867 oorlede.,C
+1488,GW14,T1612,Johann Nikolaus von Dreyse het in sy geboortestad gesterf.,E
+1489,GW14,T1612,Johann Nikolaus von Dreyse het meer as een voorwerp uitgevind.,N
+1490,GW14,T1612,Johann Nikolaus von Dreyse was nooit op die Europese vasteland nie.,C
+1491,GW84,T1612,Johann Nikolaus von Dreyse is in dieselfde stad gebore en gesterf.,E
+1492,GW84,T1612,Die enigste uitvinding van Johann Nikolaus von Dreyse was die naaldpistool.,N
+1493,GW84,T1612,Johann Nikolaus von Dreyse was 'n Pruisier.,C
+1494,GW84,T1614,John Paul Getty III was bekend om weggeneem te word van sy familie.,E
+1495,GW84,T1614,John Paul Getty III is ontvoer terwyl hy in 'n park speel.,N
+1496,GW84,T1614,John Paul Getty III is in die vroeë 1900's gebore.,C
+1497,GW28,T1614,John Paul Getty III is tydens sy lewe ontvoer.,E
+1498,GW28,T1614,Hy is na sy grootvader genoem.,N
+1499,GW28,T1614,John Paul Getty III is getroud in sy twintigste.,C
+1500,GW14,T1614,Daar is drie mans met dieselfde naam in John Paul Getty se gesin.,E
+1501,GW14,T1614,Balthazar Getty is in die Verenigde Koninkryk gebore.,N
+1502,GW14,T1614,John Paul Getty III het binne 100 myl van sy geboorteplek gesterf.,C
+1503,GW28,T1618,Jupiter en Io is 'n 16de-eeuse kunswerk.,E
+1504,GW28,T1618,Jupiter en Io was die laaste werk van Antonio da Correggio.,N
+1505,GW28,T1618,Jupiter en Io is in 'n private versameling.,C
+1506,GW79,T1618,"Jupiter en lo, 'n olieverf by die Kunsthistorisches Museum, is 'n werk uit die 16de eeu.",E
+1507,GW79,T1618,"Die skildery, Jupiter en lo, is in die Kunsthistorisches Museum uitgestel.",N
+1508,GW79,T1618,"Die skildery, Jupiter en lo, is 'n uitstekende voorbeeld van waterkleur.",C
+1509,GW1,T1618,Op sy breedste punt was Jupiter en Io meer as vyf voet lank.,E
+1510,GW1,T1618,Jupiter en Io is geleen aan die Kunsthistorisches Museum.,N
+1511,GW1,T1618,Jupiter en Io het 'n halwe dekade geneem om te verf.,C
+1512,GW40,T1626,"Jim Croce, ook bekend as James Joseph Croce, is 'n singer en songskrywer.",E
+1513,GW40,T1626,"Jim Croce het grootgeword in South Philadelphia, Pennsylvania, VSA.",N
+1514,GW40,T1626,Jim Croce gaan nog steeds sterk in 2019 en het nie sy liefde vir musiek opgee nie.,C
+1515,GW85,T1626,Jim Croce is 'n sanger wat 'n baie kort lewe geleef het.,E
+1516,GW85,T1626,Jim Croce is van PA en is daar gebore en grootgeword.,N
+1517,GW85,T1626,Jim Croce was 56 toe hy gesterf het.,C
+1518,GW1,T1626,Jim Croce het net drie dekades geleef.,E
+1519,GW1,T1626,Jim Croce het meer musiek op die ABC-label gemaak as op Saja / Atlantic.,N
+1520,GW1,T1626,Jim Croce is in die somer van 1943 gebore.,C
+1521,GW1,T1635,"Kauto Star het meer as die helfte van die wedrenne wat hy gery het, gewen.",E
+1522,GW1,T1635,Kauto Star het slegs ooit in wedrenne in Frankryk deelgeneem.,N
+1523,GW1,T1635,Die lente van 2015 is wanneer Kauto Star gesterf het.,C
+1524,GW4,T1635,Kauto Star was in staat om die meeste van hul rasse te wen.,E
+1525,GW4,T1635,Kauto Star kon wins maak vir hul eienaars.,N
+1526,GW4,T1635,Kauto Star het gesterf toe hulle tien jaar oud was.,C
+1527,GW28,T1635,Kauto Star was 'n Franse manlike raspaard,E
+1528,GW28,T1635,Kauto Star is dood as gevolg van ouderdom.,N
+1529,GW28,T1635,Kauto Star versier man se nageslag na sy pensioen.,C
+1530,GW84,T1656,Karen Gillan is al meer as tien jaar in die besigheid.,E
+1531,GW84,T1656,Karen Gillan is afgestudeer met toekennings van die Italia Conti Academy of Theatre Arts.,N
+1532,GW84,T1656,Karen Gillan is 'n performer in haar laat 30s.,C
+1533,GW28,T1656,Karen Gillan is 'n Britse aktrise.,E
+1534,GW28,T1656,Karen Gillan praat Engels en Italiaans.,N
+1535,GW28,T1656,Karen Gillan is sedert haar twintig jaar aktief.,C
+1536,GW31,T1656,Karen Gillan studeer aktrise by die Italia Conti Academy of Theatre Arts en is sedert 2006 akteur.,E
+1537,GW31,T1656,"Karen Gillan het baie van die films wat sy sedert 2006 verskyn het, geregisseer en geskryf.",N
+1538,GW31,T1656,Karen Gillan is nou al vyftig jaar akteur en skryf toneelstukke vir twintig jaar.,C
+1539,GW1,T1659,Die Australiese vrylating van Jungle was laat in 2017.,E
+1540,GW1,T1659,Jungle het meer geld in Colombia gemaak as Australië.,N
+1541,GW1,T1659,Die film Jungle het 'n loop tyd oor twee uur lank.,C
+1542,GW4,T1659,Die film Jungle het musiek geskryf deur een persoon.,E
+1543,GW4,T1659,Die film Jungle het 'n wins op die kassa gemaak.,N
+1544,GW4,T1659,Die film Jungle het dieselfde skrywer en regisseur gehad.,C
+1545,GW14,T1659,Jungle is op twee kontinente gefilm.,E
+1546,GW14,T1659,Jungle is meer Australiërs as Kolombiërs gekyk.,N
+1547,GW14,T1659,Jungle het twee premieres in verskillende plekke gedurende dieselfde week gehad.,C
+1548,GW84,T1664,Jessie J is al meer as tien jaar op die toneel.,E
+1549,GW84,T1664,Jessie J is deur Island onderteken voordat hy met Gut onderteken het.,N
+1550,GW84,T1664,Jessie J speel slegs popmusiek.,C
+1551,GW1,T1664,Jessie J het 'n aktiewe loopbaan vir meer as 'n dekade.,E
+1552,GW1,T1664,Jessie J was 'n songskrywer voordat hy 'n professionele sanger geword het.,N
+1553,GW1,T1664,Jessie J is in die somer van 1988 gebore.,C
+1554,GW28,T1664,Jessie J is 'n Engelse sanger.,E
+1555,GW28,T1664,Jessie J het baie toekennings vir haar musiek gewen.,N
+1556,GW28,T1664,Jessie J het haar loopbaan in haar twintigste begin.,C
+1557,GW1,T1665,Julian Assange was vir meer as 'n dekade getroud in sy eerste huwelik.,E
+1558,GW1,T1665,Al die kinders van Julian Assange het dieselfde vrou as hul biologiese moeder.,N
+1559,GW1,T1665,Die loopbaan van Julian Assange gaan al meer as drie dekades.,C
+1560,GW0,T1665,Julian Assange het drie universiteite in sy geboorteland bygewoon.,E
+1561,GW0,T1665,"Julian Assange het vier kinders met sy voormalige vrou, Teresa Doe.",N
+1562,GW0,T1665,Julian Assange woon in 'n land waar hy 'n burger van is.,C
+1563,GW84,T1665,Julian Assange het in 2015 meer toekennings ontvang as hy in 2008 het.,E
+1564,GW84,T1665,Julian Assange het sy hele lewe in Australië geleef.,N
+1565,GW84,T1665,Julian Assange het aktief geword nadat hy getroud is.,C
+1566,GW1,T1668,“Jerusalem” is byna twee derde van die Joodse bevolking.,E
+1567,GW1,T1668,Jerusalem het aandag bespaar tyd sedert dit oorspronklik 'n ding geword het.,N
+1568,GW1,T1668,"Bevolking wys, bestaan uit ongeveer die helfte van die Arabiese mense.",C
+1569,GW28,T1668,“Jerusalem” bestaan hoofsaaklik uit Joodse mense.,E
+1570,GW28,T1668,"“Jerusalem” is 'n multi-etniese, multi-godsdienstige land.",N
+1571,GW28,T1668,Christene maak 'n groot deel van die bevolking van Jerusalem.,C
+1572,GW86,T1668,Die meerderheid van die bevolking van “Jerusalem” bestaan uit Jode.,E
+1573,GW86,T1668,Die algemeen gesproke taal in Jerusalem is Hebreeus.,N
+1574,GW86,T1668,Die helfte van die bevolking van “Jerusalem” is Arabiese.,C
+1575,GW4,T1677,Johannes Gutenberg het dit vir mense makliker gemaak om dinge te druk.,E
+1576,GW4,T1677,Johannes Gutenberg het hul hele lewe in die Heilige Romeinse Ryk geleef.,N
+1577,GW4,T1677,Johannes Gutenberg is gestraf vir die werk wat hulle gedoen het.,C
+1578,GW28,T1677,Johannes Gutenberg het geleef tydens die heerskappy van die Heilige Romeinse Ryk.,E
+1579,GW28,T1677,Johannes Gutenberg het ryk geword deur sy uitvindings.,N
+1580,GW28,T1677,Johannes Gutenberg het in die 14de eeu geleef.,C
+1581,GW1,T1677,Johannes Gutenberg is oor die keer van die 15de eeu gebore.,E
+1582,GW1,T1677,Johannes Gutenberg was 'n drukker voordat hy 'n uitvinder was.,N
+1583,GW1,T1677,Johannes Gutenberg is in die val van 1468 oorlede.,C
+1584,GW4,T1688,John Cyril Porte het meer as een keer in die militêre dien.,E
+1585,GW4,T1688,John Cyril Porte kon meer as een keer oor die Atlantiese Oseaan vlieg.,N
+1586,GW4,T1688,John Cyril Porte het hul hele lewe in Ierland geleef.,C
+1587,GW6,T1688,John Cyril Porte het in 'n ander land gesterf as waar hy gebore is.,E
+1588,GW6,T1688,John Cyril Porte het gesterf terwyl hy nog aktief in die weermag was.,N
+1589,GW6,T1688,John Cyril Porte het in twee Wêreldoorloge gedien.,C
+1590,GW1,T1688,John Cyril Porte het in twee verskillende eeue geleef.,E
+1591,GW1,T1688,John Cyril Porte is die Orde van St. Michael en St. George Navy Distinguished Service Medal posthumous toegeken.,N
+1592,GW1,T1688,John Cyril Porte het meer as twee dekades in die militêre dien.,C
+1593,GW0,T1690,Jinder Mahal is al meer as vyftien jaar professioneel veg.,E
+1594,GW0,T1690,Jinder Mahal verander sy ringnaam van Tiger Raj Singh vroeër in sy loopbaan.,N
+1595,GW0,T1690,Jinder Mahal weeg meer in kilo's as sy totale hoogte in sentimeter.,C
+1596,GW28,T1690,Jinder Mahal is bo die gemiddelde in lengte en gewig vir die meeste mense.,E
+1597,GW28,T1690,Jinder Mahal is 'n Indiese professionele vegter.,N
+1598,GW28,T1690,Jinder Mahal is 'n neophyte in die ring.,C
+1599,GW86,T1690,Jinder Mahal is bekend deur verskeie ring name.,E
+1600,GW86,T1690,"Jinder Mahal woon in Punjab, Indië.",N
+1601,GW86,T1690,Jinder Mahal het sy debuut in die 1990's gemaak.,C
+1602,GW4,T1692,John Wayne Gacy is deur die staat vermoor.,E
+1603,GW4,T1692,John Wayne Gacy het kinders met sy eerste vrou gehad.,N
+1604,GW4,T1692,John Wayne Gacy is oorlede toe hulle 40 was.,C
+1605,GW68,T1692,John Wayne Gacy was nie getroud toe hy 29 was nie.,E
+1606,GW68,T1692,John Wayne Gacy het twee kinders met Marlynn Myers gehad.,N
+1607,GW68,T1692,Hy het 'n egskeiding gekry nadat hy veroordeel is.,C
+1608,GW84,T1692,"John Wayne Gacy is meer as tien jaar nadat hy veroordeel is, oorlede.",E
+1609,GW84,T1692,John Wayne Gacy het probeer om sy oortuigings te beroep.,N
+1610,GW84,T1692,John Wayne Gacy is dood van natuurlike oorsake.,C
+1611,GW0,T1696,Jethro Tull het 'n vyfjarige pauze gedurende die 2010's geneem.,E
+1612,GW0,T1696,Jethro Tull het baie toerkoncerte met Wild Turkey in die 1970's gespeel.,N
+1613,GW0,T1696,Jethro Tull is 20 jaar gelede in Noord-Amerika gestig.,C
+1614,GW1,T1696,Jethro Tull is 'n Britse band.,E
+1615,GW1,T1696,Jethro Tull het musiek op die Eagle-label gemaak voordat hy ooit musiek met EMI gemaak het.,N
+1616,GW1,T1696,Jethro Tull het musiek gemaak in ses verskillende dekades.,C
+1617,GW4,T1696,Jethro Tull het 'n pauze in hul loopbaan geneem.,E
+1618,GW4,T1696,Jethro Tull het hard rock gespeel voordat hulle in folk rock gekom het.,N
+1619,GW4,T1696,Jethro Tull was slegs op een etiket.,C
+1620,GW4,T1702,“Kas” is oorspronklik in Europa gemaak.,E
+1621,GW4,T1702,Kas kom in baie klassieke soda smake.,N
+1622,GW4,T1702,“Kas” het meer as 60 jaar gelede uitgekom.,C
+1623,GW1,T1702,Kas is binne 10 jaar van die keer van die 20ste eeu ingevoer.,E
+1624,GW1,T1702,“Kas” is slegs in Spanje verkoop.,N
+1625,GW1,T1702,“Was” kom in meer as 10 smaak.,C
+1626,GW28,T1702,Kas is 'n Spaanse sagte drank.,E
+1627,GW28,T1702,Kas is PepsiCo se grootste verkoper in Spanje.,N
+1628,GW28,T1702,PepsiCo het by sy oorspronklike formule vir Kas gebly sonder enige veranderinge.,C
+1629,GW1,T1706,Jeff Lynne is aktief as 'n musikus vir meer as 'n eeu.,E
+1630,GW1,T1706,Jeff Lynne het rekords geproduseer voordat hy eintlik 'n musikus self was.,N
+1631,GW1,T1706,Die verjaarsdag van Jeff Lynne val in die somer.,C
+1632,GW4,T1706,Jeff Lynne het meer as een toneelnaam gehad.,E
+1633,GW4,T1706,Jeff Lynne het op 'n album met die Beatles opgeneem.,N
+1634,GW4,T1706,Jeff Lynne het by Sony BMG hul hele loopbaan gebly.,C
+1635,GW84,T1706,Jeff Lynne het onder verskeie verskillende name gegaan.,E
+1636,GW84,T1706,Jeff Lynne was met Harvest-rekords voordat hy met Epic was.,N
+1637,GW84,T1706,Jeff Lynne is 'n musikus in sy 80's.,C
+1638,GW1,T1713,John Cho is in die somer van 1972 gebore.,E
+1639,GW1,T1713,Die moeder van beide kinders van John Cho is Kerri Higuchi.,N
+1640,GW1,T1713,John Cho is al meer as twee en 'n half dekade akteur.,C
+1641,GW28,T1713,John Cho is in die 20ste eeu gebore.,E
+1642,GW28,T1713,John Cho is getroud met twee dogters.,N
+1643,GW28,T1713,John Cho is sedert sy tienerjare aktief.,C
+1644,GW84,T1713,John Cho is al meer as tien jaar getroud.,E
+1645,GW84,T1713,John Cho het in die 1990's van UC Berkley afgestudeer.,N
+1646,GW84,T1713,"John Cho het sy loopbaan net uit die hoërskool begin, die kollege verlaat.",C
+1647,GW28,T1728,Kaput en Zšsky: The Ultimate Obliterators is 'n vermaakproduksie.,E
+1648,GW28,T1728,Kaput en Zšsky: The Ultimate Obliterators is 'n cartoon vir kinders.,N
+1649,GW28,T1728,Kaput en Zšsky: The Ultimate Obliterators word geproduseer en versprei deur dieselfde maatskappy.,C
+1650,GW1,T1728,Kaput en Zšsky: The Ultimate Obliterators neem ongeveer 'n halfuur om te kyk.,E
+1651,GW1,T1728,Paul Cabieux het meer produksiewerk gedoen op Kaput en Zšsky: Die Ultimate Obliterators as Philippe Delarue.,N
+1652,GW1,T1728,Kaput en Zšsky: The Ultimate Obliterators het 'n handvol verspreiders gehad.,C
+1653,GW4,T1728,Kaput en Zšsky: The Ultimate Obliterators is geproduseer deur twee mense.,E
+1654,GW4,T1728,Kaput en Zšsky: The Ultimate Obliterators het op basiese kabel gespeel.,N
+1655,GW4,T1728,Kaput en Zšsky: The Ultimate Obliterators het net een produksie maatskappy gehad.,C
+1656,GW0,T1730,Jon Hamm is afgestudeer aan die Universiteit van sy tuisstaat.,E
+1657,GW0,T1730,Jon Hamm is afgestudeer met 'n bachelor's degree in besigheid.,N
+1658,GW0,T1730,Jon Hamm en Jennifer Westfeldt het getroud voordat Hamm begin optree.,C
+1659,GW1,T1730,Jon Hamm is afgestudeer van die kollege.,E
+1660,GW1,T1730,Jon Hamm was 'n produsent voordat hy 'n akteur was.,N
+1661,GW1,T1730,Jon Hamm is al meer as 25 jaar aktief.,C
+1662,GW28,T1730,Jon Hamm is 'n middeljarige akteur.,E
+1663,GW28,T1730,Jon Hamm het toekennings vir sy aktiewe rolle gewen.,N
+1664,GW28,T1730,Jon Hamm is sedert sy tienerjare aktief.,C
+1665,GW86,T1768,Die styl van Iced Earth is gekenmerk as meer as een genre.,E
+1666,GW86,T1768,"Iced Earth is tans gebaseer in Tampa, Florida.",N
+1667,GW86,T1768,Iced Earth is onderteken met hul huidige label vir meer as 'n dekade.,C
+1668,GW84,T1768,Iced Earth het ook twee ander name gehad.,E
+1669,GW84,T1768,Iced Earth was meer gewild in die 1980's.,N
+1670,GW84,T1768,Iced Earth het in die 1990's ophou optree.,C
+1671,GW85,T1768,Iced Earth is 'n power metal band.,E
+1672,GW85,T1768,Iced Earth is al sedert die 80's,N
+1673,GW85,T1768,Iced Earth word nie nou gespeel nie,C
+1674,GW84,T1784,Interior is tans in 'n Amerikaanse museum.,E
+1675,GW84,T1784,Interior is al meer as twintig jaar in Philadelphia.,N
+1676,GW84,T1784,Interior is in die laaste vyftig jaar geverf.,C
+1677,GW28,T1784,Interior is 'n 19de eeu kunswerk.,E
+1678,GW28,T1784,“Interior” was die laaste werk van Edgar Degas.,N
+1679,GW28,T1784,“Interieur” is ’n verfde mural.,C
+1680,GW86,T1784,Interieur is in die 18de eeu voltooi.,E
+1681,GW86,T1784,Interior het Degas 12 maande geneem om te voltooi.,N
+1682,GW86,T1784,Interior is 'n waterkleurige skildery.,C
+1683,GW28,T1788,Issa Album was 'n gesamentlike poging tussen verskeie hip-hop produsente.,E
+1684,GW28,T1788,Issa Album het baie toekennings vir sy musiek gekry.,N
+1685,GW28,T1788,Issa Album is uitsluitlik geproduseer deur Wheezy.,C
+1686,GW84,T1788,Issa Album is minder as drie jaar gelede vrygestel.,E
+1687,GW84,T1788,Issa Album is eers onderteken met Epic.,N
+1688,GW84,T1788,Issa Album loop vir meer as 'n uur.,C
+1689,GW86,T1788,Issa Album is vrygestel in die somer van 2017.,E
+1690,GW86,T1788,Issa Album bevat liedjies van verskeie musikale kunstenaars.,N
+1691,GW86,T1788,Issa Album is meer as 'n uur lank.,C
+1692,GW4,T1791,Huddersfield Ben was vir ses jaar lewe.,E
+1693,GW4,T1791,Huddersfield Ben is opgevoed deur hul eienaar.,N
+1694,GW4,T1791,Huddersfield Ben was 'n Labrador Retriever.,C
+1695,GW93,T1791,Huddersfield Ben was 'n Yorkshire Terrier.,E
+1696,GW93,T1791,Huddersfield Ben het die meeste toekennings vir 'n Yorkshire Terrier.,N
+1697,GW93,T1791,Huddersfield Ben is in die 18de eeu gebore.,C
+1698,GW85,T1791,Huddersfield Ben is 'n tipe terrier.,E
+1699,GW85,T1791,Huddersfield Ben is 'n baie gewilde show ras,N
+1700,GW85,T1791,Huddersfield Ben is 'n naam vir 'n dwaas.,C
+1701,GW28,T1819,Hugo is 'n multi-nasionale film met bekende Hollywood akteurs.,E
+1702,GW28,T1819,Hugo word gepreek deur kritikus en ondersteuners sowel.,N
+1703,GW28,T1819,Hugo sterre 'n grotendeels onbekende cast.,C
+1704,GW85,T1819,Hugo is gebaseer op die uitvinding van Hugo Cabret,E
+1705,GW85,T1819,“Hugo” is ’n Engelse film.,N
+1706,GW85,T1819,Hugo was 'n groot flop,C
+1707,GW93,T1819,Hugo het 'n loop tyd van 126 minute.,E
+1708,GW93,T1819,Hugo was die grootste box office-brutto-film in November 2011.,N
+1709,GW93,T1819,“Hugo” was oorspronklik in Frans.,C
+1710,GW28,T1847,Jack Antonoff is sedert sy tienerjare aktief.,E
+1711,GW28,T1847,Jack Antonoff is 'n self geleerde gitaar en klavierspeler.,N
+1712,GW28,T1847,Jack Antonoff het met kleiner akte uitgevoer.,C
+1713,GW84,T1847,Jack Antonoff is in die lente gebore.,E
+1714,GW84,T1847,Jack Antonoff het geleer om die gitaar te speel voor die dromme.,N
+1715,GW84,T1847,Jack Antonoff is al meer as twintig jaar op die toneel.,C
+1716,GW85,T1847,Jack Antonoff is in NJ gebore,E
+1717,GW85,T1847,Jack Antonoff is betrokke by musiek.,N
+1718,GW85,T1847,Jack Antonoff is nie iemand spesiaal nie.,C
+1719,GW84,T1861,Island is meer as 'n duisend jaar gelede ingestel.,E
+1720,GW84,T1861,Die grondwet vir Island is meer as 'n honderd jaar gelede geskryf.,N
+1721,GW84,T1861,Island het meer as 'n honderd jaar gelede 'n republiek geword.,C
+1722,GW93,T1861,Island het soewereiniteit in 1904 verkry.,E
+1723,GW93,T1861,Island is meer dichtbevolk as Groenland.,N
+1724,GW93,T1861,Island het in 1954 'n republiek geword.,C
+1725,GW28,T1861,Island is al meer as 'n millennium bewoon.,E
+1726,GW28,T1861,“Island” is nie betrokke by konflik nie.,N
+1727,GW28,T1861,Island is 'n konstitusionele monargie.,C
+1728,GW4,T1875,Die “Identity Crisis” het net in 'n jaar uitgevoer.,E
+1729,GW4,T1875,Identity Crisis was 'n reeks wat prys gewen het.,N
+1730,GW4,T1875,Identity Crisis is vrygestel deur Marvel Comics.,C
+1731,GW28,T1875,Identity Crisis was 'n maandelikse publikasie van DC Comics.,E
+1732,GW28,T1875,Identity Crisis het 'n versamelaar se item geword.,N
+1733,GW28,T1875,Identity Crisis is 'n maandelikse reeks met 'n onbepaalde loop.,C
+1734,GW93,T1875,Identity Crisis is gepubliseer deur DC Comics.,E
+1735,GW93,T1875,Green Arrow verskyn meer as Batman in Identity Crisis.,N
+1736,GW93,T1875,Daar was net een kwessie van Identiteitskrisis.,C
+1737,GW28,T1882,Jack of Fables was 'n maandelikse komiese boekreeks.,E
+1738,GW28,T1882,Jack of Fables het 'n versamelaar se item geword.,N
+1739,GW28,T1882,Jack of Fables verskyn weekliks vir ses jaar.,C
+1740,GW85,T1882,Jack of Fables is 'n komiese reeks,E
+1741,GW85,T1882,Daar is 50 dinge,N
+1742,GW85,T1882,Dit word vandag nog geproduseer,C
+1743,GW93,T1882,Jack of Fables word op 'n maandelikse skedule gepubliseer.,E
+1744,GW93,T1882,Jack of Fables het gewildheid met sy 10de uitgawe.,N
+1745,GW93,T1882,Jack of Fables is 'n beperkte reeks.,C
+1746,GW93,T1888,"Robin Estanislau is die stadskrywer in Huntington Beach, Kalifornië.",E
+1747,GW93,T1888,"Patrick Brenden is die tweede in bevel in Huntington Beach, Kalifornië.",N
+1748,GW93,T1888,"Huntington Beach, Kalifornië het geen stadsbestuurder nie.",C
+1749,GW85,T1888,"Huntington Beach, Kalifornië se stedelike klerk is Robin Estanislau",E
+1750,GW85,T1888,"Huntington Beach, Kalifornië het sy eie raad.",N
+1751,GW85,T1888,"Huntington Beach, Kalifornië is nie groot genoeg vir 'n stad se prokureur nie",C
+1752,GW69,T1888,Huntinyon Beach raad het sewe lede.,E
+1753,GW69,T1888,"Stadse prokureur van Huntington Beach is 'n verkiesende posisie, terwyl Stadse treasurer van Huntington Beach 'n aangewese posisie is.",N
+1754,GW69,T1888,"Die stedelike raad van Huntington Beach, Kalifornië sluit in die stedelike prokureur en die stedelike treasurer.",C
+1755,GW85,T1917,Republiek van Irak is in 'n federale parlementêre republiek,E
+1756,GW85,T1917,Mohamed al-Halbousi is die Sprekers van die Raad van Verteenwoordigers vir Republiek van Irak,N
+1757,GW85,T1917,Republiek van Irak is die gebied van die Verenigde State van Amerika,C
+1758,GW84,T1917,Mense praat twee hooftaal in die Republiek van Irak.,E
+1759,GW84,T1917,Die president van die Republiek van Irak is al vyf jaar in die kantoor.,N
+1760,GW84,T1917,Die spreker en hofregter van die Republiek van Irak is dieselfde persoon.,C
+1761,GW28,T1917,Bagdad is geleë in die Republiek van Irak.,E
+1762,GW28,T1917,Die Republiek van Irak het 'n Christelike minderheid bevolking.,N
+1763,GW28,T1917,Die president en die premier van die Republiek van Irak is dieselfde persoon.,C
+1764,GW84,T1918,Hypatia het in die lente tyd gesterf.,E
+1765,GW84,T1918,Hypatia was meer bekend vir wiskunde as vir astronomie.,N
+1766,GW84,T1918,Hypatia het geen invloed op ander mense gehad nie.,C
+1767,GW85,T1918,“Hypatia” is in Egipte.,E
+1768,GW85,T1918,Hypatia word beïnvloed deur ruimte.,N
+1769,GW85,T1918,Hypatia is ‘n nuwe.,C
+1770,GW28,T1918,Hypatia het die leerstellings van bekende filosowe bestudeer.,E
+1771,GW28,T1918,Hypatia was 'n meertalige filosoof.,N
+1772,GW28,T1918,Hypatia is in Europa gebore en gesterf.,C
+1773,GW28,T1942,Jacques Charles was 'n Europese man van wetenskap.,E
+1774,GW28,T1942,“Jacques Charles” is dood van natuurlike oorsake.,N
+1775,GW28,T1942,Jacques Charles was 'n onkundige boer.,C
+1776,GW84,T1942,Jacques Charles was bekend vir sy werk in die wetenskap.,E
+1777,GW84,T1942,Jacques Charles was bekend vir meer fisika as wiskunde.,N
+1778,GW84,T1942,Jacques Charles is in verskillende lande gebore en gesterf.,C
+1779,GW77,T1942,Jacques Charles was 'n fisikus wat hoofsaaklik bekend is vir sy baanbrekende Charles se wet.,E
+1780,GW77,T1942,Charles het al sy onderrig en navorsing in Frankryk by die Académie des sciences gedoen.,N
+1781,GW77,T1942,Jacques Charles was 'n voorste piloot van blimps en het hulle dikwels in Engeland gevlieg.,C
+1782,GW28,T2028,Hot Fuzz was 'n multi-nasionale filmproduksie,E
+1783,GW28,T2028,Hot Fuzz was 'n aksie-komedie film,N
+1784,GW28,T2028,"Simon Pegg het geskryf, geregisseer en in Hot Fuzz gespeel.",C
+1785,GW84,T2028,Hot Fuzz is dieselfde jaar in drie verskillende lande vrygestel.,E
+1786,GW84,T2028,Hot Fuzz het die meeste van sy geld in die VSA gemaak.,N
+1787,GW84,T2028,Hot Fuzz loop vir minder as twee jaar.,C
+1788,GW94,T2028,Werk titel films is in die Verenigde Koninkryk vrygestel voor enige ander plek.,E
+1789,GW94,T2028,Die produkteur van Hot Fuzz was Working Title Films.,N
+1790,GW94,T2028,Die werklike titel Films is in Duits gemaak.,C
+1791,GW28,T2032,Die Republiek Indonesië is 'n multi-etnische en meertalige land.,E
+1792,GW28,T2032,Joko Widodo is die 20ste president van Indonesië.,N
+1793,GW28,T2032,Die Republiek Indonesië is 'n konstitusionele monargie.,C
+1794,GW93,T2032,Joko Widodo is die president van Indonesië.,E
+1795,GW93,T2032,Jakarta is die 5de grootste hoofstad in die wêreld.,N
+1796,GW93,T2032,Daar word tien tale in die Republiek Indonesië gespreek.,C
+1797,GW84,T2032,Jakarta is waar die regering in die Republiek van Indonesië is.,E
+1798,GW84,T2032,Jakarta is die grootste stad in die Republiek Indonesië.,N
+1799,GW84,T2032,Die boonste en onderste huis van die Republiek van Indonesië behoort aan dieselfde party.,C

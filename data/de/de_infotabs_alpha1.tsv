@@ -1,0 +1,1801 @@
+annotater_id	table_id	hypothesis	label
+GW0	T12	Aksel V. Johannesen dient in der Färöer-Inseln-Regierung.	E
+GW0	T12	Auf den Färöern sprechen mehr Menschen Dänisch als auf den Färöern.	N
+GW0	T12	Färöer haben nur eine Amtssprache.	C
+GW1	T12	Die Färöer haben mehr als eine Amtssprache.	E
+GW1	T12	Wenn der Hohe Kommissar auf den Färöern stirbt, wird der Premierminister diese Rolle übernehmen.	N
+GW1	T12	Die Färöer haben mehr als eine offizielle Religion.	C
+GW4	T12	Der Monarch der Färöer ist Margethe II.	E
+GW4	T12	Viele Menschen auf den Färöer-Inseln sprechen	N
+GW4	T12	Die Färöer werden von Lene Moyell Johnansen geführt.	C
+GW0	T13	Fearless ist über 50 Minuten lang.	E
+GW0	T13	Fearless war Taylor Swifts zweite Veröffentlichung.	N
+GW0	T13	Scott Borchetta produzierte Fearless	C
+GW4	T13	Das Album Fearless wurde im Winter 2008 veröffentlicht.	E
+GW4	T13	Scott Borchetta arbeitete direkt an Fearless.	N
+GW4	T13	Das Album Fearless war über eine Stunde lang.	C
+GW1	T13	Die Aufnahmen von Fearless erstreckten sich über zwei Jahre.	E
+GW1	T13	Taylor Swift tat mehr auf der Produktionsseite der Dinge als Nathan Chapman.	N
+GW1	T13	Fearless wurde im Frühjahr 2008 veröffentlicht.	C
+GW1	T14	Flatliner ist fast zwei Stunden lang.	E
+GW1	T14	Rick Bieber hat mehr Geld in Flatliners gesteckt als Michael Douglas.	N
+GW1	T14	Flatliners haben 50 Millionen über das Budget an der Kasse verdient.	C
+GW4	T14	Flatliners war ein Film, der in der Lage war, Geld an der Kasse zu sammeln.	E
+GW4	T14	Flatliners wurde vor allem von Michael Douglas produziert.	N
+GW4	T14	Flatliners war ein Film, der über zwei Stunden lang war.	C
+GW0	T14	Flatliner haben doppelt so viel verdient, wie es an der Kasse kostet.	E
+GW0	T14	Flatliners war Peter Filardis erstes Schreiben.	N
+GW0	T14	Flatliners wurde im Winter 1990 veröffentlicht.	C
+GW1	T17	Bryce Dallas Howard handelt seit etwa 30 Jahren.	E
+GW1	T17	Bryce Dallas Howard liebt Cheryl Alley mehr als Ron Howard.	N
+GW1	T17	Bryce Dallas Howard wurde im Herbst 1981 geboren.	C
+GW4	T17	Bryce Dallas Howard wurde an der Westküste der USA geboren.	E
+GW4	T17	Bryce Dallas Howard lebte lange mit Ron Howard zusammen.	N
+GW4	T17	Bryce Dallas Howard arbeitet seit 1981.	C
+GW2	T17	Bryce Dallas Howard spielt seit mehr als 20 Jahren.	E
+GW2	T17	Bryce Dallas Howard war der erste Schauspielerjob in einer Getreidewerbung.	N
+GW2	T17	Bryce Dallas Howard hat drei Söhne.	C
+GW4	T20	Die Rapper Flatbush Zombies haben ihren Start an der Ostküste	E
+GW4	T20	Die Rapper Flatbush Zombies wurden von einem großen Label signiert.	N
+GW4	T20	Die Rapper Flatbush Zombies sind bekannt für ihre Auftritte mit Rockbands.	C
+GW0	T20	Flatbush Zombies haben seit über fünf Jahren Musik gemacht.	E
+GW0	T20	Flatbush Zombies haben mit Rappern außerhalb von New York gearbeitet.	N
+GW0	T20	Flatbush Zombies sind bei RCA-Platten	C
+GW1	T20	Flatbush Zombies sind teilweise nach der Stadt benannt, aus der sie stammen.	E
+GW1	T20	Flatbush Zombies zog es vor, mit RecordsWarner über The Glorious Dead Musik zu machen.	N
+GW1	T20	Flatbush Zombies sind seit über 10 Jahren als Band aktiv.	C
+GW1	T29	Bullet for My Valentine war früher als Jeff Killed John bekannt.	E
+GW1	T29	Jeff Killed John machte die gleiche Art von Musik, die Bullet for My Valentine am Ende machte.	N
+GW1	T29	Bullet for My Valentine ist seit mehr als 25 Jahren als Band aktiv.	C
+GW4	T29	Bullet for My Valentine ist eine Band, die seit Ende der 1990er Jahre spielt.	E
+GW4	T29	Die Band Bullet for My Valentine war in Großbritannien am populärsten.	N
+GW4	T29	Die Band Bullet for My Valentine ist bekannt für Popmusik.	C
+GW0	T29	Bullet for My Valentine sind eine Band aus Europa.	E
+GW0	T29	Bullet for My Valentine veröffentlicht seit 1998 jedes Jahr Musik.	N
+GW0	T29	Bullet for My Valentine hat nur Musik für RCA-Platten veröffentlicht.	C
+GW0	T64	Equestrian Portrait of Charles I befindet sich in England.	E
+GW0	T64	Anthony van Dyck übernahm ein Jahr, um das Equestrian Portrait of Charles I zu vervollständigen.	N
+GW0	T64	Equestrian Portrait of Charles I ist weniger als 100 Zoll breit.	C
+GW1	T64	Equestrian Portrait of Charles I wurde im 17. Jahrhundert gemalt.	E
+GW1	T64	Equestrian Portrait of Charles I ist als Leihgabe an die National Gallery in	N
+GW1	T64	Die längste Seite von Equestrian Portrait of Charles I misst weniger als 11 Fuß lang.	C
+GW4	T64	Das Equestrian Portrait of Charles I wurde von Anthony van Dyck fertiggestellt.	E
+GW4	T64	Das Equestrian Portrait of Charles I wurde in London gemalt.	N
+GW4	T64	Das Equestrian Portrait of Charles I wird in einem Museum in Paris aufbewahrt.	C
+GW4	T68	Die Band Jet wurde in Australien gegründet.	E
+GW4	T68	Die Musiker in Jet produzierten zwischen 2012 und 2016 keine Musik.	N
+GW4	T68	Nach der Trennung 2012 kam Jet nie wieder zusammen.	C
+GW0	T68	Jet nahm eine vierjährige Pause von der Aufführung.	E
+GW0	T68	2001 veröffentlichte Jet ihr erstes Album.	N
+GW0	T68	Jet hat vor über fünf Jahren aufgehört zu spielen.	C
+GW1	T68	Jet ist seit über 10 Jahren eine Band.	E
+GW1	T68	Jet betrachtet sich selbst als Alternative Rock mehr als Indie Rock.	N
+GW1	T68	Jet hat Musik für 5 oder mehr Plattenfirmen gemacht.	C
+GW1	T74	Katharine McPhee wurde an der Westküste geboren.	E
+GW1	T74	Katharine McPhee schreibt gerne mehr Songs als sie sie aufführt.	N
+GW1	T74	Katharine McPhee ist seit über 20 Jahren aktiv.	C
+GW0	T74	Katharine McPhee kommt von der Westküste der USA.	E
+GW0	T74	Katharine McPhee schreibt jeden Song, den sie aufführt.	N
+GW0	T74	Katharine McPhee handelt seit über zwanzig Jahren.	C
+GW4	T74	Katharine McPhee wurde an der Westküste der Vereinigten Staaten geboren.	E
+GW4	T74	Katharine McPhee ist bekannt als R&B-Sängerin.	N
+GW4	T74	Katharine McPhee war mit über 7 Plattenlabels vertreten.	C
+GW0	T104	Die E Street Band kommt von der Westküste der USA.	E
+GW0	T104	Die E Street Band hat alle ihre ursprünglichen Mitglieder.	N
+GW0	T104	E Street Band ist aus der Hauptstadt von New Jersey.	C
+GW1	T104	Die E Street Band wurde an der Ostküste gegründet.	E
+GW1	T104	Die E Street Band wird weiterhin Musik spielen, bis ihre Mitglieder sterben.	N
+GW1	T104	Die E Street Band ist seit über 50 Jahren als Band aktiv.	C
+GW4	T104	Die E Street Band wurde an der Ostküste der USA gegründet.	E
+GW4	T104	Bruce Springsteen hat viel mit der E Street Band gearbeitet.	N
+GW4	T104	1999 wurde die E Street Band aufgelöst.	C
+GW1	T137	Hawkwind ist seit etwa 50 Jahren als Band aktiv.	E
+GW1	T137	Hawkwind hat wegen Urheberrechtsproblemen viele Namen geändert.	N
+GW1	T137	Hawkwind war immer der Name der Band.	C
+GW4	T137	1969 begann die Band Hawkwind Songs zu machen.	E
+GW4	T137	Die Band Hawkwind hat vor London England tourt.	N
+GW4	T137	Die Band Hawkwind ist bekannt für ihre Auftritte mit Motley Crue.	C
+GW0	T137	Hawkwind tritt seit über 40 Jahren auf.	E
+GW0	T137	Hawkwind war bekannt als die Elfen von Silbury Hill für den Großteil ihrer Karriere.	N
+GW0	T137	Hawkwind ist eine nordamerikanische Band.	C
+GW4	T146	Jeff Bridges ist ein Performer, seit sie 2 Jahre alt waren.	E
+GW4	T146	Jeff Bridges hat ihr ganzes Leben in Kalifornien gelebt.	N
+GW4	T146	Jeff Bridges hatte fünf Kinder.	C
+GW1	T146	Jeff Bridges wurde im Winter 1949 geboren.	E
+GW1	T146	Jeff Bridges singt lieber als Komponieren.	N
+GW1	T146	Jeff Bridges ist in seiner Karriere seit weniger als 60 Jahren aktiv.	C
+GW12	T146	Jeff Bridges wurde im Winter 1949 geboren.	E
+GW12	T146	Jeff Bridges hat einen Bruder und eine Schwester.	N
+GW12	T146	Beau Bridges Mutter ist Susan Geston.	C
+GW0	T152	Jane Austen wurde in ihrer Heimat begraben.	E
+GW0	T152	James Austen ist der älteste Bruder von Jane Austen.	N
+GW0	T152	Jane Austen lebte nicht, um 40 Jahre alt zu werden.	C
+GW4	T152	Jane Austen wurde in England geboren.	E
+GW4	T152	Jane Austen hat ihr ganzes Leben in England verbracht.	N
+GW4	T152	Jane Austen starb, als sie 45 war.	C
+GW1	T152	Jane Austen starb im Sommer 1817.	E
+GW1	T152	Jane Austen liebte James Austen mehr als George Austen.	N
+GW1	T152	Jane Austen hatte einen Hochschulabschluss.	C
+GW1	T154	Charlie Sheen wurde im Herbst 1965 geboren.	E
+GW1	T154	Charlie Sheen mag seinen ursprünglichen Geburtsnamen nicht.	N
+GW1	T154	Charlie Sheen spielt seit über 50 Jahren.	C
+GW4	T154	Charlie Sheen hat fünf Kinder.	E
+GW4	T154	Charlie Sheen arbeitet seit den 70er Jahren.	N
+GW4	T154	Charlie Sheen ist immer noch mit Brooke Müller verheiratet.	C
+GW0	T154	Charlie Sheen benutzt nicht seinen ursprünglichen Nachnamen.	E
+GW0	T154	Charlie Sheen ist die älteste in der Familie Estevez.	N
+GW0	T154	Charlie Sheen hat sich vier Mal geschieden.	C
+GW4	T203	Die Hauptstadt Japans befindet sich in Tokio.	E
+GW4	T203	Die japanische Regierung hat eine Verfassung.	N
+GW4	T203	Die Mehrheit der Menschen, die in Japan leben, sind ethnisch Koreanisch.	C
+GW0	T203	Japans Haus der Stadträte ist höher als das Haus der Vertreter.	E
+GW0	T203	Die Ainu sind die beliebteste Art der einheimischen Volksgruppe Japans.	N
+GW0	T203	Das Judentum ist die beliebteste Religion in Japan.	C
+GW1	T203	Über die Hälfte der Menschen in Japan praktizieren Folk Shinto als Religion oder haben keine Religion.	E
+GW1	T203	Wenn der Premierminister Japans stirbt, tritt der stellvertretende Premierminister sofort an seine Stelle.	N
+GW1	T203	Japan besteht aus 90 bis 95% Japaner.	C
+GW1	T207	Burn Energy wurde relativ nahe am Millenium eingeführt.	E
+GW1	T207	Die Sorte Burn Lemon Ice ist beliebter als die Sorte Burn Blue.	N
+GW1	T207	Burn Energy kommt in über zehn Sorten oder Geschmacksrichtungen.	C
+GW4	T207	Burn Energy wurde von derselben Firma hergestellt, die Monster herstellt.	E
+GW4	T207	Burn Energy war erfolgreich bei der Steigerung der Energie für Menschen, die sie tranken.	N
+GW4	T207	Brennenergie kam in einem Schokoladengeschmack.	C
+GW0	T207	Burn Energy kommt in vielen verschiedenen Geschmacksrichtungen.	E
+GW0	T207	Burn Energy ist Monsters meistverkauftes Energydrink.	N
+GW0	T207	Alle Burn Energy Getränke sind zuckerfrei.	C
+GW28	T261	Die Hauptstadt der Jin-Dynastie zog in verschiedene Städte.	E
+GW28	T261	Jin Dynastie war eine Monarchie mit zwei Kaisern in dieser Zeit.	N
+GW28	T261	Die Wiedervereinigung Chinas ging der Gründung von Jin voraus.	C
+GW4	T261	Jin war seit über 300 Jahren eine Region in China.	E
+GW4	T261	Jin hatte in der Regel eine Menge Religion hinter ihrem Ansatz zu regieren.	N
+GW4	T261	Die Jin bewegten ihre Hauptstadt nie.	C
+GW27	T261	Es gab Monarchen in drei verschiedenen Hauptstädten in Jins Geschichte.	E
+GW27	T261	Kaiser Wu war Buddhist.	N
+GW27	T261	Luoyang war die Hauptstadt zu der Zeit, als der östliche Jin begann.	C
+GW2	T272	Gerry Mulligan ist mit Chesney Henry Baker assoziiert.	E
+GW2	T272	Chesney Henry Baker lernte vor dem Alter von 10 Jahren Klavier zu spielen.	N
+GW2	T272	Chesney Henry Baker wurde in den Niederlanden geboren.	C
+GW4	T272	Der Musiker Chet Baker spielte vor allem Jazzmusik.	E
+GW4	T272	Der Musiker Chet Baker zog aus den Vereinigten Staaten in die Niederlande.	N
+GW4	T272	Der Musiker Chet Baker begann mit 10 Jahren professionell Musik zu spielen.	C
+GW28	T272	Chet Baker war ein US-amerikanischer Musiker.	E
+GW28	T272	Chet Baker war auch mit der Gitarre vertraut.	N
+GW28	T272	Chet Baker war seit seinen Teenagerjahren aktiv.	C
+GW28	T274	Fawad Khan ist ein pakistanischer Entertainer.	E
+GW28	T274	Fawad Khan studierte, um ein Computerprogrammierer zu werden, bevor er ein Entertainer wurde.	N
+GW28	T274	Fawad Khan heiratete seinen Ehepartner, bevor er in der Unterhaltungsindustrie tätig wurde.	C
+GW21	T274	Fawad Khan ist ein sehr berühmtes Model und Schauspieler nicht nur ein Musiker.	E
+GW21	T274	Fawad Khan hat viele Auszeichnungen gewonnen, darunter eine Grammy in den USA.	N
+GW21	T274	Fawad Khan machte eine Platte mit Jay Z, die sehr beliebt war.	C
+GW0	T274	Fawad Khan wurde bei Lips Music unter Vertrag genommen, als er Sadaf Khan heiratete.	E
+GW0	T274	Die Kinder von Fawad Khan sind beide Teenager.	N
+GW0	T274	Fawad Khan spielt seit über zwanzig Jahren Musik.	C
+GW28	T277	Charo ist ein spanischer Entertainer.	E
+GW28	T277	Charo erschien in vielen Fernsehserien.	N
+GW28	T277	Die Karriere von Charo hat acht Jahrzehnte gedauert.	C
+GW27	T277	Mar-A del Rosario Mercedes Pilar Mart-Nez Molina Baeza begann 1963 eine aktive Karriere.	E
+GW27	T277	.Maria del Rosario Mercedes Pilar Martinez Molina Baeza erlangte zum ersten Mal Ruhm in der Schauspielerei.	N
+GW27	T277	Mar-A del Rosario Mercedes Pilar Mart-Nez Molina Baeza war verheiratet, bevor sie in ihrer Karriere aktiv wurde.	C
+GW4	T277	Charo war zweimal in ihrem Leben verheiratet.	E
+GW4	T277	Charo begann, als sie ein Teenager war.	N
+GW4	T277	Charo hatte noch nie Kinder.	C
+GW4	T286	Fan Bingbing ist der Kopf ihres eigenen Labels.	E
+GW4	T286	Fan Bingbing ist seit Jahren bei Li Chen.	N
+GW4	T286	Fan Bingbing begann Musik aufzunehmen, als sie zwölf Jahre alt waren.	C
+GW27	T286	F n B_ngb_ng wurde 1981 geboren.	E
+GW27	T286	== Leben ==B_ngb_ng ist eine Schauspielerin und Mitglied der Kommunistischen Partei.	N
+GW27	T286	== Weblinks ==== Einzelnachweise ==	C
+GW28	T286	Fan Bingbing ist ein chinesischer Entertainer.	E
+GW28	T286	Fan Bingbing ist die erfolgreichste Schauspielerin in China.	N
+GW28	T286	Die Karriere von Fan Bingbing erstreckt sich über vier Jahrzehnte.	C
+GW28	T294	Fast & Furious ist ein US-amerikanischer Film.	E
+GW28	T294	Bei Fast & Furious geht es um Straßenrennen mit modifizierten Autos.	N
+GW28	T294	Fast & Furious war kein profitabler Film.	C
+GW27	T294	Universal Pictures veröffentlichte 2009 Fast & Furious.	E
+GW27	T294	Der Regisseur von Fast & Furious war inspiriert, den Film zu drehen, nachdem er das Buch von Gary Scott Thompson gelesen hatte.	N
+GW27	T294	Fast & Furious wurde von derselben Person geschrieben und geleitet.	C
+GW4	T294	Der Film Fast & Furious machte über 250 Millionen Dollar an der Kasse.	E
+GW4	T294	Vin Diesel hatte viel zu sagen in der Endbearbeitung von Fast & Furious.	N
+GW4	T294	Fast & Furious wurde der Öffentlichkeit in den Vereinigten Staaten freigegeben, bevor es im Universal CityWalk gezeigt wurde.	C
+GW0	T306	Europa stammt ursprünglich aus einem nördlichen Europa-Land.	E
+GW0	T306	Europa tourt seit fünfzehn Jahren durch die Welt.	N
+GW0	T306	„Europa ist seit vierzig Jahren nonstop aktiv.	C
+GW30	T306	Europa hat eine lange Karriere im Hard Rock-Geschäft hinter sich.	E
+GW30	T306	Europa hat mehrere Nummer eins Hits in den Billboards Charts.	N
+GW30	T306	Europe ist eine französische Popband, die mit Universal aufgenommen wurde.	C
+GW28	T306	Europa ist seit den 70er Jahren aktiv.	E
+GW28	T306	Die Labels für Europa sind große schwedische Unternehmen.	N
+GW28	T306	Europe begann 1979 und macht seitdem ununterbrochen Musik.	C
+GW21	T308	Kalman Tihanyi war ein wirklich großer Physiker und schuf viele Theorien, die noch gültig sind.	E
+GW21	T308	Er wurde für einen edlen Preis in Physik nominiert.	N
+GW21	T308	Seine Familie wurde von der kommunistischen Regierung getötet.	C
+GW28	T308	Tihanyi war ein gebildeter Europäer.	E
+GW28	T308	K?lm?n Tihanyi studierte Wissenschaft an der Universität.	N
+GW28	T308	Tihanyi war ein unwissender Mensch.	C
+GW0	T308	K?lm?n Tihanyi lebte in mehreren europäischen Ländern.	E
+GW0	T308	K?lm?n Tihanyi ist für die Erfindung der Infrarotkamera verantwortlich.	N
+GW0	T308	Tihanyi erhielt seine Ausbildung in Italien.	C
+GW4	T310	Christchurch liegt auf der Südinsel Neuseelands.	E
+GW4	T310	Die Stadt Christchurch wurde von Menschen aus Großbritannien entdeckt.	N
+GW4	T310	Die Stadt Christchurch hat nur eine Hauptstation.	C
+GW21	T310	Christ Church wurde von Gruppen englischer Siedler und Missionstreuer gegründet.	E
+GW21	T310	Christ Church hat eine große Gruppe von einheimischen Menschen vor der Siedlung.	N
+GW21	T310	Die Christ Church war Schauplatz einer großen Schlacht im Zweiten Weltkrieg.	C
+GW28	T310	Christchurch besteht aus Abteilungen und wird von einem Rat regiert.	E
+GW28	T310	Christchurch ist eine Stadt in Neuseeland	N
+GW28	T310	Christchurch ist über 200 Jahre alt.	C
+GW2	T319	Die Tschechische Republik hat mehr Katholische als Mäh	E
+GW2	T319	Der Präsident der Tschechischen Republik spricht Polnisch.	N
+GW2	T319	Die Regierung in Prags Amtssprache ist Deutsch.	C
+GW28	T319	Die Tschechische Republik ist eine multiethnische und mehrsprachige Nation.	E
+GW28	T319	Die Tschechische Republik ist in erster Linie eine christliche Nation.	N
+GW28	T319	Die Tschechische Republik besteht hauptsächlich aus Slowaken und Muslimen.	C
+GW14	T319	Es gibt mehr Mähren als Slowaken in der Tschechischen Republik.	E
+GW14	T319	Bevor er Premierminister wurde, war Andrej Babi_ zuvor Mitglied des Unterhauses des tschechischen Parlaments.	N
+GW14	T319	Die Tschechische Republik hat nur eine Amtssprache.	C
+GW27	T323	Die Tschechische Republik kam aus der Tschechoslowakei.	E
+GW27	T323	Böhmen und Tschechen sind die gleichen Menschen.	N
+GW27	T323	Die Tschechische Republik war vor der Unabhängigkeit Teil der Europäischen Union.	C
+GW0	T323	Tschechien hat sich vor über 100 Jahren vom Österreich-Ungarn-Reich getrennt.	E
+GW0	T323	Die Tschechische Republik war eines der ersten Länder, das der Europäischen Union beitrat.	N
+GW0	T323	Königreich Böhmen wurde vor dem Herzogtum Böhmen esatablished.	C
+GW28	T323	Ende des 20. Jahrhunderts erlangte die Tschechische Republik ihre Unabhängigkeit.	E
+GW28	T323	Tschechische Republik trat der Europäischen Union zum Schutz vor Russland bei.	N
+GW28	T323	2004 verlor die Tschechische Republik die Unabhängigkeit.	C
+GW35	T331	Bryan Adams ist ein kanadischer Popsänger.	E
+GW35	T331	Bryan Adams besitzt das Plattenlabel A&M.	N
+GW35	T331	Bryan Adams wurde in Hamilton in Ontario geboren.	C
+GW28	T331	Bryan Adams ist ein kanadischer Musiker.	E
+GW28	T331	Bryan Adams schrieb und spielte Alles, was ich tue.	N
+GW28	T331	Bryan Adams ist seit seinen zwanziger Jahren aktiv.	C
+GW4	T331	Bryan Adams wurde ursprünglich im Winter 1959 in Kanada geboren.	E
+GW4	T331	Der Sänger Bryan Adams lernte Klavier, bevor er singen konnte.	N
+GW4	T331	Der Musiker Bryan Adams verbrachte den Großteil seines Lebens in den Vereinigten Staaten.	C
+GW4	T332	Jay Park ist Musiker, seit sie 21 Jahre alt sind.	E
+GW4	T332	Jay Park hat sich auf der Bühne mit Higher Brothers vorbereitet.	N
+GW4	T332	Jay Park begann ihre Rap-Karriere in Oakland.	C
+GW27	T332	Park Jae-beom wurde in Edmonds, Washington, geboren.	E
+GW27	T332	Park Jae-beom wuchs in Seattle auf.	N
+GW27	T332	Park Jae-beom praktiziert mehr Genres als die Anzahl der Labels, auf denen er war.	C
+GW28	T332	Jay Park ist ein amerikanischer Entertainer.	E
+GW28	T332	Jay Park ist koreanisch-amerikanische Rapperin.	N
+GW28	T332	Jay Park begann seine Karriere in seinen Teenagerjahren.	C
+GW0	T340	Jennifer Love Hewitt lebt in einem anderen Staat als dem, in dem sie geboren wurde.	E
+GW0	T340	Jennifer Love Hewitt hat zwei Kinder mit Brian Hallisay.	N
+GW0	T340	Jennifer Love Hewitt singt seit ihrer Kindheit professionell.	C
+GW2	T340	Jennifer Love Hewitt ist eine Schauspielerin, die eine Gesangskarriere in der Popmusik hatte.	E
+GW2	T340	Jennifer Love Hewitt war 1998 in der Partei der Fünf.	N
+GW2	T340	Jennifer Love Hewitt begann 1989 in der Partei der Fünf zu agieren.	C
+GW28	T340	Jennifer Love Hewitt ist ein amerikanischer Entertainer.	E
+GW28	T340	Die beiden Kinder von Jennifer Love Hewitt sind Mädchen.	N
+GW28	T340	Jennifer Love Hewitt ist derzeit Sängerin.	C
+GW0	T348	Christina Aguilera singt seit über zwanzig Jahren.	E
+GW0	T348	Christina Aguilera hat zwei Kinder mit Matthew Rutler.	N
+GW0	T348	Jordan Bratman ließ sich nach zwei Jahren zusammen von Christina Aguilera scheiden.	C
+GW14	T348	Christina Aguilera hat Popmusik unter dem Label RCA veröffentlicht.	E
+GW14	T348	Christina Aguilera traf Matthew Rutler auf einer Hollywood-Party.	N
+GW14	T348	Christina Aguilera hat immer in der Stadt gelebt, in der sie geboren wurde.	C
+GW45	T348	RCA Record lable ist eine amerikanische Schallplatten-Lable von Sony	E
+GW45	T348	sie kann eine Sängerin und Liedautorin nur sein	N
+GW45	T348	sie kann nicht in Pop-und Soul-Genre zu einem Zeitpunkt beitragen	C
+GW4	T361	Joaquin Phoenix heiratete, als sie 42 Jahre alt waren.	E
+GW4	T361	Joaquin Phoenix war in einigen frühen Filmen als Leaf Phoenix bekannt.	N
+GW4	T361	Joaquin Phoenix wurde in den Vereinigten Staaten geboren.	C
+GW27	T361	Joaquin Rafael Bottom wurde als Leaf Phoenix bekannt.	E
+GW27	T361	Alle Geschwister von Joaquin Rafael Bottom sind daran beteiligt, sich wie er zu verhalten.	N
+GW27	T361	Joaquin Rafael Bottom lebt in der Stadt, in der er geboren wurde.	C
+GW28	T361	Joaquin Phoenix ist ein amerikanischer Entertainer.	E
+GW28	T361	Joaquin Phoenix hat einen Geschwister, der gestorben ist.	N
+GW28	T361	Joaquin Phoenix spielt seit seiner Jugend.	C
+GW28	T370	Everclear ist eine US-amerikanische Rockband.	E
+GW28	T370	Everclear besteht aus vier Mitgliedern.	N
+GW28	T370	Everclear löste sich mehrfach auf und vereinte sich wieder.	C
+GW14	T370	Everclear ist seit mehr als einem Vierteljahrhundert aktiv.	E
+GW14	T370	Das Label Cleopatra befindet sich in Portland, Oregon.	N
+GW14	T370	Die Musik von Everclear lässt sich nur in ein einziges Genre einordnen.	C
+GW0	T370	Everclear stammt aus der pazifischen Nordwestregion der Vereinigten Staaten.	E
+GW0	T370	In den 1990er Jahren wurde Everclear bei Capitol Records unter Vertrag genommen.	N
+GW0	T370	Everclear spielt seit über dreißig Jahren Grunge-Musik.	C
+GW27	T372	Florence Annie Bridgwood beging 1938 Selbstmord.	E
+GW27	T372	Florence Annie Bridgwood ist in der Nähe ihres ersten Mannes auf dem Hollywood Forever Cemetery begraben.	N
+GW27	T372	Florence Annie Bridgwoods letzte Ehe wurde durch ihren Selbstmord beendet.	C
+GW0	T372	Florenz Lawrence ließ sich von der Mehrheit ihrer Ehemänner scheiden.	E
+GW0	T372	Florence Lawrence spielte in Dutzenden von Filmen.	N
+GW0	T372	Florenz Lawrence heiratete Charles Woodring, nachdem er sich von Henry Bolton getrennt hatte.	C
+GW28	T372	Florenz Lawrence war für ihren eigenen Tod verantwortlich.	E
+GW28	T372	Florenz Lawrence starb an einem gebrochenen Herzen.	N
+GW28	T372	Florenz Lawrence starb vor ihrem dritten Ehemann.	C
+GW28	T382	Jeff Hardy ist ein amerikanischer Entertainer.	E
+GW28	T382	Jeff Hardy trainiert ohne Steroide.	N
+GW28	T382	Jeff Hardy heiratete vor seinem Debüt.	C
+GW4	T382	Jeff Hardy begann beruflich zu ringen, als sie erst 16 Jahre alt waren.	E
+GW4	T382	Jeff Hardy hatte beide Kinder mit Beth Britt.	N
+GW4	T382	Jeff Hardy begann ihre Musikkarriere vor ihrer Wrestling-Karriere.	C
+GW2	T382	Jeff Hardy ist ein Wrestler und Musiker.	E
+GW2	T382	Jeff Hardy startete 3 verschiedene Metal-Gruppen und war Leadsänger für alle drei.	N
+GW2	T382	1990 wurde Jeff Hardy zum ersten Mal beruflich	C
+GW4	T400	Jordan Peele begann mit 23 Jahren professionell zu agieren.	E
+GW4	T400	Jordan Peele hatte sein Kind mit seiner Frau Chelsea Peretti.	N
+GW4	T400	Jordan Peele ging nie aufs College.	C
+GW27	T400	Jordan Haworth Peele wurde am Sarah Lawrence College ausgebildet.	E
+GW27	T400	Jordan Haworth Peele begann am Sarah Lawrence College zu spielen.	N
+GW27	T400	Jordan Haworth Peele war verheiratet, bevor er im Showgeschäft aktiv wurde.	C
+GW28	T400	Jordan Peele ist eine amerikanische Entertainerin.	E
+GW28	T400	Jordan Peele ist berühmt für Get Out und Keanu.	N
+GW28	T400	Jordan Peele ist seit seinen Teenagern aktiv.	C
+GW28	T403	John Harrison ist ein preisgekrönter englischer Horologe.	E
+GW28	T403	John Harrison entwarf eine wasserdichte Uhr.	N
+GW28	T403	John Harrison wurde nach seinem Tod mit einer Medaille ausgezeichnet.	C
+GW27	T403	John Harrison wurde im selben Land geboren und starb.	E
+GW27	T403	John Harrison erhielt die Copley-Medaille für sein Marine-Chronometer.	N
+GW27	T403	John Harrison wurde geboren und starb in derselben Stadt.	C
+GW0	T403	John Harrison starb, bevor die Unabhängigkeitserklärung unterzeichnet wurde.	E
+GW0	T403	John Harrison ist dafür verantwortlich, Chronometer auf Uhren beliebt zu machen.	N
+GW0	T403	John Harrison wurde in Englands Hauptstadt geboren.	C
+GW4	T405	Die Mehrheit der Bevölkerung in der Republik Burundi sind Hindus.	E
+GW4	T405	Der nächste Präsident der Republik Burundi wird Gaston Sindimwo sein.	N
+GW4	T405	Die Republik Burundi hat mehr Südasien als Europäer.	C
+GW28	T405	Republik Burundi ist ein mehrsprachiges, multiethnisches Land.	E
+GW28	T405	Der Hutus besteht zu 100% aus Hutus ohne halbe oder gemischte Kinder, die in der Statistik enthalten sind.	N
+GW28	T405	Die Republik Burundi liegt nördlich des Äquators.	C
+GW0	T405	Die Hauptstadt der Republik Burundi ist nicht die größte Stadt des Landes.	E
+GW0	T405	Pierre Nkurunziza war Vizepräsident, bevor er Präsident wurde.	N
+GW0	T405	Es gibt mehr Tutsis als Hutus, die in Burundi leben.	C
+GW0	T408	Karen Gilan besuchte eine darstellende Kunstschule.	E
+GW0	T408	Caitlin Blackwood und Karen Gilan haben die gleichen brüderlichen Großeltern.	N
+GW0	T408	Karen Gilan tritt auf, seit sie fünf Jahre alt war.	C
+GW32	T408	Karen Gillan wurde 1987 geboren.	E
+GW32	T408	Karen Gillan lebt jetzt im Vereinigten Königreich.	N
+GW32	T408	Karen Gillan ist die Tante von Caitlin Blackwood.	C
+GW28	T408	Karen Gillan arbeitet vor und hinter dem Bildschirm in der Unterhaltungsindustrie.	E
+GW28	T408	Karen Gillan ist mehrsprachig in Englisch und Italienisch.	N
+GW28	T408	Karen Gillan ist seit seiner Kindheit Schauspielerin.	C
+GW27	T413	Justus von Liebig wurde 1803 geboren und starb im Alter von 69 Jahren.	E
+GW27	T413	Justus von Liebig entstand mit dem Gesetz des Minimums an der Universität Bonn.	N
+GW27	T413	Justus von Liebig erhielt posthum die Albert-Medaille.	C
+GW4	T413	Justus von Liebig studierte und lehrte Chemie in ihrem Leben.	E
+GW4	T413	Justus von Liebig half Studenten zu lehren, die weitergingen, um Raketen zu machen.	N
+GW4	T413	Justus von Liebig wurde für ihre Werke nie ausgezeichnet.	C
+GW28	T413	Justus von Liebig war ein europäischer Wissenschaftler.	E
+GW28	T413	Justus von Liebig war ein verheirateter Mann mit Kindern.	N
+GW28	T413	Justus von Liebig wurde posthum mit der Albert-Medaille ausgezeichnet.	C
+GW34	T416	Johnny Depp war zweimal verheiratet.	E
+GW34	T416	Johnny Depp hat noch ein Kindheitsheim in Owensboro, Kentucky.	N
+GW34	T416	Johnny Depp ist Schauspieler, Produzent, Musiker und Automechaniker.	C
+GW30	T416	Johnny Depp ist ein US-amerikanischer Schauspieler, der in Los Angeles lebt.	E
+GW30	T416	Johnny Depp wurde mehrfach für seine Teilnahme an Hollywood-Filmen ausgezeichnet.	N
+GW30	T416	Johnny Depp starb bei einem Autounfall Anfang 2015.	C
+GW4	T416	Der Schauspieler Johnny Depp begann zu handeln, als sie 21 Jahre alt waren.	E
+GW4	T416	Der Schauspieler Johnny Depp hatte beide Kinder mit Amber Heard.	N
+GW4	T416	Der Schauspieler Johnny Depp hatte drei Frauen.	C
+GW28	T422	Jerry Lee Lewis ist ein amerikanischer Entertainer.	E
+GW28	T422	Jerry Lee Lewis hat seine gesamte Karriere in Louisiana verbracht.	N
+GW28	T422	Jerry Lee Lewis starb beim Klavierspielen.	C
+GW27	T422	Jerry Lee Lewis ist ein Rock-and-Roll-Sänger aus Louisiana.	E
+GW27	T422	Jerry Lee Lewis war gleichzeitig mit Johnny Cash auf Sun Records.	N
+GW27	T422	Jerry Lee Lewis hat eine größere Anzahl von Genres als assoziierte Acts gemacht.	C
+GW0	T422	Jerry Lee Lewis spielt seit über fünfzig Jahren Musik.	E
+GW0	T422	Jerry Lee Lewis spielte neben Johnny Cash Klavier.	N
+GW0	T422	Jerry Lee Lewis stammt aus der Nordwestregion des Pazifiks in den Vereinigten Staaten.	C
+GW4	T433	Der Film Concussion wurde von derselben Person geschrieben und inszeniert.	E
+GW4	T433	Der Film Concussion basierte auf einem beliebten Buch.	N
+GW4	T433	Concussion kam in den Vereinigten Staaten heraus, bevor sie auf dem AFI Fest gezeigt wurde.	C
+GW28	T433	Concussion ist ein US-amerikanischer Film.	E
+GW28	T433	Bei Konkussion geht es um die NFL-Behandlung von Verletzungen des Gehirns ihrer Spieler.	N
+GW28	T433	Concussion machte mehr an der Kasse als sein Budget.	C
+GW27	T433	Concussion wurde von Peter Landesman geschrieben und geleitet.	E
+GW27	T433	Columbia Pictures verteilte Concussion an das AFI Fest, um zuerst Bekanntheit zu erlangen.	N
+GW27	T433	Die Kasse des Concussion war größer als die höchste Haushaltsvorausschätzung.	C
+GW0	T435	Children of Bodom ging mit einem anderen Namen ihre ersten vier Jahre der Aufführung.	E
+GW0	T435	Children of Bodom treten meist in ihrem Heimatland Finnland auf.	N
+GW0	T435	Kinder von Bodom kommen aus Südeuropa.	C
+GW27	T435	Die Band Inearthed kommt aus Finnland.	E
+GW27	T435	Mitglieder von Inearted wurden in Finnland geboren.	N
+GW27	T435	Die Band, die früher als Inearthed bekannt war, war auf vier Labels.	C
+GW28	T435	Children of Bodom spielt seit den 90er Jahren.	E
+GW28	T435	Kinder von Bodom wurden bei der Arbeit großzügig kompensiert.	N
+GW28	T435	Children of Bodom hat eine kurze Geschichte des Musizierens.	C
+GW4	T440	Die Republik Chile hat in erster Linie eine weiße Bevölkerung.	E
+GW4	T440	Die Republik Chile hat Wahlen für ihren Präsidenten.	N
+GW4	T440	Die Republik Chile spricht Englisch als Muttersprache.	C
+GW28	T440	Der Gesetzgeber der Republik Chile setzt sich aus zwei Kammern zusammen.	E
+GW28	T440	Die Republik Chile ist eine ehemalige Kolonie Spaniens.	N
+GW28	T440	Der Präsident der Republik Chile ist eine Frau.	C
+GW14	T440	Spanisch ist die Landessprache in Santiago.	E
+GW14	T440	Maya Fernandez und Carlos Montes Cisternas haben zusammen zu Mittag gegessen.	N
+GW14	T440	== Weblinks ==* Offizielle Website (englisch)== Einzelnachweise ==	C
+GW27	T447	China hat zwei Republikperioden gehabt.	E
+GW27	T447	Die Volksrepublik China kam wegen der Misserfolge der seit 1912 bestehenden Regierung.	N
+GW27	T447	Chinas Verfassung kam, bevor die Volksrepublik verkündet wurde.	C
+GW4	T447	Die Volksrepublik China hatte ihre aktuelle Verfassung in den 1980er Jahren geschrieben.	E
+GW4	T447	Die Volksrepublik China hat seit 1949 ähnliche politische Strategien.	N
+GW4	T447	Die Volksrepublik China hat seit über 1000 Jahren die gleichen herrschenden Familien.	C
+GW28	T447	Die Volksrepublik China wurde vor der Proklamation erklärt.	E
+GW28	T447	Die gegenwärtige Verfassung hat sich seit ihrer Gründung nicht geändert.	N
+GW28	T447	Die Proklamation der Volksrepublik ging der Erklärung der Volksrepublik voraus.	C
+GW28	T458	Contract Bridge ist ein Multiplayer-Kartenspiel.	E
+GW28	T458	Die Contract Bridge ist auf nur 4 Spieler beschränkt.	N
+GW28	T458	Die Vertragsbrücke basiert auf reinem Glück.	C
+GW4	T458	Das Spiel Contract Bridge wird oft in einer Gruppe von Menschen gespielt.	E
+GW4	T458	Das Spiel Contract Bridge wurde professionell gespielt.	N
+GW4	T458	Das Spiel Contract Bridge verwendet die Joker-Karte.	C
+GW27	T458	Bridge ist ein trickreiches Spiel.	E
+GW27	T458	4 Spieler teilen das 52er-Deck untereinander auf.	N
+GW27	T458	Jeder der 4 Spieler verwendet eine andere Fähigkeit.	C
+GW28	T491	Cory Monteith war ein kanadischer Entertainer, der vor weniger als einem Jahrzehnt starb.	E
+GW28	T491	Cory Monteith war vor seinem Tod in einer populären Fernsehserie.	N
+GW28	T491	Cory Monteith begann als Teenager-Schauspieler.	C
+GW0	T491	Cory Monteith starb im Westen Kanadas.	E
+GW0	T491	Cory Monteith wurde mit Heroin überdosiert.	N
+GW0	T491	Cory Monteith starb neun Monate nach seinem 31. Geburtstag.	C
+GW33	T491	Cory Monteith wird am 11. Mai 1982 geboren	E
+GW33	T491	Cory Monteith ist drogenabhängig	N
+GW33	T491	Cory Monteith begann seine Karriere 2013	C
+GW45	T534	RED BERRY(RED) UND COCONUT(SILVER) SIND DIE VARIANTEN VON VODKA	E
+GW45	T534	CIROC VODKA MÖGLICH BRAND NAME ODER PRODUKTTITEL VON VODKA	N
+GW45	T534	CIRCO HADE MEHR ALS Zwanzig fünf VARIAANTS	C
+GW0	T534	C?OC ist seit über fünfzehn Jahren auf dem Markt.	E
+GW0	T534	C?OC wird hauptsächlich in seinem Herkunftsland konsumiert.	N
+GW0	T534	C?OC wird in weniger als einem Dutzend Geschmacksrichtungen verkauft.	C
+GW28	T534	C?OC ist ein französischer Wodka, der in verschiedenen Geschmacksrichtungen kommt.	E
+GW28	T534	C?OC ist ein preiswerter Alkohol für preisbewusste Trinker.	N
+GW28	T534	C?OC ist eine zwei Jahrzehnte alte Marke.	C
+GW0	T535	Die erste Ausgabe von Crisis on Infinite Earths erschien im Frühjahr 1985.	E
+GW0	T535	DC Comics beendete Crisis on Infinite Earths aufgrund schlechter Verkäufe.	N
+GW0	T535	Crisis on Infinite Earths war ein im Winter 1985 erschienener Roman.	C
+GW51	T535	Crisis on Infinite Earth war ein DC-Comic, der in den 80er Jahren monatlich lief.	E
+GW51	T535	Crisis on Infinite Earths war George R.R. Martins erster Vorstoß ins Fantasy-Schreiben.	N
+GW51	T535	Die Krise auf der unendlichen Erde war Batman, der in der letzten Ausgabe von Dumbledore getötet wird.	C
+GW28	T535	Crisis on Infinite Earths ist eine US-amerikanische Comicserie aus den 80er Jahren.	E
+GW28	T535	Crisis on Infinite Earths enthielt viele Cameo-Auftritte anderer bekannter DC-Superhelden.	N
+GW28	T535	Crisis on Infinite Earths feiert sein 35-jähriges Jubiläum seit der Veröffentlichung.	C
+GW51	T536	Denver ist eine Stadt in Colorado in den Vereinigten Staaten nach James Denver benannt.	E
+GW51	T536	Denver war ursprünglich der Ort, an dem der erste Bronco in Amerika entdeckt wurde, weshalb die lokale Fußballmannschaft Broncos heißt.	N
+GW51	T536	Denver wurde 1848 von einer örtlichen Bergleutegruppe gegründet.	C
+GW28	T536	Denver, Colorado ist eine US-amerikanische Stadt, die im 19.	E
+GW28	T536	Denver, Colorado liegt in der Nähe der Rockie-Bergkette.	N
+GW28	T536	Denver, Colorado wurde innerhalb eines Jahrzehnts gegründet und eingegliedert.	C
+GW0	T536	Denver City und County wurden ein paar Jahre nach der Wende des 20. Jahrhunderts konsolidiert.	E
+GW0	T536	Denver wurde von James W. Denver gegründet.	N
+GW0	T536	Denver City liegt im tiefen Süden der Vereinigten Staaten.	C
+GW27	T543	Indiens größtes Einzelspiel zog 465.000 über fünf Tage.	E
+GW27	T543	26.528 war Indiens größte Menge pro Spiel aller Zeiten.	N
+GW27	T543	Indien v. Pakistan in Eden Gardens im Jahr 1999 zog mehr als Indien insgesamt 2017 Saison.	C
+GW51	T543	In einem Fünf-Tage-Spiel 1999 stand Indien Pakistan gegenüber.	E
+GW51	T543	465.000 einzigartige Menschen beobachteten das Cricketspiel zwischen Indien und Pakistan.	N
+GW51	T543	Fast 1 Million Menschen sahen Cricket in Indien für die Saison 2017.	C
+GW28	T543	Die Indian Premier League ist eine US-amerikanische Fußballnationalmannschaft.	E
+GW28	T543	Indien und Pakistan haben eine Rivalität in Sportspielen.	N
+GW28	T543	Cricket ist ein unbeliebter Sport in Indien.	C
+GW51	T544	Despicable Me 3 ist ein Animationsfilm von Universal Pictures aus dem Jahr 2017.	E
+GW51	T544	Despicable Me 3 ist eigentlich der 4. Film der Despicable Me Franchise, trotz der 3 im Titel.	N
+GW51	T544	Despicable Me 3 machte im Sommer 2016 erstmals seinen Boxenlauf mit dem Titel Despicable Me 3.	C
+GW28	T544	Despicable Me 3 ist ein Hollywood-Film.	E
+GW28	T544	Despicable Me 3 ist ein animierter Film.	N
+GW28	T544	Despicable Me 3 war eine Enttäuschung in der Kasse.	C
+GW0	T544	Despicable Me 3 wurde bei Annecy zwei Wochen vor der landesweiten Veröffentlichung gezeigt.	E
+GW0	T544	Despicable Me 3 hat die gleiche Besetzung wie die ersten beiden Filme mit dem gleichen Titel.	N
+GW0	T544	Despicable Me 3 war kein Kassenerfolg im Vergleich zu seinem ursprünglichen Budget.	C
+GW28	T554	Danehill war ein amerikanisches Rennpferd.	E
+GW28	T554	Danehill wurde zum Hengst gebracht, nachdem seine Renntage vorbei waren.	N
+GW28	T554	Danehill wurde in freier Wildbahn mit unbekannter Abstammung geboren.	C
+GW27	T554	Danehills Vater war Danzig und seine Grandsire war Northern Dancer.	E
+GW27	T554	Danehill wurde von Juddmonte Farms für Prinz Khalid Abdullah gezüchtet.	N
+GW27	T554	Danehills Besitzer und Trainer waren derselbe Mann.	C
+GW51	T554	Danehill ist ein berühmtes Rennpferd aus den Vereinigten Staaten.	E
+GW51	T554	Juddmonte Farms ist einer der erfolgreichsten Züchter in den Vereinigten Staaten.	N
+GW51	T554	Danehill hat in seiner gesamten Karriere nie ein Pferderennen verloren.	C
+GW51	T557	Club ist ein irischer Softdrink.	E
+GW51	T557	Club kommt in vielen verschiedenen Geschmacksrichtungen, wie Orange und Trauben.	N
+GW51	T557	Club ist das beliebteste Softdrink der Welt.	C
+GW33	T557	Club ist ein Carbonated Softdrink Hergestellt von Britvic Ireland	E
+GW33	T557	Club wird nur in Irland hergestellt	N
+GW33	T557	Club ist ein Orangensaft	C
+GW28	T557	Club ist ein irisches Getränk.	E
+GW28	T557	Club ist ein süßes, zuckerhaltiges Getränk.	N
+GW28	T557	Der Club hat sein Rezept für den Drink nie geändert.	C
+GW28	T578	Close Encounters of the Third Kind war ein Hollywood-Film, der von einem berühmten Regisseur geschrieben und inszeniert wurde.	E
+GW28	T578	Close Encounters of the Third Kind war ein Science-Fiction-Film.	N
+GW28	T578	Close Encounters of the Third Kind war ein Fehlschlag an der Kasse.	C
+GW51	T578	Close Encounters of the Third Kind ist ein Science-Fiction-Film von Stephen Spielberg.	E
+GW51	T578	Close Encounters of the Third Kind hat viele zukünftige Filme und TV-Shows inspiriert, nämlich die Show Stranger Things.	N
+GW51	T578	Close Encounters of the Third Kind wurde von einem weiteren Spielberg Film, E.T., inspiriert, der 1982 vor Close Encounters of the Third Kind veröffentlicht wurde.	C
+GW0	T578	Close Encounters of the Third Kind bruttierte über eine Viertelmilliarde Dollar an der Kasse über sein Budget.	E
+GW0	T578	Ein Ehepaar produzierte Close Encounters of the Third Kind.	N
+GW0	T578	Close Encounters of the Third Kind wurde von derselben Firma produziert und vertrieben.	C
+GW54	T581	Polmos Krak—w ist der Hersteller Cracovia	E
+GW54	T581	Cracovia wurde im Jahr 1995	N
+GW54	T581	Cracovia ist nur in Polen erhältlich	C
+GW28	T581	Cracovia ist polnischer Alkohol.	E
+GW28	T581	Cracovia ist der meistverkaufte Wodka in Polen.	N
+GW28	T581	Cracovia ist ein schwaches alkoholisches Getränk	C
+GW51	T581	Cracovia ist eine Art polnischer Wodka.	E
+GW51	T581	Cracovia ist nach einer Region im Land Polen benannt.	N
+GW51	T581	Cracovia war ursprünglich ein Bier und verwandelte sich in 40 Proof Vodka.	C
+GW51	T596	Ciara ist eine US-amerikanische R&B-Sängerin und Tänzerin.	E
+GW51	T596	Ciaras erste Hitsingle war Goodies mit Petey Pablo.	N
+GW51	T596	Ciara ist seit 1971 ein professioneller R&B.	C
+GW28	T596	Ciara ist ein amerikanischer Entertainer, der mit einem Athleten verheiratet ist.	E
+GW28	T596	Ciara ist ein einziges Kind.	N
+GW28	T596	Ciara ist seit ihren zwanziger Jahren aktiv.	C
+GW33	T596	Ciara Prinzessin Harris geboren am 25. Oktober 1985 in Austin, Texas, USA.	E
+GW33	T596	seine Musikkarriere bei Nayvadious Wilburn	N
+GW33	T596	Ciara Prinzessin Harris heiratete Nayvadious Wilburn	C
+GW28	T662	Detroit, Michigan liegt weit über dem Meeresspiegel.	E
+GW28	T662	Detroit, Michigan Metro-Bereich ist größer als die meisten anderen amerikanischen Metropolregionen.	N
+GW28	T662	Die Stadt Detroit, Michigan umfasst weniger als ein Zehntel des Stadtgebiets.	C
+GW0	T662	Die Stadt Detroit ist größer als die reine Landfläche, die sie besetzt.	E
+GW0	T662	Detroits größter Teil befindet sich in der Innenstadt.	N
+GW0	T662	Detroits Stadtgebiet ist größer als die Metro.	C
+GW51	T662	Detriot ist eine sehr große Stadt in Michigan.	E
+GW51	T662	Detriot ist die größte Stadt in den Vereinigten Staaten.	N
+GW51	T662	Detriot liegt unterhalb des Meeresspiegels.	C
+GW51	T667	Crimson Peak machte $19.7 Millionen Gewinn, nachdem der Kassenlauf abgeschlossen war.	E
+GW51	T667	Guilllermo Del Toro und Universal Pictures sind seit langem Partner.	N
+GW51	T667	Crimson Peak wurde 2014 in Blu-Ray veröffentlicht.	C
+GW0	T667	Crimson Peak ist knapp unter zwei Stunden lang.	E
+GW0	T667	Crimson Peak ist das erste Mal, dass Guillermo del Toro das Drehbuch seines Films nicht alleine geschrieben hat.	N
+GW0	T667	Crimson Peak wurde im Winter 2015 uraufgeführt.	C
+GW28	T667	Crimson Peak ist ein US-amerikanischer Independent-Film aus dem 21.	E
+GW28	T667	Crimson Peak gewann viel Lob von Kritikern und Filmkritikern.	N
+GW28	T667	Crimson Peak erzielte einen signifikanten Gewinn an der Kasse.	C
+GW51	T680	Camp Kill Yourself ist eine Grunge-Rockband, die seit über 30 Jahren in der Musikbranche aktiv ist.	E
+GW51	T680	Camp Kill Yourself ist manchmal als CKY bekannt, um nicht einige Kritiker und Zuhörer ihrer Musik zu beleidigen.	N
+GW51	T680	Camp Kill Yourself wurde bei Universal und Paramount unterschrieben.	C
+GW28	T680	CKY ist eine US-amerikanische Rockband, die bis heute auftritt.	E
+GW28	T680	CKY hat viele Auszeichnungen für seine Musik gewonnen.	N
+GW28	T680	CKY hat während seiner gesamten Karriere nur mit wenigen Labels gearbeitet.	C
+GW27	T680	Camp Kill Yourself ist aus West Chester, Pennsylvania.	E
+GW27	T680	Camp Kill Yourself ist seit 1998 auf dem Label Entertainment One tätig.	N
+GW27	T680	Camp Kill Yourself wurde auf mehr Labels als sie assoziierte Handlungen.	C
+GW0	T688	Die Frau von Dennis Gabor überlebte ihn um zwei Jahre.	E
+GW0	T688	Dennis Gabor erhielt den Nobelpreis für seine Arbeit in der Holografie.	N
+GW0	T688	Dennis Gabor erhielt seine Ausbildung außerhalb seines Heimatlandes.	C
+GW28	T688	Dennis Gabor war ein Nobelpreisträger des 20.	E
+GW28	T688	Dennis Gabor lehrte am Imperial College in London.	N
+GW28	T688	Dennis Gabor gewann seine Auszeichnungen in den folgenden Jahren ab 1967.	C
+GW51	T688	Dennis Gabor ist ein berühmter ungarisch-britischer Wissenschaftler.	E
+GW51	T688	Dennis Gabor wurde berühmt, als er am Imperial College of London studierte, als er den Nobelpreis für Physik erhielt.	N
+GW51	T688	Dennis Gabor erhielt den Friedensnobelpreis, als er 1982 für Oxford arbeitete.	C
+GW51	T702	Die City of London ist eine Stadt im Vereinigten Königreich, die seit fast 2000 Jahren existiert.	E
+GW51	T702	Die Stadt ging durch die Wessex Reformation, nachdem das römische Reich fiel.	N
+GW51	T702	Die City of London hat 27 verschiedene Stationen nach der Wessex-Umsiedlung.	C
+GW0	T702	Es gibt über zwei Dutzend Stationen in der Stadt London.	E
+GW0	T702	London ist die bevölkerungsreichste Stadt im Vereinigten Königreich.	N
+GW0	T702	Die Römer ließen London einige Jahre nach dem Wessexs nieder.	C
+GW28	T702	City of London ist ein einzigartiges Gebiet Englands.	E
+GW28	T702	City of London hat eine eigene Polizeitruppe, die von anderen Gerichtsbarkeiten getrennt ist.	N
+GW28	T702	City of London ist römisches Land.	C
+GW28	T709	Crack-Up ist ein Musikalbum, das über einen Zeitraum von zwei Jahren aufgenommen und veröffentlicht wird.	E
+GW28	T709	Crack-Up ist ein Studioalbum der Band Fleet Foxes.	N
+GW28	T709	Crack-Up wurde hauptsächlich im Bundesstaat Washington aufgenommen.	C
+GW51	T709	Crack-Up ist ein 2017 erschienenes Indie-Rock-Album.	E
+GW51	T709	Crack-Up wurde ursprünglich vom Cracked Magazin inspiriert.	N
+GW51	T709	Crack-Up wurde von Barry Gordy produziert und 2003 aufgenommen.	C
+GW0	T709	Crack-Up dauerte etwa ein halbes Jahr, um die Aufnahme zu beenden.	E
+GW0	T709	Robin Pecknold produziert Musik nur in Electric Lady Studios.	N
+GW0	T709	Crack-Up hat in mehreren Studios nur an der Ostküste aufgenommen.	C
+GW51	T719	Cristiano Ronaldo ist in seinen 30er Jahren ein berühmter Forward.	E
+GW51	T719	Cristiano Ronaldo ist ein berühmter Fußballer für Juventus.	N
+GW51	T719	Ronaldo ist über 1,80 Meter groß.	C
+GW4	T719	Cristiano Ronaldo spielt eher eine offensive Position als eine Defensive.	E
+GW4	T719	Cristiano Ronaldo hat schon immer in Portugal gelebt.	N
+GW4	T719	Cristiano Ronaldo ist kürzer als 6 Fuß groß.	C
+GW28	T719	Cristiano Ronaldo ist ein europäischer Athlet..	E
+GW28	T719	Cristiano Ronaldo spielt in der spanischen La Liga.	N
+GW28	T719	Cristiano Ronaldo ist ein britischer Millenial.	C
+GW14	T720	Das selbstbetitelte Album von David Bowie wurde in zwei verschiedenen Jahren aufgenommen.	E
+GW14	T720	Mike Vernon ist Staatsbürger des Vereinigten Königreichs.	N
+GW14	T720	Das selbstbetitelte Album von David Bowie wurde mehr als ein halbes Jahr nach dem Ende der Aufnahme veröffentlicht.	C
+GW51	T720	David Bowie ist ein Album, das in London aufgenommen wurde.	E
+GW51	T720	David Bowie war eines von mehreren selbstbetitelten Alben von David Bowie.	N
+GW51	T720	David Bowie wurde in nur einer Woche im Januar 1967 aufgenommen.	C
+GW4	T720	Das Album David Bowie wurde in Großbritannien aufgenommen.	E
+GW4	T720	Das Album David Bowie wurde von David Bowie geschrieben.	N
+GW4	T720	Das Album David Bowie war über eine Stunde lang.	C
+GW14	T727	Die mittlere Initiale von Dick Van Dyke befindet sich am Ende des englischen Alphabets.	E
+GW14	T727	Dick Van Dyke wurde während des Zweiten Weltkriegs in Übersee eingesetzt.	N
+GW14	T727	Dick Van Dyke ist noch kein Großvater.	C
+GW6	T727	Arlene Silvers Ehemann wurde in den zwanziger Jahren geboren.	E
+GW6	T727	Dick Van Dyke war ein Vater im Zweiten Weltkrieg.	N
+GW6	T727	Shane Van Dyke hat keine großen Unstimmigkeiten.	C
+GW51	T727	Dick Van Dyke ist Schauspieler und Komiker aus Malibu.	E
+GW51	T727	Dick Van Dyke hatte seine eigene Show namens Dick Van Dyke Show.	N
+GW51	T727	Van Dyke diente während des Zweiten Weltkriegs für mehr als 4 Jahre beim Militär.	C
+GW4	T729	David Byrne zog in die Vereinigten Staaten.	E
+GW4	T729	David Byrne ist mit den Talking Heads live aufgetreten.	N
+GW4	T729	David Byrne lebte im Vereinigten Königreich, als sie zum ersten Mal Musiker wurde.	C
+GW28	T729	David Byrne ist ein schottischer Musiker.	E
+GW28	T729	David Byrne war Sänger, Songwriter und Gitarrist für die Talking Heads.	N
+GW28	T729	David Byrne begann seine Musikkarriere Mitte der zwanziger Jahre.	C
+GW51	T729	David Byrne ist ein schottischer Musiker aus Dunbartonshire.	E
+GW51	T729	Ursprünglich begann Byrne als Leadsänger für die Talking Heads.	N
+GW51	T729	1989 zog sich Byrne von der Musik zurück, um auf seiner Farm zu arbeiten.	C
+GW51	T733	Coca-Cola mit Lime ist eine Soda von Coca-Cola, die beide in Großbritannien/USA produziert wurden.	E
+GW51	T733	Coca-Cola Lime wurde aus Versehen erschaffen, als ein Manager Lime, Tequila und Coca-Cola mischte.	N
+GW51	T733	Coca-Cola mit Lime wurde in Nordirland eingeführt, bevor sie in Großbritannien hergestellt wurde.	C
+GW28	T733	Coca-Cola with Lime/Diet Coke with Citrus Zest ist ein britisch-amerikanisches Getränk.	E
+GW28	T733	Coca-Cola with Lime/Diet Coke with Citrus Zest war ein Bestseller im Vereinigten Königreich.	N
+GW28	T733	Coca-Cola mit Lime/Diet Coke mit Citrus Zest enthielt einen eigentlichen Kalkkeil.	C
+GW4	T733	Coca-Cola mit Lime/Diet Coke mit Citrus Zest wurde mehr als einmal eingeführt.	E
+GW4	T733	Coca-Cola mit Lime/Diet Coke mit Citrus Zest kam nach Coca-Cola mit Lemon.	N
+GW4	T733	Coca-Cola mit Lime/Diet Coke mit Citrus Zest wird nur in den Vereinigten Staaten hergestellt.	C
+GW6	T734	David Cook hat mindestens zwei unmittelbare Familienmitglieder.	E
+GW6	T734	David Cook entwirft Spiele in Michigan.	N
+GW6	T734	David Cook ist ein lebenslanger Junggeselle.	C
+GW4	T734	David Cook ist bekannt für Videospiele.	E
+GW4	T734	David Cook hat immer in Michigan gelebt.	N
+GW4	T734	David Cook hat mehr als ein Kind.	C
+GW51	T734	David Cook ist ein US-amerikanischer Spieledesigner.	E
+GW51	T734	David Cook ist berühmt für die Entstehung der Mass Effect Serie.	N
+GW51	T734	David Cook hatte noch nie ein Kind mit seiner Gattin Helen.	C
+GW14	T738	Das Cockerel FabergŽ Ei besteht aus mehreren verschiedenen Edelsteinen.	E
+GW14	T738	Der Vogel innerhalb des Cockerel FabergŽ Ei klappert seine Flügel.	N
+GW14	T738	Die Person, die das Cockerel FabergŽ Ei gemacht hat, ist in der Lage zu gebären.	C
+GW4	T738	Das Cockerel FabergŽ Ei hat einen Vogel darin.	E
+GW4	T738	Das Cockerel FabergŽ Ei ist sehr wertvoll.	N
+GW4	T738	Das Cockerel FabergŽ Ei ist über einen Fuß hoch.	C
+GW51	T738	Das Cockerel FabergŽ Ei ist ein Gold- und Diamantobjekt, das etwa einen halben Fuß hoch ist.	E
+GW51	T738	Das Cockerel FabergŽ-Ei war Perkhins erstes Faberge-E	N
+GW51	T738	Das Cockerel FabergŽ Ei zeigt über 10 verschiedene Materialien verwendet.	C
+GW51	T741	David Duchovny war einst mit Tea Leona über 15 Jahre verheiratet.	E
+GW51	T741	Duchovny ist bekannt für seine Rolle bei den X-Akten als Fox Mulder.	N
+GW51	T741	Duchovny handelt seit etwa 10 Jahren.	C
+GW4	T741	David Duchovny ging ans College in den USA.	E
+GW4	T741	David Duchovny hatte beide seine Kinder mit TŽa Leoni.	N
+GW4	T741	David Duchovny handelt seit den 1960er Jahren.	C
+GW2	T741	David Duchovny lebt in den westlichen USA.	E
+GW2	T741	David Duchovny studierte Englisch in Princeton.	N
+GW2	T741	David Duchovny debütierte im Alter von 24 Jahren.	C
+GW28	T745	Mens 50 Kilometer Freestyle bei den XXII Olympischen Winterspielen war ein athletisches Ereignis.	E
+GW28	T745	Mens 50 Kilometer Freestyle bei den XXII Olympischen Winterspielen war ein von Russen dominiertes Langlauf-Event.	N
+GW28	T745	Mens 50 Kilometer Freistil bei den XXII Olympischen Winterspielen fand in Amerika statt.	C
+GW4	T745	Bei den XXII Olympic Winter Games hatten die Herren 50 Kilometer Freistil mehr als 50 Teilnehmer.	E
+GW4	T745	Die 50 Kilometer Freestyle der Männer bei den XXII Olympischen Winterspielen war sehr kalt.	N
+GW4	T745	Die 50 Kilometer Freestyle der Männer bei den XXII Olympischen Winterspielen wurde in weniger als einer Stunde beendet.	C
+GW51	T745	Die Mens 50 Kilometer Freestyle bei den XXII Olympic Winter Games lief für einen Tag im Februar.	E
+GW51	T745	Die Männer 50 Kilometer Freistil war das erste Ereignis Michael Phelps gewann eine Goldmedaille in.	N
+GW51	T745	Der Gewinner der Mens 50 Kilometer Freestyle at the XXII Olympic Winter Games endete mit etwas mehr als 2 Minuten.	C
+GW0	T746	Einige Nationen senden mehrere Athleten, um im Langlauf bei den Olympischen Spielen	E
+GW0	T746	Im Alpensia Cross-Country Centre fand 2018 das erste Jahr des Langlaufens statt.	N
+GW0	T746	Es gibt mehr männliche Langlauf-Events als Frauen bei den Olympischen Spielen.	C
+GW4	T746	Langlauf bei den XXIII Olympischen Winterspielen hatte Männer- und Frauenrennen.	E
+GW4	T746	Der Langlauf bei den XXIII Olympischen Winterspielen fand täglich für zwei Wochen statt.	N
+GW4	T746	Mehr als 500 Teilnehmer nahmen am Langlauf bei den XXIII Olympischen Winterspielen teil.	C
+GW51	T746	Das Langlauf-Event bei den XXIII Olympischen Spielen lief im Alpensia Cross-Country Centre	E
+GW51	T746	Das Langlauf-Event bei den XXIII Olympischen Spielen 2018 fand statt.	N
+GW51	T746	Das Langlauf-Event bei den XXIII Olympischen Spielen lief mehr als 3 Wochen lang mit Hunderten von Teilnehmern aus über 70 Ländern.	C
+GW51	T749	Crossed war eine limitierte Serie, die etwa zweieinhalb Jahre lang von Avatar Press veröffentlicht wurde.	E
+GW51	T749	Crossed war die meistverkaufte Serie im Avatar Press Katalog.	N
+GW51	T749	Crossed wird in konsistenten Abständen veröffentlicht und ist immer noch eine laufende Reihe.	C
+GW14	T749	Crossed ist eine postapokalyptische Serie, die nach der Jahrhundertwende veröffentlicht wurde.	E
+GW14	T749	Ausgabe 100 (Badlands) ist die beliebteste Ausgabe der Serie Crossed.	N
+GW14	T749	Die nächste Ausgabe der Serie Crossed erscheint im Juni 2019.	C
+GW4	T749	Der Comic Crossed wurde unter zwei Jahren veröffentlicht.	E
+GW4	T749	Der Comic Crossed wurde unter verschiedenen Namen veröffentlicht.	N
+GW4	T749	Der Comic Crossed war ein Superhelden-Comic.	C
+GW28	T758	Code Blue ist ein US-amerikanischer Bulle.	E
+GW28	T758	Code Blue ist ein Bucking-Bullen, der in amerikanischen Rodeos verwendet wird.	N
+GW28	T758	Code Blue wiegt eine Tonne.	C
+GW4	T758	Der Bulle Code Blue wog unter einer Tonne.	E
+GW4	T758	Der Bulle Code Blue lebt noch heute.	N
+GW4	T758	Der Bulle Code Blue stammt ursprünglich aus Großbritannien.	C
+GW6	T758	Kishs #624 Wolfman hat mindestens zwei Generationen von Nachkommen.	E
+GW6	T758	Code Blue wurde nur von einer Person geritten.	N
+GW6	T758	Die amerikanische Bucking Bull Marke 644 hat meist dunkles Fell.	C
+GW51	T761	Code Orange ist eine US-amerikanische Punk- und Metalcore-Band.	E
+GW51	T761	Die Band traf sich in einem Mosh Pit in Philadelphia, bevor sie ihre Band gründete.	N
+GW51	T761	Code Orange spielt seit über 15 Jahren unter Death Row Platten.	C
+GW2	T761	Code Orange hat ihren Anfang im 21.	E
+GW2	T761	David Cross hatte 2009 und 2010 2 Welttourneen.	N
+GW2	T761	David Cross ist eine Popgruppe aus Pennsylvania.	C
+GW28	T761	Code Orange ist eine US-amerikanische Punkband.	E
+GW28	T761	Code Orange hat zahlreiche Auszeichnungen für seine Musik gewonnen.	N
+GW28	T761	Code Orange tritt seit einem Jahrzehnt auf.	C
+GW28	T777	David Packouz ist ein US-amerikanischer verurteilter Verbrecher.	E
+GW28	T777	David Packouz war die Inspiration für einen Hollywood-Film.	N
+GW28	T777	David Packouz besaß nie ein Geschäft.	C
+GW4	T777	David Packouz ist in rechtliche Schwierigkeiten geraten.	E
+GW4	T777	David Packouz verkaufte illegale Waffen.	N
+GW4	T777	David Packouz musste ins Gefängnis.	C
+GW51	T777	David Packouz ist ein ehemaliger Waffenhändler, der zu Hausarrest in den Vereinigten Staaten verurteilt wurde.	E
+GW51	T777	Packouz ist berühmt für die Bewaffnung der Iraner im iranischen Kontraskandal in den 80er Jahren.	N
+GW51	T777	Packous stand am Tag nach seinem 40. Geburtstag unter Hausarrest.	C
+GW2	T778	Crystal Head Vodka entstand nördlich der USA.	E
+GW2	T778	Crystal Head Vodka hat ein blaues und goldenes Label.	N
+GW2	T778	Crystal Head Vodka ist mehr als die Hälfte Alkohol in Volumen.	C
+GW6	T778	Crystal Head Vodka wurde in einem anderen Land eingeführt, als es seinen Ursprung hatte.	E
+GW6	T778	Crystal Head Vodka wurde in Kanada seit Jahren vor 2008 entwickelt.	N
+GW6	T778	Crystal Head Vodka kann nicht durchschaut werden.	C
+GW4	T778	Crystal Head Vodka wurde in den USA veröffentlicht.	E
+GW4	T778	Crystal Head Vodka wird in Kanada verkauft.	N
+GW4	T778	Crystal Head Vodka ist bekannt für seine rosa Farbe.	C
+GW4	T785	Das Album Ctrl dauerte drei Jahre, bis es aufgenommen wurde.	E
+GW4	T785	Das Album Ctrl hatte viele Leute, die darauf sangen.	N
+GW4	T785	Das Album Ctrl ist über eine Stunde lang.	C
+GW6	T785	Ctrl begann drei Jahre vor der Veröffentlichung mit der Aufnahme.	E
+GW6	T785	Ctrl ist eine halbe alternative R&B und eine halbe Neo-Seele.	N
+GW6	T785	Ctrl wurde von niemandem produziert, der ein eigenes Studio hat.	C
+GW51	T785	Strg ist ein R&B-Album von Top Dawg Entermtainment aus dem Jahr 2017.	E
+GW51	T785	Ctrl war das Debütalbum von SZA.	N
+GW51	T785	Ctrl dauerte nur Wochen, um 2016 aufzunehmen.	C
+GW28	T787	Republik Kuba ist eine multiethnische, einsprachige Nation.	E
+GW28	T787	Die Republik Kuba wird von Raul Castro, dem Bruder des Gründers Fidel Castro, geleitet.	N
+GW28	T787	Die Republik Kuba liegt im Golf von Mexiko.	C
+GW4	T787	Die Republik Kuba hat nur eine einzige Amtssprache.	E
+GW4	T787	Die Republik Kuba hält Wahlen zum Präsidenten ab.	N
+GW4	T787	Die Republik Kuba praktiziert ein kapitalistisches System.	C
+GW51	T787	Die Republik Kuba ist ein Land in der nördlichen Hemisphäre.	E
+GW51	T787	Kubas Hauptstadt wurde nach dem Zweiten Weltkrieg nach Havanna verlegt.	N
+GW51	T787	Kuba ist meist schwarz mit Weißen, die die zweitgrößte ethnische Gruppe bilden.	C
+GW14	T790	Kubas Unabhängigkeitskrieg wurde fast drei Jahrzehnte nach seiner Unabhängigkeitserklärung geführt.	E
+GW14	T790	Etwa 30% der kubanischen Bevölkerung ist mehrsprachig.	N
+GW14	T790	Die Kubanische Revolution dauerte weniger als fünf Jahre.	C
+GW51	T790	Die Republik Kuba war vor 1900 eine ehemalige spanische und amerikanische Kolonie.	E
+GW51	T790	Kuba wird seit über 50 Jahren von der Familie Castro regiert.	N
+GW51	T790	Die Kubanische Revolution dauerte etwa Jahre, bis sie schließlich friedlich endete.	C
+GW4	T790	Die Republik Kuba brauchte 30 Jahre, um als unabhängig anerkannt zu werden.	E
+GW4	T790	Die Republik Kuba kämpfte einen Krieg, um unabhängig zu werden.	N
+GW4	T790	Die Republik Kuba hat ihre derzeitige Verfassung seit 20 Jahren.	C
+GW28	T791	Colectiv Nachtclub Feuer war ein fahrlässiges Feuer in Europa, das zu vielen Todesfällen führte.	E
+GW28	T791	Colectiv Nachtclub Feuer geschah in einem Hip-Hop-Club.	N
+GW28	T791	Colectiv Nachtclub Feuer wütete stundenlang und zerstörte andere Unternehmen.	C
+GW4	T791	Mehr als 50 Menschen starben am Colectiv Nachtclub Feuer.	E
+GW4	T791	Das Colectiv Nachtclub Feuer wurde durch Schaum verursacht, der Feuer fing.	N
+GW4	T791	Die Colectiv Nachtclub Feuer hatte keine Strafverfahren.	C
+GW61	T791	Das Feuer in Club Colectiv Verdächtige Liste enthält mindestens einen Politiker.	E
+GW61	T791	Die Verdächtigen von Club Colectiv Feuer haben familiäre Bindungen.	N
+GW61	T791	Die Verdächtigen von Club Colectiv arbeiten alle im privaten Sektor.	C
+GW12	T792	David Ronald de Mey Warren wurde im Frühjahr 1925 geboren.	E
+GW12	T792	Die University of Sydney war eines von vielen Colleges, die David Ronald de Mey Warren besuchte.	N
+GW12	T792	David Ronald de Mey Warren war seit den frühen 1920er Jahren Flugschreiber.	C
+GW4	T792	David Ronald de Mey Warren baute eine Maschine, die in Flugzeuge geht.	E
+GW4	T792	David Ronald de Mey Warren lebte ihr ganzes Leben in Australien.	N
+GW4	T792	David Ronald de Mey Warren ging in ihrem Leben nie in ein Flugzeug.	C
+GW51	T792	David Ronald de Mey Warren ist ein australischer Wissenschaftler aus Melbourne.	E
+GW51	T792	David Ronald de Mey Warren war berühmt für die Erfindung der Black Box, die jetzt in jedem großen Handelsflugzeug befindet.	N
+GW51	T792	David Ronald de Mey Warren lebte über 90 Jahre in Austraila, bevor er schließlich verstarb.	C
+GW4	T793	Colin Farrell begann zu singen, als sie 21 Jahre alt waren.	E
+GW4	T793	Colin Farrell zog als Kind in die USA.	N
+GW4	T793	Colin Farrell hat einen Onkel mit dem gleichen Nachnamen wie er.	C
+GW6	T793	Colin James Farrell zog in ein anderes Land.	E
+GW6	T793	Die Kinder von Colin Farrell wurden in den USA geboren.	N
+GW6	T793	Tommy Farrell hat keine Neffen.	C
+GW51	T793	Colin Farrell ist ein irischer Schauspieler und Sänger mit mehreren Kindern.	E
+GW51	T793	Farrell-Stars gegenüber Brendan Gleeson im Film In Brudges.	N
+GW51	T793	Farrell hat einen Bruder namens Tommy.	C
+GW51	T794	David with the Head of Goliath ist ein Ölgemälde des Künstlers Caravaggio.	E
+GW51	T794	Die Galleria Borghese enthält auch die Mons Venus und die Mona Lisa.	N
+GW51	T794	David with the Head of Goliath ist ein kleines Gemälde, das nur einen Fuß hoch und 2 Fuß breit misst.	C
+GW4	T794	David mit dem Kopf von Goliath wurde im 17. Jahrhundert gemalt.	E
+GW4	T794	David mit dem Leiter von Goliath dauerte mehrere Jahre zu machen.	N
+GW4	T794	David with the Head of Goliath befindet sich in Spanien.	C
+GW14	T794	David with the Head of Goliath wurde im 17. Jahrhundert fertiggestellt.	E
+GW14	T794	David mit dem Oberhaupt von Goliath wurde in Italien gemalt.	N
+GW14	T794	David with the Head of Goliath ist die Größe einer Briefmarke.	C
+GW28	T797	Cue Card ist ein kastriertes britisches Rennpferd.	E
+GW28	T797	Cue Card ist ein wettbewerbsfähiges Rennpferd, das in Wettkämpfen auf der ganzen Welt geritten ist.	N
+GW28	T797	Cue Card wurde pensioniert, um seine restlichen Jahre zu versengen.	C
+GW4	T797	Das Pferd Cue Card machte über eine Million Pfund bei Rennen.	E
+GW4	T797	Das Pferd Cue Card gewann die Mehrheit ihrer Rennen.	N
+GW4	T797	Das Pferd Cue Card stammte aus den Vereinigten Staaten.	C
+GW51	T797	Cue Card ist ein in Großbritannien gefohlenes Rennpferd.	E
+GW51	T797	Der Name Cue Card wurde von den Karten inspiriert, die sein Trainer in seiner Improvisationsklasse benutzte.	N
+GW51	T797	Cue Card verdiente knapp 1.000.000 Pfund in der Rennkarriere des Pferdes.	C
+GW4	T799	Colin Kaepernick ist über 2000 Yards gestürzt.	E
+GW4	T799	Colin Kaepernick hat viele Spiele gewonnen, in denen er spielte.	N
+GW4	T799	Colin Kaepernick spielt derzeit für ein Team.	C
+GW6	T799	Colin Kaepernick hat mehr überstürzende Yards als überstürzende Touchdowns.	E
+GW6	T799	Colin Kaepernick hatte schon immer ein TD-Int-Verhältnis über 2	N
+GW6	T799	Jeder mit über 12.000 vorbeifahrenden Yards ist an ein bestimmtes Team gebunden.	C
+GW51	T799	Colin Kaepernick ist ein NFL-Footballspieler mit über 10.000 vorbeifahrenden Yards.	E
+GW51	T799	Kaepernick wurde nicht von einem NFL-Team aufgrund seiner Freimütigkeit über soziale und strafrechtliche Gerechtigkeit unterzeichnet.	N
+GW51	T799	Kaepernick erzielte 74 Touchdowns in seiner NFL-Karriere.	C
+GW6	T805	Culture wurde mehr als drei Wochen nach der Aufnahme veröffentlicht.	E
+GW6	T805	Zwanzig Produzenten arbeiteten an Culture zusammen.	N
+GW6	T805	Es würde über eine Stunde dauern, um die Gesamtheit aller im Januar 2017 veröffentlichten Alben zu hören.	C
+GW51	T805	Culture ist ein Hip-Hop-Album, das 2017 veröffentlicht wurde.	E
+GW51	T805	Culture ist wohl das erfolgreichste Album der Migos in Bezug auf den kommerziellen Erfolg.	N
+GW51	T805	Culture war der Höhepunkt einer Produktionskooperation zwischen den Migos und 808God, die alle Songs auf dem Album produzierten.	C
+GW0	T805	Das Album Culture ist nur eine Stunde lang.	E
+GW0	T805	808Godz hat den Großteil der Produktion auf Culture	N
+GW0	T805	Culture wurde im selben Jahr veröffentlicht, als die Aufnahme auf dem Album begann.	C
+GW27	T811	Collision Course wurde im selben Jahr aufgenommen und veröffentlicht.	E
+GW27	T811	Die DVD von Collision Course ist aufgrund von Besonderheiten länger.	N
+GW27	T811	Collision Course ist auf mehr Labels erhältlich als die Anzahl der Genres, die es gesampelt hat.	C
+GW51	T811	Collision Course ist ein 2004 veröffentlichter Multi-Disc-Rap/Rock-Mash.	E
+GW51	T811	Collision Course war das Ergebnis einer Zusammenarbeit zwischen dem Rapper Jay-Z und der Rockgruppe Linkin Park.	N
+GW51	T811	Collision Course dauerte 3 Monate, um aufzunehmen, bevor sie Anfang 2004 veröffentlicht wurde.	C
+GW28	T811	Collision Course wurde im selben Jahr aufgenommen und veröffentlicht.	E
+GW28	T811	Collision Course ist ein Multi-Genre-Album mit mehreren Gastkünstlern.	N
+GW28	T811	Collision Course ist ein Musikalbum aus dem 20.	C
+GW6	T816	Die XXIII Olympischen Winterspiele fanden 2018 statt.	E
+GW6	T816	Einige Nationen trugen nur Frauen zum Curling bei den XXIII Olympischen Winterspielen bei.	N
+GW6	T816	Curling am Gangneug Gymnasium während der Olympischen Spiele hatte keine Frauenveranstaltungen.	C
+GW4	T816	Der Curling bei den XXIII Olympischen Winterspielen fand im Februar statt.	E
+GW4	T816	Bei den XXIII Olympischen Winterspielen nahmen Männer und Frauen gemeinsam am Curling teil.	N
+GW4	T816	Es waren über 150 Länder beteiligt.	C
+GW51	T816	Curling bei den XXIII Olympischen Winterspielen fand über 2 Wochen mit 3 Hauptveranstaltungen.	E
+GW51	T816	Curling entstand ursprünglich als Sport in Schweden.	N
+GW51	T816	Curling bei den Olympischen Winterspielen 2018 sah unter 100 Männer und Frauen über 4 Wochen	C
+GW0	T822	Columbus, Georgia wurde nach einem Entdecker benannt.	E
+GW0	T822	Kolumbus ist die Hauptstadt Georgiens.	N
+GW0	T822	Columbus, Georgia wurde in der zweiten Hälfte des neunzehnten Jahrhunderts gegründet.	C
+GW51	T822	Columbus ist eine Stadt in Georgien, benannt nach Christoph Kolumbus.	E
+GW51	T822	Die Stadt Columbus ist eine von 72 Städten in den Vereinigten Staaten, benannt nach Christoph Kolumbus.	N
+GW51	T822	Die Stadt Columbus in Georgien wurde kurz nach Beginn des Bürgerkriegs gegründet.	C
+GW4	T822	Columbus, Georgia wurde im 19. Jahrhundert gegründet.	E
+GW4	T822	Columbus, Georgia ist kleiner als Muscogee County.	N
+GW4	T822	Columbus, Georgia wurde nicht nach Christopher benannt.	C
+GW4	T828	Der Musiker Common wurde mit dem Namen Lonnie geboren.	E
+GW4	T828	Der Musiker Common weiß, wie man Instrumente spielt.	N
+GW4	T828	Der Musiker Common tritt seit 30 Jahren auf.	C
+GW61	T828	Lonnie Corant Jaman Shuka arbeitete mit mindestens einem bekannten Rapper zusammen.	E
+GW61	T828	Lonnie Corant Jaman Shuka spielt gut mit musical.instruments.	N
+GW61	T828	Lonnie Corant Jaman Shuka hat nie für uns RnB-Künstler gearbeitet.	C
+GW51	T828	Common ist ein Hip-Hop-Musiker aus Chicago.	E
+GW51	T828	Der größte Werbehit von Common ist der Song Go.	N
+GW51	T828	Common macht seit Ende der 90er Jahre Hip-Hop-Musik.	C
+GW51	T829	Das Commonwealth of the Phiippines ist ein Gebiet der Vereinigten Staaten mit einer Hauptstadt Manila.	E
+GW51	T829	Das Commonwealth of the Philippines wurde nach dem Zweiten Weltkrieg als US-amerikanisches Territorium gegründet.	N
+GW51	T829	Die Philippinen haben eine Nationalversammlungsregierung für ihre gesamte Geschichte gehabt.	C
+GW28	T829	Commonwealth of the Philippines wurde von den Vereinigten Staaten kontrolliert.	E
+GW28	T829	Commonwealth of the Philippines war eine Kolonie der Vereinigten Staaten.	N
+GW28	T829	Commonwealth of the Philippines war eine unabhängige Souverän Nation.	C
+GW14	T829	Der Tydings?cDuffie Act wurde mehr als ein Jahrzehnt vor dem Vertrag von Manila erlassen.	E
+GW14	T829	Paul V. McNutt kandidierte für die Wiederwahl für den Sitz des Hohen Kommissars 1939?2.	N
+GW14	T829	Sergio Osme?a diente nie in mehr als einem gewählten Amt.	C
+GW51	T831	Union der Komoren ist ein Gebiet, das von den Portugiesen im 16. Jahrhundert entdeckt wurde.	E
+GW51	T831	In der Union der Komoren wurde der derzeitige französische Präsident als Kind großgezogen.	N
+GW51	T831	Union der Komoren ging unter französische Herrschaft in den frühen 1800er Jahren.	C
+GW4	T831	Die Union der Komoren hat 2009 eine Verfassung verabschiedet.	E
+GW4	T831	Die Union der Komoren verbrachte viel Zeit unter französischer Herrschaft.	N
+GW4	T831	Die Union der Komoren wurde 2009 aufgelöst.	C
+GW28	T831	Die Union der Komoren war einst der Staat Komoren und davor das Protektorat der Komoren.	E
+GW28	T831	Die Union der Komoren wurde gleichermaßen von den Portugiesen und Franzosen beeinflusst.	N
+GW28	T831	Die Union der Komoren ist seit 50 Jahren unabhängig.	C
+GW51	T839	DC Comics präsentiert war laufende Comic-Serie, die über 100 Ausgaben lief, während aktiv.	E
+GW51	T839	DC Comics stellte den Joker und den Riddler als Batmans Archrivalen vor.	N
+GW51	T839	DC Comics presents war seit über 20 Jahren aktiv, bevor sie ihre letzte Ausgabe veröffentlichte.	C
+GW4	T839	DC Comics Presents dauerte über 8 Jahre.	E
+GW4	T839	Es gab viele Superhelden in DC Comics Presents.	N
+GW4	T839	Die DC Comics Presents kamen nur jährlich heraus.	C
+GW28	T839	DC Comics Presents war eine US-amerikanische Comicserie.	E
+GW28	T839	DC Comics Presents präsentierte viele DC Superhelden wie Green Laterne und Wonder Woman, The Flash etc.	N
+GW28	T839	DC Comics Presents ist eine fortlaufende Serie, die seit 1978 kontinuierlich veröffentlicht wird.	C
+GW28	T840	Dead Can Dance ist eine australische Musikgruppe.	E
+GW28	T840	Dead Can Dance ist eine Multi-Member-Band, die international aufgetreten ist.	N
+GW28	T840	Dead Can Dance ist eine Band aus dem 19.	C
+GW4	T840	Dead Can Dance ist in der Vergangenheit eingebrochen.	E
+GW4	T840	Dead Can Dance hat mit The Scavengers live vorgeformt.	N
+GW4	T840	Die Band Dead Can Dance war nur auf australischen Plattenlabels vertreten.	C
+GW6	T840	deadcandance.com ist die Website einer antipodischen Band.	E
+GW6	T840	Dead Can Dance ist auf einmal bei fünf Labels signiert.	N
+GW6	T840	Eine Band aus der südlichen Hemisphäre hat noch nie im Gothic-Rock-Genre gearbeitet.	C
+GW51	T845	Dean Kamen ist ein US-amerikanischer Erfinder aus New Hampshire.	E
+GW51	T845	Kamen ist berühmt für die Erfindung des Dyson-Vakuums.	N
+GW51	T845	Dean gewann Mitte der 2000er Jahre die Hoover-Medaille für seine Arbeit am Segway.	C
+GW4	T845	Dean Kamen hat fünf große Auszeichnungen gewonnen.	E
+GW4	T845	Dean Kamen hat einen Abschluss in Ingenieurwesen.	N
+GW4	T845	Dean Kamen arbeitete für eine große Firma.	C
+GW6	T845	Dean Kamen hat in mindestens zwei Städten der Ostküste gelebt.	E
+GW6	T845	Dean Kamen gewann einen Preis für die Erfindung des iBot Rollstuhls.	N
+GW6	T845	Der Segway wurde nicht von jemandem erfunden, der in Amerika geboren wurde.	C
+GW51	T846	Dean Martin ist ein Musiker aus Ohio, der für sein Singen und Schauspiel bekannt ist.	E
+GW51	T846	Dean Martin war Teil des berühmten Rat Packs mit Frank Sinatra.	N
+GW51	T846	Dean Martin ist seit über 60 Jahren in der Musikbranche tätig.	C
+GW6	T846	Leonard Barrs Neffe war über ein halbes Jahrhundert aktiv.	E
+GW6	T846	Catherine Hawn hat keine Kinder.	N
+GW6	T846	Dean Martin war ein lebenslanger Stummkopf.	C
+GW4	T846	Dean Martin war ein Künstlername, der von Dean Paul Crocetti verwendet wurde.	E
+GW4	T846	Dean Martin hat seit über fünfzig Jahren Musik aufgenommen.	N
+GW4	T846	Dean Martin hatte 8 Kinder mit einer Frau.	C
+GW4	T848	Liebe Weiße Menschen wurde von derselben Person geschrieben und geleitet.	E
+GW4	T848	Liebe weiße Leute dauerte mehrere Jahre, um zu filmen.	N
+GW4	T848	Liebe Weiße verlor Geld an der Kasse.	C
+GW6	T848	Der Schriftsteller von Dear White People war auch einer seiner Produzenten.	E
+GW6	T848	Liebe Weiße verdiente 2014 5,4 Millionen Dollar.	N
+GW6	T848	Dear White People uraufgeführt bei Sundance nach seinem US-Premier.	C
+GW51	T848	Dear White People ist eine Fernsehserie von Justin Simien.	E
+GW51	T848	Dear White People ist eine sehr beliebte Show, die auf Netflix streamt, seit sie ursprünglich beim Sundance Film Festival gezeigt wurde.	N
+GW51	T848	Dear White People wurde ursprünglich berühmt, nachdem Dreamworks die Show auf dem Cannes Festival veröffentlicht hatte.	C
+GW51	T885	Caracas ist eine Hauptstadt ein paar tausend Fuß über dem Meeresspiegel.	E
+GW51	T885	Caracas ist die Hauptstadt Venezuelas.	N
+GW51	T885	Der tiefste Punkt Caracas liegt unter dem Meeresspiegel.	C
+GW27	T885	Caracas Metro-Bereich ist mehr als zehnmal so groß wie seine Stadt.	E
+GW27	T885	Caracas hat viele hohe Hügel in seinen Grenzen.	N
+GW27	T885	Die Stadt Caracas liegt auf dem Meeresspiegel.	C
+GW28	T885	Caracas ist eine Stadt weit über dem Meeresspiegel.	E
+GW28	T885	Caracas ist die Hauptstadt Venezuelas.	N
+GW28	T885	Caracas an seinem höchsten Punkt liegt eine Meile über dem Meeresspiegel.	C
+GW51	T899	Chengdu ist eine Provinzstadt, die rund 1.600 Fuß in der Luft liegt.	E
+GW51	T899	Chengdu ist die Hauptstadt der Provinz Sichuan.	N
+GW51	T899	Chengdu ist die einzige Stadt in China, die unter dem Meeresspiegel liegt.	C
+GW28	T899	Chengdu ist ein großes Gebiet mit vielen verschiedenen Klassifikationen.	E
+GW28	T899	Die größte Fläche von Chengdu ist fast 10x größer als die kleinste	N
+GW28	T899	Die Innenstadt und die städtischen Gebiete von Chengdu sind größer als die Metro.	C
+GW0	T899	Die höchste Erhebung von Chengdu beträgt über 5.000 Meter.	E
+GW0	T899	Das Stadtzentrum von Chengdu hat die niedrigste Erhebung.	N
+GW0	T899	Die tiefste Erhebung von Chengdu ist der Meeresspiegel.	C
+GW1	T910	Die Schutzpatronin von Catania ist eine Frau.	E
+GW1	T910	Catania hat mehr als eine offizielle Website.	N
+GW1	T910	Catania hat über 325.000 Menschen darin.	C
+GW51	T910	Catania ist eine Stadt mit mehreren hunderttausend Einwohnern.	E
+GW51	T910	Catania ist auch sein eigenes Land.	N
+GW51	T910	Catania liegt westlich des Prime Meridian und erkennt nicht die tägliche Ersparnis	C
+GW28	T910	Catania ist eine kleine christliche Stadt.	E
+GW28	T910	Catania ist eine italienische Küstenstadt.	N
+GW28	T910	Catania ist kein Marketing für potenzielle Besucher.	C
+GW11	T928	Charlie and the Chocolate Factory ist eine filmische Adaption eines Romans.	E
+GW11	T928	Charlie and the Chocolate Factory verdiente den Großteil seines Geldes in den Vereinigten Staaten.	N
+GW11	T928	Charlie and the Chocolate Factory wurde in vier Ländern veröffentlicht.	C
+GW14	T928	Charlie and the Chocolate Factory verdiente mehr als das Dreifache seines Budgets an der Kasse.	E
+GW14	T928	Einige der Schauspieler in Charlie and the Chocolate Factory kamen aus Australien.	N
+GW14	T928	Der Erzähler und Herausgeber von Charlie and the Chocolate Factory hat den gleichen Vornamen.	C
+GW19	T928	Tim Burtons Filmadaption von Charlie and the Chocolate Factory war ein kommerzieller Erfolg.	E
+GW19	T928	Charlie and the Chocolate Factory war Roald Dahls beliebtester Roman.	N
+GW19	T928	Tim Burtons Filmadaption von Charlie and the Chocolate Factory wurde erst in den Vereinigten Staaten veröffentlicht, als sie im Vereinigten Königreich bereits kommerzielle Erfolge erzielt hatte.	C
+GW27	T940	Brügge hat vier Postleitzahlen.	E
+GW27	T940	Brügge ist eine der dichtesten Städte Belgiens.	N
+GW27	T940	Brügge hat mehr Gebietscodes als Postleitzahlen.	C
+GW51	T940	Brügge ist eine Stadt mit über 100.000 Einwohnern.	E
+GW51	T940	Brügge ist eine Stadt in Belgien.	N
+GW51	T940	Brügge hat eine einzige Postleitzahl, die die ganze Stadt repräsentiert.	C
+GW28	T940	Brügge ist eine kleine geographische Region Belgiens, aber groß genug für vier Postleitzahlen.	E
+GW28	T940	Brügge ist ein dünn besiedeltes Gebiet mit wenig Wasser.	N
+GW28	T940	Brügge ist ein fremdenfeindliches Gebiet ohne Wünsche für Außenbesucher.	C
+GW12	T947	Republik Botswana, unter einem einheitlichen Parlament, hat einen Präsidenten und einen Vizepräsidenten.	E
+GW12	T947	Englisch ist die einzige Sprache in Gaborone, der Hauptstadt der Republik Botswana.	N
+GW12	T947	Es gibt mehr, die die afrikanische traditionelle Religion als die christliche Religion in der Republik Botswana praktizieren.	C
+GW0	T947	Tswana sind die größte ethnische Gruppe in Botswana.	E
+GW0	T947	Mokgweetsi Masisi ist seit über einem Jahrzehnt Präsident von Botswana.	N
+GW0	T947	Christen bilden die kleinste religiöse Gruppe in Botswana.	C
+GW51	T947	Die Republik Botswana ist ein mehrheitlich christliches Land.	E
+GW51	T947	Die Hauptstadt der Republik Botswana ist Gaborone.	N
+GW51	T947	Die Republik Botswana liegt nördlich des Äquators.	C
+GW28	T974	Chicago, Illinois ist eine Stadt mit winzigen Wasserressourcen.relativ zu ihrer Landmasse.	E
+GW28	T974	Chicago, Illinois liegt in der Nähe der Großen Seen.	N
+GW28	T974	Chicago, Illinois umfasst 10% der Metro-Zone.	C
+GW14	T974	In Chicago gibt es mindestens einen See, der nach einem US-Bundesstaat benannt ist.	E
+GW14	T974	In Chicago gibt es nur sehr wenige Seen.	N
+GW14	T974	Chicagos niedrigste Höhe und durchschnittliche Höhe unterscheiden sich um mehr als 16 Fuß.	C
+GW12	T974	Die Quadratkilometer der Stadt Chicago sind größer als die Quadratkilometer Land.	E
+GW12	T974	Die höchste Erhebung von Chicago ist 672 ft, die in der Nähe von Lake Michigan.	N
+GW12	T974	Die urbane Quadratkilometer von Chicago ist größer als die U-Bahn Quadratkilometer.	C
+GW28	T982	Republik Chile liegt an der Westküste Südamerikas.	E
+GW28	T982	Republik Chile ist eine multiethnische Gesellschaft mit Weißen Europäern als größte Gruppe.	N
+GW28	T982	Republik Chile ist eine Militärdiktatur mit repräsentativem Parlament.	C
+GW51	T982	Die Republik Chile ist ein spanischsprachiges Land mit einer Hauptstadt Santiago.	E
+GW51	T982	Die Republik Chile war der Ort der jüngsten Sommerolympics.	N
+GW51	T982	Die Republik Chile liegt nördlich des Äquators.	C
+GW27	T982	Die Hauptstadt der Rep?blica de Chile und die größte Stadt sind die gleichen.	E
+GW27	T982	Präsident Sebasti?n Pi?era ist weiß.	N
+GW27	T982	Die Rep?blica de Chile hat drei Häuser in ihrer Legislaturperiode.	C
+GW12	T983	Camilla Rosemary Shand heiratete Prinz Charles nach ihrer Scheidung von Andrew Parker Bowles.	E
+GW12	T983	Tom Parker Bowles ist ein Bruder von Laura Lopes.	N
+GW12	T983	Rosalind Cubitt ist die Mutter von Charles, Prince of Wales.	C
+GW28	T983	Camilla ist Teil der britischen Königsfamilie.	E
+GW28	T983	Camilla war kinderlos und geschieden, als sie Charles, Prince of Wales, heiratete.	N
+GW28	T983	Camilla beging Polygamie, als sie Charles, Prince of Wales heiratete.	C
+GW27	T983	Camilla Rosemary Shand war zweimal verheiratet.	E
+GW27	T983	Beide Kinder von Camilla Rosemary Shand waren mit Andrew Parker Bowles zusammen.	N
+GW27	T983	Camilla Rosemary Shand hat mehr Ehen als Kinder.	C
+GW51	T1002	Katalonien ist eine konstitutionelle Monarchie mit Kongressabgeordneten und Senatoren.	E
+GW51	T1002	Katalonien ist eine Region ist Spanien, das versucht, sich von Spanien zu trennen.	N
+GW51	T1002	Katalonien ist größtenteils kommunistisch und hat keine republikanische Repräsentation.	C
+GW6	T1002	Katalonien hat 16,5 % der Senatoren.	E
+GW6	T1002	Quim Torra wurde von der Öffentlichkeit gewählt.	N
+GW6	T1002	Katalonien hat 50% der Abgeordneten im Kongress der Abgeordneten.	C
+GW28	T1002	Katalonien wird von gewählten Beamten regiert und von einer Monarchie überwacht.	E
+GW28	T1002	Katalonien ist eine Region in Spanien, die für separatistische Neigungen bekannt ist.	N
+GW28	T1002	Katalonien hat keine Stimme und keine repräsentative Regierungsführung.	C
+GW66	T1010	Caravaggio schuf mindestens ein Stück mit Öl auf Leinwand.	E
+GW66	T1010	Das Caravaggio Stück Boy Peeling Fruit wurde für eine Million Dollar verkauft.	N
+GW66	T1010	Caravaggio malte Boy Peeling Fruit um die Entdeckung von Elektrizität zu feiern.	C
+GW28	T1010	Boy Peeling Fruit ist ein europäisches Kunstwerk aus dem 16. Jahrhundert.	E
+GW28	T1010	Boy Peeling Fruit war Caravaggios letztes Kunstwerk.	N
+GW28	T1010	Boy Peeling Fruit ist ein Wandbild, das an der Decke einer Kirche	C
+GW0	T1010	Caravaggio malte Boy Peeling Fruit gegen Ende des 16. Jahrhunderts.	E
+GW0	T1010	Caravaggio verkaufte Boy Peeling Fruit an die italienische Regierung.	N
+GW0	T1010	Caravaggios Boy Peeling Fruit ist über drei Fuß breit.	C
+GW28	T1017	Casablanca ist ein US-amerikanischer Hollywood-Film aus dem	E
+GW28	T1017	Casablanca gewann einen Oscar für das beste Bild.	N
+GW28	T1017	Casablanca ist eine originelle Geschichte und ein Drehbuch.	C
+GW0	T1017	Casablanca wurde in den USA zwei Monate nach der Deputation am Hollywood Theatre veröffentlicht.	E
+GW0	T1017	Casablanca war Peter Lorres erste Filmrolle.	N
+GW0	T1017	Casablanca wurde von derselben Person produziert und geleitet.	C
+GW51	T1017	Casablanca wurde von Michael Curtiz geleitet und von mehreren Personen produziert.	E
+GW51	T1017	Casablanca war der höchste Brutfilm der Jahre 1942-1943.	N
+GW51	T1017	Casablanca wurde von Humphrey Bogart herausgegeben und geschrieben.	C
+GW51	T1031	Case Closed ist ein Manga von Weekly Shonen Sunday.	E
+GW51	T1031	Case Closed wurde zu einem Anime namens Detective Conan gemacht.	N
+GW51	T1031	Case Closed lief 6 Monate lang, bevor die Veröffentlichung eingestellt wurde.	C
+GW27	T1031	Case Closed wurde von Takahiro Arai geschrieben und von Shogakukan veröffentlicht.	E
+GW27	T1031	Weekly Sh_nen Sunday war auf die Sh_nen Demographie ausgerichtet.	N
+GW27	T1031	Derselbe Herausgeber von Case Closed lieferte auch die englische Übersetzung.	C
+GW28	T1031	Case Closed ist eine japanische Comicserie.	E
+GW28	T1031	Case Closed ist ein populärer japanischer Manga, der international exportiert wurde.	N
+GW28	T1031	Case Closed war eine lange laufende japanische Comicserie.	C
+GW28	T1047	Changsha ist eine Stadt in China.	E
+GW28	T1047	Changsha ist der Geburtsort von Mao Zedong.	N
+GW28	T1047	Changsha ist sowohl eine Stadt als auch eine Präfektur.	C
+GW27	T1047	Die Präfekturdichte von Changsha ist niedriger als ihre städtische Dichte.	E
+GW27	T1047	Der Bevölkerungsstand von Changsha in China hat stark zugenommen.	N
+GW27	T1047	Changsha hat mehr Menschen in seinem städtischen Bereich als in seinem Metro-Bereich.	C
+GW0	T1047	Changsha ist in den 20 größten Städten Chinas.	E
+GW0	T1047	Mehr Menschen leben heute in Changsha als vor zehn Jahren.	N
+GW0	T1047	Changsha Metro-Bereich umfasst eine zusätzliche Million Menschen mehr als die Stadtbevölkerung.	C
+GW27	T1131	Die George Mason University ist eine staatliche Universität, die 1949 gegründet wurde.	E
+GW27	T1131	Die George Mason University hat ihren Hauptsitz in Arlington, VA.	N
+GW27	T1131	George Mason University hat mehr Postgraduierte als Undergraduierte.	C
+GW35	T1131	Die George Mason University ist seit 68 Jahren in Betrieb.	E
+GW35	T1131	APLU ist nur der George Mason University angeschlossen.	N
+GW35	T1131	Die dominanten Farben der George Mason University sind rot und violett.	C
+GW17	T1131	George Mason University hat mehr als 35.000 Studenten.	E
+GW17	T1131	George Mason University hat mehr männliche Studenten als weibliche Studenten.	N
+GW17	T1131	Das Maskottchen der George Mason University ist der Wal.	C
+GW27	T1134	Caravan Palace ist eine Elektro-Swing-Band aus Frankreich.	E
+GW27	T1134	Caravan Palace ist die größte Elektro-Swing-Band aus Frankreich.	N
+GW27	T1134	Caravan Palace wurde auf einem anderen Label für jedes Jahr waren sie aktiv.	C
+GW28	T1134	Caravan Palace ist eine französische Musikgruppe.	E
+GW28	T1134	Caravan Palace ist eine vierköpfige Band aus	N
+GW28	T1134	Caravan Palace macht keine Vermarktung und hat vor allem durch Wort-von-Mund-	C
+GW22	T1134	Caravan Palace befindet sich in Paris, Frankreich und ist seit 2008 aktiv.	E
+GW22	T1134	Caravan Palace ist nur mit Wagram, MVKA und Le Plan Recordings assoziiert.	N
+GW22	T1134	www.caravanpalace.com ist nicht die offizielle Website von Caravan Palace.	C
+GW12	T1148	Britney Spears heiratete Kevin Federline im selben Jahr, als sie sich von Jason Alexander scheiden ließ.	E
+GW12	T1148	Britney Spears ist mit den Musiklabels Jive und RCA assoziiert.	N
+GW12	T1148	Jamie Lynn Spears ist die Tochter von Britney Spears.	C
+GW1	T1148	Britney Spears wurde im Süden der Vereinigten Staaten geboren.	E
+GW1	T1148	Die beiden Kinder von Britney Spears waren mit Jason Allen Alexander zusammen.	N
+GW1	T1148	Britney Spears ist seit mehr als 30 Jahren aktiv.	C
+GW28	T1148	Britney Spears ist ein US-amerikanischer Songwriter.	E
+GW28	T1148	Britney Spears ist mit einer Tochter und einem Sohn geschieden.	N
+GW28	T1148	Britney Spears wurde im Mittleren Westen geboren und aufgewachsen.	C
+GW17	T1164	1966 wurde der erste rumänische Fußballer des Jahres verliehen.	E
+GW17	T1164	Es gab 5 wiederholte Gewinner des rumänischen Fußballers des Jahres.	N
+GW17	T1164	Der rumänische Fußballer des Jahres hat noch nie einen wiederholten Gewinner gehabt.	C
+GW0	T1164	Der rumänische Fußballer des Jahres wurde über fünfzig Mal vergeben.	E
+GW0	T1164	Gheorghe Hagi gewann den rumänischen Fußballer des Jahres in seinem Rookie-Jahr.	N
+GW0	T1164	Der rumänische Fußball des Jahres ist erst zwanzig Jahre alt.	C
+GW28	T1164	Der rumänische Fußballer des Jahres wird seit 1966 jedes Jahr ausgezeichnet.	E
+GW28	T1164	Der rumänische Fußballer des Jahres wird mit einem Geldpreis ausgezeichnet.	N
+GW28	T1164	Der rumänische Fußballer des Jahres wird jedes Jahr an einen neuen Fußballer verliehen.	C
+GW68	T1177	Der Flughafen JFK verfügt über Start- und Landebahnen aus Beton und Asphalt sowie einige Helipads.	E
+GW68	T1177	1951 landete der erste Hubschrauber am Flughafen JFK.	N
+GW68	T1177	Der Unterschied zwischen der längsten und kürzesten Piste beträgt 1.252 Meter.	C
+GW28	T1177	John F. Kennedy International Airport bedient jedes Jahr zig Millionen Passagiere.	E
+GW28	T1177	Der John F. Kennedy International Airport ist der verkehrsreichste Flughafen Amerikas.	N
+GW28	T1177	John F. Kennedy International Airport wird ausschließlich für Flugzeuge verwendet.	C
+GW0	T1177	Norwegian Air Shuttle konzentriert sich auf Queens, New York.	E
+GW0	T1177	JFK ist der größte Flughafen in New York City.	N
+GW0	T1177	Die Start- und Landebahnen von JFK bestehen aus nur einer Oberfläche.	C
+GW22	T1179	Brigadier Gerard war ein britisches Rennpferd und Vater von Thoroughbred, das 1968	E
+GW22	T1179	John L. Hislop hat nur Brigadier Gerard gezüchtet.	N
+GW22	T1179	Trainer von Brigadier Gerard ist Herr & Frau John L. Hislop.	C
+GW28	T1179	Brigadier Gerard ist ein britisches Rennpferd.	E
+GW28	T1179	Brigadier Gerard wurde auf der internationalen Pferderennstrecke gezüchtet.	N
+GW28	T1179	Brigadier Gerard hat einen perfekten Karrieresieg-Verlust-Rekord	C
+GW1	T1179	Es gab nur ein Rennen, das Brigadier Gerard lief, das nicht vom Pferd gewonnen wurde.	E
+GW1	T1179	Großbritannien ist das einzige Land, in das Brigadier Gerard eingestiegen ist.	N
+GW1	T1179	Brigadier Gerard wurde Anfang des 20.	C
+GW4	T1182	Bradley Cooper war ein Jahr verheiratet.	E
+GW4	T1182	Bradley Cooper lebt bei Irina Shayk.	N
+GW4	T1182	Bradley Cooper hat im Vereinigten Königreich gelebt.	C
+GW28	T1182	Bradley Cooper ist ein preisgekrönter US-amerikanischer Schauspieler.	E
+GW28	T1182	Bradley Cooper hat eine Tochter.	N
+GW28	T1182	Bradley Cooper ist seit seinen Teenagern aktiv.	C
+GW12	T1182	Der Winter 1975 war, als Bradley Cooper, der Schauspieler, geboren wurde.	E
+GW12	T1182	Bradley Cooper lebt seit 1975 in Philadelphia.	N
+GW12	T1182	Jennifer Esposito und Irina Shayk waren beide mit Bradley Cooper verheiratet.	C
+GW28	T1212	Glacier National Park ist über eine Million Hektar und mehr als ein Jahrhundert alt.	E
+GW28	T1212	Glacier National Park ist ein amerikanischer Park, der viele wilde Tiere enthält.	N
+GW28	T1212	Glacier National Park wurde vor weniger als einem Jahrhundert als Park bezeichnet.	C
+GW27	T1212	Der Glacier National Park befindet sich in zwei Countys in der Nähe von Columbia Falls.	E
+GW27	T1212	Glacier National Park ist Teil des weltweit ersten internationalen Friedensparks.	N
+GW27	T1212	Glacier National Park hat mehr Hektar als 2018 Besucher.	C
+GW12	T1212	Glacier National Park hatte im Jahr 2018 mehr als 2 Millionen Besucher.	E
+GW12	T1212	Glacier National Park, der Teil des Waterton-Glacier International Peace Park ist, wurde im Frühjahr 1910 gegründet.	N
+GW12	T1212	Der Glacier National Park besteht aus einem County im Flathead County in Montana.	C
+GW28	T1241	Atari 2600 ist eine US-amerikanische Videospielkonsole.	E
+GW28	T1241	Atari 2600 kam mit mehreren Controller-Eingängen enthalten.	N
+GW28	T1241	Atari 2600 wurde nur im Inland verkauft.	C
+GW22	T1241	Atari 2600 auch bekannt als Atari VCS hergestellt wird Atari, Inc. ist eine zweite Generation von Heimspielkonsolen.	E
+GW22	T1241	Atari 2600 Einführungspreis war US$199 im Jahr 1977 und es war die teuerste Home-Video-Spielkonsole zu dieser Zeit.	N
+GW22	T1241	Atary 2600 hatte 64 Bytes RAM und 16-Bit-MOS-Technologie 6507 @ 1,19 MHz.	C
+GW6	T1241	Der Atari 2600 wurde 14 Jahre nach seiner Veröffentlichung in Europa eingestellt.	E
+GW6	T1241	Atari 2600 kostete $199, als es eingestellt wurde.	N
+GW6	T1241	Konsolen mit 128 Bytes RAM sind nicht mit Joysticks kompatibel.	C
+GW28	T1265	Brian May ist ein preisgekrönter britischer Rockmusiker	E
+GW28	T1265	Brian May hat drei Kinder, einen Jungen und zwei Mädchen.	N
+GW28	T1265	Brian Mays wissenschaftliche Leistungen machten ihn berühmt.	C
+GW35	T1265	Brian May heiratete Anita Dobson im Alter von 53 Jahren.	E
+GW35	T1265	Anita Dobson hat 3 Kinder.	N
+GW35	T1265	Brian May gewann 2005 keine Auszeichnung.	C
+GW1	T1265	Brian May ist seit über 50 Jahren aktiv.	E
+GW1	T1265	Alle drei Kinder von Brian May waren mit Christine Mullen zusammen.	N
+GW1	T1265	Brian May wurde im Winter 1947 geboren.	C
+GW28	T1267	Brandon Richard Flowers ist ein amerikanischer Musiker.	E
+GW28	T1267	Brandon Richard Flowers ist ein preisgekrönter Musiker.	N
+GW28	T1267	Brandon Richard Flowers ist seit seinen Teenagern aktiv.	C
+GW27	T1267	Brandon Richard Flowers wurde in Nevada geboren.	E
+GW27	T1267	Brandon Richard Flowers ist für seinen alternativen Rock am meisten bekannt.	N
+GW27	T1267	Brandon Richard Flowers hat mehr assoziierte Acts als Labels, auf denen er war.	C
+GW22	T1267	Der Geburtsname von Brandon Flowers ist Brandon Richard Flowers und er wurde am 21. Juni 1981 geboren.	E
+GW22	T1267	Brandon Flowers Berufe sind nur Singer-Songwriter und Musiker.	N
+GW22	T1267	Brandon Flowers kann keine Instrumente spielen und ist nur mit Vertigo-Label verbunden.	C
+GW2	T1287	Die American Automobile Association bietet Unterstützung am Straßenrand und verkauft Karten.	E
+GW2	T1287	Die American Automobile Association bietet Karten für über 1000 Destinationen weltweit.	N
+GW2	T1287	Die American Automobile Association hat ihren Sitz in Chicago.	C
+GW28	T1287	American Automobile Association ist eine hundertjährige Non-Profit-Organisation, die sich für die Sicherheit des Automobils einsetzt.	E
+GW28	T1287	Die American Automobile Association ist die älteste Organisation in Amerika, die sich der Unterstützung von Autofahrern verschrieben hat.	N
+GW28	T1287	American Automobile Association ist eine öffentlich finanzierte staatliche Einrichtung.	C
+GW12	T1287	American Automobile Association ist eine gemeinnützige Organisation, die sich auf die Unterstützung am Straßenrand spezialisiert hat.	E
+GW12	T1287	Heathrow, Florida ist der Hauptsitz der American Automobile Association.	N
+GW12	T1287	Die American Automobile Association bietet nur Karten, Reiseführer und Autobatterien.	C
+GW22	T1311	Die Royal Society of Edinburgh hat über 1600 Mitglieder.	E
+GW22	T1311	Professorin Dame Anne Glover ist die einzige Präsidentin der Royal Society of Edinburgh.	N
+GW22	T1311	Royal Society of Edinburgh konzentriert sich nur auf Wissenschaft und Technologie.	C
+GW28	T1311	Die Royal Society of Edinburgh ist eine britische Wohltätigkeitsorganisation.	E
+GW28	T1311	Royal Society of Edinburgh setzt auf Hunderte von Freiwilligen.	N
+GW28	T1311	Die Royal Society of Edinburgh wurde zur Förderung der britischen Königsherrschaft gegründet.	C
+GW27	T1311	Die Royal Society of Edinburgh hat ihre Ursprünge im Jahre 1737 und ist in Schottland gefunden.	E
+GW27	T1311	Das Motto der Royal Society of Edinburgh lautet lateinisch.	N
+GW27	T1311	Die Royal Society of Edinburgh hat mehr Gründer als Schwerpunkte.	C
+GW17	T1369	Die FSU Mascot ist die Seminole.	E
+GW17	T1369	FSU hat das größte Budget aller Colleges in Amerika.	N
+GW17	T1369	Die FSU befindet sich in Georgien.	C
+GW22	T1369	1851 wurde die Florida State University gegründet, deren Präsident John E. Thrasher ist.	E
+GW22	T1369	Die staatliche Universität ist die Art der Florida State University.	N
+GW22	T1369	Florida State University hat im Herbst 2017 mehr Postgraduierte als Undergraduierte.	C
+GW28	T1369	Die Florida State University ist eine US-amerikanische Bildungseinrichtung.	E
+GW28	T1369	Der Spitzname Florida State University leitet sich von einem einheimischen amerikanischen Stamm ab.	N
+GW28	T1369	Die Florida State University wurde im 20.	C
+GW12	T1390	Cape Cross ist ein Hengst, der eine Geschichte mit Ahonoora und Green Desert teilt.	E
+GW12	T1390	Irland ist das Land, in dem 1994 das Cape Cross ausgerottet wurde.	N
+GW12	T1390	Godolphin Racing ist seit 1994 Eigentümer von Cape Cross.	C
+GW4	T1390	Das Pferd Cape Cross war ein männliches Pferd.	E
+GW4	T1390	Das Pferd Cape Cross gewann die meisten ihrer Rennen.	N
+GW4	T1390	Das Pferd Cape Cross machte über eine Million Dollar.	C
+GW27	T1390	Cape Cross Vater war Green Desert und seine Grandsire war Danzig.	E
+GW27	T1390	Cape Cross wurde für Godolphin Racing gezüchtet.	N
+GW27	T1390	Cape Cross Farbe ist die gleiche wie der Name seines Vaters.	C
+GW4	T1395	National Rail begann in Liverpool England.	E
+GW4	T1395	Die National Rail läuft seit über 170 Jahren täglich.	N
+GW4	T1395	Die National Rail wurde nie mit anderen Eisenbahnen gruppiert.	C
+GW0	T1395	Die Broadgreen Station wurde im Herbst 1830 eröffnet.	E
+GW0	T1395	Broadgreen ist die verkehrsreichste Station in Liverpool.	N
+GW0	T1395	Die Vor-Gruppierung und Nach-Gruppierung von Broadgreen blieb gleich.	C
+GW72	T1395	Stationscode BGE wird von Northern verwaltet	E
+GW72	T1395	Der Bahnhof hat schon immer 2 Stationen betrieben	N
+GW72	T1395	Broadgreen wurde nach 1830 gegründet	C
+GW1	T1404	Das letzte Jahrzehnt des 20. Jahrhunderts ist, als Kaya Scodelario geboren wurde.	E
+GW1	T1404	Kaya Scodelario hat schon immer in England gelebt.	N
+GW1	T1404	Die Karriere von Kaya Scodelario hat mehr als anderthalb Jahrzehnte gedauert.	C
+GW84	T1404	Kaya Scodelario wurde mit einem anderen Nachnamen geboren.	E
+GW84	T1404	Kaya Scodelario begann zu handeln, als er in London lebte.	N
+GW84	T1404	Kaya Scodelario handelt seit über zehn Jahren.	C
+GW4	T1404	Kaya Scodelario begann zu handeln, als sie 15 Jahre alt waren.	E
+GW4	T1404	Kaya Scodelario hat schon immer in England gelebt.	N
+GW4	T1404	Kaya Scodelario hat keine Kinder.	C
+GW4	T1406	Kasach Khanate ließ die Hauptstadt mehrmals umziehen.	E
+GW4	T1406	Kasach Khanate praktizierte nur den Islam.	N
+GW4	T1406	Kasach Khanate dauerte über 500 Jahre.	C
+GW28	T1406	Kasach Khanate war ein Gebiet, das von einem Monarchen regiert wurde.	E
+GW28	T1406	Kasach Khanate war ein multiethnisches islamisches Gebiet.	N
+GW28	T1406	Kasach Khanate wurde im 14. Jahrhundert gegründet.	C
+GW1	T1406	Kasach Khanate wurde an der Wende des 19. Jahrhunderts aufgelöst.	E
+GW1	T1406	Kasach Khanate hatte immer eine Monarchie als Regierung.	N
+GW1	T1406	Kasach Khanate hat mehr als sechs verschiedene Hauptstädte gehabt.	C
+GW14	T1412	Slave Labor Graphics veröffentlichte mindestens eine Monatsreihe.	E
+GW14	T1412	Jede Ausgabe von Johnny the Homocidal Maniac verkaufte mehr als die vorherige.	N
+GW14	T1412	Sie können eine neue Ausgabe von Johnny the Homicidal Maniac nächsten Monat bekommen.	C
+GW84	T1412	Johnny the Homicidal Maniac kam einmal im Monat heraus.	E
+GW84	T1412	Johnny the Homicidal Maniac endete, als Johnny C. starb.	N
+GW84	T1412	Johnny the Homocidal Maniac ist ein Action-Comic.	C
+GW4	T1412	Johnny the Homocidal Maniac wurde in den 90er Jahren produziert.	E
+GW4	T1412	Johnny the Homicidal Maniac basierte auf einem weiteren Comic.	N
+GW4	T1412	Johnny the Homocidal Maniac kam jede Woche heraus, als es produziert wurde.	C
+GW14	T1435	Kapil Sharma war im 21. Jahrhundert verheiratet.	E
+GW14	T1435	Kapil Sharma traf seine Frau in seiner Heimatstadt Amritsar.	N
+GW14	T1435	Kapil Sharma ist alt genug, um Sozialversicherung zu sammeln.	C
+GW28	T1435	Kapil Sharma ist ein Entertainer des 21. Jahrhunderts.	E
+GW28	T1435	Kapil Sharma ist ein englischsprachiger Entertainer aus Indien.	N
+GW28	T1435	Kapil Sharma ist seit seinen Teenagern aktiv.	C
+GW84	T1435	Kapil Sharma ist ein frischvermählter.	E
+GW84	T1435	Kapil Sharma hat ihr ganzes Leben in Indien gelebt.	N
+GW84	T1435	Kapil Sharma ist seit mehreren Jahren verheiratet.	C
+GW1	T1436	Kate Micuccis Geburtstag fällt am letzten Tag des Monats.	E
+GW1	T1436	Kate Micucci war eine Komikerin, bevor sie eine Singer-Songwriterin war.	N
+GW1	T1436	Kate Micucci hat seit mehr als zwei Jahrzehnten eine Karriere.	C
+GW84	T1436	Kate Micucci heiratete, als sie 30 war.	E
+GW84	T1436	Kate Micucci lebte ihr ganzes Leben an der Ostküste.	N
+GW84	T1436	Kate Micucci tritt seit ihrer Jugend auf.	C
+GW4	T1436	Kate Micucci heiratete, als sie 38 Jahre alt waren.	E
+GW4	T1436	Kate Micucci begann zu singen, bevor sie Komiker wurden.	N
+GW4	T1436	Kate Micucci ging aufs College in dem Zustand, in dem sie geboren wurden.	C
+GW1	T1440	Auf dem Laufenden mit den Joneses verlor Geld an der Kasse im Vergleich zu seinem Budget.	E
+GW1	T1440	Keeping Up with the Joneses wurde 2016 komplett gefilmt.	N
+GW1	T1440	Auf dem Laufenden mit den Joneses braucht zwei Stunden, um zuzuschauen.	C
+GW84	T1440	Auf dem Weg zu den Joneses dauert weniger als zwei Stunden.	E
+GW84	T1440	Auf dem Weg zu den Joneses war der erste Film von Greg Mottola.	N
+GW84	T1440	Keeping Up with the Joneses verdiente doppelt so viel Geld in der Kasse, wie es budgetiert war.	C
+GW28	T1440	Auf dem Laufenden mit den Joneses nahm weniger Geld, als es kostete, zu produzieren.	E
+GW28	T1440	Keeping Up with the Joneses wurde von Kritikern gut aufgenommen, aber nicht vom Publikum.	N
+GW28	T1440	Auf dem Weg zu den Joneses war ein budgetarmer, unabhängiger Film.	C
+GW1	T1443	Karachi hat ein halbes Dutzend Bezirke.	E
+GW1	T1443	Karachi war schon immer in Pakistan angesiedelt.	N
+GW1	T1443	Das zweite Jahrzehnt des 21. Jahrhunderts ist, als Karachi wurde eine Metropolitan Corporation.	C
+GW28	T1443	Karachi ist eine Stadt, die aus mehreren Distrikten besteht.	E
+GW28	T1443	Karachi ist die Hauptstadt sowie die größte Stadt in Pakistan.	N
+GW28	T1443	Karachi ist ein kleines Dorf, das von Dorfältesten regiert wird.	C
+GW85	T1443	Karachi ist in Pakistan.	E
+GW85	T1443	Es gibt nur sechs Bezirke in Karachi.	N
+GW85	T1443	Karachi ist keine Metropolregion.	C
+GW84	T1444	Kasabian tritt seit über zwanzig Jahren auf.	E
+GW84	T1444	Kasabian wurde zum ersten Mal bei RCA unter Vertrag genommen.	N
+GW84	T1444	Kasabian ist eine US-amerikanische Band.	C
+GW28	T1444	Kasabian ist eine englische Rockband.	E
+GW28	T1444	Kasabian hat zahlreiche Auszeichnungen für ihre Musik gewonnen.	N
+GW28	T1444	Kasabian hat nur mit kleineren unabhängigen Labels gearbeitet.	C
+GW4	T1444	Kasabian tritt seit über 20 Jahren auf.	E
+GW4	T1444	Kasabian hat ein Album mit Oasis aufgenommen.	N
+GW4	T1444	Kasabian ist bekannt für Jazzmusik.	C
+GW28	T1446	Jennifer Aniston ging zur Schule in New York.	E
+GW28	T1446	Jennifer Aniston besitzt mehrere Unternehmen.	N
+GW28	T1446	Jennifer Aniston ist seit ihren frühen Zwanzigern aktiv.	C
+GW74	T1446	Jennifer Aniston war mindestens 17 Jahre alt, als sie ihre berufliche Laufbahn begann.	E
+GW74	T1446	Jennifer Aniston heiratete Brad Pitt nach ihrem 31. Geburtstag.	N
+GW74	T1446	Jennifer Aniston lebt in einem anderen Staat, als sie geboren wurde.	C
+GW1	T1446	Die Karriere von Jennifer Aniston hat bisher mehr als drei Jahrzehnte gedauert.	E
+GW1	T1446	Jennifer Aniston hat schon immer in Kalifornien gelebt.	N
+GW1	T1446	Der Herbst 1969 ist, als Jennifer Aniston geboren wurde.	C
+GW84	T1449	Kareem Abdul-Jabbar ging in den 1960er Jahren ans College.	E
+GW84	T1449	Kareem Abdul-Jabbar gewann die Auszeichnungen seines Rookie-Jahrs in der NBA.	N
+GW84	T1449	Kareem Abdul-Jabbar spielte über vier Jahrzehnte Basketball.	C
+GW4	T1449	Kareem Abdul-Jabbar war eine erste Runde für Basketball.	E
+GW4	T1449	Kareem Abdul-Jabbar gewann die Mehrheit der Spiele, in denen er war.	N
+GW4	T1449	Kareem Abdul-Jabbar spielte professionell Basketball im gleichen Staat, den er auf die High School ging.	C
+GW28	T1449	Kareem Abdul-Jabbar spielte dreißig Jahre lang als Zentrum.	E
+GW28	T1449	Kareem Abdul-Jabbar gewann mit den Los Angeles Lakers die Meisterschaften.	N
+GW28	T1449	Kareem Abdul-Jabbar wurde in seinem ersten Studienjahr eingezogen.	C
+GW4	T1456	Jupiter dauert über 10 Jahre, um die Sonne zu umkreisen.	E
+GW4	T1456	Jupiter ist der größte Planet im Sonnensystem.	N
+GW4	T1456	Jupiter hat eine sehr hohe Exzentrizität.	C
+GW84	T1456	Jupiter hat mehr als ein Dutzend bekannte Satelliten.	E
+GW84	T1456	Wissenschaftler studieren noch, um Satelliten von Jupiter zu finden.	N
+GW84	T1456	Die Umlaufgeschwindigkeit von Jupiter beträgt weniger als 5 km/s.	C
+GW1	T1456	Die Neigung von Jupiter zum Äquator der Sonne ist größer als ein halbes Dutzend Grad.	E
+GW1	T1456	Seit 2018 wurden weitere Satelliten in der Umlaufbahn Jupiter gefunden.	N
+GW1	T1456	Die Umlaufzeit von Jupiter ist mehr als 12 Mal so lang wie die der Erde.	C
+GW0	T1457	Jimmy Fallon tritt seit über zwanzig Jahren auf.	E
+GW0	T1457	Sein erstes Buch schrieb Jimmy Falon 1998.	N
+GW0	T1457	Jimmy Fallon war verheiratet.	C
+GW84	T1457	Jimmy Fallon besuchte das College.	E
+GW84	T1457	Jimmy Fallon besuchte das College in den 90er Jahren.	N
+GW84	T1457	Jimmy Fallon ist seit über zwanzig Jahren verheiratet.	C
+GW1	T1457	Die Karriere von Jimmy Fallon geht seit mehr als zwei Jahrzehnten weiter.	E
+GW1	T1457	Die Mutter der beiden Kinder von Jimmy Fallon ist Nancy Juvonen.	N
+GW1	T1457	Jimmy Fallon wurde im Sommer 1974 geboren.	C
+GW84	T1464	John James Rickard Macleod war in seinen fünfziger Jahren, als er starb.	E
+GW84	T1464	John James Rickard Macleod war an der Spitze seiner Klasse, als er an der Universität von Aberdeen.	N
+GW84	T1464	John James Rickard Macleod starb in einem Land, in dem er geboren wurde.	C
+GW1	T1464	John James Rickard Macleod, FRS stand im Frühjahr 1935 vor dem Tod.	E
+GW1	T1464	John James Rickard Macleod, FRS teilte den Nobelpreis für Physiologie oder Medizin mit den anderen Mitentdeckern von Insulin.	N
+GW1	T1464	John James Rickard Macleod, FRS wurde Anfang des 19. Jahrhunderts geboren.	C
+GW28	T1464	John James Rickard Macleod, FRS, war ein britischer Nobelpreisträger.	E
+GW28	T1464	John James Rickard Macleod, FRS entdeckte Insulin noch in der Universität.	N
+GW28	T1464	Der Nobelpreis wurde in den zwanziger Jahren an John James Rickard Macleod, FRS verliehen.	C
+GW28	T1473	Jimson Weed ist ein Kunstwerk, das von	E
+GW28	T1473	Jimson Weed war Georgia Okeeffes bekanntestes Kunstwerk.	N
+GW28	T1473	Jimson Weed ist ein Kunstwerk aus dem 19. Jahrhundert.	C
+GW68	T1473	Jimson Weed ist von einer Künstlerin und derzeit in Indiana.	E
+GW68	T1473	Jimson Weed wurde für zwei Millionen Dollar an das Indianpolis Museum of Art verkauft.	N
+GW68	T1473	Das Kunstwerk Jimson Weed entstand zwei Jahre nach Georgia OKeeffes Tod.	C
+GW0	T1473	Jimson Weed befindet sich in der Hauptstadt von Indiana.	E
+GW0	T1473	Jimson Weed war Georgia OKeefes erstes verkauftes Gemälde.	N
+GW0	T1473	Jimson Weed ist breiter als groß.	C
+GW1	T1477	Der Sommer 1977 ist, als Kanye West geboren wurde.	E
+GW1	T1477	Alle Kinder von Kanye West wurden mit Kim Kardashian gezeugt.	N
+GW1	T1477	Kanye West ist mehr als ein Drittel von einer Milliarde Dollar wert.	C
+GW84	T1477	Kanye West hat mehrere Auszeichnungen gewonnen.	E
+GW84	T1477	Alle Kinder von Kanye West sind für seine Frau Kim.	N
+GW84	T1477	Kanye West wurde in demselben Zustand geboren, in dem er jetzt lebt.	C
+GW4	T1477	Kanye West tritt seit 23 Jahren auf.	E
+GW4	T1477	Kanye West hatte alle 3 seiner Kinder mit Kim Kardashian.	N
+GW4	T1477	Kanye West kommt aus New York City.	C
+GW1	T1491	Judith and the Head of Holofernes ist an seinem schmaleren Punkt weniger als eineinhalb Meter breit.	E
+GW1	T1491	Die...sterreichische Galerie hat Judith and the Head of Holofernes, weil sie ausgeliehen ist.	N
+GW1	T1491	Judith and the Head of Holofernes wurde Ende des 19.	C
+GW84	T1491	Judith and the Head of Holofernes wurde in den 1900er Jahren gemalt.	E
+GW84	T1491	Der Maler von Judith and the Head of Holofernes stammte aus Wien.	N
+GW84	T1491	Judith and the Head of Holofernes wird in Holzkohle hergestellt.	C
+GW28	T1491	Judith and the Head of Holofernes ist ein Kunstwerk des 20.	E
+GW28	T1491	Gustav Klimts Lieblingsgemälde war Judith and the Head of Holofernes.	N
+GW28	T1491	Judith and the Head of Holofernes wurde auf eine massive Leinwand gemalt.	C
+GW1	T1500	Die Geburt von John Napier geschah Mitte des 16. Jahrhunderts.	E
+GW1	T1500	John Napier lebte sein ganzes Leben in Schottland.	N
+GW1	T1500	Der Sommer 1617 war, als John Napier starb.	C
+GW84	T1500	John Napier wurde geboren und starb im selben Land.	E
+GW84	T1500	John Napier traf Henry Briggs.	N
+GW84	T1500	John Napier besuchte nicht das College.	C
+GW4	T1500	John Napier half bei der Entwicklung von Mathematikkonzepten.	E
+GW4	T1500	John Napier lebte ihr ganzes Leben in Schottland.	N
+GW4	T1500	John Napier starb, als sie in den 50ern waren.	C
+GW1	T1502	Die Sommermonate von 1850 sind, als Karl Ferdinand Braun geboren wurde.	E
+GW1	T1502	Karl Ferdinand Braun Nobelpreis für Physik war aufgrund seiner Arbeit im Zusammenhang mit der Kathodenstrahlröhre.	N
+GW1	T1502	Karl Ferdinand Braun starb im selben Jahrhundert, in dem er geboren wurde.	C
+GW84	T1502	Karl Ferdinand Braun besuchte mehr als eine Universität.	E
+GW84	T1502	Karl Ferdinand Braun gewann nur einen Preis.	N
+GW84	T1502	Karl Ferdinand Braun wurde geboren und starb im selben Land.	C
+GW4	T1502	Karl Ferdinand Braun gewann einen Preis für ihre Erfindungen.	E
+GW4	T1502	Karl Ferdinand Braun hat nie einen Fernseher gesehen.	N
+GW4	T1502	Karl Ferdinand Braun liebte ihr ganzes Leben in Deutschland.	C
+GW4	T1503	Jim Belushi hatte drei Frauen.	E
+GW4	T1503	Jim Belushi hatte alle drei Kinder mit Jennifer Sloan.	N
+GW4	T1503	Jim Belushi begann zu handeln, als sie 10 Jahre alt waren.	C
+GW28	T1503	Jim Belushi ist ein Entertainer.	E
+GW28	T1503	Jim Belushi ist ein zweigeteilter Vater von drei Mädchen.	N
+GW28	T1503	Jim Belushi begann seine Karriere als Teenager.	C
+GW86	T1503	Jim Belushi hat als Entertainer gearbeitet.	E
+GW86	T1503	Jim Belushi hat einen Sohn.	N
+GW86	T1503	Jim Belushi war in den frühen 1970er Jahren in seinen denkmalgeschützten Berufen tätig.	C
+GW0	T1508	Josta dauerte weniger als fünf Jahre, bevor er eingestellt wurde.	E
+GW0	T1508	Josta war PepsiCos am wenigsten verkauftes Softdrink in den 1990er Jahren.	N
+GW0	T1508	PepsiCo hat noch nie versucht, ein Energy Softdrink zu machen.	C
+GW1	T1508	Josta wurde erstmals in den letzten 10 Jahren des 20. Jahrhunderts hergestellt.	E
+GW1	T1508	Josta ist eher wie Jolt als Surge.	N
+GW1	T1508	Josta wurde noch im 21. Jahrhundert hergestellt.	C
+GW84	T1508	Josta ist ein Getränk, das in den 1990er Jahren sehr beliebt war.	E
+GW84	T1508	1998 begann man mit dem Verbot von Josta.	N
+GW84	T1508	Seit 1997 kann niemand mehr Josta trinken.	C
+GW4	T1512	John McCain hatte seinen ersten politischen Sieg in den 90er Jahren.	E
+GW4	T1512	John McCain war ein paar Mal im Büro.	N
+GW4	T1512	John McCain ging nach 2005 nie wieder ins Amt.	C
+GW28	T1512	John McCain hat mehrere Stationen im Amt gemacht.	E
+GW28	T1512	John McCain war ein US-amerikanischer Politiker.	N
+GW28	T1512	John McCain diente mehrmals im Amt während des 20. Jahrhunderts.	C
+GW40	T1512	John McCain verbrachte zwei volle Jahre im Amt.	E
+GW40	T1512	John McCain wurde sowohl von der gleichen Person, Ben Nighthorse Campbell, vorangestellt als auch gefolgt.	N
+GW40	T1512	John McCain verbrachte in Folge Jahre im Amt, beginnend 1995 und endete 2007.	C
+GW84	T1516	Justice League Dark läuft über eine Stunde.	E
+GW84	T1516	Justice League Dark ist die einzige Produktion, die Jay Oliva	N
+GW84	T1516	Justice League Dark wurde in den 1990er Jahren veröffentlicht.	C
+GW1	T1516	Justice League Dark hat eine Laufzeit von unter 1,5 Stunden.	E
+GW1	T1516	Ernie Altbacker schrieb die Geschichte für Justice League Dark, bevor J. M. DeMatteis begann, ihm zu helfen.	N
+GW1	T1516	Justice League Dark wurde erstmals im Sommer 2017 veröffentlicht.	C
+GW4	T1516	Justice League Dark hatte eine Geschichte und ein Drehbuch von derselben Person.	E
+GW4	T1516	Justice League Dark machte einen Gewinn an der Kasse.	N
+GW4	T1516	Justice League Dark hatte ein Team, das die Musik schrieb.	C
+GW1	T1518	Im Sommer 1993 feierte Jurassic Park seine Premiere.	E
+GW1	T1518	Sam Neill sollte ursprünglich nicht in Jurassic Park spielen.	N
+GW1	T1518	Die Laufzeit von Jurassic Park beträgt weniger als zwei Stunden.	C
+GW84	T1518	Jurassic Park basierte auf einem Buch.	E
+GW84	T1518	Jurassic Park wurde im selben Jahr in anderen Ländern als den USA veröffentlicht.	N
+GW84	T1518	Jurassic Park läuft weniger als zwei Stunden.	C
+GW28	T1518	Jurassic Park war ein Roman aus Hollywood.	E
+GW28	T1518	Jurassic Park war der höchste Brutfilm des Jahres 1993.	N
+GW28	T1518	Jurassic Park war für das Filmstudio nicht profitabel.	C
+GW4	T1534	Joe Rogan heiratete, als er 40 war.	E
+GW4	T1534	Joe Rogan hatte beide seine Kinder mit Jessica Ditzel.	N
+GW4	T1534	Joe Rogan begann aufzustehen, als er 16 war.	C
+GW0	T1534	Joe Rogan spielt seit über dreißig Jahren Comedy.	E
+GW0	T1534	Die beiden Töchter von Joe Rogan sind nach seiner Frau benannt.	N
+GW0	T1534	Joe Rogan ging aufs College an der Westküste.	C
+GW1	T1534	Die Karriere von Joe Rogan geht seit mehr als 30 Jahren stark voran.	E
+GW1	T1534	Die Mutter der beiden Kinder von Joe Rogan ist Jessica Ditzel.	N
+GW1	T1534	Joe Rogan ist seit fast 15 Jahren verheiratet.	C
+GW4	T1544	Johnny Cash hatte zwei Frauen.	E
+GW4	T1544	Johnny Cash hatte alle seine Kinder mit June Carter.	N
+GW4	T1544	Johnny Cash benutzt den gleichen Namen, mit dem er geboren wurde.	C
+GW84	T1544	Johnny Cash war in seinen siebziger Jahren, als er starb.	E
+GW84	T1544	Johnny Cash war bei Sun Records, bevor er bei Mercury war.	N
+GW84	T1544	Johnny Cash war ein einziges Kind.	C
+GW1	T1544	Johnny Cash lebte in zwei verschiedenen Jahrhunderten.	E
+GW1	T1544	Alle Kinder von Johnny Cash hatten dieselbe biologische Mutter.	N
+GW1	T1544	Johnny Cash hatte eine Karriere, die sich über mehr als fünf Jahrzehnte erstreckte.	C
+GW28	T1545	Jim Mattis diente 44 Jahre lang beim Militär.	E
+GW28	T1545	Jim Mattis führte mehrere Kommandos amerikanischer Marines zum Sieg im Nahen Osten.	N
+GW28	T1545	Jim Mattis war der Leiter der Joint Chiefs of Staff.	C
+GW84	T1545	Jim Mattis war beim US-Militär.	E
+GW84	T1545	Jim Mattis war am besten als Mad Dog bekannt.	N
+GW84	T1545	Jim Mattis diente über fünfzig Jahre im Militär.	C
+GW0	T1545	Jim Mattis diente über vierzig Jahre im Militär.	E
+GW0	T1545	Jim Mattis führte die 1. Marinedivision während des Irakkrieges an.	N
+GW0	T1545	Jim Mattis ist derzeit noch im Marine Corps aktiv.	C
+GW4	T1550	J?rgen Skafte Rasmussen hatte vier Kinder.	E
+GW4	T1550	J?rgen Skafte Rasmussen lebte immer in Dänemark.	N
+GW4	T1550	J?rgen Skafte Rasmussen war für ihre unternehmerischen Fähigkeiten bekannt.	C
+GW84	T1550	J?rgen Skafte Rasmussen wurde geboren und starb im selben Land.	E
+GW84	T1550	J?rgen Skafte Rasmussens Kinder waren alle für seine Frau Theresie.	N
+GW84	T1550	J?rgen Skafte Rasmussen arbeitete nur als Ingenieur.	C
+GW1	T1550	J?rgen Skafte Rasmussen hatte die gleiche Nationalität, wo er geboren wurde.	E
+GW1	T1550	J?rgen Skafte Rasmussen lebte immer in Dänemark.	N
+GW1	T1550	J?rgen Skafte Rasmussen war mit Theresie Liebe verheiratet.	C
+GW1	T1557	Die Ost-West-Division Jerusalem ereignete sich in Jerusalem gegen die Wende des 20. Jahrhunderts.	E
+GW1	T1557	In Jerusalem sprechen mehr Menschen Hebräisch als Arabisch.	N
+GW1	T1557	Die Gihon-Frühjahrssiedlung (Jerusalem) dauerte über 225 Jahre.	C
+GW4	T1557	Jerusalem spaltete sich in den 1900er Jahren.	E
+GW4	T1557	Jerusalem ist seit mehr als 5000 Jahren eine Stadt.	N
+GW4	T1557	Jerusalem hat eine große Sprache.	C
+GW14	T1557	Ost und West Jerusalem kamen weniger als ein Vierteljahrhundert nach der Spaltung wieder zusammen.	E
+GW14	T1557	Viele Vorfahren der Siedlung Gihon Spring wanderten in die Stadt David aus.	N
+GW14	T1557	Die alten Stadtmauern von Jerusalem wurden nach ihrer Wiedervereinigung errichtet.	C
+GW84	T1562	Jun-ichi Nishizawa arbeitete an verschiedenen Universitäten.	E
+GW84	T1562	Jun-ichi Nishizawa war länger an der Tohoku-Universität als an der Sophia-Universität.	N
+GW84	T1562	Jun-ichi Nishizawa erhielt die Edison-Medaille posthum nach dem Tod.	C
+GW28	T1562	Die IEEE Edison Medal wurde in den 70er Jahren an Jun-ichi Nishizawa verliehen.	E
+GW28	T1562	Jun-ichi Nishizawa war ein japanischer Wissenschaftler.	N
+GW28	T1562	Jun-ichi Nishizawa studierte an mehreren Universitäten.	C
+GW1	T1562	Jun-ichi Nishizawa hatte eine Karriere an der gleichen Universität, an der er zur Schule ging.	E
+GW1	T1562	Beide Auszeichnungen von Jun-ichi Nishizawa wurden ihm im 21. Jahrhundert verliehen.	N
+GW1	T1562	Der Sommer 2018 ist, als Jun-ichi Nishizawa starb.	C
+GW1	T1580	Der Frühling 1979 war, als Kate Hudson geboren wurde.	E
+GW1	T1580	Kate Hudson hatte alle drei ihrer Kinder mit Chris Robinson.	N
+GW1	T1580	Kate Hudsons Ehe dauerte länger als ein Jahrzehnt.	C
+GW84	T1580	Kate Hudson ist in ihren Dreißigern.	E
+GW84	T1580	Kate Hudsons einziger Vollbruder ist Oliver.	N
+GW84	T1580	Kate Hudson war zuletzt mit Matthew verheiratet.	C
+GW4	T1580	Kate Hudson spielt seit ihrem 17. Lebensjahr.	E
+GW4	T1580	Kate Hudson hatte 3 Kinder mit Matthew Bellamy.	N
+GW4	T1580	Kate Hudson hat keine berühmten Eltern.	C
+GW1	T1586	Die Entfernung zu Kappa Coronae Borealis b beträgt über 100 Lichtjahre.	E
+GW1	T1586	Kappa Coronae Borealis b wurde schon immer als Teil des Sternbildes Corona Borealis angesehen.	N
+GW1	T1586	Kappa Coronae Borealis b hat eine scheinbare Größe über 5.	C
+GW28	T1586	Kappa Coronae Borealis b ist ein himmlisches Objekt.	E
+GW28	T1586	Kappa Coronae Borealis b wurde von einem griechischen Astronomen entdeckt.	N
+GW28	T1586	Kappa Coronae Borealis b ist ein paar Lichtjahre von der Erde entfernt.	C
+GW4	T1586	Kappa Coronae Borealis b ist über 100 Lichtjahre entfernt.	E
+GW4	T1586	Kappa Coronae Borealis b ist größer als die Sonne.	N
+GW4	T1586	Kappa Coronae Borealis b ist ein Teil des Sternbildes Little Dipper.	C
+GW4	T1592	Joy war in der Lage, einen Gewinn an der Kasse	E
+GW4	T1592	David O. Russell war in jeden Aspekt des Films Joy involviert.	N
+GW4	T1592	Der Film Joy wurde von Disney veröffentlicht.	C
+GW40	T1592	Joy wurde von John Davis, Megan Ellison, Jonathan Gordon, Ken Mok und David O. Russell produziert.	E
+GW40	T1592	Joys Drehbuch wurde von David O. Russell geschrieben, der ebenfalls Produzent ist.	N
+GW40	T1592	Joy ist ein Film, der keine Art von Musik darin enthalten hat.	C
+GW28	T1592	Joy ist ein US-amerikanischer Film mit bekannten amerikanischen Schauspielern.	E
+GW28	T1592	Joy wurde im Dezember veröffentlicht, um im Jahr 2015 für Oscar-Strittigkeit in Frage zu kommen.	N
+GW28	T1592	Der Film war nicht profitabel für 20th Century Fox	C
+GW28	T1598	Judy war ein Hund und Maskottchen der Royal Navy.	E
+GW28	T1598	Judy besuchte mehrere Länder, während er in der Royal Navy diente.	N
+GW28	T1598	Judy war ein Offizier in der Royal Navy.	C
+GW1	T1598	Judy war über ein Dutzend Jahre lang als Schiffs-Maskottchen tätig.	E
+GW1	T1598	Judy bekam die Dickin-Medaille in der Nähe des Hundes.	N
+GW1	T1598	Judy starb im Herbst 1950.	C
+GW40	T1598	Judy war ein Pointer-Hund, der auch ein Maskottchen für die Royal Navy war.	E
+GW40	T1598	Judy erhielt einen Preis, weil er Mitglied der Royal Navy war.	N
+GW40	T1598	Judy war als chinesische Kriegsgefangener bekannt.	C
+GW28	T1600	K?roly Zipernowsky wurde im 19. Jahrhundert in Wien geboren.	E
+GW28	T1600	K?roly Zipernowsky studierte Elektrotechnik an der Universität.	N
+GW28	T1600	K.roly Zipernowsky starb dort, wo er geboren wurde.	C
+GW40	T1600	K?roly Zipernowsky wurde 1853 als Carl Zipernowsky geboren.	E
+GW40	T1600	K?roly Zipernowskys Nationalität ist Ungarisch und Österreicher.	N
+GW40	T1600	K?roly Zipernowsky ging nicht zur Schule, um Ingenieur zu werden.	C
+GW84	T1600	K?roly Zipernowsky war unter einem anderen Namen bekannt.	E
+GW84	T1600	K?roly Zipernowsky war der Spitzenplatz seiner Klasse an der Technischen Universität Budapest.	N
+GW84	T1600	K?roly Zipernowsky war über hundert Jahre alt, als er starb.	C
+GW4	T1601	Jimmy Eat World stammt aus dem Bundesstaat Arizona.	E
+GW4	T1601	Die Band Jimmy Eat World tourte bis heute weiter.	N
+GW4	T1601	Die Band Jimmy Eat World war über ihre Musikkarriere nur auf 2 Labels vertreten.	C
+GW28	T1601	Emo Pop-Gruppe, Jimmy Eat World ist aus dem Südwesten der Vereinigten Staaten.	E
+GW28	T1601	Sie haben während ihrer langen Karriere viele Auszeichnungen gewonnen.	N
+GW28	T1601	Jimmy Eat World war weitgehend loyal zu ihrem ursprünglichen Label.	C
+GW1	T1601	Jimmy Eat World macht seit mehr als 25 Jahren Musik.	E
+GW1	T1601	Jimmy Eat World machte mehr Musik auf dem Capitol-Label als Dreamworks.	N
+GW1	T1601	Jimmy Eat World wurde im Südosten der USA gestartet.	C
+GW1	T1612	Johann Nikolaus von Dreyse wurde in den letzten Jahrzehnten des 18. Jahrhunderts geboren.	E
+GW1	T1612	Johann Nikolaus von Dreyse war ein Unternehmer, bevor er ein Erfinder war.	N
+GW1	T1612	Johann Nikolaus von Dreyse starb im Sommer 1867.	C
+GW14	T1612	Johann Nikolaus von Dreyse starb in seiner Geburtsstadt.	E
+GW14	T1612	Johann Nikolaus von Dreyse erfand mehr als ein Objekt.	N
+GW14	T1612	Johann Nikolaus von Dreyse war nie auf dem europäischen Kontinent.	C
+GW84	T1612	Johann Nikolaus von Dreyse wurde geboren und starb in derselben Stadt.	E
+GW84	T1612	Die einzige Erfindung von Johann Nikolaus von Dreyse war die Nadelpistole.	N
+GW84	T1612	Johann Nikolaus von Dreyse war preußisch.	C
+GW84	T1614	John Paul Getty III war bekannt dafür, dass er seiner Familie weggenommen wurde.	E
+GW84	T1614	John Paul Getty III wurde während des Spielens in einem Park entführt.	N
+GW84	T1614	John Paul Getty III wurde Anfang der 1900er Jahre geboren.	C
+GW28	T1614	John Paul Getty III wurde zu seinen Lebzeiten entführt.	E
+GW28	T1614	Er wurde nach seinem Großvater väterlicherseits benannt.	N
+GW28	T1614	John Paul Getty III heiratete in seinen zwanziger Jahren.	C
+GW14	T1614	Es gibt 3 Männer mit dem gleichen Namen in John Paul Getty Familie.	E
+GW14	T1614	Balthazar Getty wurde im Vereinigten Königreich geboren.	N
+GW14	T1614	John Paul Getty III starb innerhalb von 100 Meilen von seinem Geburtsort.	C
+GW28	T1618	Jupiter and Io ist ein Kunstwerk aus dem 16. Jahrhundert.	E
+GW28	T1618	Jupiter and Io war Antonio da Correggios letzte Arbeit.	N
+GW28	T1618	Jupiter and Io ist in einer privaten Sammlung untergebracht.	C
+GW79	T1618	Jupiter und lo, ein Ölgemälde im Kunsthistorischen Museum, ist ein Werk aus dem 16. Jahrhundert.	E
+GW79	T1618	Das Gemälde Jupiter und lo ist im Kunsthistorischen Museum zu sehen.	N
+GW79	T1618	Das Bild, Jupiter und lo, ist ein schönes Beispiel für Aquarelle.	C
+GW1	T1618	An seiner breitesten Stelle war Jupiter und Io mehr als fünf Fuß lang.	E
+GW1	T1618	Jupiter and Io ist als Leihgabe an das Kunsthistorische Museum	N
+GW1	T1618	Jupiter und Io brauchten ein halbes Jahrzehnt, um zu malen.	C
+GW40	T1626	Jim Croce, auch bekannt als James Joseph Croce, ist ein Sänger und Songwriter.	E
+GW40	T1626	== Leben ==Jim Croce wuchs in South Philadelphia, Pennsylvania, USA auf.	N
+GW40	T1626	Jim Croce ist noch immer stark im Jahr 2019 und hat seine Liebe zur Musik nicht aufgegeben.	C
+GW85	T1626	Jim Croce ist ein Sänger, der ein sehr kurzes Leben führte.	E
+GW85	T1626	Jim Croce stammt aus der PA und wurde dort geboren und aufgewachsen.	N
+GW85	T1626	Jim Croce war 56, als er starb.	C
+GW1	T1626	Jim Croce lebte nur drei Jahrzehnte.	E
+GW1	T1626	Jim Croce machte mehr Musik auf dem ABC Label als auf Saja/Atlantic.	N
+GW1	T1626	Jim Croce wurde im Sommer 1943 geboren.	C
+GW1	T1635	Kauto Star gewann über die Hälfte der Rennen, die es lief.	E
+GW1	T1635	Kauto Star nahm in Frankreich nur an Rennen teil.	N
+GW1	T1635	Der Frühling 2015 ist, als Kauto Star starb.	C
+GW4	T1635	Kauto Star konnte die Mehrheit ihrer Rennen gewinnen.	E
+GW4	T1635	Kauto Star konnte für ihre Besitzer profitieren.	N
+GW4	T1635	Kauto Star starb, als sie zehn Jahre alt waren.	C
+GW28	T1635	Kauto Star war ein französisches Rennpferd.	E
+GW28	T1635	Kauto Star starb an Alter.	N
+GW28	T1635	Kauto Star hat nach seiner Pensionierung den Nachwuchs des Mannes gezeugt.	C
+GW84	T1656	Karen Gillan ist seit über zehn Jahren im Geschäft.	E
+GW84	T1656	Karen Gillan schloss mit Auszeichnung an der Italia Conti Academy of Theatre Arts ab.	N
+GW84	T1656	Karen Gillan ist eine Performerin in ihren späten 30ern.	C
+GW28	T1656	Karen Gillan ist eine britische Schauspielerin.	E
+GW28	T1656	Karen Gillan spricht Englisch und Italienisch.	N
+GW28	T1656	Karen Gillan ist seit ihren zwanziger Jahren aktiv.	C
+GW31	T1656	Karen Gillan studierte Schauspiel an der Italia Conti Academy of Theatre Arts und ist seit 2006 tätig.	E
+GW31	T1656	Karen Gillan drehte und schrieb viele der Filme, in denen sie seit 2006 auftrat.	N
+GW31	T1656	Karen Gillan spielt nun seit fünfzig Jahren und spielt seit zwanzig Jahren.	C
+GW1	T1659	Die australische Veröffentlichung von Jungle war Ende 2017.	E
+GW1	T1659	Jungle verdiente mehr Geld in Kolumbien als in Australien.	N
+GW1	T1659	Der Film Jungle hat eine Laufzeit von über zwei Stunden.	C
+GW4	T1659	Der Film Jungle wurde von einer Person geschrieben.	E
+GW4	T1659	Der Film Jungle machte an der Kasse einen Gewinn.	N
+GW4	T1659	Der Film Jungle hatte denselben Drehbuchautor und Regisseur.	C
+GW14	T1659	Jungle wurde auf zwei Kontinenten gedreht.	E
+GW14	T1659	Jungle wurde von mehr Australiern als Kolumbianern beobachtet.	N
+GW14	T1659	In der gleichen Woche hatte Jungle zwei Premieren an verschiedenen Orten.	C
+GW84	T1664	Jessie J spielt seit über zehn Jahren.	E
+GW84	T1664	Jessie J wurde von Island unter Vertrag genommen, bevor er bei Gut unterschrieb.	N
+GW84	T1664	Jessie J spielt nur Popmusik.	C
+GW1	T1664	Jessie J hat seit über einem Jahrzehnt eine aktive Karriere.	E
+GW1	T1664	Jessie J war ein Songwriter, bevor er ein professioneller Sänger war.	N
+GW1	T1664	Jessie J wurde im Sommer 1988 geboren.	C
+GW28	T1664	Jessie J ist eine englische Sängerin.	E
+GW28	T1664	Jessie J hat viele Auszeichnungen für ihre Musik gewonnen.	N
+GW28	T1664	Jessie J begann ihre Karriere in den zwanziger Jahren.	C
+GW1	T1665	Julian Assange war über ein Jahrzehnt in seiner ersten Ehe verheiratet.	E
+GW1	T1665	Alle Kinder von Julian Assange haben die gleiche Frau wie ihre biologische Mutter.	N
+GW1	T1665	Die Karriere von Julian Assange geht seit mehr als drei Jahrzehnten.	C
+GW0	T1665	Julian Assange besuchte drei Universitäten in seinem Heimatland.	E
+GW0	T1665	Julian Assange hat vier Kinder mit seiner Ex-Frau Teresa Doe.	N
+GW0	T1665	Julian Assange lebt in einem Land, in dem er Bürger ist.	C
+GW84	T1665	Julian Assange gewann 2015 mehr Auszeichnungen als 2008.	E
+GW84	T1665	Julian Assange hat sein ganzes Leben in Australien gelebt.	N
+GW84	T1665	Julian Assange wurde aktiv, nachdem er geheiratet hatte.	C
+GW1	T1668	Jerusalem ist fast zwei Drittel jüdisch in der Bevölkerung.	E
+GW1	T1668	Jerusalem hat Sommerzeit beobachtet, seit es ursprünglich ein Ding wurde.	N
+GW1	T1668	Bevölkerung weise, besteht aus etwa der Hälfte der arabischen Menschen.	C
+GW28	T1668	Jerusalem besteht hauptsächlich aus jüdischen Menschen.	E
+GW28	T1668	Jerusalem ist ein multiethnisches, multireligiöses Land.	N
+GW28	T1668	Christen bilden einen großen Teil der Bevölkerung von Jerusalem.	C
+GW86	T1668	Die Mehrheit der Bevölkerung von Jerusalem besteht aus Juden.	E
+GW86	T1668	Die am häufigsten gesprochene Sprache in Jerusalem ist Hebräisch.	N
+GW86	T1668	Die Hälfte der Bevölkerung von Jerusalem ist Araber.	C
+GW4	T1677	Johannes Gutenberg machte es den Menschen leichter, Dinge zu drucken.	E
+GW4	T1677	Johannes Gutenberg lebte ihr ganzes Leben im Heiligen Römischen Reich.	N
+GW4	T1677	Johannes Gutenberg wurde für ihre Arbeit bestraft.	C
+GW28	T1677	Johannes Gutenberg lebte während der Herrschaft des Heiligen Römischen Reiches.	E
+GW28	T1677	Johannes Gutenberg wurde reich an seinen Erfindungen.	N
+GW28	T1677	Johannes Gutenberg lebte im 14. Jahrhundert.	C
+GW1	T1677	Johannes Gutenberg wurde um die Jahrhundertwende geboren.	E
+GW1	T1677	Johannes Gutenberg war ein Drucker, bevor er ein Erfinder war.	N
+GW1	T1677	Johannes Gutenberg starb im Herbst 1468.	C
+GW4	T1688	John Cyril Porte diente mehr als einmal beim Militär.	E
+GW4	T1688	John Cyril Porte konnte mehr als einmal über den Atlantik fliegen.	N
+GW4	T1688	John Cyril Porte lebte ihr ganzes Leben in Irland.	C
+GW6	T1688	John Cyril Porte starb in einem anderen Land, als in dem er geboren wurde.	E
+GW6	T1688	John Cyril Porte starb, als er noch im Militär tätig war.	N
+GW6	T1688	John Cyril Porte diente in zwei Weltkriegen.	C
+GW1	T1688	John Cyril Porte lebte in zwei verschiedenen Jahrhunderten.	E
+GW1	T1688	John Cyril Porte wurde posthum mit dem Orden von St. Michael und St. George Navy Distinguished Service Medal ausgezeichnet.	N
+GW1	T1688	John Cyril Porte diente über zwei Jahrzehnte im Militär.	C
+GW0	T1690	Jinder Mahal ringt seit über fünfzehn Jahren professionell.	E
+GW0	T1690	Jinder Mahal änderte seinen Ringnamen von Tiger Raj Singh früh in seiner Karriere.	N
+GW0	T1690	Jinder Mahal wiegt mehr in Kilo als seine Gesamthöhe in Zentimetern.	C
+GW28	T1690	Jinder Mahal ist für die meisten Menschen überdurchschnittlich hoch und schwer.	E
+GW28	T1690	Jinder Mahal ist ein indischer Profi-Kämpfer.	N
+GW28	T1690	Jinder Mahal ist ein Neophyt im Ring.	C
+GW86	T1690	Jinder Mahal ist unter mehreren Ringnamen bekannt.	E
+GW86	T1690	Jinder Mahal lebt in Punjab, Indien.	N
+GW86	T1690	Sein Debüt gab Jinder Mahal in den 1990er Jahren.	C
+GW4	T1692	John Wayne Gacy wurde vom Staat getötet.	E
+GW4	T1692	John Wayne Gacy hatte Kinder mit seiner ersten Frau.	N
+GW4	T1692	John Wayne Gacy starb mit 40 Jahren.	C
+GW68	T1692	John Wayne Gacy war nicht verheiratet, als er 29 Jahre alt war.	E
+GW68	T1692	John Wayne Gacy hatte zwei Kinder mit Marlynn Myers.	N
+GW68	T1692	Er ließ sich scheiden, nachdem er verurteilt wurde.	C
+GW84	T1692	John Wayne Gacy starb mehr als zehn Jahre nach seiner Verurteilung.	E
+GW84	T1692	John Wayne Gacy versuchte, seine Überzeugungen zu appellieren.	N
+GW84	T1692	John Wayne Gacy starb an natürlichen Ursachen.	C
+GW0	T1696	Jethro Tull nahm eine fünfjährige Pause während der 2010er Jahre.	E
+GW0	T1696	Jethro Tull spielte in den 1970er Jahren viele Tourneekonzerte mit Wild Turkey.	N
+GW0	T1696	Jethro Tull wurde vor zwanzig Jahren in Nordamerika gegründet.	C
+GW1	T1696	Jethro Tull ist eine britische Band.	E
+GW1	T1696	Jethro Tull machte Musik auf dem Eagle Label, bevor er überhaupt mit EMI musizierte.	N
+GW1	T1696	Jethro Tull hat in sechs Jahrzehnten Musik gemacht.	C
+GW4	T1696	Jethro Tull machte eine Pause in ihrer Karriere.	E
+GW4	T1696	Jethro Tull spielte Hard Rock, bevor sie in den Folkrock kamen.	N
+GW4	T1696	Jethro Tull war nur auf einem Label.	C
+GW4	T1702	Kas wurde ursprünglich in Europa hergestellt.	E
+GW4	T1702	Kas kommt in vielen klassischen Soda-Geschmack.	N
+GW4	T1702	Kas kam vor über 60 Jahren heraus.	C
+GW1	T1702	Kas wurde innerhalb von 10 Jahren nach der Wende des 20. Jahrhunderts eingeführt.	E
+GW1	T1702	Kas wurde nur in Spanien verkauft.	N
+GW1	T1702	Kas kam in über 10 Geschmacksrichtungen.	C
+GW28	T1702	Kas ist ein spanischer Softdrink.	E
+GW28	T1702	Kas ist der größte Verkäufer von PepsiCo in Spanien.	N
+GW28	T1702	PepsiCo hat sich an seine ursprüngliche Formel für Kas ohne Änderungen gehalten.	C
+GW1	T1706	Jeff Lynne ist seit mehr als einem Jahrhundert als Musiker tätig.	E
+GW1	T1706	Jeff Lynne produzierte Platten, bevor er eigentlich selbst Musiker war.	N
+GW1	T1706	Der Geburtstag von Jeff Lynne fällt im Sommer.	C
+GW4	T1706	Jeff Lynne hat mehr als einen Künstlernamen.	E
+GW4	T1706	Jeff Lynne hat auf einem Album mit The Beatles aufgenommen.	N
+GW4	T1706	Jeff Lynne hat ihre ganze Karriere bei Sony BMG verbracht.	C
+GW84	T1706	Jeff Lynne erhielt mehrere verschiedene Namen.	E
+GW84	T1706	Jeff Lynne war bei Harvest Records, bevor er bei Epic war.	N
+GW84	T1706	Jeff Lynne ist ein Musiker in seinen achtziger Jahren.	C
+GW1	T1713	John Cho wurde im Sommer 1972 geboren.	E
+GW1	T1713	Die Mutter der beiden Kinder von John Cho ist Kerri Higuchi.	N
+GW1	T1713	John Cho handelt seit mehr als zweieinhalb Jahrzehnten.	C
+GW28	T1713	John Cho wurde im 20. Jahrhundert geboren.	E
+GW28	T1713	John Cho ist mit zwei Töchtern verheiratet.	N
+GW28	T1713	John Cho ist seit seinen Teenagern aktiv.	C
+GW84	T1713	John Cho ist seit über zehn Jahren verheiratet.	E
+GW84	T1713	== Leben ==John Cho studierte in den 1990er Jahren an der UC Berkley.	N
+GW84	T1713	John Cho begann seine Karriere direkt von der High School, übersprungen College.	C
+GW28	T1728	Kaput und Zšsky: Die ultimativen Obliteratoren ist eine Unterhaltungsproduktion.	E
+GW28	T1728	Kaput und Zšsky: Die ultimativen Obliteratoren ist ein Zeichentrickfilm für Kinder.	N
+GW28	T1728	Kaput und Zšsky: Die Ultimate Obliterators werden von derselben Firma produziert und vertrieben.	C
+GW1	T1728	Kaput und Zšsky: Die ultimativen Obliteratoren brauchen etwa eine halbe Stunde, um zuzuschauen.	E
+GW1	T1728	Paul Cabieux hat mehr Produktionen an Kaput und Zšsky: The Ultimate Obliterators als Philippe Delarue.	N
+GW1	T1728	Kaput und Zšsky: Die Ultimate Obliterators hatten eine Handvoll Distributoren.	C
+GW4	T1728	Kaput und Zšsky: Die Ultimate Obliterators wurden von zwei Personen produziert.	E
+GW4	T1728	Kaput und Zšsky: Die Ultimate Obliterators liefen auf Basis Kabel.	N
+GW4	T1728	Kaput und Zšsky: Die Ultimate Obliterators hatten nur eine Produktionsfirma.	C
+GW0	T1730	Jon Hamm studierte an der Universität seines Heimatstaates.	E
+GW0	T1730	Jon Hamm schloss mit einem Bachelor-Abschluss in Wirtschaft ab.	N
+GW0	T1730	Jon Hamm und Jennifer Westfeldt heirateten, bevor Hamm zu handeln begann.	C
+GW1	T1730	Jon Hamm absolvierte das College.	E
+GW1	T1730	Jon Hamm war ein Produzent, bevor er Schauspieler war.	N
+GW1	T1730	Jon Hamm ist seit mehr als 25 Jahren aktiv.	C
+GW28	T1730	Jon Hamm ist ein Schauspieler mittleren Alters.	E
+GW28	T1730	Jon Hamm wurde für seine Schauspielrollen ausgezeichnet.	N
+GW28	T1730	Jon Hamm ist seit seinen Teenagern aktiv.	C
+GW86	T1768	Der Stil von Iced Earth wurde als mehr als ein Genre charakterisiert.	E
+GW86	T1768	Iced Earth befindet sich derzeit in Tampa, Florida.	N
+GW86	T1768	Iced Earth ist seit über einem Jahrzehnt mit ihrem aktuellen Label signiert.	C
+GW84	T1768	Iced Earth hatte auch zwei weitere Namen.	E
+GW84	T1768	Iced Earth war in den 1980er Jahren beliebter.	N
+GW84	T1768	Iced Earth hörte in den 1990er Jahren auf zu spielen.	C
+GW85	T1768	Iced Earth ist eine Power-Metal-Band.	E
+GW85	T1768	Iced Earth ist seit den 80er Jahren da	N
+GW85	T1768	Iced Earth wird jetzt nicht gespielt	C
+GW84	T1784	Interior befindet sich derzeit in einem amerikanischen Museum.	E
+GW84	T1784	Interior ist seit über zwanzig Jahren in Philadelphia.	N
+GW84	T1784	Interior wurde in den letzten fünfzig Jahren gemalt.	C
+GW28	T1784	Interior ist ein Kunstwerk aus dem 19. Jahrhundert.	E
+GW28	T1784	Interior war Edgar Degas letztes Werk.	N
+GW28	T1784	Interior ist ein gemaltes Wandbild.	C
+GW86	T1784	Im 18. Jahrhundert wurde Interior fertiggestellt.	E
+GW86	T1784	Interior brauchte 12 Monate, um Degas abzuschließen.	N
+GW86	T1784	Interior ist eine Aquarellmalerei.	C
+GW28	T1788	Issa Album war eine Zusammenarbeit zwischen mehreren Hip-Hop-Produzenten.	E
+GW28	T1788	Issa Album gewann viele Auszeichnungen für seine Musik.	N
+GW28	T1788	Issa Album wurde ausschließlich von Wheezy produziert.	C
+GW84	T1788	Issa Album wurde vor weniger als drei Jahren veröffentlicht.	E
+GW84	T1788	Issa Album wurde zum ersten Mal bei Epic unterzeichnet.	N
+GW84	T1788	Issa Album läuft über eine Stunde lang.	C
+GW86	T1788	Issa Album wurde im Sommer 2017 veröffentlicht.	E
+GW86	T1788	Issa Album zeigt Lieder von mehreren musikalischen Künstlern.	N
+GW86	T1788	Issa Album ist über eine Stunde lang.	C
+GW4	T1791	Huddersfield Ben lebte sechs Jahre.	E
+GW4	T1791	Huddersfield Ben wurde von ihrem Besitzer gezüchtet.	N
+GW4	T1791	Huddersfield Ben war ein Labrador Retriever.	C
+GW93	T1791	Humdersfield Ben war ein Yorkshire Terrier.	E
+GW93	T1791	Huddersfield Ben gewann die meisten Auszeichnungen für einen Yorkshire Terrier.	N
+GW93	T1791	Huddersfield Ben wurde im 18. Jahrhundert geboren.	C
+GW85	T1791	Huddersfield Ben ist eine Art Terrier.	E
+GW85	T1791	Huddersfield Ben ist eine sehr beliebte Show-	N
+GW85	T1791	Huddersfield Ben ist ein Name für einen Stuten.	C
+GW28	T1819	Hugo ist ein multinationaler Film mit bekannten Hollywood-Schauspielern.	E
+GW28	T1819	Hugo wird von Kritikern und Fans gleichermaßen gelobt.	N
+GW28	T1819	Hugo stars ein weitgehend unbekannter cast.	C
+GW85	T1819	Hugo basiert auf der Erfindung von Hugo Cabret	E
+GW85	T1819	Hugo ist ein englischer Film.	N
+GW85	T1819	Hugo war ein großer Flop	C
+GW93	T1819	Hugo hat eine Laufzeit von 126 Minuten.	E
+GW93	T1819	Hugo war der größte Kinofilm im November 2011.	N
+GW93	T1819	Hugo war ursprünglich auf Französisch.	C
+GW28	T1847	Jack Antonoff ist seit seinen Teenagern aktiv.	E
+GW28	T1847	Jack Antonoff ist ein selbsterzogener Gitarren- und Klavierspieler.	N
+GW28	T1847	Jack Antonoff ist mit kleineren Acts aufgetreten.	C
+GW84	T1847	Jack Antonoff wurde im Frühjahr geboren.	E
+GW84	T1847	Jack Antonoff lernte vor dem Schlagzeug Gitarre zu spielen.	N
+GW84	T1847	Jack Antonoff tritt seit über zwanzig Jahren auf.	C
+GW85	T1847	Jack Antonoff wurde in NJ geboren	E
+GW85	T1847	Jack Antonoff ist in die Musik involviert.	N
+GW85	T1847	Jack Antonoff ist niemand Besonderes.	C
+GW84	T1861	Island wurde vor über tausend Jahren besiedelt.	E
+GW84	T1861	Die Verfassung für Island wurde vor über hundert Jahren geschrieben.	N
+GW84	T1861	Island wurde vor über hundert Jahren zur Republik.	C
+GW93	T1861	Island hatte 1904 die Souveränität.	E
+GW93	T1861	Island ist dichter besiedelt als Grönland.	N
+GW93	T1861	Island wurde 1954 eine Republik.	C
+GW28	T1861	Island ist schon seit Jahrtausenden bewohnt.	E
+GW28	T1861	Island ist nicht in Konflikt verwickelt.	N
+GW28	T1861	Island ist eine konstitutionelle Monarchie.	C
+GW4	T1875	Identity Crisis wurde erst in einem Jahr ausgetragen.	E
+GW4	T1875	Identity Crisis war eine Serie, die Preise gewann.	N
+GW4	T1875	Identity Crisis wurde von Marvel Comics veröffentlicht.	C
+GW28	T1875	Identity Crisis war eine monatlich erscheinende Publikation von DC Comics.	E
+GW28	T1875	Identitätskrise wurde zum Sammlerstück.	N
+GW28	T1875	Identity Crisis ist eine monatliche Serie mit unbestimmtem Lauf.	C
+GW93	T1875	Identity Crisis wurde von DC Comics veröffentlicht.	E
+GW93	T1875	Green Arrow erschien mehr als Batman in der Identity Crisis.	N
+GW93	T1875	Es gab nur eine Frage der Identitätskrise.	C
+GW28	T1882	Jack of Fables war eine monatliche Comic-Serie.	E
+GW28	T1882	Jack of Fables wurde zum Sammlerstück.	N
+GW28	T1882	Jack of Fables erschien wöchentlich für sechs Jahre.	C
+GW85	T1882	Jack of Fables ist eine Comic-Serie	E
+GW85	T1882	Es hat 50 Ausgaben	N
+GW85	T1882	es wird noch heute produziert	C
+GW93	T1882	Jack of Fables wird monatlich veröffentlicht.	E
+GW93	T1882	Jack of Fables gewann mit seiner 10. Ausgabe an Popularität.	N
+GW93	T1882	Jack of Fables ist eine limitierte Serie.	C
+GW93	T1888	Robin Estanislau ist Stadtangestellter in Huntington Beach, California.	E
+GW93	T1888	Patrick Brenden ist der zweite Befehlshaber in Huntington Beach, California.	N
+GW93	T1888	Huntington Beach, California hat keinen Stadtmanager.	C
+GW85	T1888	Huntington Beach, Californias Stadtsekretär ist Robin Estanislau	E
+GW85	T1888	Huntington Beach, California hat einen eigenen Rat.	N
+GW85	T1888	Huntington Beach, California ist nicht groß genug für eine Stadt-Attorny	C
+GW69	T1888	Huntinyon Beach Council hat sieben Mitglieder.	E
+GW69	T1888	City Attorney of Huntington Beach ist eine gewählte Position, während City Schatzmeister von Huntington Beach ist eine ernannte Position.	N
+GW69	T1888	Stadtrat von Huntington Beach, Kalifornien umfasst City Anwältin und City Schatzmeister.	C
+GW85	T1917	Republik Irak ist in der föderalen parlamentarischen Republik	E
+GW85	T1917	Mohamed al-Halbousi ist Sprecher des Rates der Vertreter der Republik Irak	N
+GW85	T1917	Republik Irak ist das Territorium der USA	C
+GW84	T1917	Die Menschen sprechen zwei Hauptsprachen in der Republik Irak.	E
+GW84	T1917	Der Präsident der Republik Irak ist seit fünf Jahren im Amt.	N
+GW84	T1917	Der Redner und die oberste Gerechtigkeit der Republik Irak sind dieselbe Person.	C
+GW28	T1917	Bagdad befindet sich in der Republik Irak.	E
+GW28	T1917	Republik Irak hat eine christliche Minderheit.	N
+GW28	T1917	Der Präsident und Premierminister der Republik Irak sind dieselbe Person.	C
+GW84	T1918	Hypatia starb im Frühling.	E
+GW84	T1918	Hypatia war mehr für Mathematik als für Astronomie bekannt.	N
+GW84	T1918	Hypatia hat keine Auswirkungen auf andere Menschen.	C
+GW85	T1918	Hypatia ist in Eygpt.	E
+GW85	T1918	Hypatia wird vom Raum beeinflusst.	N
+GW85	T1918	Hypatia ist neu.	C
+GW28	T1918	Hypatia studierte die Lehren bekannter Philosophen.	E
+GW28	T1918	Hypatia war ein mehrsprachiger Philosoph.	N
+GW28	T1918	Hypatia wurde in Europa geboren und starb.	C
+GW28	T1942	Jacques Charles war ein europäischer Mann der Wissenschaft.	E
+GW28	T1942	Jacques Charles starb an natürlichen Ursachen.	N
+GW28	T1942	Jacques Charles war ein unwissender Bauer.	C
+GW84	T1942	Jacques Charles war bekannt für seine Arbeit in der Wissenschaft.	E
+GW84	T1942	Jacques Charles war bekannt für mehr Physik als Mathematik.	N
+GW84	T1942	Jacques Charles wurde in verschiedenen Ländern geboren und starb.	C
+GW77	T1942	Jacques Charles war ein Physiker, der vor allem für sein bahnbrechendes Charless Gesetz bekannt war.	E
+GW77	T1942	Charles hat alle seine Lehre und Forschung in Frankreich an der Akademie des Sciences.	N
+GW77	T1942	Jacques Charles war ein führender Pilot von Blimps und flog sie häufig in England.	C
+GW28	T2028	Hot Fuzz war eine multinationale Film	E
+GW28	T2028	Hot Fuzz war ein Action-Comedy-Film	N
+GW28	T2028	Simon Pegg schrieb, Regie führte und spielte in Hot Fuzz.	C
+GW84	T2028	Hot Fuzz wurde im selben Jahr in drei verschiedenen Ländern veröffentlicht.	E
+GW84	T2028	Hot Fuzz machte den größten Teil seines Geldes in den USA.	N
+GW84	T2028	Hot Fuzz läuft unter zwei Jahren.	C
+GW94	T2028	Working Title Films wurde zuvor in Großbritannien veröffentlicht.	E
+GW94	T2028	Der für Hot Fuzz verantwortliche Produzent war Working Title Films.	N
+GW94	T2028	Der Arbeitstitel Films wurde in deutscher Sprache	C
+GW28	T2032	Republik Indonesien ist ein multiethnisches und mehrsprachiges Land.	E
+GW28	T2032	Joko Widodo ist der 20. Präsident der Republik Indonesien.	N
+GW28	T2032	Republik Indonesien ist eine konstitutionelle Monarchie.	C
+GW93	T2032	Joko Widodo ist Präsident der Republik Indonesien.	E
+GW93	T2032	Jakarta ist die fünftgrößte Hauptstadt der Welt.	N
+GW93	T2032	In der Republik Indonesien werden zehn Sprachen gesprochen.	C
+GW84	T2032	Jakarta ist der Ort, an dem die Regierung in der Republik Indonesien ist.	E
+GW84	T2032	Jakarta ist die größte Stadt der Republik Indonesien.	N
+GW84	T2032	Das Ober- und Unterhaus der Republik Indonesien gehören derselben Partei an.	C

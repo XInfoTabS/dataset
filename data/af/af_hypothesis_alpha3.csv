@@ -1,0 +1,1801 @@
+,annotater_id,table_id,hypothesis,label
+0,GW74,T2045,Die meeste oorlewendes was bemanningslede.,E
+1,GW74,T2045,"Die 5 sterftes, insluitend 1 passasier",N
+2,GW74,T2045,Daar was meer oorlewendes as die bemanning.,C
+3,GW52,T2045,Die meeste van die 1950 British Columbia B-36 crash slagoffers het oorleef.,E
+4,GW52,T2045,Die 1950 British Coluimbia B-36 crash rapporteer motorprobleme voor die crash.,N
+5,GW52,T2045,Die 1950 B-36 crash was as gevolg van voëls wat die motorbaai binnedring.,C
+6,GW95,T2045,Daar was 'n passasier vir elke 16 bemanningslede.,E
+7,GW95,T2045,Al die sterftes was lede van die bemanning.,N
+8,GW95,T2045,Meer passasiers as bemanningslede het gesterf.,C
+9,GW86,T2046,Die 1999 Jiji aardbewing het meer as 100.000 geboue beskadig of vernietig.,E
+10,GW86,T2046,Die 1999 Jiji aardbewing het meer as 2415 mense doodgemaak.,N
+11,GW86,T2046,Die 1999 Jiji aardbewing het meer geboue vernietig as wat dit beskadig het.,C
+12,GW95,T2046,Die Jiji aardbewing het in Asië plaasgevind.,E
+13,GW95,T2046,"Die meeste van die geboue wat beskadig is, was huise.",N
+14,GW95,T2046,Hierdie aardbewing het aan die begin van die millennium plaasgevind.,C
+15,GW74,T2046,Die plaaslike tyd het 'n ses uur verskil van UTC tyd,E
+16,GW74,T2046,29 mense is al 20 jaar vermist,N
+17,GW74,T2046,Die datum van die UTC tyd en die datum van die lokasie is dieselfde,C
+18,GW12,T2047,Die 2004 Indiese Oseaan aardbewing en tsunami het op 26 Desember op die Indiese Oseaan kusgebiede plaasgevind.,E
+19,GW12,T2047,Die totale skade van die 2004 Indiese Oseaan aardbewing en tsunami was meer as $ 15 miljard Amerikaanse dollar.,N
+20,GW12,T2047,Die oorsaaklike oorsake van die gewelddadige 2004 Indiese Oseaan aardbewing en tsunami het minder as 200.000 doodgemaak.,C
+21,GW28,T2047,2004 Indiese Oseaan aardbewing en tsunami het in Asië gebeur.,E
+22,GW28,T2047,2004 Indiese Oseaan aardbewing en tsunami was voel so ver as Europa.,N
+23,GW28,T2047,Die presiese datum en tyd van die 2004 Indiese Oseaan aardbewing en tsunami kon nie bepaal word nie.,C
+24,GW52,T2047,Die aardbewing / tsunami van 2004 het meer as 200.000 mense doodgemaak.,E
+25,GW52,T2047,Die aardbewing / tsunami van 2004 is in verskeie kontinente voel.,N
+26,GW52,T2047,Die aardbewing / tsunami van 2004 is gekenmerk as 'n uiterste aardbewing.,C
+27,GW63,T2048,Daar was 'n ernstige aardbewing wat in Indonesië na 2004 gebeur het.,E
+28,GW63,T2048,Slegs 'n gedeelte van Indonesië is beïnvloed deur die Nias-Simeulue aardbewing.,N
+29,GW63,T2048,Slegte aardbevings het in Asië plaasgevind.,C
+30,GW12,T2048,Die 2005 Nias-Simeulue aardbewing het in 2005 teen 23:09 plaaslike tyd plaasgevind.,E
+31,GW12,T2048,Die 2005 Nias-Simeulue aardbewing het die gebied van Indonesië beïnvloed.,N
+32,GW12,T2048,Daar was 915 gewond en 340 dooies as gevolg van die 2005 Nias-Simeulue aardbewing.,C
+33,GW28,T2048,2005 Nias-Simeulue aardbewing was geleë in Asië en het in die nag geraak.,E
+34,GW28,T2048,Die 2005 Nias-Simeulue aardbewing het geen tsunami veroorsaak nie.,N
+35,GW28,T2048,2005 Nias-Simeulue aardbewing kon nie met enige akkuraatheid bepaal word nie.,C
+36,GW52,T2049,Die Sichuan aardbewing het meer as $ 100 miljard in skade gekos.,E
+37,GW52,T2049,Die 2008 Sichuan aardbewing het skade wat nog nie herstel is nie.,N
+38,GW52,T2049,Die aardbewing het nooit 'n X-intensiteit bereik nie.,C
+39,GW74,T2049,Daar is 'n 8 uur verskil in UTC tyd en plaaslike tyd,E
+40,GW74,T2049,"87,587 is almal dood om 14:28:01 CST",N
+41,GW74,T2049,Die datum van UTC tyd en plaaslike tyd is anders,C
+42,GW1,T2049,Meer as 'n kwart miljoen mense is gewond in die 2008 Sichuan aardbewing.,E
+43,GW1,T2049,Die 2008 Sichuan aardbewing is die enigste aardbewing wat gekoppel is aan die Longmenshan Fault.,N
+44,GW1,T2049,Die 2008 Sichuan aardbewing het in die winter van 2008 gebeur.,C
+45,GW63,T2050,Meer as 6000 mense is gewond en 'n skade van meer as $ 300 miljard het in die Maart 2011 aardbewing plaasgevind,E
+46,GW63,T2050,Daar was afschokke selfs na 6 Maart 2018 van die aardbewing wat in 2011 in Japan plaasgevind het.,N
+47,GW63,T2050,USGS-ANSS ComCat is slegs verwant aan Japan en die Stille Oseaan,C
+48,GW1,T2050,Die 2011 Tōhoku aardbewing en tsunami het meer as 'n kwart triljoen dollar in skade veroorsaak.,E
+49,GW1,T2050,"Die 2011 Tōhoku aardbewing en tsunami was die eerste tsunami wat Miyako, Iwate, Tōhoku geraak het.",N
+50,GW1,T2050,Meer as 30 000 slagoffers totaal is veroorsaak deur die 2011 Tōhoku aardbewing en tsunami.,C
+51,GW105,T2050,Die Tōhoku aardbewing en tsunami was een van die sterkste storms wat in die lente plaasgevind het.,E
+52,GW105,T2050,Die Stille Oseaan het die meeste skade van die Tōhoku aardbewing en tsunami geneem.,N
+53,GW105,T2050,Miljoene mense het gedurende die Tōhoku aardbewing en tsunami verdwyn.,C
+54,GW52,T2051,Die 2016 Ecuador aardbewing het meer as 500 slagoffers veroorsaak.,E
+55,GW52,T2051,Die 2016 Ecuador aardbewing is in die Verenigde State voel.,N
+56,GW52,T2051,Die 2016 Ecuador aardbewing is geklassifiseer as 'n uiterste aardbewing.,C
+57,GW28,T2051,Die Ecuador aardbewing 2016 het honderde doodgemaak en duisende gewond.,E
+58,GW28,T2051,Die 2016 Ecuador aardbewing was die sterkste aardbewing in Suid-Amerika in meer as 'n eeu.,N
+59,GW28,T2051,Die Ecuador 2016 aardbewing is in Ecuador gelokaliseer en het geen ander buurlandse lande beïnvloed nie.,C
+60,GW86,T2051,Die 2016 Ecuador aardbewing is in meer as een land voel.,E
+61,GW86,T2051,“2016 Ecuador aardbewing” het presies 668 mense doodgemaak.,N
+62,GW86,T2051,Die 2016 Ecuador aardbewing is slegs in Ecuador voel.,C
+63,GW4,T2052,Die 2019 Peru aardbewing het meer as 1 persoon doodgemaak.,E
+64,GW4,T2052,Die 2019 Peru aardbewing was een wat verwag is.,N
+65,GW4,T2052,Die 2019 Peru aardbewing was 'n swak aardbewing,C
+66,GW1,T2052,Die 2019 Peru aardbewing het meer as 2 dosyn mense gewond.,E
+67,GW1,T2052,Die 2019 Peru aardbewing het meer mense in Peru gewond as Ecuador.,N
+68,GW1,T2052,Die 2019 Peru aardbewing het meer as 3 uur geduur.,C
+69,GW95,T2052,Die aardbewing het vroeg in die oggend plaasgevind.,E
+70,GW95,T2052,Die twee sterftes was Ecuadoriërs.,N
+71,GW95,T2052,Die aardbewing was die dodelikste in die geskiedenis.,C
+72,GW28,T2053,"Acorn Microcomputer is vrygestel met 'n sleutelbord, maar nie 'n joystick nie.",E
+73,GW28,T2053,Acorn Microcomputer is slegs in Europa verkoop.,N
+74,GW28,T2053,Acorn Microcomputer het state-of-the-art grafiese en klankkaarte ingesluit.,C
+75,GW12,T2053,Acorn Computers het die Acorn Microcomputer in 1979 ontwikkel.,E
+76,GW12,T2053,Die Acorn Microcomputer het 'n 25-toets keypad en 'n LED display.,N
+77,GW12,T2053,Die vrylatingsdatum van die Acorn Atom was veertig jaar gelede.,C
+78,GW52,T2053,Die Acorn Microcomputer het meer as 40 jaar gelede gedebuteer.,E
+79,GW52,T2053,Die Acorn Microcomputer is beskou as 'n goedkoop alternatief.,N
+80,GW52,T2053,Die Acorn Microcomputer hou meer as 1MB van RAM.,C
+81,GW1,T2054,Die Aerotrain is gedeeltelik bo die grond.,E
+82,GW1,T2054,Aerotrain het altyd twee stasies gehad.,N
+83,GW1,T2054,Die Aerotrain is begin in die 20ste eeu geopen.,C
+84,GW63,T2054,Mans en vroue kan die Aerotrain in die jaar 2000 gebruik.,E
+85,GW63,T2054,Malaysia Airports Holdings Berhad het die Aerotrain gebou en ontwerp.,N
+86,GW63,T2054,Die Aerotrain werk slegs bo die grond vir 'n afstand van 2 km in Maleisië,C
+87,GW52,T2054,Aerotrain is meer as 20 jaar gelede geopen.,E
+88,GW52,T2054,Aerotrain wissel in spoed op die roete.,N
+89,GW52,T2054,Aerotrain het 'n spoorwegroete oor 'n myl.,C
+90,GW28,T2055,Afrikaanse trypanosomiasis is 'n infeksiesiekte wat deur tsetse vlieë in Afrika versprei word.,E
+91,GW28,T2055,Afrikaanse trypanosomiasis het in Europa ontstaan en versprei na Afrika.,N
+92,GW28,T2055,Contracting Afrikaanse trypanosomiasis is dekades gelede uitgeroei.,C
+93,GW95,T2055,"Die meeste mense wat dit kry, kry behandeling.",E
+94,GW95,T2055,Die diagnostiese metodes is uiters pynlik.,N
+95,GW95,T2055,"90 persent van die mense wat dit kry, sterf daarvan.",C
+96,GW4,T2055,Afrikaanse trypanosomiasis het meer as een stadium.,E
+97,GW4,T2055,Die siekte Afrikaanse trypanosomiasis kom slegs uit Afrika.,N
+98,GW4,T2055,Afrikaanse trypanosomiasis dood meer as 50% van die mense wat dit kontrak.,C
+99,GW106,T2056,"Lewensverwagting onder pasiënte wat met AIDS geraak het, verhoog aansienlik met antiretrovirale terapie.",E
+100,GW106,T2056,Die meeste nuwe gevalle van AIDS in die Verenigde State voorkom as gevolg van blootstelling aan moedermelk.,N
+101,GW106,T2056,Antiretrovirale terapieë is in staat om AIDS in 'n klein persentasie pasiënte te genees.,C
+102,GW19,T2056,Human immunodeficiency virus (HIV) word nie meer beskou as die outomatiese doodstraf wat dit in die 1980's was nie.,E
+103,GW19,T2056,Onbeskermde seks is die primêre metode van HIV-oordrag.,N
+104,GW19,T2056,"As dit vroeg genoeg gediagnoseer word, kan HIV heeltemal genees word.",C
+105,GW28,T2056,"HIV / AIDS is 'n besmettelike siekte met geen bekende genesing nie, net behandeling.",E
+106,GW28,T2056,HIV / AIDS beïnvloed heteroseksuele en homoseksuele paartjies ewe.,N
+107,GW28,T2056,HIV / AIDS is gewoonlik 'n doodstraf vir mense sonder behandeling.,C
+108,GW12,T2057,Alfa Romeo is die vervaardiger van die Alfa Romeo V6 motor maar nie die ontwerper nie.,E
+109,GW12,T2057,Die aluminium Alfa Romeo V6-motor word ook die Alfa Romeo V6 Busso genoem.,N
+110,GW12,T2057,Die Alfa Romeo V6 motor was in produksie vir meer as 30 jaar.,C
+111,GW4,T2057,'N Alfa Romeo V6 motor het in die 70's begin word gemaak.,E
+112,GW4,T2057,Die Alfa Romeo V6 motor benodig gereeld olievervanging.,N
+113,GW4,T2057,'N Alfa Romeo V6 motor word gemaak met 'n staalblok.,C
+114,GW52,T2057,Die Alfa Romeo V6 was vir 'n kwart eeu in produksie.,E
+115,GW52,T2057,Alfa Romeo se V6-motor is in verskeie voertuie gebruik.,N
+116,GW52,T2057,Die V6 het meer as 225 lb ft van koppel gehad.,C
+117,GW74,T2058,Altostratus undulatus wolke is golwe stratus wolke,E
+118,GW74,T2058,Altostratus undulatus wolk word altyd op 'n hoogte van 2400-6100 m gevind,N
+119,GW74,T2058,Altostratus undulatus wolke is lae wolke wat neerslag vorm,C
+120,GW105,T2058,Die altostratus het 'n neiging om gekap te lyk.,E
+121,GW105,T2058,Die altostratus wolk verskyn op 15 000 voet hoog.,N
+122,GW105,T2058,Die altostratus wolk beteken gewoonlik dat daar 'n orkaan sal wees.,C
+123,GW52,T2058,Die AS klim 'n hoogte van meer as 8000 voet.,E
+124,GW52,T2058,Clouds het 'n klassifikasie stelsel.,N
+125,GW52,T2058,Vlakke word gewaarborg deur 'n AS-wolk.,C
+126,GW19,T2059,"Terwyl die verjaarsdag van B.R. Ambedkar in Indië erken word, is dit nie 'n godsdienstige vakansie nie.",E
+127,GW19,T2059,Dr. Babasaheb Ambedkar word beskou as die skrywer van Indiese grondwet.,N
+128,GW19,T2059,Dr. Babasaheb Ambedkar was die leier van die primêre Pakistaanse nasionalistiese beweging.,C
+129,GW63,T2059,Ambedkar Jayanti word op 14 April langs Ashok Vijaya Dashmi gevier,E
+130,GW63,T2059,"B. R, Ambedkar was ook bekend as Bhim",N
+131,GW63,T2059,B. R. Ambedkar is in Mei gebore,C
+132,GW86,T2059,“Ambedkar Jayanti” gebeur jaarliks.,E
+133,GW86,T2059,Ambedkar Jayanti herdenk die geboortedag van 'n mediese dokter.,N
+134,GW86,T2059,Ambedkar Jayanti is 'n godsdienstige vakansie.,C
+135,GW52,T2060,Angelina is in die vroeë 20ste eeu gestig.,E
+136,GW52,T2060,Angelina dien verskeie soorte kos.,N
+137,GW52,T2060,Angelina het vyf verskillende eienaars ondergaan.,C
+138,GW74,T2060,226 Rue de Rivoli in Parys,E
+139,GW74,T2060,Groupe Bertrand woon in Parys,N
+140,GW74,T2060,Antoine Rumpelmayer vervang Groupe Bertrand as eienaars,C
+141,GW4,T2060,Angelina het meer as 100 jaar gelede vir die eerste keer geopen.,E
+142,GW4,T2060,Angelina is bekend as een van die beste plekke om in Frankryk te eet.,N
+143,GW4,T2060,Angelina het slegs een hooflokasie.,C
+144,GW86,T2061,Die Apple I was een van 'n reeks rekenaars.,E
+145,GW86,T2061,Die Apple I het 'n skyfie gehad.,N
+146,GW86,T2061,Die Apple I kos meer as $ 2000 toe dit geïntroduceer is.,C
+147,GW52,T2061,Die Apple I was in produksie vir minder as twee jaar.,E
+148,GW52,T2061,Die Apple I was die eerste model wat Apple ontwikkel het.,N
+149,GW52,T2061,Die Apple I was 'n goedkoop rekenaar by die vrylating.,C
+150,GW28,T2061,Die Apple I was op die mark vir minder as twee jaar.,E
+151,GW28,T2061,Die Apple I het met twee joystick vir gaming gekom.,N
+152,GW28,T2061,Apple I is bekendgestel en die produksie in dieselfde jaar gestop.,C
+153,GW28,T2062,Argon is al meer as 'n honderd jaar bekend.,E
+154,GW28,T2062,Argon is dodelik wanneer dit inhal word.,N
+155,GW28,T2062,Die smelt- en kookpunte vir Argon is dieselfde.,C
+156,GW74,T2062,Die smeltpunt is meer die 4 °C as die kookpunt.,E
+157,GW74,T2062,Atomiese getal is die som van elektrone per shell.,N
+158,GW74,T2062,Die kritieke punt is presies dubbel die drievoudige punt,C
+159,GW52,T2062,Argon was een van die eerste 20 elemente wat ontdek is.,E
+160,GW52,T2062,Argon word algemeen tot vandag toe gebruik.,N
+161,GW52,T2062,Argon is in die 20ste eeu ontdek.,C
+162,GW28,T2063,Astatine is in die eerste helfte van die 20ste eeu deur verskeie mense ontdek.,E
+163,GW28,T2063,Astatine is per ongeluk in die wild ontdek.,N
+164,GW28,T2063,Astatine is vernoem na een van die wetenskaplikes wat die element ontdek het.,C
+165,GW4,T2063,Astatine kan op die periodieke tabel gevind word.,E
+166,GW4,T2063,Astatine glo wanneer dit verlig word.,N
+167,GW4,T2063,Astatine is bekend om baie reaktiwiteit te wees.,C
+168,GW95,T2063,Astatien word gevind in run-down elemente.,E
+169,GW95,T2063,Dit is deur drie Italiërs ontdek.,N
+170,GW95,T2063,Astatine word op skoon oppervlakke gevind.,C
+171,GW95,T2064,Autisme word gewoonlik gediagnoseer tydens kleuterhoed.,E
+172,GW95,T2064,Die meeste outisme pasiënte word verkragte as gevolg van hul kommunikasie probleme.,N
+173,GW95,T2064,Autisme word met skote behandel.,C
+174,GW52,T2064,Autisme beïnvloed byna 25 miljoen mense per jaar.,E
+175,GW52,T2064,Die voorkoms van autisme het in die loop van die jare toeneem.,N
+176,GW52,T2064,Autisme duur slegs 'n paar maande.,C
+177,GW4,T2064,Autisme is 'n siekte wat simptome in jong kinders toon.,E
+178,GW4,T2064,Mense met autisme het gewoonlik probleme om met ander te praat.,N
+179,GW4,T2064,Mense met autisme word gewoonlik doodgemaak deur dit.,C
+180,GW19,T2065,"Die B25 Fulton Street lyn, deel van die MTA NYC Bus stelsel wat deur die NYC Transit Authority bedryf word, het meer as 2,5 miljoen ryers elke jaar.",E
+181,GW19,T2065,Die B25 Bus Line is een van die mees gebruikte lyne in die NYC busstelsel.,N
+182,GW19,T2065,Die B25 bus lyn loop die Upper West Side na Staten Island.,C
+183,GW106,T2065,Die b25 Fulton Street Line reis op York Street in Brooklyn.,E
+184,GW106,T2065,Die b25-busse is altyd by die East New York Depot geleë.,N
+185,GW106,T2065,Die MTA beperk die bedryf van die b5 Fulton Street Line tot die dag tot die vroeë aand.,C
+186,GW86,T2065,Die b25 Fulton Street Line loop 24 uur per dag.,E
+187,GW86,T2065,Die b25 Fulton Street Line loop op Fulton Street vir die meeste van sy roete.,N
+188,GW86,T2065,Die b25 Fulton Street Line begin by Broadway Junction en eindig by Front Street.,C
+189,GW52,T2066,B48 Lorimer Street help elke jaar meer as 'n miljoen mense om te reis.,E
+190,GW52,T2066,b48 Lorimer Street bied nog 'n busdiens.,N
+191,GW52,T2066,B48 Lorimer Street werk slegs gedurende die dag.,C
+192,GW84,T2066,Fresh Pond Depot is geleë in Brooklyn.,E
+193,GW84,T2066,Daar is meer as 2 miljoen jaarlikse patrone op B48 Lorimor Street.,N
+194,GW84,T2066,Alle busse word by Fresh Pond Depot geparkeer.,C
+195,GW74,T2066,b48 Lorimer Street gebruik nie Nova Bus RTS-06 in 1884 nie,E
+196,GW74,T2066,B48 Lorimer Street het die Orion VII in 1947 begin gebruik.,N
+197,GW74,T2066,b48 Lorimer Street begin en eindig in dieselfde gemeenskap,C
+198,GW52,T2067,Die B63 Fifth Avenue Line is in die 19de eeu ontwikkel.,E
+199,GW52,T2067,Die b63 Fifth Avenue Line het verander in sy lengte in die jare.,N
+200,GW52,T2067,Die jaarlikse gebruik van die b63 Fifth Avenue Line oorskry vyf miljoen.,C
+201,GW106,T2067,Die B63 Line is minder as 6 myl lank.,E
+202,GW106,T2067,Die B63 Fifth Avenue Line is die mees gereisde roete in Brooklyn jaarliks.,N
+203,GW106,T2067,Die laaste pick-up op die B63 Fifth Avenue lyn verlaat om 11:59PM van Pier 6.,C
+204,GW28,T2067,"B63 Fifth Avenue Line is 'n busroete wat meer as 'n eeu gelede in Brooklyn, New York, begin dien.",E
+205,GW28,T2067,Die b63 Fifth Avenue Line het verlaag tariewe in off-peak ure.,N
+206,GW28,T2067,B63 Fifth Avenue Line dien ook die gemeenskap in Queens.,C
+207,GW52,T2068,Die b69 Vanderbilt Avenue Line het meer as 'n miljoen mense wat dit elke jaar reis.,E
+208,GW52,T2068,Die b69 Vanderbilt Avenue Line het eksperimenteer met laat-nachts bedrywighede.,N
+209,GW52,T2068,Die B69 Vanderbilt Avenue Line is vir ewig gesluit in 1950.,C
+210,GW106,T2068,Die laaste halte vir die B69 Vanderbilt Avenue Line is geleë in Brooklyn se sentrum streek.,E
+211,GW106,T2068,Die B69 Line was die gewildste manier van vervoer na Ebbets Field tydens die 1956 World Series.,N
+212,GW106,T2068,"Meer as 1,5 miljoen kliënte het die B69 in 2017 gery.",C
+213,GW1,T2068,Die b69 Vanderbilt Avenue Line het in die 19de eeu in diens gestel.,E
+214,GW1,T2068,Die b69 Vanderbilt Avenue Line het altyd vervoer beskikbaar daarop gehad.,N
+215,GW1,T2068,In die middel van die 19de eeu het die b69 Vanderbilt Avenue Line ophou werk.,C
+216,GW52,T2069,Die Bandra Worli Seelink het twee dekades gelede begin bou.,E
+217,GW52,T2069,Die Bandra Worli Sea Link is 'n uiters gewilde tolboot.,N
+218,GW52,T2069,Die Sea Link het 'n vaste tarief vir alle voertuie.,C
+219,GW74,T2069,Die konstruksie van Bandra Worli Seelink is in ongeveer 10 jaar voltooi,E
+220,GW74,T2069,MSRDC huur Seshadri Srinivasan om die Bandra Worli Seelink te ontwerp,N
+221,GW74,T2069,"Die Bandra Worli Seelink is 'n jaar nadat konstruksie voltooi is, geopen.",C
+222,GW106,T2069,Die Bandra Worli Sea Link is in besit en onderhou deur dieselfde maatskappy.,E
+223,GW106,T2069,"Die meeste tol betaal deur bestuurders wat op die Bandra Worli Sea Link reis, betaal 'n gemiddelde van US$ 1,60.",N
+224,GW106,T2069,Die bou van die Bandra Worli Seelink het in twee verskillende dekades plaasgevind.,C
+225,GW4,T2070,Bell se verlamming is 'n siekte wat mense kan oorkom.,E
+226,GW4,T2070,Die siekte Bell se verlamming is een wat redelik algemeen is.,N
+227,GW4,T2070,Bell se verlamming is 'n siekte wat uiteindelik mense doodmaak.,C
+228,GW52,T2070,Bell se verlamming is 'n ongewone toestand.,E
+229,GW52,T2070,Bell se parsie kan herhaal word.,N
+230,GW52,T2070,Bell se verlamming is 'n lewenslange toestand.,C
+231,GW28,T2070,"Bell se verlamming is 'n neurologiese versteuring wat tydelik is, maar pynlik en skaam.",E
+232,GW28,T2070,Bell se verlamming beïnvloed hoofsaaklik ouer volwasse mans.,N
+233,GW28,T2070,Bell se verlamming is 'n lewenslange ellende wat bestuurbaar is.,C
+234,GW28,T2071,Beltane is 'n jaarlikse kulturele waarneming wat die begin van die somer vier.,E
+235,GW28,T2071,"Beltane word gevier deur baie ander groepe, ongeag godsdiens of oortuigings.",N
+236,GW28,T2071,Beltane is 'n halfjaarlikse Christelike viering,C
+237,GW52,T2071,Beltane beteken 'n verandering in die seisoen.,E
+238,GW52,T2071,Beltane is hoe die term Mei-dag begin het.,N
+239,GW52,T2071,Beltane gebeur op 1 Mei regoor die wêreld.,C
+240,GW74,T2071,Beltane vier die begin van die somer op 1 Mei,E
+241,GW74,T2071,Wiccans verlig gewoonlik vuurwerk om Beltane te vier,N
+242,GW74,T2071,Die begin van die somer word in Junie in die suidelike hemisfeer gevier,C
+243,GW52,T2072,Bipolêre versteuring het verskillende tipes.,E
+244,GW52,T2072,Bipolêre versteuring het in frekwensie gegroei.,N
+245,GW52,T2072,Bipolêre versteuring begin in die middeljarige ouderdom.,C
+246,GW105,T2072,Bipolêre versteuring is 'n seldsame siekte wat 'n klein persentasie van die bevolking beïnvloed.,E
+247,GW105,T2072,Die meeste gevalle van bipolêre versteuring is as gevolg van genetika.,N
+248,GW105,T2072,Kinders is die grootste risiko vir bipolêre versteuring.,C
+249,GW74,T2072,Daar is meer risikofaktore vir bipolêre versteuring as oorsake,E
+250,GW74,T2072,"'N 25-jarige wat kindermisbruik ondergaan het, sal 'bipolêre versteuring' ontwikkel",N
+251,GW74,T2072,Daar is meer komplikasies as simptome,C
+252,GW1,T2073,Die BMW 3-reeks is vir die eerste keer in die tweede dekade van die 21ste eeu vervaardig.,E
+253,GW1,T2073,Die benzine-turbo-aangedrewe BMW 3 reeks word deur kundiges as beter beskou in vergelyking met die diesel-turbo-aangedrewe BMW 3 reeks.,N
+254,GW1,T2073,Die BMW 3 Serie het 3 hoofontwerpers gehad.,C
+255,GW28,T2073,Die BMW 3-reeks is 'n Duitse motor wat in verskeie verskillende lande versamel word.,E
+256,GW28,T2073,Die BMW 3-reeks is die mees bekostigbare klas van motors van BMW.,N
+257,GW28,T2073,Die BMW 3-reeks is 'n theri-SUV-aanbod wat deur elektriese batterye aangedryf word.,C
+258,GW52,T2073,"Die BMW 3 reeks, F-uitgawe, het byna 'n dekade van produksie gehad.",E
+259,GW52,T2073,Die F model BMW 3 reeks is die laaste in die 3 reeks line-up.,N
+260,GW52,T2073,Die F-model BMW 3 reeks het twee ontwerpers vir elke voertuig gehad.,C
+261,GW4,T2074,'N brein tumor eindig gewoonlik doodmaak meer as 200.000 mense per jaar.,E
+262,GW4,T2074,'N Hersentumor kan op punte in tyd verwyder word.,N
+263,GW4,T2074,"Meer as die helfte van die mense wat 'n breintumor kry, sal leef.",C
+264,GW28,T2074,Behandeling vir 'n breintumor is gevarieerd en gedoen in kombinasie met medikasie.,E
+265,GW28,T2074,"Die mees gewilde metode om 'n breintumor te diagnoseer, is om 'n weefselbiopsie te hê.",N
+266,GW28,T2074,'N Hersentumor is gewoonlik dodelik binne 'n paar maande van diagnose.,C
+267,GW52,T2074,'N breintumor voorkom in meer as 'n miljoen pasiënte.,E
+268,GW52,T2074,Die voorspelling vir breintumors het oor die jare beter geword.,N
+269,GW52,T2074,"Almal wat 'n breintumor het, sal daarvan sterf.",C
+270,GW1,T2075,Sedert 2015 het meer as 2 miljoen mense deur borskanker geraak.,E
+271,GW1,T2075,"Statisties, dokters verkies chirurgie te bestralingsterapie as 'n borskanker behandeling.",N
+272,GW1,T2075,Meer as 'n miljoen mense is in 2018 dood deur borskanker.,C
+273,GW74,T2075,Dood in 2018 was meer as 'n kwart van die frekwensie wat in 2015 geraak is.,E
+274,GW74,T2075,Obesitas veroorsaak veranderinge in die vorm van bors,N
+275,GW74,T2075,Daar is meer simptome as risikofaktore,C
+276,GW52,T2075,Brustkanker beïnvloed meer as twee miljoen mense per jaar.,E
+277,GW52,T2075,“Brustkanker” gebeur in mans.,N
+278,GW52,T2075,Borskanker het 'n lae oorlewingskoers.,C
+279,GW4,T2076,Bromine het 'n massa wat groter is as 70.,E
+280,GW4,T2076,Die minerale Bromine is bekend om halogeen te wees.,N
+281,GW4,T2076,Bromine is vir die eerste keer in die 1900's ontdek.,C
+282,GW52,T2076,Bromine was een van die eerste 50 elemente wat ontdek is.,E
+283,GW52,T2076,“Bromine” is hoogs volatiel.,N
+284,GW52,T2076,Bromine is in die 18de eeu ontdek.,C
+285,GW86,T2076,Bromine is vir die eerste keer in die negentiende eeu ontdek.,E
+286,GW86,T2076,Bromien word die meeste dikwels in vloeibare vorm voorkom.,N
+287,GW86,T2076,Bromien is alkalies.,C
+288,GW60,T2077,John Augustus Roebling weet hoe om suspensie / kabel-stay hibridbrugte te ontwerp.,E
+289,GW60,T2077,Die Brooklyn Bridge is die enigste brug wat die East River kruis.,N
+290,GW60,T2077,Die Brooklyn Bridge is hoër as wat dit lank is.,C
+291,GW4,T2077,Die Brooklyn Bridge is opgedateer om meer kapasiteit oor die jare toe te voeg.,E
+292,GW4,T2077,Die Brooklyn Bridge het die verkeersspanning op Brooklyn verlig.,N
+293,GW4,T2077,"Om die Brooklyn Bridge te gebruik, moet 'n bestuurder geld spandeer.",C
+294,GW106,T2077,Die Brooklyn Bridge verbind Manhattan met Brooklyn sedert 1883.,E
+295,GW106,T2077,Die Brooklyn Bridge bereik sy hoogste punt op sy reis tydens sy langste span.,N
+296,GW106,T2077,Die Brooklyn Bridge kruis ten minste een liggaam van water van Manhattan na Staten Island.,C
+297,GW105,T2078,Buddhiste vier Boeddha se verjaardag in die lente.,E
+298,GW105,T2078,Buddha se verjaardag plaasvind in April meer dikwels as nie.,N
+299,GW105,T2078,Die Boeddha se verjaarsdag is 'n winter vakansie.,C
+300,GW107,T2078,Buddha se verjaarsdag word in baie kulture en lande gevier.,E
+301,GW107,T2078,“Buddha se verjaarsdag” word slegs in Asië gevier.,N
+302,GW107,T2078,Buddha se verjaardag word elke jaar op dieselfde dag gevier.,C
+303,GW52,T2078,Buddha se verjaarsdag word wyd gevier in dele van Asië.,E
+304,GW52,T2078,Buddha se verjaarsdag kan gevier word deur diegene buite Asië.,N
+305,GW52,T2078,Die Boeddha se verjaardag is elke jaar op dieselfde dag.,C
+306,GW4,T2079,Burning Man is al meer as 30 jaar aan die gang.,E
+307,GW4,T2079,Burning Man word elke jaar op dieselfde plek gehou.,N
+308,GW4,T2079,Burning Man gebeur 'n paar keer per jaar.,C
+309,GW89,T2079,Die Burning Man -festival word jaarliks in Nevada gehou.,E
+310,GW89,T2079,Larry Harvey is verantwoordelik vir die gebeurtenis.,N
+311,GW89,T2079,Die Burning Man Festival het in 1976 begin.,C
+312,GW1,T2079,Burning Man is in die somer van 1986 geïnitieer.,E
+313,GW1,T2079,Die brandende man het altyd ongeveer 50-70 duisend mense bygewoon.,N
+314,GW1,T2079,In 2019 was Burning Man in die lente.,C
+315,GW12,T2080,Kardiese stop voorkom in ouer mense wanneer geen pols gevind word nie.,E
+316,GW12,T2080,Kardiese stop kan 'n verlies van bewussyn en baie lae kalium behels.,N
+317,GW12,T2080,Die oorlewing vir hartaanval is hoër met mense buite 'n hospitaal.,C
+318,GW86,T2080,Die sterftes van hartaanval wissel van 75 tot 90 persent.,E
+319,GW86,T2080,"Om gewig te verloor, verminder die risiko van hartaanval.",N
+320,GW86,T2080,Die sterftes van hartstilstand in hospitaal is hoër as die sterftes buite hospitaal.,C
+321,GW28,T2080,Kardiese stop is 'n mediese toestand waar die hart ophou funksioneer en die kans op oorlewing is laag.,E
+322,GW28,T2080,Hardiac arrest gebeur met meer mans as vroue.,N
+323,GW28,T2080,Kardiese stop is fatale in alle gevalle buite die hospitaal.,C
+324,GW52,T2081,Cataract het tyd nodig om te ontwikkel.,E
+325,GW52,T2081,Cataract is ten volle voorkombaar.,N
+326,GW52,T2081,Cataract voorkom in slegs 'n paar honderd duisend mense.,C
+327,GW28,T2081,"Miljoene mense het katarakte gekry, maar kan behandel word.",E
+328,GW28,T2081,Cataract is duur om te behandel.,N
+329,GW28,T2081,Cataract is nie baie algemeen of verstaan nie.,C
+330,GW86,T2081,Cataract kan met meer as een metode behandel word.,E
+331,GW86,T2081,Katarakt veroorsaak gewoonlik blindheid.,N
+332,GW86,T2081,Katarakt word skielik veroorsaak.,C
+333,GW105,T2082,Cerebral palsy is 'n kinderjare siekte wat 'n mens se hele lewe duur.,E
+334,GW105,T2082,Die mees effektiewe vorm van behandeling is orthopedische chirurgie.,N
+335,GW105,T2082,Cerebral palsy raak byna 'n kwart van die bevolking.,C
+336,GW74,T2082,"Slegte koördinasie, wat gewoonlik eers in die kinderjare voorkom as gevolg van Cerebral palsy",E
+337,GW74,T2082,Stewige spiere gaan altyd gepaard met aanvalle,N
+338,GW74,T2082,Daar is meer komplikasies as simptome,C
+339,GW28,T2082,Cerebral palsy is 'n neurologiese toestand wat in die vroeë kinderjare voorkom.,E
+340,GW28,T2082,Cerebral palsy word geassosieer met inenting.,N
+341,GW28,T2082,Cerebral palsy kan genees word voordat dit volwassenheid bereik.,C
+342,GW52,T2083,Cerium is vir die eerste keer in die 1830's ontdek.,E
+343,GW52,T2083,Cerium is tans algemeen beskikbaar vir gebruik.,N
+344,GW52,T2083,Cerium was een van die eerste 20 elemente wat ontdek is.,C
+345,GW28,T2083,Dit het 35 jaar geneem om Cerium na ontdekking te isoleer.,E
+346,GW28,T2083,Cerium is eers deur die Europeërs ontdek.,N
+347,GW28,T2083,Cerium is vernoem na een van die wetenskaplikes wat die element ontdek het.,C
+348,GW4,T2083,Cerium is ontdek voordat dit geïsoleer kon word.,E
+349,GW4,T2083,Die element Cerium is bekend om baie reaktiwiteit te wees.,N
+350,GW4,T2083,Die element Cerium is genoem na die persoon wat dit gevind het.,C
+351,GW86,T2084,Die Chinese Nuwe Jaar word altyd op of voor 20 Februarie gevier.,E
+352,GW86,T2084,Die Chinese Nuwe Jaar word meer deur etniese Chinese gevier as deur nie-Chinese.,N
+353,GW86,T2084,Die Chinese Nuwe Jaar word elke jaar op dieselfde dag gevier.,C
+354,GW105,T2084,Die Chinese Nuwe Jaar gebeur in die lente.,E
+355,GW105,T2084,Meer Boeddhiste vier die “Chinese Nuwe Jaar” as Taoiste.,N
+356,GW105,T2084,Die Chinese Nuwe Jaar vier elke jaar dieselfde dier.,C
+357,GW52,T2084,Die simbool vir 2019 vir Chinese Nuwe Jaar is vark.,E
+358,GW52,T2084,Die Chinese Nuwe Jaar is dieselfde tradisie vir almal.,N
+359,GW52,T2084,Die Chinese Nuwe Jaar het elke twee jaar dieselfde dier.,C
+360,GW28,T2085,Kersfees is 'n Christelike viering wat baie nie-Christene ook vier.,E
+361,GW28,T2085,Kersfees is die mees gevierde vakansie in die wêreld.,N
+362,GW28,T2085,Kersfees word universeel op 25 Desember gevier.,C
+363,GW52,T2085,Kersfees is 'n universele viering.,E
+364,GW52,T2085,Kersfees het dieselfde tradisies regoor die wêreld.,N
+365,GW52,T2085,Kersfees gebeur op dieselfde dag vir almal.,C
+366,GW107,T2085,Kersfees word jaarliks gevier.,E
+367,GW107,T2085,Kersfees word slegs deur wit mense gevier.,N
+368,GW107,T2085,Kersfees is die verjaarsdag van Boeddha.,C
+369,GW4,T2086,Die 2.2 & 2.5 motors is vervang deur AMC motors.,E
+370,GW4,T2086,Daar was miljoene 2.2 & 2.5 motors geproduseer.,N
+371,GW4,T2086,Die 2.2 & 2.5 motors is op diesel aangedryf.,C
+372,GW74,T2086,Piston stroke is langer as silinder boor,E
+373,GW74,T2086,"Die meeste 2.2 & 2.5 motors wat in 1995 geproduseer is, het Multi-punt brandstofinjectie",N
+374,GW74,T2086,Piston stroke is ten hoogste 20 mm langer as silinder boor,C
+375,GW63,T2086,Die blokmateriaal en die hoofmateriaal van die Chrysler 2.2 en 2.5 motors is anders.,E
+376,GW63,T2086,Eenpuntige brandstofinjectie word slegs in die Chrysler 2.2 en 2.5 motors gebruik.,N
+377,GW63,T2086,Produksie van Chrysler inline 2.2 motor is nog steeds aan die gang tot hierdie datum,C
+378,GW28,T2087,"Cincinnati Bell Connector is 'n elektriese aandryf straatwaglyn in Cincinnati, Ohio",E
+379,GW28,T2087,Cincinnati Bell Connector het 'n kapasiteit van honderd passasiers per streetcar.,N
+380,GW28,T2087,Cincinnati Bell Connector werk op diesel.,C
+381,GW106,T2087,Die Cincinnati Bell Connector is in die somer van 2016 geopen.,E
+382,GW106,T2087,Die Cincinnati Bell Connector werk heeltemal binne die stad Cincinnati.,N
+383,GW106,T2087,Die Cincinnati Bell Connector is eienaar en bestuur deur dieselfde maatskappy of bestuursorgaan.,C
+384,GW74,T2087,Daar is meer stasies as daar is dienste vir die Cincinnati Bell Connector,E
+385,GW74,T2087,Daar was 18 stasies toe die Cincinnati Bell Connector op 9 September 2016 geopen is.,N
+386,GW74,T2087,Die nommer van die lyn is dieselfde as die aantal stasies,C
+387,GW28,T2088,Civil Services Eksamen is 'n gestandaardiseerde eksamen vir Indiese afgestudeerden en burgers wat as openbare ambtenaar wil werk.,E
+388,GW28,T2088,Meer manne neem die Burgerdiens eksamen as vroue.,N
+389,GW28,T2088,Civil Services eksamen is oop vir almal wat aansoek doen.,C
+390,GW1,T2088,Die Civil Services Examination is vir die eerste keer in die eerste helfte van die 20ste eeu gegee.,E
+391,GW1,T2088,Engels is die eerste afdeling van die Civil Services Examination.,N
+392,GW1,T2088,Die Civil Services Exam word tweejaarliks aangebied.,C
+393,GW52,T2088,Die Civil Services Examination dateer terug na die 1920's.,E
+394,GW52,T2088,Die Civil Services Examination het elke jaar 'n hoë deelnemingsgraad.,N
+395,GW52,T2088,Die kwalifikasiesnelheid vir die Bureel Dienste Eksamen is hoog.,C
+396,GW1,T2089,Daar is verskeie verwante werk vir 'n kliniese farmaseutiese wetenskaplike.,E
+397,GW1,T2089,'N Kliniese farmaseutiese wetenskaplike was oorspronklik bekend as 'n farmaseutiese wetenskaplike.,N
+398,GW1,T2089,'N Kliniese farmaseutiese wetenskaplike benodig slegs 'n undergraduate graad.,C
+399,GW52,T2089,Klinieke farmaseutiese wetenskaplikes vereis verskeie vaardighede.,E
+400,GW52,T2089,Klinieke farmaseutiese wetenskaplikes is op die opkoms in terme van beskikbare werk.,N
+401,GW52,T2089,Klinieke farmaseutiese wetenskaplikes omvat slegs die akademiese sektor.,C
+402,GW28,T2089,'N Hoë vlak van onderwys is nodig om 'n Klinieke farmaseutiese wetenskaplike te word,E
+403,GW28,T2089,Klinieke farmaseutiese wetenskaplike is 'n goedbetaalde beroep.,N
+404,GW28,T2089,Klinieke farmaseutiese wetenskaplikes word slegs in die akademiese akademie gebruik.,C
+405,GW106,T2090,Moderne clowns is afgelei van middeleeuse hof jisters.,E
+406,GW106,T2090,Die meeste clowns is mime.,N
+407,GW106,T2090,Vandag word clowns gedelegeer om uitsluitlik in sirkusakte te optree.,C
+408,GW52,T2090,Kloune is al sedert die eerste president van die Verenigde State.,E
+409,GW52,T2090,Clown het oor die jare gewild geword.,N
+410,GW52,T2090,Clown is nie geassosieer met enige vorige akte nie.,C
+411,GW60,T2090,Jesters is die voorvaders van mimes.,E
+412,GW60,T2090,Komedians bestaan in die 19de eeu.,N
+413,GW60,T2090,“Kloun” word altyd gepraat.,C
+414,GW4,T2091,Die J4 College Park-Bethesda MetroExtra lyn loop meer as 20 keer 'n dag.,E
+415,GW4,T2091,Die J4 College Park-Bethesda MetroExtra lyn spaar mense baie reis tyd.,N
+416,GW4,T2091,Die J4 College Park-Bethesda MetroExtra lyn is 'n treinlyn.,C
+417,GW12,T2091,J4 College Park–Bethesda MetroExtra lyn is deel van die Metrobus stelsel en is garages in Montgomery.,E
+418,GW12,T2091,Die J4 College Park-Bethesda MetroExtra lyn begin diens aan die einde van 2002.,N
+419,GW12,T2091,Die J4 College Park-Bethesda MetroExtra lyn loop die hele dag lank.,C
+420,GW52,T2091,Die J4 College Park-Bethesda MetroExtra lyn loop elke 20 minute.,E
+421,GW52,T2091,Die J4 College Park-Bethesda MetroExtra-lyn het nog nooit 'n renovasie ondergaan nie.,N
+422,GW52,T2091,Die J4 College Park-Bethesda MetroExtra lyn loop die hele dag.,C
+423,GW28,T2092,"16G, 16H Columbia Pike-Pentagon City lyn was 'n busroete wat die Washington D.C. metro gebied bedien.",E
+424,GW28,T2092,"16G, 16H Columbia Pike-Pentagon City lyn het wifi aan boord al sy busse.",N
+425,GW28,T2092,"16G, 16H Columbia Pike-Pentagon City lyn is 'n 24-uur-diens wat nog in werking is.",C
+426,GW4,T2092,"Die 16G, 16H Columbia Pike-Pentagon City-lyn loop meer as 20 keer 'n dag.",E
+427,GW4,T2092,"Die 16G, 16H Columbia Pike-Pentagon City-lyn het mense gehelp om ure te bespaar op reis tyd.",N
+428,GW4,T2092,"Die 16G, 16H Columbia Pike-Pentagon City-lyn werk vandag nog steeds.",C
+429,GW52,T2092,"Die 16G, 16H Columbia Pike-Pentagon City-lyn het in 2003 in diens begin.",E
+430,GW52,T2092,"Die 16G, 16H Columbia Pike-Pentagon City-lyn het dieselfde lengte van spoor.",N
+431,GW52,T2092,"Beide 16G, 16H Columbia Pike-Pentagon City lyn spoorweë bly in diens.",C
+432,GW63,T2093,Van 2018 tot 2021 Columbus Day is waargeneem voor 15 Oktober,E
+433,GW63,T2093,Columbus Day word slegs in Oktober waargeneem,N
+434,GW63,T2093,Columbus Day is twee keer in 2018 waargeneem,C
+435,GW1,T2093,“Columbus Day” gebeur een keer per jaar.,E
+436,GW1,T2093,Columbus Day word in die Verenigde State gevier.,N
+437,GW1,T2093,Die eerste Columbus-dag is in 1492 gevier.,C
+438,GW19,T2093,"Christopher Columbus, die ontdekkingsreiziger wat op Columbus Day geëer word, was van Italië.",E
+439,GW19,T2093,“Columbus Day” is altyd in die maand Oktober gevier.,N
+440,GW19,T2093,Columbus Day teken die onoffisiële einde van die somer.,C
+441,GW52,T2094,Die CAT het 'n negatiewe bereik waarde.,E
+442,GW52,T2094,Die kat plaasvind in die hele Asië.,N
+443,GW52,T2094,Die kat se punte is goed vir 'n lewe.,C
+444,GW106,T2094,Die Common Toelating Test word aangebied op meer as 300 plekke regoor Indië.,E
+445,GW106,T2094,Die CAT eksamen word gewoonlik in Desember van elke jaar aangebied.,N
+446,GW106,T2094,Die CAT-toets word vereis deur alle Indiese undergraduate wat 'n afgestudeerde skool wil bywoon.,C
+447,GW28,T2094,Common Admission Test is 'n gestandaardiseerde eksamen in Indië wat gebruik word vir toelating tot Indiese besigheidsgeleerdes.,E
+448,GW28,T2094,Die Common Admission Test is moeiliker as die GMAT eksamen wat in die VSA gebruik word.,N
+449,GW28,T2094,Common Toelating Test word aanvaar deur Amerikaanse besigheidsgeleerdes.,C
+450,GW106,T2095,Ten minste 3 miljoen mense kan voorkom om rooi oë elke jaar te kry deur eenvoudig hul hande te was.,E
+451,GW106,T2095,Roze oog is die mees gediagnoseerde siekte deur oftalmoloë elke jaar.,N
+452,GW106,T2095,Die simptome wat verband hou met 'n rooi oog kan tot 'n maand in die Verenigde State van Amerika duur.,C
+453,GW4,T2095,Conjunctivitis lei tot mense se oogkleur verander.,E
+454,GW4,T2095,Conjunctivitis kan maklik aan mense oorgedra word.,N
+455,GW4,T2095,Conjunctivitis eindig met die dood van die meeste mense wat daarmee besmet is,C
+456,GW28,T2095,Conjunctivitis is 'n mediese toestand wat die oë beïnvloed.,E
+457,GW28,T2095,Conjunctivitis kan van een persoon na 'n ander oorgedra word.,N
+458,GW28,T2095,Conjunctivitis is erfelik en word aan kinders van hul ouers oorgedra.,C
+459,GW4,T2096,Crohn se siekte is iets wat maagprobleme veroorsaak.,E
+460,GW4,T2096,Crohn se siekte lei tot mense wat vroeër sterf.,N
+461,GW4,T2096,Crohn se siekte kan genees word deur tabak.,C
+462,GW28,T2096,Crohn se siekte kan in jong volwassenes verskyn en behels buikpyn en diarree,E
+463,GW28,T2096,Crohn se siekte beïnvloed onevenredig mans oor vroue.,N
+464,GW28,T2096,Crohn se siekte word vinnig met dwelms genees.,C
+465,GW52,T2096,Crohn se siekte het 'n algemene aanvang in die 20's.,E
+466,GW52,T2096,Crohn se siekte het in die loop van die jare 'n toename in frekwensie getoon.,N
+467,GW52,T2096,Crohn se siekte individue het nie 'n korter lewensverwagting nie.,C
+468,GW86,T2097,Cumulonimbus wolke word gewoonlik geassosieer met reën.,E
+469,GW86,T2097,Calvus wolke is die mees algemene spesies van cumulonimbus wolke.,N
+470,GW86,T2097,Cumulonimbus wolke word in verskeie variëteite gevind.,C
+471,GW4,T2097,'N Cumulonimbus Wolk is gewoonlik onder 50 000 voet.,E
+472,GW4,T2097,'N Cumulonimbus Cloud kan dikwels reën daarin hê.,N
+473,GW4,T2097,'N Cumulonimbus Cloud is gewoonlik naby die ruimte.,C
+474,GW12,T2097,"Cumulonimbus Cloud, van die geslag Cumulonimbus, word gekort Cb.",E
+475,GW12,T2097,Familie C is 'n hoë-vlak klassifikasie van Cumulonimbus Cloud.,N
+476,GW12,T2097,Cumulonimbus Cloud word geassosieer met lae vlakke van neerslag.,C
+477,GW12,T2098,Cushing se sindroom raak ten minste twee miljoen mense per jaar.,E
+478,GW12,T2098,Hyperadrenocorticisme neem 20-50 jaar om in 'n persoon te verskyn.,N
+479,GW12,T2098,Endokrinologie is 'n ander naam vir hiperkortisolisme.,C
+480,GW105,T2098,"'N pasiënt wat sorg vir Cushing se sindroom soek, moet 'n endokrinoloog sien.",E
+481,GW105,T2098,Die meeste mense met Cushing se sindroom het aknee.,N
+482,GW105,T2098,Cushing se sindroom is die mees algemene by kinders.,C
+483,GW28,T2098,"Miljoene mense word aangetref deur Cushing se sindroom, maar kan suksesvol behandel word.",E
+484,GW28,T2098,Cushing se sindroom behandeling is hoogs bekostigbaar.,N
+485,GW28,T2098,Cushing se sindroom beïnvloed hoofsaaklik kinders en is dodelik.,C
+486,GW86,T2099,'N Nuwe weergawe van Debian is verlede jaar vrygestel.,E
+487,GW86,T2099,'N Nuwe weergawe van Debian word elke jaar in September vrygestel.,N
+488,GW86,T2099,Debian is compatibel met meer as 'n dosyn platforms.,C
+489,GW74,T2099,Die laaste vrylating van Debian het dieselfde maand as die aanvanklike vrylating plaasgevind,E
+490,GW74,T2099,Debian was beskikbaar in 75 tale in 1993,N
+491,GW74,T2099,10.1 (Buster) is vrygestel 25 jaar na die aanvanklike vrylating,C
+492,GW19,T2099,"Versie 10.1 van Deiban, 'n oop bron Linux bedryfstelsel, word wêreldwyd gebruik.",E
+493,GW19,T2099,"Versie 10.1 van Deiban, 'n oop bron Linux bedryfstelsel, bied ondersteuning vir Hindi taal.",N
+494,GW19,T2099,"Die elfde weergawe van Deiban, wat in September 2019 vrygestel is, is die standaard bedryfstelsel vir iPhone.",C
+495,GW4,T2100,Disney Skyliner geopen in die derde kwartaal van 2019.,E
+496,GW4,T2100,Die Disney Skyliner beweeg meer as 20 myl per uur.,N
+497,GW4,T2100,Die “Disney Skyliner” is in Disneyland.,C
+498,GW28,T2100,Disney Skyliner is 'n vervoerstelsel wat in die Verenigde State van Amerika bedryf,E
+499,GW28,T2100,Een gondel op die Disney Skyliner kan ten minste tien mense op 'n keer hanteer.,N
+500,GW28,T2100,Disney Skyliner is al meer as 'n dekade in werking in verskeie Disney World-parke regoor die wêreld.,C
+501,GW1,T2100,Disney Skyliner geopen in die herfs van 2019.,E
+502,GW1,T2100,Disney Skyliner is die eerste wat die Doppelmayr Garaventa Group-stelsel gebruik.,N
+503,GW1,T2100,Die Disney Skyliner is geleë op die Westkust van die Verenigde State.,C
+504,GW86,T2101,Diwali is soms bekend deur ander name.,E
+505,GW86,T2101,Diwali word gewoonlik in Oktober waargeneem.,N
+506,GW86,T2101,Diwali word elke jaar op dieselfde datum waargeneem.,C
+507,GW1,T2101,“Diwali” word in die val gevier.,E
+508,GW1,T2101,Diwali is die eerste keer in die geskiedenis Deepavali genoem.,N
+509,GW1,T2101,Diwali is direk verwant aan meer as 'n dosyn ander vakansie.,C
+510,GW12,T2101,Diwali is 'n godsdienstige vakansie wat deur sommige Boeddhiste waargeneem word.,E
+511,GW12,T2101,Deepavali is 'n seisoenale vakansie wat met huisdekorasies en geskenke gevier word.,N
+512,GW12,T2101,Die 2019 datums vir Diwali gebeur almal aan die begin van die maand Oktober.,C
+513,GW12,T2102,Die Dongzhi Festival word waargeneem deur die Chinese en word ook Tang-cheh genoem.,E
+514,GW12,T2102,Dongzhi Festival is 'n jaarlikse viering wat in Desember plaasvind.,N
+515,GW12,T2102,Die Dongzhi Festival teken die wintersonstel in die eerste week van Desember.,C
+516,GW52,T2102,Die Dongzhi is 'n viering van voorouers.,E
+517,GW52,T2102,Die Dongzhi is al vir 'n paar eeue in plek.,N
+518,GW52,T2102,Die festival begin elke jaar op dieselfde dag.,C
+519,GW28,T2102,Dongzhi Festival is 'n jaarlikse festival wat die Wintersonstel vier.,E
+520,GW28,T2102,Dongzhi Festival word al duisende jare gevier.,N
+521,GW28,T2102,Dongzhi Festival word in heel Asië en Europa gevier.,C
+522,GW52,T2103,Down-sindroom veroorsaak meer as 25 000 sterftes per jaar.,E
+523,GW52,T2103,Down-sindroom het in die loop van die jare in frekwensie gegroei.,N
+524,GW52,T2103,Down-sindroom beïnvloed 10 miljoen mense per jaar.,C
+525,GW106,T2103,Down-sindroom is 'n chromosomale versteuring.,E
+526,GW106,T2103,Die meeste gevalle van Down-sindroom voorkom wanneer die moeder op die tyd van geboorte meer as 40 is.,N
+527,GW106,T2103,Down-sindroom is so seldsame dat dit slegs in een kind per gesinsgenerasie voorkom.,C
+528,GW4,T2103,Down-sindroom is op die 21ste chromosome.,E
+529,GW4,T2103,Down-sindroom word gewoonlik deur sperm oorgedra,N
+530,GW4,T2103,Down-sindroom eindig beïnvloed 1% van die mense in die wêreld.,C
+531,GW12,T2104,Die Duisburg-Quakenbrück spoorweg is ook bekend as die Bahnstrecke Duisburg-Quakenbrück.,E
+532,GW12,T2104,"Met 'n lynlengte van 173 km, het die Duisburg-Quakenbrück spoorweg minder as vier lyn nommers wat daarmee verband hou.",N
+533,GW12,T2104,Die roet nommer vir die Duisburg-Quakenbrück spoorweg is kleiner as sy lynlengte.,C
+534,GW86,T2104,Die treine op die Duisburg-Quakenbrück spoorweg word aangedryf deur 'n elektrisiteitsbron.,E
+535,GW86,T2104,Die Duisburg-Quakenbrück spoorweg loop deur presies vyf stede in Duitsland.,N
+536,GW86,T2104,Die Duisburg-Quakenbrück spoorweg het 'n lynlengte van 173 myl.,C
+537,GW52,T2104,Die Duisburg-Quakenbrück spoorweg duur meer as 100 myl.,E
+538,GW52,T2104,Die Duisburg-Quakenbrück spoorweg is 'n elektriese spoorweg.,N
+539,GW52,T2104,Die Duisburg-Quakenbrück spoorweg loop 60 mph.,C
+540,GW106,T2105,"Sodra gehoor- en/of visieprobleme uitgesluit is, word minder as 10% van die skooljare-kinders wat probleme met lees het, met disleksies geteister.",E
+541,GW106,T2105,"Die meeste kinders wat met disleksies gediagnoseer word, ly ook tegelik aan ADHD.",N
+542,GW106,T2105,Dysleksie kan behandel word met die gebruik van sekere medikasie.,C
+543,GW74,T2105,Symptome van moeilikheid met lees voorkom gewoonlik eers tydens skool ouderdom,E
+544,GW74,T2105,aandag tekort hiperaktiwiteit versteuring sal veroorsaak leesprobleme,N
+545,GW74,T2105,Dysleksie voorkom in 10% van skooljare kinders,C
+546,GW95,T2105,Mense word gewoonlik gediagnoseer met disleksie voordat hulle die hoërskool beëindig.,E
+547,GW95,T2105,Disleksiese studente benodig een-op-een onderwysmetodes.,N
+548,GW95,T2105,Disleksies kan van persoon tot persoon oorgedra word.,C
+549,GW12,T2106,Pasga is 'n godsdienstige viering wat die opstanding van Jesus vier.,E
+550,GW12,T2106,Easter Egg versiering is 'n deel van die Easter viering.,N
+551,GW12,T2106,"Die datums om Easter te vier, is dieselfde in 2018 en 2019.",C
+552,GW1,T2106,Easter is verband hou met meer as 'n dosyn ander vakansie.,E
+553,GW1,T2106,Die datum van Easter verander elke jaar.,N
+554,GW1,T2106,“Easter” is tipies in die somer.,C
+555,GW28,T2106,Easter val elke jaar op verskillende datums.,E
+556,GW28,T2106,Kerkbetrokkenheid is nodig tydens Easter.,N
+557,GW28,T2106,“Easter” val altyd in April elke jaar.,C
+558,GW86,T2107,“Eid al-Fitr” gebeur na Ramadan.,E
+559,GW86,T2107,In 2020 sal “Eid al-Fitr” op 24 Mei gevier word.,N
+560,GW86,T2107,Eid al-Fitr word elke jaar in dieselfde maand gevier.,C
+561,GW89,T2107,Eid al-Fitr het op verskillende datums in verskillende lande in 2019 plaasgevind.,E
+562,GW89,T2107,Eid al-Fitr sal op 24 en 25 Mei 2020 plaasvind.,N
+563,GW89,T2107,Eid al-Fitr is die begin van die ramadan.,C
+564,GW28,T2107,"Vir Moslems, Eid al-Fitr beteken die einde van die vasting vir Ramadan.",E
+565,GW28,T2107,Eid al-Fitr word gevier met soet koeke.,N
+566,GW28,T2107,Eid al-Fitr word elke jaar op dieselfde datum gevier.,C
+567,GW4,T2108,Die Emirates Air Line is minder as 'n myl lank.,E
+568,GW4,T2108,Die Emirates Air Line het 'n paar jaar geneem om te bou.,N
+569,GW4,T2108,Die Emirates Airline het minder as 'n miljoen passasiers per jaar.,C
+570,GW106,T2108,Die Emirates Air Line bedryf heeltemal in die Verenigde Koninkryk.,E
+571,GW106,T2108,"Die Emirates Air Line is in staat om spoed tot 12 m / s, alhoewel dit slegs amptelik op 6 m / s bedryf.",N
+572,GW106,T2108,Die Emirates Air Line word bedryf deur die Greenwich Transit Authority.,C
+573,GW74,T2108,Die lengte van die Gondola-lift is 12 keer die hoogste hoogte,E
+574,GW74,T2108,Die gondel bereik 300 voet halfuur tussen Emirates Greenwich Peninsula en Emirates Royal Docks,N
+575,GW74,T2108,"Ridderskap was 1,314,783 as van 10 jaar na die opening",C
+576,GW28,T2109,Epilepsie is 'n neurologiese versteuring wat lei tot onbeheersbare aanvalle.,E
+577,GW28,T2109,Epilepsie is 'n bestuurbare toestand met 'n gesonde dieet en meditasie.,N
+578,GW28,T2109,Epilepsie kan behandel word met olies en stimulasie.,C
+579,GW4,T2109,Epilepsie eindig deur die hele lewe van 'n persoon te duur.,E
+580,GW4,T2109,Die siekte Epilepsie kan gewoonlik deur pasiënte bestuur word.,N
+581,GW4,T2109,Die siekte Epilepsie het altyd 'n duidelike beginpunt.,C
+582,GW89,T2109,Daar is ten minste 6 moontlike oorsake van epilepsie.,E
+583,GW89,T2109,Die aantal epileptiese sterftes word elke jaar verminder.,N
+584,GW89,T2109,Epilepsie is beheerbaar in 80% van die pasiënte.,C
+585,GW1,T2110,Al die mense aan boord van Ethiopian Airlines-vlug 302 is dood.,E
+586,GW1,T2110,Die ondersoek van Ethiopian Airlines Vlucht 302 is byna voltooi.,N
+587,GW1,T2110,Ethiopian Airlines-vlug 302 het in die somer van 2019 neergestort.,C
+588,GW74,T2110,Meer sterftes as passasiers,E
+589,GW74,T2110,Ethiopian Airlines gebruik altyd 'n Boeing 737 MAX 8,N
+590,GW74,T2110,Geen van die bemanning was deel van die sterftes nie.,C
+591,GW19,T2110,"Ethiopian Airlines Vlug 302 was 'n internasionale vlug wat kort nadat dit afgelaai het, neergestort het.",E
+592,GW19,T2110,Die ongeluk van Ethiopian Airlines-vlug 302 was die ergste vliegtuigongeluk in die geskiedenis van die vliegtuigvloot.,N
+593,GW19,T2110,"Die vervaardiger, Airbus, is verantwoordelik vir die crash van Ethiopian Airlines Vlug 302.",C
+594,GW28,T2111,Europium is 'n natuurlike voorkomende element.,E
+595,GW28,T2111,Europium is ontdek en geïsoleer deur 'n Europese manlike wetenskaplike.,N
+596,GW28,T2111,Europium is mens-gemaakte sintetiese geskep in 'n laboratorium.,C
+597,GW52,T2111,Europium is op die keer van die 20ste eeu ontdek.,E
+598,GW52,T2111,Europium is 'n algemeen gesien element.,N
+599,GW52,T2111,Die smelt- en kookpunt van Europium is dieselfde.,C
+600,GW86,T2111,Europium is vernoem na 'n vasteland.,E
+601,GW86,T2111,Europium is genoem deur Eugène-Anatole Demarçay.,N
+602,GW86,T2111,Europium is 'n bietjie suur.,C
+603,GW28,T2112,Evolusionêre stabiele strategie is eers voorgestel deur twee mans.,E
+604,GW28,T2112,Evolusionêre stabiele strategie word geassosieer met die evolusionêre spelteorie en is deel van die Nash-balans.,N
+605,GW28,T2112,'Evolusionêre stabiele strategie' omvat Nash-balans en Perfect Bayesian-balans.,C
+606,GW12,T2112,Hawk-dove is 'n voorbeeld van evolusionêre stabiele strategie.,E
+607,GW12,T2112,Evolusionêre stabiele strategie is 'n subset van beide Nash balans en stochastikale stabiele balans.,N
+608,GW12,T2112,George R. Smith het die idee van evolusionêre stabiele strategie voorgestel.,C
+609,GW86,T2112,Evolusionêre stabiele strategie is voorgestel deur verskeie individue.,E
+610,GW86,T2112,Evolusionêre stabiele strategie is voorgestel voor die voorstel van subgame perfekte balans.,N
+611,GW86,T2112,Evolusionêre stabiele strategie het geen verhouding met skudende hand perfekte balans nie.,C
+612,GW12,T2113,"Tien persent van mense ervaar ontploffende kop-sindroom, ook bekend as episodiese kraniale sensoriese skok.",E
+613,GW12,T2113,Exploding head syndrome het 'n kort duur en die oorsake is onbekend.,N
+614,GW12,T2113,PTSD is die enigste diagnose vir exploding head syndroom.,C
+615,GW28,T2113,Exploding head syndrome is 'n mediese toestand wat mense beïnvloed wanneer hulle slaap of wakker word.,E
+616,GW28,T2113,Exploding head syndrome lyders skreeu wanneer wakker.,N
+617,GW28,T2113,Exploding head syndrome is 'n veral fatale siekte as dit nie behandel word nie.,C
+618,GW86,T2113,Exploding head syndrome word gekenmerk deur ongewone gehoorervarings.,E
+619,GW86,T2113,Exploding head syndrome vereis gewoonlik behandeling.,N
+620,GW86,T2113,Exploding head syndrome voorkom in ongeveer 'n kwart van die bevolking.,C
+621,GW52,T2114,Fast of Esther is 'n hele dag gebeurtenis.,E
+622,GW52,T2114,Vaste van Esther word waargeneem deur alle praktiserende Jode.,N
+623,GW52,T2114,Fast of Esther plaasvind elke jaar op dieselfde dag.,C
+624,GW74,T2114,Fast of Esther is in dieselfde maand in 2020 en 2019,E
+625,GW74,T2114,Al die Jode het gedurende die “Vaste van Esther” gevast.,N
+626,GW74,T2114,Die 2018 datum is 'n maand na die 2019 datum,C
+627,GW4,T2114,Die Vaste van Esther duur net vir 'n dag.,E
+628,GW4,T2114,Elke Joodse persoon waarneem die “Vaste van Esther”.,N
+629,GW4,T2114,Die “Vaste van Esther” is elke jaar op dieselfde dag.,C
+630,GW2,T2115,Die voorspelling vir hepatiese steatosis is goed as dit vroeg gevang word.,E
+631,GW2,T2115,Die meeste cirrose word veroorsaak deur vet lewer.,N
+632,GW2,T2115,Hepatiese steatosis beïnvloed minder as 70% van swaar drinkers.,C
+633,GW52,T2115,Vette lewer het verskeie tipes.,E
+634,GW52,T2115,Vette lewer beïnvloed nie die lewensverwagting nie.,N
+635,GW52,T2115,Vette lewer kan slegs veroorsaak word deur alkohol.,C
+636,GW25,T2115,"Hepatiese steatosis, wat ook bekend staan as vette lewer, kan gediagnoseer word deur verskeie metodes.",E
+637,GW25,T2115,Vette lewer is opvallend in swaar drinkers en ophou drink is 'n veilige genesing.,N
+638,GW25,T2115,"Vette lewer word dikwels geassosieer met swaar drink, maar lei nie tot cirrose of lewerkanker nie.",C
+639,GW52,T2116,Flourine was een van die eerste tien elemente wat ontdek is.,E
+640,GW52,T2116,Flourine word vandag baie gebruik.,N
+641,GW52,T2116,Flourine is in die 18de eeu ontdek.,C
+642,GW63,T2116,"Die persoon wat Fluorine genoem het, is anders as die persoon wat dit ontdek het.",E
+643,GW63,T2116,Fluorium kan in vaste toestand geïsoleer word.,N
+644,GW63,T2116,Fluorien is vas wanneer dit in die STP-fase is.,C
+645,GW25,T2116,"Fluorine is 'n Reaktiewe nie-metaal met alfa, beta-allotrope.",E
+646,GW25,T2116,"Alhoewel André-Marie Ampère vir die eerste keer Flourine ontdek het, het Henri Moissan se eerste isolasie daarvan bewys dat dit aanvaarding onder chemie akademici verkry het.",N
+647,GW25,T2116,"Humphry Davy het Flourine genoem, maar Henri Moissan het dit ontdek.",C
+648,GW1,T2117,Die Main Street Metro Station (Dual System IRT) geopen in die herfs van 1928.,E
+649,GW1,T2117,Die Main Street Metro Station (Dual System IRT) het altyd 2 eilandplatforms gehad.,N
+650,GW1,T2117,Die Main Street Metro Station (Dual System IRT) is al meer as 'n eeu in werking.,C
+651,GW86,T2117,Die Main Street Metro Station het meer paaie as platforms.,E
+652,GW86,T2117,Die Main Street Metro Station is 91 jaar gelede gebou.,N
+653,GW86,T2117,Die Main Street Metro Station het meer platforms as paaie.,C
+654,GW52,T2117,Die Main Street Metro Station (Dual System IRT) is in die 20ste eeu geopen.,E
+655,GW52,T2117,Die Main Street Metro Station (Dual System IRT) gaan vandag voort.,N
+656,GW52,T2117,Die Main Street Metro Station (Dual System IRT) loop deur die hele New York.,C
+657,GW106,T2118,Die oorspronklike hoofkwartier vir Fosters Freeze is geleë in 'n ander stad as sy hoofkwartier vandag.,E
+658,GW106,T2118,Sanjay Patel het afgetree as CEO van Google om die posisie as hoof van Fosters Freeze te aanvaar.,N
+659,GW106,T2118,"Fosters Freeze het 'n nuwe Strawberry Shortcake sagte serveer twist smaak in sekere winkels in Phoenix, AZ.",C
+660,GW83,T2118,Foster's Freeze is gestig deur George Foster,E
+661,GW83,T2118,"Daar is 'n Foster se bevriezing plek in Pasadena, Kalifornië",N
+662,GW83,T2118,Foster's Freeze is gestig in Hollywood Kalifornië,C
+663,GW86,T2118,Die hoofkwartier van Fosters Freeze is geleë in 'n ander stad as die stad waar die ketting gestig is.,E
+664,GW86,T2118,Die stigter van “Fosters Freeze” is oorlede.,N
+665,GW86,T2118,Fosters Freeze het restaurante in verskeie state.,C
+666,GW52,T2119,Ganesh Chaturthi duur amper twee weke.,E
+667,GW52,T2119,“Ganesh Chaturthi” kan in Augustus eindig.,N
+668,GW52,T2119,Ganesh Chaturthi word waargeneem deur die hele Asië.,C
+669,GW28,T2119,Ganesh Chaturthi is 'n meerdaagse godsdienstige waarneming wat elke jaar op verskillende dae val.,E
+670,GW28,T2119,Ganesh Chaturthi tradisie dikteer geld aan kinders as 'n geskenk gedurende die waarneming.,N
+671,GW28,T2119,Ganesh Chaturthi is 'n enkele dag van waarneming wat aan die einde van die somer begin.,C
+672,GW4,T2119,Ganesh Chaturthi duur meer as 'n week.,E
+673,GW4,T2119,Ganesh Chaturthi is al meer as 1000 jaar deel van die Hindoe-tradisie.,N
+674,GW4,T2119,Ganesh Chaturthi gebeur op dieselfde datum elke jaar.,C
+675,GW106,T2120,Die Garfield Park Branch het in dieselfde maand 63 jaar van mekaar oopgemaak en gesluit.,E
+676,GW106,T2120,Die Garfield Park Branch is die enigste vinnige transitlyn wat twee afsonderlike eeue in Chicago oorleef het.,N
+677,GW106,T2120,"Die Garfield Park Branch het heeltemal in Cook County, Illinois gewerk.",C
+678,GW74,T2120,Garfield Park Branch gesluit in dieselfde maand as wat dit geopen het,E
+679,GW74,T2120,Garfield Park Branch het 22 stasies in 1895 gehad,N
+680,GW74,T2120,Metropolitan West Side Elevated Railroad was die bedryf wanneer Garfield Park Branch gesluit is,C
+681,GW28,T2120,Garfield Park Branch is nie meer as vyftig jaar in bedryf nie.,E
+682,GW28,T2120,Garfield Park Branch word verlaat en veroordeel.,N
+683,GW28,T2120,Garfield Park Branch het verskeie state in die Midweste bedien.,C
+684,GW52,T2121,Die Generale eksamen vir vroue was slegs vir 'n dekade in gebruik.,E
+685,GW52,T2121,Die Generale eksamen vir vroue was bedoel om 'n voet in die deur vir werk te wees.,N
+686,GW52,T2121,Die Generale eksamen vir vroue is in die 20ste eeu geneem.,C
+687,GW28,T2121,Generale eksamen vir vroue was 'n eksamen om vroue te kwalifiseer vir hoër onderwys by universiteite.,E
+688,GW28,T2121,Generale eksamen vir vroue was nodig vir vroue wat 'n akademiese loopbaan wou nastreef.,N
+689,GW28,T2121,Generale eksamen vir vroue is in verskeie tale aangebied en gaan vandag voort.,C
+690,GW74,T2121,Generale eksamen vir vroue eindig 11 jaar nadat dit begin het,E
+691,GW74,T2121,Die Universiteit van Londen was die enigste universiteit met 'n Generale eksamen vir vroue in 1869.,N
+692,GW74,T2121,Die Generale Eksamen vir Vroue het 20 jaar lank aan die Universiteit van Londen geduur,C
+693,GW28,T2122,Die George Washington Bridge verbind NY en NJ.,E
+694,GW28,T2122,Die George Washington Bridge is die drukste brug ter wêreld.,N
+695,GW28,T2122,"Die George Washington Bridge is 'n vrye, eenvlakke staalbrug.",C
+696,GW52,T2122,Die GW het byna 300 000 voertuie wat elke dag dit kruis.,E
+697,GW52,T2122,GW is nog nooit herstel nie.,N
+698,GW52,T2122,GW het terug in die 19de eeu geopen.,C
+699,GW86,T2122,Die George Washington Bridge is geleë in meer as een staat.,E
+700,GW86,T2122,Vliegtuie word verbied om die George Washington Bridge te gebruik.,N
+701,GW86,T2122,"Minder as 30 jaar het verby gegaan tussen die begin van die konstruksie op die brug, en die opening van al die dele van die brug vir die publiek.",C
+702,GW28,T2123,Giant-cell arteritis tref hoofsaaklik ouer volwassenes.,E
+703,GW28,T2123,Giant-cell arteritis maak die gesig rooi as gevolg van inflammasie.,N
+704,GW28,T2123,Giant-cell arteritis beïnvloed miljoene ouer mense en verkort lewensduur.,C
+705,GW86,T2123,Giant-cell arteritis word geassosieer met beide 'n volledige verlies van visie en hartprobleme.,E
+706,GW86,T2123,Giant-cell arteritis voorkom slegs in mense oor die ouderdom van 50.,N
+707,GW86,T2123,Giant-cell arteritis beïnvloed tipies hoe lank 'n mens verwag word om te lewe.,C
+708,GW52,T2123,Giant cell arteritis voorkom tipies in ouer mense.,E
+709,GW52,T2123,Horton se siekte voorkom nie by kinders nie.,N
+710,GW52,T2123,Arteritis beïnvloed die lewensverwagting van diegene wat geraak het.,C
+711,GW12,T2124,Goeie Vrydag is 'n Christelike feestdag wat jaarliks plaasvind.,E
+712,GW12,T2124,“Goeie Vrydag” word slegs in April waargeneem.,N
+713,GW12,T2124,"Beskou as 'n godsdienstige vakansie, Goeie Vrydag vind plaas op die Vrydag onmiddellik na Paasdag.",C
+714,GW19,T2124,"Soos Paasfees, val Goeie Vrydag nie elke jaar op 'n spesifieke datum nie.",E
+715,GW19,T2124,“Gode Vrydag” val saam met die eerste dag van Pasga.,N
+716,GW19,T2124,Westerse en Oos-Christelike takke vier beide Christus se opstanding op dieselfde dag.,C
+717,GW28,T2124,Goeie Vrydag is 'n jaarlikse godsdienstige viering wat elke jaar op verskillende dae val.,E
+718,GW28,T2124,Goeie Vrydag is die heiligste tyd van die jaar vir Christene.,N
+719,GW28,T2124,“Gode Vrydag” is ’n feestelike en luide waarneming deur Christene.,C
+720,GW74,T2125,Die score grade is geldig vir 3 jaar wat begin 31 nadat die jaar begin het,E
+721,GW74,T2125,Meer studente in Indië neem die GATE as in die VSA,N
+722,GW74,T2125,Die score grade was geldig 3 jaar 10 jaar nadat die jaar begin het,C
+723,GW86,T2125,"Die fooi vir die neem van die GATE verskil afhangende van geslag, nationaliteit en handicap status.",E
+724,GW86,T2125,GATE is voor 2015 ingevoer.,N
+725,GW86,T2125,GATE is 'n geskrewe toets.,C
+726,GW4,T2125,Die Graduate Aptitude Test in Engineering het in die 80's begin.,E
+727,GW4,T2125,Die Graduate Aptitude Test in Engineering plaasvind slegs in Indië.,N
+728,GW4,T2125,Die Graduate Aptitude Test in Engineering is gratis vir studente om te neem.,C
+729,GW52,T2126,Die GMAT is deur 'n paar honderd studente geneem.,E
+730,GW52,T2126,Die GMAT is voortdurend 'n primêre toelatingsinstrument.,N
+731,GW52,T2126,GMAT is goed vir die lewe.,C
+732,GW106,T2126,Die GMAT eksamen het vier afdelings.,E
+733,GW106,T2126,Engelse majors verteenwoordig die hoogste groepering van perfekte punte op die GMAT eksamen.,N
+734,GW106,T2126,Testtakers met GMAT-resultate bo 850 het die hoogste waarskynlikheid om aanvaar te word vir die mees prestigieuze besigheidsprogramme by Amerikaanse kolleges en universiteite.,C
+735,GW28,T2126,Graduate Management Toelating Test is 'n Engelse taal gebaseerde eksamen wat gebruik word in toelating tot besigheidsgeleerdes.,E
+736,GW28,T2126,Graduate Management Toelating Test is bedrog en cheat-proof.,N
+737,GW28,T2126,Graduate Management Toelating Test is 'n meerdaagse toets wat vereis en 'n nag verblijf.,C
+738,GW28,T2127,"Rekord eksamen: Algemene toets word in verskeie lande geneem, maar in slegs een taal aangebied.",E
+739,GW28,T2127,Record eksamen: Algemene toets is die gewildste toets wat aangebied word.,N
+740,GW28,T2127,Record eksamen: Algemene toets is onnodig wanneer aansoek doen vir skole,C
+741,GW106,T2127,"Studente wat die GRE as 'n papier-gebaseerde toets neem, is in aanmerking om die toets meer dikwels te neem as diegene wat die toets deur die rekenaar neem.",E
+742,GW106,T2127,Die GRE is verpligtend vir afstudeer vir undergraduate in die Verenigde State.,N
+743,GW106,T2127,Die GRE is 'n gestandaardiseerde toets wat vir die eerste keer aangebied is tydens die Truman-administrasie.,C
+744,GW60,T2127,GRE's geneem in 1936 is geldig tot 1941.,E
+745,GW60,T2127,GRE is die enigste eksamen wat deur die Educational Testing Service aangebied word.,N
+746,GW60,T2127,Sommige GRE punte het in 1939 ongeldig geword.,C
+747,GW28,T2128,Grafiese ontwerper is 'n kreatiewe en visuele gefokus beroep.,E
+748,GW28,T2128,“Grafiese ontwerpers” word goed vergoed.,N
+749,GW28,T2128,Grafiese ontwerpers kan werk in baie tegniese beroepe soos ingenieur.,C
+750,GW106,T2128,'N Kreatiewe direkteur by 'n advertensiebureau sou 'n ideale beroep vir 'n grafiese ontwerper wees.,E
+751,GW106,T2128,Die meeste grafiese ontwerpers suksesvol in die desktop publishing bedryf het kollege kursusse in kunshistorie geneem.,N
+752,GW106,T2128,Die loopbaanverwagtinge vir grafiese ontwerpers in die uitgewery gebied het in die afgelope jaar verminder as gevolg van die opkoms van digitale boeke.,C
+753,GW60,T2128,'N kunsdirekteur moet in kunshistorie bekwaam wees.,E
+754,GW60,T2128,'N Kreatiewe direkteur kan altyd ook 'n webwerf ontwerper wees.,N
+755,GW60,T2128,'N kunsdirektoraat kan nie in typografie werk nie.,C
+756,GW28,T2129,Guillain-Barré-sindroom is 'n mediese toestand van onbekende oorsaak en verlengde herstel tyd na diagnose en behandeling.,E
+757,GW28,T2129,Behandeling vir Guillain-Barré sindroom is duur en neem jare.,N
+758,GW28,T2129,Guillain-Barré sindroom begin in die brein en beïnvloed die oë en ore.,C
+759,GW74,T2129,Daar is meer komplikasies as simptome,E
+760,GW74,T2129,Die waarneming van spierswakte in hande en voete is die beste diagnosemethode,N
+761,GW74,T2129,Die sterftes van die getroffene is 'n laer persentasie as die frekwensie van die getroffene per jaar,C
+762,GW52,T2129,Guillain-Barré-sindroom het 'n lae sterftes.,E
+763,GW52,T2129,Guillain-Barré-sindroom het in frekwensie gegroei.,N
+764,GW52,T2129,Guillain-Barré-sindroom het bekende oorsake.,C
+765,GW60,T2130,Die 2018 Guru Purnima is later in die jaar gevier as die 2019 Guru Purnima,E
+766,GW60,T2130,Guru Purnima is ook 'n nasionale vakansie in Indië.,N
+767,GW60,T2130,Die 2020 Guru Purnima sal vroeër in die jaar gevier word as die 2019 Guru Purnima.,C
+768,GW1,T2130,Guru Purnima plaasvind in die somer.,E
+769,GW1,T2130,Nepal is die enigste plek waar “Guru Purnima” gevier word.,N
+770,GW1,T2130,“Guru Purnima” gebeur twee keer per jaar.,C
+771,GW4,T2130,Guru Purnima is iets wat elke jaar gebeur.,E
+772,GW4,T2130,Mense eet gewoonlik baie kos by Guru Purnima.,N
+773,GW4,T2130,“Guru Purnima” gebeur altyd op dieselfde dag.,C
+774,GW12,T2131,Hanukkah is 'n Joodse vakansie wat deur Jode waargeneem word.,E
+775,GW12,T2131,"Hanukkah behels die aansteek van kaarte, sing liedjies en eet kos.",N
+776,GW12,T2131,Hanukkah is 'n Joodse vakansie wat slegs in Desember plaasvind.,C
+777,GW52,T2131,“Hanukkah” word jaarliks gevier.,E
+778,GW52,T2131,“Hanukkah” word in elke land gevier.,N
+779,GW52,T2131,“Hanukkah” plaasvind elke jaar op dieselfde datums.,C
+780,GW60,T2131,Hannukkah het vroeër in 2018 begin as in 2019,E
+781,GW60,T2131,Hanukkah sal vroeër begin in die jaar 2021 as enige ander jaar in die 21ste eeu.,N
+782,GW60,T2131,Hanukkah sal later in die jaar 2021 begin as enige ander jaar in die 21ste eeu.,C
+783,GW89,T2132,“Holi” sal op 9 Maart 2020 gehou word.,E
+784,GW89,T2132,Holi word elke jaar op 'n ander datum gehou.,N
+785,GW89,T2132,Die datum van Holi is gebaseer op die Romeinse kalender.,C
+786,GW106,T2132,Holi 'n kulturele viering wat deur baie godsdienste waargeneem word.,E
+787,GW106,T2132,"Purple, groen en blou het spesiale betekenis vir draers tydens die Holika Bonfire.",N
+788,GW106,T2132,“Holi” gebeur altyd tydens die lente.,C
+789,GW19,T2132,Holi is 'n Indiese vakansie wat deur verskeie godsdienste gevier word.,E
+790,GW19,T2132,Holi word beskou as die heiligste dag van die jaar in Indië.,N
+791,GW19,T2132,In Indië observeer alle godsdienste Holi deur vas te maak en die dag in plegtige gebed te spandeer.,C
+792,GW52,T2133,Die projek Howrah Bridge het 'n paar jaar geneem om te voltooi.,E
+793,GW52,T2133,Die Howrah Bridge is sedert die opening nie gerenoveer nie.,N
+794,GW52,T2133,Die Howrah Bridge kos 'n tol om te kruis.,C
+795,GW1,T2133,Howrah Bridge het meer as 5 jaar geneem om te bou.,E
+796,GW1,T2133,Die Howrah Bridge is die enigste brug wat en Tritton ontwerp het.,N
+797,GW1,T2133,Die Howrah Bridge is in die somer van 1943 geopen.,C
+798,GW12,T2133,Die Howrah Bridge is gemaak van staal en word onderhou deur die Kolkata Port Trust.,E
+799,GW12,T2133,Die konstruksie van die Howrah-brug het in 1942 begin en in 1943 geopen.,N
+800,GW12,T2133,"In totaal 800,000 mense en voertuie oor die Howrah Bridge elke dag.",C
+801,GW28,T2134,HTC Dream is 'n slimfoon wat Android se Donut gebruik.,E
+802,GW28,T2134,HTC Dream is 'n eerste generasie slimfoon.,N
+803,GW28,T2134,HTC Dream is het beide agter- en voorkant kamera's as standaard.,C
+804,GW52,T2134,HTC se droom het 'n battery wat meer as 1000 mAh is,E
+805,GW52,T2134,Die “HTC Dream” is nog in produksie.,N
+806,GW52,T2134,HTC se droom is 'n flip telefoon.,C
+807,GW4,T2134,Die HTC Dream het meer as 1000 mAh battery.,E
+808,GW4,T2134,'N HTC Dream is ontwerp om 'n iPhone te kopieer,N
+809,GW4,T2134,Die HTC Dream het slegs 'n enkele band antenna.,C
+810,GW86,T2135,Die Huawei Ascend G300 kan op meer as een tipe netwerk bedryf.,E
+811,GW86,T2135,Die Huawei Ascend G300 word tans vervaardig.,N
+812,GW86,T2135,Die Huawei Ascend G300 is 'n tablet toestel.,C
+813,GW52,T2135,Die Ascend G300 se aanvanklike bedryfstelsel was Android 4.,E
+814,GW52,T2135,Die Ascend G300 is nog in produksie,N
+815,GW52,T2135,Die Ascend G300 het dieselfde kamera in elke model gehad.,C
+816,GW38,T2135,Die Huawei Ascend G300 is compatibel met HSPA900/2100 netwerke.,E
+817,GW38,T2135,Die Huawei Ascend G300 is die vinnigste slimfoon wat deur Huawei gemaak word,N
+818,GW38,T2135,Die Huawei Ascend G300 loop op die Android 2.0 bedryfstelsel,C
+819,GW12,T2136,"Die frekwensie van hipertiroidisme, 'n ooraktiewe tiroïed, is 1.2% in die VSA.",E
+820,GW12,T2136,Graves se siekte is die enigste oorsaak van hipertiroidisme.,N
+821,GW12,T2136,Hyperthyroidisme voorkom gewoonlik tydens die kinderjare.,C
+822,GW74,T2136,Daar is meer simptome as oorsake van Hyperthyroidisme,E
+823,GW74,T2136,Graves se siekte veroorsaak spierswakte,N
+824,GW74,T2136,Daar is meer medikasie as behandelings,C
+825,GW52,T2136,Hyperthyroidisme voorkom in meer as 1% van die bevolking.,E
+826,GW52,T2136,Hyperthyroidisme begin voor 20 jaar oud en na 50 jaar oud.,N
+827,GW52,T2136,Hyperthyroidisme het geen bekende oorsaak nie.,C
+828,GW63,T2137,"Die Corona Yard, East 180th Street Yard is geïntegreer in die New York Subway stelsel.",E
+829,GW63,T2137,Daar is 'n metro net in New York.,N
+830,GW63,T2137,Die Interborough Rapid Transit Company werk al meer as 100 jaar,C
+831,GW52,T2137,Die Interborough Rapid Transit Authority het in die 20ste eeu begin.,E
+832,GW52,T2137,Die metro het die hele stad New York bedien.,N
+833,GW52,T2137,Die Interborough Rapid Transit Authority gaan vandag voort.,C
+834,GW28,T2137,Interborough Rapid Transit Company bestaan vir 37 jaar.,E
+835,GW28,T2137,Die Interborough Rapid Transit Company het bankrot gegaan en is deur die Manhattan Railway Company gekoop.,N
+836,GW28,T2137,Interborough Rapid Transit Company is 'n private entiteit wat tot vandag toe bedryf.,C
+837,GW28,T2138,International English Language Testing System is 'n gestandaardiseerde toets vir Engelse taalvaardigheid.,E
+838,GW28,T2138,International English Language Testing System is die gewildste Engels taal toets in die wêreld.,N
+839,GW28,T2138,International English Language Testing System kan op enige tyd aanlyn geneem word.,C
+840,GW74,T2138,"Daar is meer kolleges, agentskappe en ander instellings wat IELTS-toetspunte gebruik as daar toetsentrums is",E
+841,GW74,T2138,Begin in die Verenigde Koninkryk in 1980,N
+842,GW74,T2138,Daar is meer lande wat toetspunte gebruik as wat toetsentrums het.,C
+843,GW105,T2138,Die International English Language Testing System het verskeie verskillende dele.,E
+844,GW105,T2138,Die toets is hoofsaaklik gerig op immigrante uit Mexiko.,N
+845,GW105,T2138,Slegs 'n paar skole gebruik hierdie toets.,C
+846,GW107,T2139,“iOS” word ontwikkel deur Apple.,E
+847,GW107,T2139,“iOS” is die beste bedryfstelsel.,N
+848,GW107,T2139,“iOS” is in Python geskryf.,C
+849,GW52,T2139,iOS het eers in die 2000's gedebuteer.,E
+850,GW52,T2139,iOS het die afgelope twaalf jaar gereeld updates ontvang.,N
+851,GW52,T2139,iOS is 'n open source sagteware.,C
+852,GW74,T2139,Die laaste voorbeeld van iOS was 8 dae na die laaste vrylating,E
+853,GW74,T2139,iOS is beskikbaar in 40 tale sedert 2007,N
+854,GW74,T2139,Die laaste vrylating van iOS het dieselfde maand gebeur as die aanvanklike vrylating,C
+855,GW52,T2140,IBS voorkom voordat volwassenes ouer ouderdom bereik.,E
+856,GW52,T2140,Die frekwensie van IBS het met verloop van tyd toeneem.,N
+857,GW52,T2140,Mense met IBS het 'n korter lewensverwagting.,C
+858,GW63,T2140,"Alhoewel IBS nie 'n korttermynstoestand is nie, hoef mense nie bekommerd te wees oor die verkorting van lewensduur nie.",E
+859,GW63,T2140,Jy kan nooit IBS op die ouderdom van 40 kry nie.,N
+860,GW63,T2140,Die bekende oorsake van IBS kan met chirurgie behandel word,C
+861,GW28,T2140,Irritable bowel syndroom is 'n mediese toestand wat die borsbewegings beïnvloed.,E
+862,GW28,T2140,Behandeling van irritabele darmsindroom is maklik en nie duur nie.,N
+863,GW28,T2140,Irritable bowel syndroom is soms dodelik.,C
+864,GW52,T2141,"Die q111 q113, q114 Jamaica-Far Rockaway lyn is in die een of ander manier in diens sedert die keer van die 20ste eeu.",E
+865,GW52,T2141,Die q113 Jamaica-Far Rockaway lyn bedryf op 'n 24-uur skedule,N
+866,GW52,T2141,"Die q111 q113, q114 Jamaica–Far Rockaway lyn het almal dieselfde kilometers.",C
+867,GW60,T2141,Die Q111 dra meer passasiers per myl as die Q113 en Q114.,E
+868,GW60,T2141,Die Baisley Park Depot is in besit van die MTA Bus Company.,N
+869,GW60,T2141,Die Q113 is nooit gedurende die dag gesluit nie.,C
+870,GW28,T2141,"q111 q113, q114 Jamaica−Far Rockaway lyn is 'n busroete tussen Queens en Nassau County.",E
+871,GW28,T2141,"q111 q113, q114 Jamaica−Far Rockaway lyn is toegerus met openbare Wifi op al sy busse.",N
+872,GW28,T2141,"q111 q113, q114 Jamaica−Far Rockaway lyn is 'n selde gebruikte lyn.",C
+873,GW4,T2142,Geelheid veroorsaak dat die velkleur by mense verander.,E
+874,GW4,T2142,Die siekte geelheid kan met medisyne genees word.,N
+875,GW4,T2142,Die siekte geelheid is een wat gewoonlik dodelik is vir mense.,C
+876,GW28,T2142,Geelheid is 'n mediese toestand wat die vel en oë geel maak.,E
+877,GW28,T2142,Geluk is soms dodelik.,N
+878,GW28,T2142,Gelte word veroorsaak deur 'n slegte dieet en gebrek aan oefening.,C
+879,GW12,T2142,Geelheid is 'n hepatologiese spesialiteit wat die geelagtige kleur van die vel behels.,E
+880,GW12,T2142,Die vel en wit van die oë word geel wanneer 'n individu geelheid het.,N
+881,GW12,T2142,Daar is slegs een toets om geelheid te diagnoseer.,C
+882,GW1,T2143,Die Joint Entry Exam word bi-jaarliks aangebied.,E
+883,GW1,T2143,Die Nasionale Toetsagentskap bestuur slegs die Gesamentlike Toetredingseksamen.,N
+884,GW1,T2143,Die Joint Entry Exam begin in die 20ste eeu gegee word.,C
+885,GW52,T2143,Die JEE Main het in die 2000's begin.,E
+886,GW52,T2143,Die JEE Main het in die jare toeneem in die aantal toetse wat geneem is.,N
+887,GW52,T2143,Die JEE Main het slegs 'n positiewe tellingbereik.,C
+888,GW60,T2143,Dit neem 6 uur om al die dokumente wat nodig is vir die JEE Main te voltooi.,E
+889,GW60,T2143,Die JEE Main sluit differensiële berekening in.,N
+890,GW60,T2143,Jy kan die eksamen elke keer as dit aangebied word vir 2 jaar in 'n ry neem.,C
+891,GW86,T2144,Die Kelana Jaya-lynverlenging is meer as 3 jaar gelede geopen.,E
+892,GW86,T2144,Die Kelana Jaya lyn uitbreiding is tans in werking.,N
+893,GW86,T2144,Die Kelana Jaya-lynverlenging is 4 jaar gelede geopen.,C
+894,GW74,T2144,Daar is 12 stasies meer as dienste,E
+895,GW74,T2144,Daar was 13 stasies die Kelana Jaya lyn uitbreiding geopen 30 Junie 2016,N
+896,GW74,T2144,Daar is meer dienste as Termini,C
+897,GW28,T2144,Kelana Jaya-lynverlenging het in die 21ste eeu in Suidoos-Asië begin bedryf,E
+898,GW28,T2144,Kelana Jaya lynverlenging loop uitsluitlik met Mag-lev.,N
+899,GW28,T2144,Kelana Jaya lynverlenging bedryf in verskeie lande oor duisende myl van spoor.,C
+900,GW52,T2145,Die 35 / 36 Metro Lines toelaat oorgedrabare diens.,E
+901,GW52,T2145,'N Passasier van 35 Metro Line kan ook die 36 Metro Line gebruik.,N
+902,GW52,T2145,Die 35 / 36 Metro Lines is 'n daaglikse bedryf.,C
+903,GW28,T2145,35 / 36 Metro Lines is 'n openbare vervoer lyn wat op 'n gestelde skedule bedryf.,E
+904,GW28,T2145,Passasiers kan betaal vir tariewe op die 35 / 36 Metro Lines met hul slimfone.,N
+905,GW28,T2145,35 / 36 Metro Lines bedryf 24 uur per dag sonder onderbrekings.,C
+906,GW4,T2145,Die 35 / 36 Metro Lines loop 6 keer per dag.,E
+907,GW4,T2145,Die 35 / 36 Metro Lines dek baie gebied.,N
+908,GW4,T2145,Die 35 / 36 Metro Lines gebruik Audi voertuie.,C
+909,GW106,T2146,Minder as 10% van die passasiers op LaMia Vlug 2933 het die crash oorleef.,E
+910,GW106,T2146,Al die oorlewendes aan boord van LaMia Vlug 2933 was passasiers.,N
+911,GW106,T2146,"Die Avro RJ85 vliegtuig wat in LaMia Vlug 2933 gebruik is, het 'n gebroke brandstofmeters gehad.",C
+912,GW74,T2146,Daar was meer besetters as passasiers,E
+913,GW74,T2146,Vier van die zes oorlewendes was bemanning.,N
+914,GW74,T2146,Geen oorlewendes was gewond nie.,C
+915,GW95,T2146,Daar was 18 passasiers vir elke 1 bemanningslid.,E
+916,GW95,T2146,Van die 6 oorlewendes was 3 bemanningslede.,N
+917,GW95,T2146,Die ongeluk kon nie vermy word nie.,C
+918,GW74,T2147,Die minimum radius is langer as die hoogte van die Hoogste hoogte,E
+919,GW74,T2147,Las Vegas Monorail het 7 stasies in 1995 gehad,N
+920,GW74,T2147,Las Vegas Monorail is in besit van 'n ander maatskappy as wat dit bedryf,C
+921,GW4,T2147,Die Las Vegas Monorail bestaan al meer as 15 jaar.,E
+922,GW4,T2147,Die Las Vegas Monorail stop by die meeste hotelle.,N
+923,GW4,T2147,Die Las Vegas Monorail gaan stadig as motors.,C
+924,GW86,T2147,Die Las Vegas Monorail is oorspronklik onder 'n ander naam geopen.,E
+925,GW86,T2147,Die Las Vegas Monorail het 'n maksimum spoed van 50 mph.,N
+926,GW86,T2147,Die Las Vegas Monorail bedryf sedert 1995 sonder onderbrekings in diens.,C
+927,GW28,T2148,La Tomatina is 'n jaarlikse kulturele waarneming in Spanje,E
+928,GW28,T2148,La Tomatina verspil elke jaar miljoene galone tomate.,N
+929,GW28,T2148,La Tomatina land elke jaar op dieselfde dag.,C
+930,GW4,T2148,La Tomatina is 'n vakansie wat in Europa gevier word.,E
+931,GW4,T2148,La Tomatina is 'n festival vol kos.,N
+932,GW4,T2148,La Tomatina gebeur op dieselfde datum elke jaar.,C
+933,GW52,T2148,La Tomatina plaasvind elke Augustus.,E
+934,GW52,T2148,La Tomatina is 'n week lank gebeurtenis.,N
+935,GW52,T2148,“La Tomatina” gebeur elke jaar op dieselfde dag.,C
+936,GW28,T2149,"Law School Toelating Test is 'n gestandaardiseerde toelatingstest wat gebruik word vir toelating tot regskoole in baie Engelssprekende lande, hoofsaaklik die Verenigde State.",E
+937,GW28,T2149,Rechtskool Toelatingstest kan ook gebruik word vir toelating tot sommige afgestudeerde graadprogramme nie net regskoole nie.,N
+938,GW28,T2149,Law School Toelating Test is 'n meerdaagse eksamen gegee in verskeie tale.,C
+939,GW86,T2149,Die Law School Toelating Test bestaan al meer as 70 jaar.,E
+940,GW86,T2149,Die skryf afdeling van die LSAT word nie in regskool toelatings beskou nie.,N
+941,GW86,T2149,"LSAT-punte van toetse wat in 2006 geneem is, is vandag geldig.",C
+942,GW52,T2149,Die LSAT is beskikbaar om wêreldwyd te neem.,E
+943,GW52,T2149,Die resultate van die LSAT is goed vir 'n lewe.,N
+944,GW52,T2149,Die LSAT het 'n negatiewe score maatstaf.,C
+945,GW28,T2150,LG Optimus G is 'n Koreaanse slimfoon met een kamera.,E
+946,GW28,T2150,LG Optimus G was 'n bestseller vir LG.,N
+947,GW28,T2150,LG Optimus G word vervaardig vir die plaaslike Koreaanse mark.,C
+948,GW74,T2150,Storage is tot 30 GB meer as geheue,E
+949,GW74,T2150,LG Optimus G as hardloop op Android 4.0 Ice Cream Sandwich het 16 GB van die opslag,N
+950,GW74,T2150,Die LG G2 kom voor die LG Optimus 4X HD,C
+951,GW52,T2150,Die LG Optimus G het verskeie opslag opsies.,E
+952,GW52,T2150,Die LG Optimus G word tot vandag toe voortgegaan.,N
+953,GW52,T2150,Die LG Optimus G was die eerste van die Optimus-reeks.,C
+954,GW74,T2151,OS familie en standaard gebruikersinterface is Unix,E
+955,GW74,T2151,Linux is in 1991 in meertaal beskikbaar,N
+956,GW74,T2151,Daar is dieselfde aantal bemarkingsdoelwitte as platforms,C
+957,GW1,T2151,Linux is vrygestel in die laaste dekade van die 20ste eeu.,E
+958,GW1,T2151,Linus Torvalds het meer gedoen om Linux te ontwikkel as Community het.,N
+959,GW1,T2151,Linus werk op meer as 30 platforms gebaseer op die grafiek.,C
+960,GW52,T2151,Linux is in die 1990's ontwikkel.,E
+961,GW52,T2151,Linux is een van die top stukke sagteware op die mark vandag.,N
+962,GW52,T2151,“Linux” word in C+ geskryf.,C
+963,GW1,T2152,Die Lion Air-vlug 610 het in die herfs van 2018 neergestort.,E
+964,GW1,T2152,Die enigste reddingsduiker vir Lion Air Vlucht 610 is dood.,N
+965,GW1,T2152,Daar was oorlewendes van die Lion Air Vlucht 610.,C
+966,GW12,T2152,Daar was 181 passasiers en 8 bemanningslede op die Lion Air Vlucht 610.,E
+967,GW12,T2152,Die IATA-nommer en die ICAO-nommer vir Lion Air Flight 610 is dieselfde.,N
+968,GW12,T2152,Lion Air-vlug 610 is deur Lion Air bedryf en het begin 2018 neergestort.,C
+969,GW52,T2152,Die JT610 het verlede jaar afgebreek.,E
+970,GW52,T2152,Die lot van vliegtuig JT610 het geen duidelike bewyse nie.,N
+971,GW52,T2152,JT610 het meer as 200 sterftes veroorsaak.,C
+972,GW95,T2153,Loi Krathong gebeur naby die einde van die jaar,E
+973,GW95,T2153,Mense reis na Thailand om Loi Krathong te vier,N
+974,GW95,T2153,Loi Krathong word hoofsaaklik deur Westerlinge waargeneem,C
+975,GW86,T2153,Loi Krathong word een keer per jaar waargeneem.,E
+976,GW86,T2153,Loi Krathong word elke jaar op 22 November waargeneem.,N
+977,GW86,T2153,Loi Krathong is bekend deur net vier verskillende name.,C
+978,GW52,T2153,“Loi Krathong” gebeur elke jaar.,E
+979,GW52,T2153,“Loi Krathong” word in heel Asië gevier.,N
+980,GW52,T2153,Loi Krathong word in Noord-Amerika gevier.,C
+981,GW52,T2154,Lupercalia is 'n geleentheid wat met kos gehelp word.,E
+982,GW52,T2154,Lupercalia offer elke keer 'n spesifieke dier.,N
+983,GW52,T2154,Lupercalia plaasvind elke jaar op dieselfde datum.,C
+984,GW86,T2154,Lupercalia word op verskeie datums waargeneem.,E
+985,GW86,T2154,Lupercalia word vandag nog deur sommige individue waargeneem.,N
+986,GW86,T2154,Lupercalia word uitsluitlik op een datum waargeneem.,C
+987,GW74,T2154,Lupercalia is gevier met feeste gedurende Februarie,E
+988,GW74,T2154,Die offer van 'n gees en 'n hond deur die Luperci was deur al die Romeine beoefen.,N
+989,GW74,T2154,Die Romeinse Ryk het Lupercalia in die herfst gevier,C
+990,GW86,T2155,Māgha Pūjā word in ten minste vyf lande waargeneem.,E
+991,GW86,T2155,Māgha Pūjā word in slegs ses lande waargeneem.,N
+992,GW86,T2155,Māgha Pūjā is in die somer van 2019 waargeneem.,C
+993,GW52,T2155,“Māgha Pūjā” het in Februarie van hierdie jaar plaasgevind.,E
+994,GW52,T2155,“Māgha Pūjā” word al eeue lank gevier.,N
+995,GW52,T2155,Māgha Pūjā is 'n streng Boeddhistiese viering.,C
+996,GW74,T2155,Op 19 Februarie 2019 was daar 'n volle maan.,E
+997,GW74,T2155,"Die Shwedagon Pagoda Festival het 'n prosesie met lig,",N
+998,GW74,T2155,Die derde maanmaand was in Maart 2019,C
+999,GW84,T2156,Die geboortedag van Lord Mahavir word in die lente gevier.,E
+1000,GW84,T2156,Die geboortedag van Mahaveer Swami sal nie in 2019 gevier word nie.,N
+1001,GW84,T2156,Die geboortedag van Mahaveer Swami vereis dat mense geskenke bring.,C
+1002,GW60,T2156,Mahaveer Swami is belangrik in die Jains-godsdiens.,E
+1003,GW60,T2156,Gebede word slegs in die Jain-tempel gedoen.,N
+1004,GW60,T2156,Daar is geen Jain tempels in Indië nie.,C
+1005,GW4,T2156,Mahaveer Janma Kalyanak is 'n vakansie wat jaarliks in Indië plaasvind.,E
+1006,GW4,T2156,Mahaveer Janma Kalyanak gebeur altyd op dieselfde dag elke jaar.,N
+1007,GW4,T2156,In 2019 het Mahaveer Janma Kalyanak in Mei gebeur.,C
+1008,GW28,T2157,"Major depressiewe versteuring is 'n sielkundige toestand wat by jong volwassenes voorkom en wat maande, indien nie jare, kan duur.",E
+1009,GW28,T2157,Major depressiewe versteuring verskyn nie by jong kinders nie.,N
+1010,GW28,T2157,Major depressiewe versteuring kan genees word met 'n verandering in die omgewing.,C
+1011,GW106,T2157,Lae selfbeeld is een van die simptome van lyers van unipolêre depressie.,E
+1012,GW106,T2157,"Die meeste wat met kliniese depressie geraak het, maak ook selfskade.",N
+1013,GW106,T2157,Elektrokonvulsiewe terapie is die mees algemeen gebruikte vorm van behandeling om die waarskynlikheid van selfmoord by pasiënte met unipolêre versteuring te bestry.,C
+1014,GW52,T2157,Groot depressiewe versteuring het meer as 100 miljoen gevalle wat aan dit toegeskryf word.,E
+1015,GW52,T2157,Groot depressiewe versteuring is op 'n toename in terme van gediagnoseerde gevalle.,N
+1016,GW52,T2157,Groot depressiewe versteuring is 'n akute toestand.,C
+1017,GW28,T2158,Makara Sankranti kan op verskillende dae in Januarie val.,E
+1018,GW28,T2158,Makara Sankranti is die heiligste feest vir Hindoes.,N
+1019,GW28,T2158,Makara Sankranti is 'n plegtige vakansie met stil kontemplasie en waarneming.,C
+1020,GW89,T2158,Makara Sankranti is die fees van die oes.,E
+1021,GW89,T2158,Makara Sankranti val elke jaar op dieselfde dag.,N
+1022,GW89,T2158,Makara Sankranti gebruik die Amerikaanse kalenderkorrelasie.,C
+1023,GW52,T2158,Mela is 'n grootliks Hindoe-fees.,E
+1024,GW52,T2158,Mela verander op die dag van die viering.,N
+1025,GW52,T2158,Mela is 'n suiwer kulturele gebeurtenis.,C
+1026,GW52,T2159,“Malaysia Airlines Vlug 370” is vermoedelik nie oorlewendes nie.,E
+1027,GW52,T2159,MH370 word vandag nog steeds ondersoek.,N
+1028,GW52,T2159,MAS370 is onlangs in 2019 gevind.,C
+1029,GW12,T2159,Die oorsaak is onbekend vir die val van Malaysia Airlines Vlug 370 in 2014.,E
+1030,GW12,T2159,Die Malaysia Airlines Vlug 370 het 'n bemanning van 12 en 'n passasierslijst van 227 gehad.,N
+1031,GW12,T2159,Malaysia Airlines Vlug 370 het in Beijing Capital International Airport begin en was bestemd vir Kuala Lumpur International Airport.,C
+1032,GW19,T2159,Die presiese plek van die ongeluk van die Malaysian Air 370 is nog nie bepaal nie.,E
+1033,GW19,T2159,Navorsers het bepaal dat die Maleisiese Vliegtuig 370 weggeneem is as gevolg van 'n opsetlike menslike daad.,N
+1034,GW19,T2159,Die navorsers het beslissend bepaal dat die Malaysian Air 370 val as gevolg van 'n pilootfout,C
+1035,GW1,T2160,Die konstruksie van die Manhattan Bridge het aan die begin van die 20ste eeu begin.,E
+1036,GW1,T2160,Die Manhattan Bridge was altyd vry op beide maniere.,N
+1037,GW1,T2160,Dit het meer as 15 jaar geneem om die Manhattan Bridge te bou.,C
+1038,GW52,T2160,Die Manhattan Bridge is al meer as 'n eeu in gebruik.,E
+1039,GW52,T2160,Die Manhattan Bridge is nog nooit herbou nie.,N
+1040,GW52,T2160,Die Manhattan Bridge het meer as 100.000 voertuie elke dag deur dit.,C
+1041,GW63,T2160,Daar is geen tol vir die lengte van 6855 voet van die Manhattan Bridge.,E
+1042,GW63,T2160,Die Manhattan Bridge is die enigste brug wat deur die New York City Department of Transportation onderhou word.,N
+1043,GW63,T2160,Die bou van die Manhattan Bridge het minder as 5 jaar geneem.,C
+1044,GW86,T2161,Mawlid is 'n openbare vakansie in meer as dertig lande.,E
+1045,GW86,T2161,Mawlid word elke jaar op 10 of 15 November gevier.,N
+1046,GW86,T2161,Mawlid word uitsluitlik gevier deur aanhangers van Sunni en Shia Islam.,C
+1047,GW52,T2161,Mawlid het verskillende waargeneem datums afhangende van die Sunni of Shia agtergrond.,E
+1048,GW52,T2161,Mawlid word in verskeie kontinente gevier.,N
+1049,GW52,T2161,Mawlid is 'n Hindoe-gebaseerde gebeurtenis.,C
+1050,GW28,T2161,Mawlid is 'n Islamitiese waarneming wat verband hou met die geboorte van Mohammed.,E
+1051,GW28,T2161,Mawlid is die gewildste Islamitiese vakansie in die wêreld.,N
+1052,GW28,T2161,“Mawlid” word ook in Christelike lande gevier.,C
+1053,GW74,T2162,Die krag- en koppel-uitvoer het verskeie van meer as 150,E
+1054,GW74,T2162,Mazda J motor Power output word bepaal deur Torque output,N
+1055,GW74,T2162,Blok materiaal en kop materiaal is dieselfde soort materiaal,C
+1056,GW19,T2162,Die Mazda J-motor het 'n paar verskillende valvetrain-konfigurasies.,E
+1057,GW19,T2162,Die Mazda J-motor is die sterkste motor wat deur Mazda vervaardig word.,N
+1058,GW19,T2162,Die V8 Mazda J-motor is een van die sterkste motors wat in Japan vervaardig word.,C
+1059,GW52,T2162,Sommige Mazda J-motors genereer meer as 200 horsepower.,E
+1060,GW52,T2162,"Die Mazda J-motor word vandag nog steeds gebruik,",N
+1061,GW52,T2162,Mazda J se koppeluitvoer is altyd hoër as sy HP,C
+1062,GW74,T2163,Die gewone aanvang van roos is gemiddeld langer as duur,E
+1063,GW74,T2163,Feber voorkom 10 dae na blootstelling,N
+1064,GW74,T2163,Daar is die helfte van die sterftes in 2015 as die frekwensie van roos,C
+1065,GW52,T2163,Die Measles begin en duur is ongeveer drie weke in totaal.,E
+1066,GW52,T2163,Measles bied dieselfde manier vir alle getroffene individue.,N
+1067,GW52,T2163,Die sterftes van roos oorskry 100 000 per jaar.,C
+1068,GW4,T2163,Daar is 'n vaksine wat mense kan voorkom om Measles te kry.,E
+1069,GW4,T2163,Meesles is 'n siekte wat op sy eie kan verdwyn.,N
+1070,GW4,T2163,Measles dood meer as 20% van die mense wat dit kry.,C
+1071,GW74,T2164,"Iemand wat die MCAT neem, kan dit in Januarie, Junie en weer in Augustus in 2017 neem, maar nie weer in September nie.",E
+1072,GW74,T2164,Meer mense het die MCAT in die VSA as in Kanada geneem,N
+1073,GW74,T2164,Iemand kan die MCAT 4 keer in 2017 tussen Januarie en Februarie neem,C
+1074,GW106,T2164,Die Vereniging van Amerikaanse Mediese Kollege het die MCAT aangebied sedert die laat 1920's.,E
+1075,GW106,T2164,Biologie majors score gewoonlik hoër as Fisika majors op die MCAT eksamen.,N
+1076,GW106,T2164,In Kanada word die MCAT aangebied in beide Engels en Frans vir toetsers.,C
+1077,GW28,T2164,"Medical College Toelating Test word deur verskeie lande gebruik, maar word slegs in Engels gegee.",E
+1078,GW28,T2164,Medical College Toelating Test is die mees gerespekteerde toets wat deur mediese kolleges gebruik word.,N
+1079,GW28,T2164,Die Medical College Toelating Test is gratis en oop vir almal wat aansoek doen.,C
+1080,GW89,T2165,Die MGM Grand Las Vegas is amper 26 jaar gelede geopen.,E
+1081,GW89,T2165,Op grond van die aantal kamers is die MGM Grand een van die grootste hotelle in Las Vegas.,N
+1082,GW89,T2165,Die MGM Grand is in 2001 herbou.,C
+1083,GW52,T2165,Die MGM Grand is meer as 25 jaar oud.,E
+1084,GW52,T2165,Die MGM Grand word tans herstel.,N
+1085,GW52,T2165,Die MGM Grand het meer as 7000 kamers.,C
+1086,GW28,T2165,MGM Grand Las Vegas is al meer as twee dekades in bedryf met verskeie renoverings.,E
+1087,GW28,T2165,MGM Grand Las Vegas maak jaarliks miljarde dollars in wins.,N
+1088,GW28,T2165,MGM Grand Las Vegas het tien jaar na die opening 'n renovering ondergaan.,C
+1089,GW25,T2166,MicroBee is 'n huishoudelike rekenaarstelsel wat in kitvorm verkoop is vir $ 399.,E
+1090,GW25,T2166,"Alhoewel die 16 kB of 32 kB geheue klein is, is die monotone klankgenerator & luidspreker vir die tyd baie goed beskou.",N
+1091,GW25,T2166,Die MicroBee is eers in 1982 geïntroduceer en in 1992 gestop na 'n tien-jaar loop.,C
+1092,GW52,T2166,Die MicroBee was in produksie vir byna 'n dekade.,E
+1093,GW52,T2166,Die MicroBee was 'n gewilde huishoudelike rekenaar.,N
+1094,GW52,T2166,Die MicroBee het verskeie CPU's gehad.,C
+1095,GW4,T2166,MicroBee was 8 jaar lank op die mark.,E
+1096,GW4,T2166,MicroBee kon miljoene eenhede verkoop.,N
+1097,GW4,T2166,Die MicroBee het altyd op Unix hardloop.,C
+1098,GW106,T2167,Over-the-counter medikasie kan soms effektief wees in die behandeling van migrainehoofpyn.,E
+1099,GW106,T2167,Die risiko van migreenhoofpyn verhoog met die hoeveelheid oestrogeen in 'n mens se stelsel.,N
+1100,GW106,T2167,Brain tumors is 'n voorste oorsaak van migraine hoofpyn.,C
+1101,GW86,T2167,Migreene het verskeie oorsake en risikofaktore.,E
+1102,GW86,T2167,Migraine voorkom soms in manne.,N
+1103,GW86,T2167,Migraine is ook bekend as spanning hoofpyn en cluster hoofpyn.,C
+1104,GW28,T2167,Migreene beïnvloed gewoonlik vroue en kan 'n lewenslange toestand wees.,E
+1105,GW28,T2167,"Migreene as hulle onbehandeld bly, kan lei tot selfmoord.",N
+1106,GW28,T2167,Migreene kan behandel word met massage terapie en chirurgie.,C
+1107,GW106,T2168,Die verwyderbare opslag van die Moto G kan uitgebrei word met 'n 16 GB microSDXC.,E
+1108,GW106,T2168,"Die Moto G was die beste verkoop toestel in Motorola se derde generasie toestelle, wat ook die Moto X Style en die Moto X Play ingesluit het.",N
+1109,GW106,T2168,Die laaste OS wat beskikbaar was vir die Moto G was Android 7.0 Nougat.,C
+1110,GW19,T2168,Die derde generasie Moto G kon gebruikers die geheue uitbrei deur middel van 'n microSD-kaart slot.,E
+1111,GW19,T2168,Volgende geslagte van die 3de generasie Moto G het groter opslag opsies aangebied.,N
+1112,GW19,T2168,Die derde generasie Moto G is die nuutste aanbod van die vervaardiger.,C
+1113,GW52,T2168,Die Moto G is 'n telefoon wat gestop is.,E
+1114,GW52,T2168,Die Moto G word vandag nog ondersteun.,N
+1115,GW52,T2168,Die Moto G het webwerwe vir elke kontinent gehad.,C
+1116,GW1,T2169,In 2015 het multiple sklerose tot minder as 20 000 sterftes gelei.,E
+1117,GW1,T2169,Daar is verskeie oorsake van multiple sklerose.,N
+1118,GW1,T2169,Multiple sklerose het slegs 'n paar simptome.,C
+1119,GW63,T2169,"Middeleeue mense wat multiple sklerose het, word voorspel om 5-10 jaar korter te leef as normale mense.",E
+1120,GW63,T2169,Multiple sklerose kan slegs deur 'n neuroloog behandel word.,N
+1121,GW63,T2169,"Die frekwensie van mense wat in 2015 deur multiple sklerose geraak is, was twee keer die aantal sterftes wat daaruit voortgegaan het.",C
+1122,GW108,T2169,Multiple sklerose is 'n neurologiese siekte.,E
+1123,GW108,T2169,Die beïnvloed persoon sal probleme met beide sensasie en koordinasie hê.,N
+1124,GW108,T2169,Multiple sklerose kan by jong kinders verskyn.,C
+1125,GW4,T2170,Die Nash balans is genoem vir die persoon wat dit gevind het.,E
+1126,GW4,T2170,Die Nash-balans bestaan al meer as 20 jaar.,N
+1127,GW4,T2170,Die Nash balans is goed vir koöperatiewe speletjies.,C
+1128,GW86,T2170,Nash balans geld altyd vir speletjies wat nie samewerking behels nie.,E
+1129,GW86,T2170,Nash balans is van toepassing op sommige speletjies wat samewerking behels.,N
+1130,GW86,T2170,Nash balans het geen verband met gekorreleerde balans nie.,C
+1131,GW60,T2170,"Nash balans bevat skudende hand perfek, maar nie epsilon-balans.",E
+1132,GW60,T2170,Epsilon-balans word in alle nie-koöperatiewe speletjies gebruik.,N
+1133,GW60,T2170,"Nash balans bevat epsilon-balans, maar nie 'n skudende hand perfek nie.",C
+1134,GW4,T2171,Die Nasionale Eligibiliteit Cum Toetredingstest is belangrik in Indië om in die kollege te kom.,E
+1135,GW4,T2171,Die Nasionale Eligibiliteit Cum Toetredingstest neem jare om te studeer.,N
+1136,GW4,T2171,Die Nasionale Eligibiliteit Cum Toetredingstest word op 'n laptop geneem.,C
+1137,GW28,T2171,Die Nasionale Eligibiliteit Cum Toetredingstest is 'n eksamen vir toelating tot Indiese kolleges.,E
+1138,GW28,T2171,Die Nasionale Eligibiliteit Cum Toetredingstest is gratis om te neem.,N
+1139,GW28,T2171,Nasionale Eligibiliteit cum Toetredingstest word aangebied in verskeie tale en geneem oor verskeie dae.,C
+1140,GW52,T2171,Die NEET (UG) het 'n negatiewe tellingbereik.,E
+1141,GW52,T2171,Die NEET se resultate is goed vir 'n lewe.,N
+1142,GW52,T2171,Die NEET (UG) plaasvind in die Verenigde State.,C
+1143,GW28,T2172,Kaart van die ou National Highway 2 in rooi is geleë in New Delhi en Kolkata.,E
+1144,GW28,T2172,Kaart van die ou National Highway 2 in rooi het tolgae om fooie in te samel.,N
+1145,GW28,T2172,Kaart van die ou National Highway 2 in rooi verbind 'n handvol plekke.,C
+1146,GW4,T2172,Die kaart van die ou National Highway 2 in rooi dek meer as 500 myl pad.,E
+1147,GW4,T2172,Die kaart van die ou National Highway 2 in rooi is na 2000 voltooi.,N
+1148,GW4,T2172,Die kaart van die ou National Highway 2 in rooi dek slegs twee hoof motorweë.,C
+1149,GW74,T2172,Daar is meer primêre bestemmings as state,E
+1150,GW74,T2172,Die Ou Nasionale Highway word meer in Haryana as enige ander staat gereis,N
+1151,GW74,T2172,Delhi het 1/3 van die totale lengte van die Oude Nasionale Highway,C
+1152,GW28,T2173,Navaratri is 'n meerdaagse Hindoe-fees.,E
+1153,GW28,T2173,Navaratri vierings bied vuurwerk en bodypaint.,N
+1154,GW28,T2173,Navaratri word elke jaar dieselfde week gevier.,C
+1155,GW86,T2173,Navaratri duur meer as 'n week.,E
+1156,GW86,T2173,Hindoes neem tyd van werk tyd tydens Navaratri.,N
+1157,GW86,T2173,Navaratri word elke jaar op dieselfde datums waargeneem.,C
+1158,GW1,T2173,Navaratri duur meer as 'n week lank.,E
+1159,GW1,T2173,Die lengte van Navaratri was altyd 9 dae.,N
+1160,GW1,T2173,Navaratri gebeur altyd in die somer.,C
+1161,GW28,T2174,Nissan BD Engine het 'n brandstofspuit en 'n koelsysteem.,E
+1162,GW28,T2174,Nissan BD Engine is ontwerp deur die Japannese.,N
+1163,GW28,T2174,Nissan BD Engine word aangedryf deur litium-ion batterye en gekoel deur wind.,C
+1164,GW19,T2174,Die Nissan BD-motor is nie 'n V8-motor nie.,E
+1165,GW19,T2174,"Die koelingstelsel wat gebruik word vir die Nissan BD-motor, is",N
+1166,GW19,T2174,Die Nissan BD motor is 'n kragtige elektriese motor.,C
+1167,GW52,T2174,Nissan BD Engine pos 'n krag output van net minder as 100 pk.,E
+1168,GW52,T2174,Die Nissan BD-motor is nog steeds in gebruik.,N
+1169,GW52,T2174,Die Nissan BD motor is 'n V6.,C
+1170,GW86,T2175,Die Nokia 9 PureView het verskeie kameras.,E
+1171,GW86,T2175,Die Nokia 9 PureView gebruik 'n aanraakscherm.,N
+1172,GW86,T2175,Die Nokia 9 PureView het eers meer as 'n jaar gelede beskikbaar geword.,C
+1173,GW28,T2175,Nokia 9 PureView is 'n slimfoon met voor- en agterkamer.,E
+1174,GW28,T2175,Nokia 9 PureView verkoop vir meer as $ 1000.,N
+1175,GW28,T2175,Nokia 9 PureView is 'n flip-telefoon met 'n uitbreidbare antenna.,C
+1176,GW106,T2175,Die Nokia 9 Pureview het 'n skerm wat minder as 6 duim is.,E
+1177,GW106,T2175,"Foxconn het beide die Nokia 9 Pureview en sy voorganger, die Nokia 8 Sirocco, vervaardig.",N
+1178,GW106,T2175,Die Nokia 9 PureView hardloop natief op die Android Oreo-platform.,C
+1179,GW28,T2176,Nowruz is 'n Nuwe Jaar vakansie in sekere dele van die Midde-Ooste en Asië.,E
+1180,GW28,T2176,Nowruz word gevier deur wapens in die lug te skiet.,N
+1181,GW28,T2176,Nowruz land op verskillende datums elke jaar.,C
+1182,GW74,T2176,Nowruz val op dieselfde datum in 2018 en 2019,E
+1183,GW74,T2176,Meer mense in Irak vier Nowruz as in Israel,N
+1184,GW74,T2176,Nowruz is op 'n naweek in 2019 en 2021,C
+1185,GW86,T2176,Nowruz word in meer as 20 lande gevier.,E
+1186,GW86,T2176,Nowruz val gewoonlik op 20 Maart.,N
+1187,GW86,T2176,Nowruz is 'n godsdienstige vakansie.,C
+1188,GW28,T2177,NWFB Route 8 is 'n busroete wat sy reis in minder as 'n uur voltooi,E
+1189,GW28,T2177,NWFB Route 8 reis 'n circuitous roete rondom die eiland.,N
+1190,GW28,T2177,Waak tyd vir NWFB Route 8 is 30 minute as gevolg van sy 30km roete.,C
+1191,GW60,T2177,NWFB Route 8 het 'n alternatiewe roete.,E
+1192,GW60,T2177,NWFB Route 8 loop noord na suide.,N
+1193,GW60,T2177,New World First Bus bedryf ook die MTR Island Line,C
+1194,GW12,T2177,NWFB Route 8 begin in Heng Fa Chuen en eindig in Wan Chai Noord.,E
+1195,GW12,T2177,"NWFB Route 8 het twee mededingers, die MTR Island lyn en NWFB Route N8.",N
+1196,GW12,T2177,NWFB Route 8 is die enigste roete na Wan Chai Noord.,C
+1197,GW86,T2178,Obsessiewe-kompulsiewe versteuring kan tot die dood lei.,E
+1198,GW86,T2178,Obsessiewe-kompulsiewe versteuring vereis behandeling met medikasie.,N
+1199,GW86,T2178,Obsessiewe-kompulsiewe versteuring het 'n duidelike oorsaak.,C
+1200,GW28,T2178,Obsessiewe-kompulsiewe versteuring is 'n psigiatriese toestand wat gewoonlik voorkom in jonger volwassenes na jare van misbruik.,E
+1201,GW28,T2178,Obsessiewe-kompulsiewe versteuring is 'n maklik behandelbare toestand.,N
+1202,GW28,T2178,Obsessiewe-kompulsiewe versteuring kan behandel word met olies en geure.,C
+1203,GW52,T2178,OCD voorkom in meer as 2% van die bevolking.,E
+1204,GW52,T2178,Die begin van OCD kan baie verskil.,N
+1205,GW52,T2178,OCD het bekende oorsake.,C
+1206,GW60,T2179,Die 2019-festival vind later in die jaar plaas as die 2018-festival.,E
+1207,GW60,T2179,Chingham is 60 dae lank.,N
+1208,GW60,T2179,Die festival is 'n verskillende aantal dae elke jaar.,C
+1209,GW74,T2179,"Onam, Thiruvonam plaasvind tydens 'n ander maand in 2019 as in 2018",E
+1210,GW74,T2179,"Alle Hindoes neem deel aan die Tug van Oorlog in die waarneming van Onam, Thiruvonam",N
+1211,GW74,T2179,"Onam, Thiruvonam begin en eindig op dieselfde dag van die week op 2019",C
+1212,GW28,T2179,"Onam, Thiruvonam is 'n Hindoe-godsdienstige fees wat elke jaar op verskillende datums val.",E
+1213,GW28,T2179,"Onam, Thiruvonam word slegs deur Hindoes in Indië gevier.",N
+1214,GW28,T2179,"Onam, Thiruvonam is 'n festival wat deur Pakistaniers gevier word.",C
+1215,GW52,T2180,"Die Oregon, California and Eastern Railway is meer as 60 myl lank.",E
+1216,GW52,T2180,"Die Oregon, California and Eastern Railway loop die hele dag.",N
+1217,GW52,T2180,"Die Oregon, California and Eastern Railway plaasvind oor die hele Oregon.",C
+1218,GW28,T2180,"Oregon, Kalifornië en Eastern Railway dien verskeie stasies.",E
+1219,GW28,T2180,"Oregon, California and Eastern Railway is elke jaar van sy bestaan winsgewend.",N
+1220,GW28,T2180,"Oregon, California and Eastern Railway brei sy dienste na die oostkust van Amerika uit.",C
+1221,GW86,T2180,"Die Oregon, California and Eastern Railway is soms bekend deur 'n ander naam.",E
+1222,GW86,T2180,"Die Oregon, California and Eastern Railway is tans in werking.",N
+1223,GW86,T2180,"Die Oregon, California and Eastern Railway is meer as 70 myl lank.",C
+1224,GW28,T2181,Suurstof is 'n kleurlose gas.,E
+1225,GW28,T2181,Suurstof is deel van die ozonlaag.,N
+1226,GW28,T2181,Suurstof is vernoem na die wetenskaplike wat sy eienskappe bestudeer het.,C
+1227,GW12,T2181,'Suurstof' is 'n gas met 'n atomiese getal van 8.,E
+1228,GW12,T2181,Antoine Lavoisier het die gas as suurstof in 1777 genoem.,N
+1229,GW12,T2181,Die kookpunt en smeltpunt van suurstof is presies dieselfde.,C
+1230,GW1,T2181,Suurstof is in die 18de eeu genoem.,E
+1231,GW1,T2181,Suurstof is ontdek op dieselfde tyd dat dit genoem is.,N
+1232,GW1,T2181,Suurstof het 'n dichtheid (by STP) onder 1 g/L.,C
+1233,GW74,T2182,Daar is meer werknemers as daar is plekke van Panda Express,E
+1234,GW74,T2182,"Andrew Cherng is oorspronklik uit Glendale, Kalifornië",N
+1235,GW74,T2182,Panda Express is hoofkwartier in dieselfde stad waar dit gestig is,C
+1236,GW60,T2182,Panda Express is nie aktief in Europa nie.,E
+1237,GW60,T2182,Panda Express is die enigste dochteronderneming van Panda Restaurant Group.,N
+1238,GW60,T2182,Panda Express is hoofkwartier in dieselfde stad waar dit gestig is.,C
+1239,GW28,T2182,Panda Express het duisende plekke regoor die wêreld.,E
+1240,GW28,T2182,Panda Express is elke jaar winsgewend sedert sy oprichting.,N
+1241,GW28,T2182,Panda Express is in Europa gestig en het plekke regoor Europa.,C
+1242,GW4,T2183,Parkinson se siekte kan met medisyne behandel word.,E
+1243,GW4,T2183,Parkinson se siekte lei altyd tot skud in mense.,N
+1244,GW4,T2183,Iemand met Parkinson se siekte sal 'n normale lang lewe leef.,C
+1245,GW3,T2183,"simptome van Parkinson se siekte soos skud, rigiditeit, traagheid van beweging en moeilikheid om te loop word behandel met dopamien agoniste",E
+1246,GW3,T2183,Demensie is altyd 'n komplikasie van Parkinson se siekte,N
+1247,GW3,T2183,Parkinson se siekte is 'n psigiatriese siekte,C
+1248,GW52,T2183,Parkinson se siekte raak meer as ses miljoen mense per jaar.,E
+1249,GW52,T2183,Parkinson kan op enige ouderdom begin.,N
+1250,GW52,T2183,Parkinson pasiënte het nie 'n korter lewensverwagting nie.,C
+1251,GW12,T2184,Paryushana is 'n viering wat deur Jains waargeneem word.,E
+1252,GW12,T2184,Die waarneming van Paryushana behels om na die Jain-tempel te gaan en te vast.,N
+1253,GW12,T2184,Paryushana word ook Das Lakshana en Samvatsari genoem.,C
+1254,GW52,T2184,Paryushana is 'n viering wat deur vasting waargeneem word.,E
+1255,GW52,T2184,“Paryushana” word waargeneem deur Hindoes.,N
+1256,GW52,T2184,Paryushana het dieselfde lengte tyd vir enige viering.,C
+1257,GW19,T2184,Paryushana is 'n vakansie wat deur Jains waargeneem word wat godsdienstige konnotasies het.,E
+1258,GW19,T2184,Paryushana is die heiligste dag vir lede van die Jain geloof.,N
+1259,GW19,T2184,Paryushana is 'n nasionale vakansie wat deur die hele Indiese subkontinent waargeneem word.,C
+1260,GW52,T2185,Die Pau-Cranfranc spoorweg is in die 20ste eeu geopen,E
+1261,GW52,T2185,Die spoorweg het sedert die opening nie herstel ondergaan nie.,N
+1262,GW52,T2185,Die spoorweg is oop gebly sedert dit vir die eerste keer in 1928 geopen is.,C
+1263,GW28,T2185,Die spoorweg Pau-Canfranc het sedert die opening nie ononderbroken gevoer nie.,E
+1264,GW28,T2185,Die Pau-Canfranc spoorweg loop deur verskeie Europese lande.,N
+1265,GW28,T2185,Die spoorweg Pau-Canfranc is sedert sy opening voortdurend bedryf.,C
+1266,GW60,T2185,Pau-Canfranc spoorweg is elektrifiseer dieselfde jaar wat dit geopen is.,E
+1267,GW60,T2185,TER Aquitaine was die spoorwegbestuurder vir sy hele bestaan.,N
+1268,GW60,T2185,Die spoorweg is sedert 1928 meer jaar gesluit as oop.,C
+1269,GW1,T2186,In 2018 was Pentekos in die lente.,E
+1270,GW1,T2186,Pentekoste is vroeër bekend as Whitsunday.,N
+1271,GW1,T2186,In 2020 sal “Pentecost” in die val wees.,C
+1272,GW74,T2186,Pentekos datum is 11 dae later in die Weste as in 2020 as in 2018.,E
+1273,GW74,T2186,Oosterse Orthodoxe waarneem Heilige Kommunie op,N
+1274,GW74,T2186,Pentekos val op dieselfde datum Paasfees in 2019 as 2020,C
+1275,GW106,T2186,Pentacost gebeur jaarliks tydens die lente.,E
+1276,GW106,T2186,Pentacost val gewoonlik gedurende die maand Junie.,N
+1277,GW106,T2186,Sommige Joodse denominasies hou Whitsunday.,C
+1278,GW28,T2187,'Perfekte Bayesiese evenwicht' is verwant aan die Bayesiese Nash-evenwicht,E
+1279,GW28,T2187,Perfect Bayesian Equilibrium is 'n konsep wat gebruik word om spelteorie te beskryf.,N
+1280,GW28,T2187,Perfect Bayesian Equilibrium is nie geassosieer met of verwant aan speletjies nie.,C
+1281,GW19,T2187,Perfect Bayesian balans is nie die smae soos Bayesian Nash equilibirbium nie.,E
+1282,GW19,T2187,Cho en Kreps het baie jare saam gewerk voordat hulle die konsep van die perfekte Bayesiese equilibirum voorgestel het.,N
+1283,GW19,T2187,Perfect Bayesian equilibirium is die tegniese naam vir die wen van die goudmedalje op die balansbalk.,C
+1284,GW52,T2187,Die perfekte Byesiese balans is 'n soort spel.,E
+1285,GW52,T2187,Die perfekte Bayesiese balans word gebruik in baie kodering.,N
+1286,GW52,T2187,Die perfekte Bayesiese balans is 'n stabiele stelsel.,C
+1287,GW106,T2188,Die PCAT eksamen is beperk tot net minder as drie en 'n half uur lank.,E
+1288,GW106,T2188,'N score van 400 word beskou as 'n geslaag grade op die PCAT eksamen.,N
+1289,GW106,T2188,PCAT punte word gebruik deur baie mediese skool toelating boards regoor die Verenigde State en Kanada.,C
+1290,GW52,T2188,Die PCAT is vir die eerste keer in die 1970's bestuur.,E
+1291,GW52,T2188,Die PCAT se fooi het dieselfde gedurende sy geskiedenis gebly.,N
+1292,GW52,T2188,Die PCAT het 'n negatiewe score maatstaf.,C
+1293,GW89,T2188,Die PCAT word gebruik vir toelating doeleindes vir studente wat na apteek kolleges gaan.,E
+1294,GW89,T2188,Die prys vir die toets is goedkoper vir Kanadese studente.,N
+1295,GW89,T2188,Die PCAT is in 1970 ingevoer.,C
+1296,GW52,T2189,Die Poincaré-veronderstelling het meer as 'n eeu geduur om te bewys.,E
+1297,GW52,T2189,Poincaré-veronderstelling deel gemeenskaplike konsepte met ander veronderstellings.,N
+1298,GW52,T2189,Die Poincaré conjecture is vir die eerste keer in die 19de eeu gepraat.,C
+1299,GW28,T2189,Die Poincaré conjecture is vernoem na Henri Poincare.,E
+1300,GW28,T2189,Poincaré conjecture is 'n onopgeloste wiskundige probleem,N
+1301,GW28,T2189,Die Poincaré conjecture is in 2006 opgelos.,C
+1302,GW25,T2189,Poincaré-veronderstelling is 'n veld van geometriese topologie wat ooreenstem met sferieke ruimtevormveronderstelling.,E
+1303,GW25,T2189,Poincaré-veronderstelling is veronderstel deur Henri Poincaré wat die veld van geometriese topologie gevestig het.,N
+1304,GW25,T2189,Poincaré-veronderstelling is in die veld van geometriese topologie en is ooreenstem met die Zeeman-veronderstelling.,C
+1305,GW52,T2190,Polio raak minder as 200 mense per jaar.,E
+1306,GW52,T2190,“Polio” is grotendeels uitgeroeid.,N
+1307,GW52,T2190,Polio neem weke om simptome te toon.,C
+1308,GW28,T2190,Polio is 'n besmettelike siekte wat voorkom en geneesbaar is.,E
+1309,GW28,T2190,Die polio vaksine is 'n duur behandeling.,N
+1310,GW28,T2190,Polio is sedert die 20ste eeu uitgeroei.,C
+1311,GW74,T2190,By 136 mense in 2018 het moontlik 'n spierswakte ervaar wat lei tot 'n onvermoë om te beweeg,E
+1312,GW74,T2190,Die polio-virus is in die ontlasting van 136 mense in 2016 gevind,N
+1313,GW74,T2190,Muskelswakte wat lei tot 'n onvermoë om na 'n paar minute te beweeg,C
+1314,GW105,T2191,Potassium is geneig om soos 'n silwergrys te lyk.,E
+1315,GW105,T2191,Potassium het 'n honderd verskillende gebruik.,N
+1316,GW105,T2191,Potassium word in 'n laboratorium geskep.,C
+1317,GW12,T2191,Potassium het 'n silwergrys voorkoms en 'n atomiese nommer van 19.,E
+1318,GW12,T2191,Humphry Davy het kalium vir die eerste keer in die vroeë 1800's ontdek.,N
+1319,GW12,T2191,Die Mohs hardheid en die Brinell hardheid is dieselfde waarde.,C
+1320,GW52,T2191,Potassium was een van die eerste 20 elemente wat ontdek is.,E
+1321,GW52,T2191,Potassium word vandag in baie kosse gevind.,N
+1322,GW52,T2191,Potassium is vir die eerste keer in die 18de eeu ontdek.,C
+1323,GW86,T2192,“Psigiatrie” is mediese spesialiste.,E
+1324,GW86,T2192,“Psigiaters” is dokters.,N
+1325,GW86,T2192,Vandag word psigiaters ook alieniste genoem.,C
+1326,GW60,T2192,'N Psigiater is ook 'n mediese professionele.,E
+1327,GW60,T2192,"'N Psigiater moet al 'n MD, en MBBS, en 'n DO het.",N
+1328,GW60,T2192,'N Psigiater vereis geen opleiding in medisyne nie.,C
+1329,GW28,T2192,'N Psigiater benodig 'n hoë vlak van opvoeding en positiewe eienskappe.,E
+1330,GW28,T2192,Psigiater is geneig om hul eie praktyk te oopmaak.,N
+1331,GW28,T2192,“Psigiaters” is nie mediese dokters nie.,C
+1332,GW52,T2193,Die M8s is verlede jaar geopen.,E
+1333,GW52,T2193,Die M8s is in 'n kwessie van 'n jaar gebou.,N
+1334,GW52,T2193,Die M8s oorskry 60 mph.,C
+1335,GW19,T2193,"Die Pujiang-lyn, deel van Shanghai se openbare vervoerstelsel, het minder as 10 stasies.",E
+1336,GW19,T2193,Shanghai se openbare vervoer metro stelsel is heeltemal bo die grond.,N
+1337,GW19,T2193,"Ten spyte van sy ekonomiese groei in die afgelope 20 jaar, het China nog nie openbare vervoerstelsels in sy groot stede gebou nie.",C
+1338,GW28,T2193,Pujiang lyn is 'n openbare vervoer metro geleë in Shanghai,E
+1339,GW28,T2193,Die Pujiang lyn is die nuutste lyn in die Shanghai-metro stelsel.,N
+1340,GW28,T2193,Die Pujiang-lyn bedryf met binnelandse treinwagte.,C
+1341,GW52,T2194,Kraak veroorsaak meer as 17 000 sterftes per jaar.,E
+1342,GW52,T2194,“Rabies” het tans geen genesing nie.,N
+1343,GW52,T2194,Die diagnose rabies waarborg die dood.,C
+1344,GW4,T2194,Rabies eindig gewoonlik met die doodmaak van diere wat dit kry.,E
+1345,GW4,T2194,Rabies kan mense in die mond schuim.,N
+1346,GW4,T2194,Rabies kan met 'n skoot genees word.,C
+1347,GW28,T2194,"Rabies is 'n besmettelike siekte wat behandelbaar is, maar dikwels dodelik.",E
+1348,GW28,T2194,“Rabies” kan ook tussen mense oorgedra word.,N
+1349,GW28,T2194,Rabies veroorsaak blindheid en diarree.,C
+1350,GW60,T2195,Die 2018 Raksha Bandhan het later in die jaar plaasgevind as die 2019 Raksha Bandhan.,E
+1351,GW60,T2195,Bhai Duj voorkom op dieselfde datum as Raksha Bandhan.,N
+1352,GW60,T2195,Rakri is nie verwant aan Bhai Tika nie.,C
+1353,GW52,T2195,Raksha Bandhan is 'n holistiese vakansie.,E
+1354,GW52,T2195,Raksha Bandhan gebeur altyd in Augustus.,N
+1355,GW52,T2195,Raksha Bandhan word waargeneem deur die hele Asië.,C
+1356,GW4,T2195,Raksha Bandhan gebeur altyd op die 8de mot van die jaar.,E
+1357,GW4,T2195,“Raksha Bandhan” word gewoonlik in Indië gevier.,N
+1358,GW4,T2195,Raksha Bandhan word elke jaar op dieselfde datum gehou.,C
+1359,GW95,T2196,Ramadan is 'n maand per jaar.,E
+1360,GW95,T2196,Moslems lees die Koran voordat hulle elke dag begin vast.,N
+1361,GW95,T2196,Die ramadan gebeur in die winter.,C
+1362,GW28,T2196,"Ramadan is 'n Moslemdag wat elke jaar op verskillende dae val, afhangende van die land.",E
+1363,GW28,T2196,Ramadan is die heiligste viering vir Moslems.,N
+1364,GW28,T2196,Ramadan word op 'n dag in die jaar gevier.,C
+1365,GW52,T2196,Ramadan is 'n jaarlikse gebeurtenis.,E
+1366,GW52,T2196,Die roetine van Ramadan is dieselfde vir almal wat dit beoefen.,N
+1367,GW52,T2196,Ramadan gebeur op dieselfde tyd vir almal wat betrokke is.,C
+1368,GW1,T2197,“Rama Navami” gebeur een keer per jaar.,E
+1369,GW1,T2197,“Rama Navami” is en was altyd in die lente.,N
+1370,GW1,T2197,“Rama Navami” gebeur in die geval.,C
+1371,GW52,T2197,“Rama Navami” gebeur een keer per jaar.,E
+1372,GW52,T2197,“Rama Navami” word deur die hele Hindoe kultuur beoefen.,N
+1373,GW52,T2197,“Rama Navami” plaasvind elke jaar op dieselfde dag.,C
+1374,GW19,T2197,Hindoes vier die geboorte van Rama by die afsluiting fo Chaitra Navrati,E
+1375,GW19,T2197,Chaitra Navrati is een van die heiligste dae vir Hindoes,N
+1376,GW19,T2197,Chaitra Navrati is 'n maand lank viering wat deur Hindoes en Boeddhiste waargeneem word.,C
+1377,GW86,T2198,E Line busse is die meeste van die dag bedryf.,E
+1378,GW86,T2198,E Line ritjies op die dae van die naweek is minder as die ritjies op die dae van die week.,N
+1379,GW86,T2198,Die E Line is 24 uur per dag bedryf.,C
+1380,GW52,T2198,Die E Line is vyf jaar gelede gestig.,E
+1381,GW52,T2198,Die E-lyn is een in 'n reeks nuwe buslynne.,N
+1382,GW52,T2198,Die E Line werk op 'n 24-uur skedule.,C
+1383,GW106,T2198,"Die Aurora Village Transit Center is geleë in King County, Washington.",E
+1384,GW106,T2198,"Die E-lyn het meer bedryfstye as die van Route 358X, wat dit voorafgegaan het.",N
+1385,GW106,T2198,Die E Line bedryf heeltemal binne 'n enkele stad in King County.,C
+1386,GW12,T2199,Gary Rhodes is 'n kok in die formele restaurant genaamd Rhodes W1.,E
+1387,GW12,T2199,Rhodes W1 bied slegs haute cuisine-type maaltye.,N
+1388,GW12,T2199,"Open 24 uur, Rhodes W1 is geleë in Londen, Engeland.",C
+1389,GW52,T2199,Die W1 is nie meer in besigheid nie.,E
+1390,GW52,T2199,Die Rhodes W1 is beskou as 'n suksesvolle besigheid.,N
+1391,GW52,T2199,Die W1 het meer as 50 dekkings.,C
+1392,GW74,T2199,Gary Rhodes voorberei haute cuisine by Rhodes W1,E
+1393,GW74,T2199,Gary Rhodes is van Londen Engeland,N
+1394,GW74,T2199,Gary Rhodes berei hoofsaaklik Franse kombuis,C
+1395,GW52,T2200,REX Richmond Highway Express het vyf jaar gelede in diens begin.,E
+1396,GW52,T2200,REX Richmond Highway Express moet nog nie herbou word nie.,N
+1397,GW52,T2200,REX Richmond Highway Express bedryf die hele uur.,C
+1398,GW28,T2200,REX Richmond Highway Express is al meer as 'n dekade in diens in Virginia.,E
+1399,GW28,T2200,REX Richmond Highway Express kos slegs 'n dollar per rit.,N
+1400,GW28,T2200,REX Richmond Highway Express het al dekades lank verskeie state bedien.,C
+1401,GW74,T2200,Die begin van die REX Richmond Highway Express is ook een van die landmerk dien,E
+1402,GW74,T2200,"Eisenhower Avenue stasie is geleë in Huntington, Virginia",N
+1403,GW74,T2200,REX Richmond Highway Express loop elke 30 minute begin om 4:30 op Saterdag,C
+1404,GW86,T2201,Rickets kan beide fisiese en geestelike afwykings veroorsaak.,E
+1405,GW86,T2201,Rikets behels altyd 'n tekort aan vitamien D.,N
+1406,GW86,T2201,"Rickets is skaars buite Noord-Amerika, Suid-Amerika, Asië en Australië.",C
+1407,GW12,T2201,Rikette voorkom gewoonlik in die kinderjare en kan met vitamien D en kalsium behandel word.,E
+1408,GW12,T2201,Rikette kan gediagnoseer word met bloedtoetse en x-strale.,N
+1409,GW12,T2201,Rickets is 'n celiac-siekte wat slegs in Afrika voorkom.,C
+1410,GW52,T2201,Rickets voorkom tipies by kinders.,E
+1411,GW52,T2201,Chirurgie is nie nodig vir rickets nie.,N
+1412,GW52,T2201,Rickets is seldsame oos van die Atlantiese Oseaan.,C
+1413,GW12,T2202,"Die Rosenheim-Salzburg spoorweg, wat in Bavaria in Duitsland geleë is, het ook die inheemse naam van die Bahnstrecke Rosenheim-Salzburg.",E
+1414,GW12,T2202,Die Rosenheim-Salzburg spoorweg het 13 stasies geleë in Bavaria en Salzburg.,N
+1415,GW12,T2202,Deutsche Bahn Austrian Federal Railways is beide eienaar en bediener van die Rosenheim-Salzburg spoorweg.,C
+1416,GW63,T2202,Meer as 10 stasies werk nog in die Rosenheim-Salzburg spoorweg,E
+1417,GW63,T2202,Die Rosenheim-Salzburg spoorweg het nog nooit die spoed van 99 mph oorskry nie.,N
+1418,GW63,T2202,Drie-spoorlane word vir 'n lengte van 90 km op die Rosenheim-Salzburg-spoorlyn gelê,C
+1419,GW52,T2202,Die Rosenheim-Salzburg spoorweg bereik spoed van byna 100 mph.,E
+1420,GW52,T2202,Die Rosenheim-Salzburg spoorweg het altyd 13 stasies gehad.,N
+1421,GW52,T2202,Die Rosenheim-Salzburg spoorweg is onlangs gesluit.,C
+1422,GW86,T2203,Die Samsung Galaxy Note9 het verskeie kameras.,E
+1423,GW86,T2203,Die Samsung Galaxy Note9 word nog steeds vervaardig.,N
+1424,GW86,T2203,Die Samsung Galaxy Note9 is die nuutste model in 'n reeks toestelle.,C
+1425,GW52,T2203,Die Samsung Galaxy Note9 is verlede jaar vir die eerste keer vrygestel.,E
+1426,GW52,T2203,Die Samsung Galaxy Note9 is nog in produksie.,N
+1427,GW52,T2203,Die Samsung Galaxy Note9 was die eerste in die Note-reeks.,C
+1428,GW106,T2203,Gebruikers kan met hul Galaxy Note 9 kommunikeer deur die Bixby-knoppie te druk of die S Pen te gebruik.,E
+1429,GW106,T2203,Die model nommer vir die AT&T-variant van die Galaxy Note 9 in die Verenigde State is SM-N960A.,N
+1430,GW106,T2203,Die Galaxy Note 9 het die vermoë verkry om op 5G-netwerke te hardloop na 'n sagteware-update in Desember 2018.,C
+1431,GW52,T2204,Die San Francisco-Oakland Bay-brug is in die 1930's geopen.,E
+1432,GW52,T2204,Die San Francisco-Oakland Bay-brug het oor die jare herstel ondergaan.,N
+1433,GW52,T2204,Die San Francisco-Oakland Bay-brug het elke dag minder as 100 000 motors.,C
+1434,GW4,T2204,Die San Francisco-Oakland Bay-brug bestaan al meer as 80 jaar.,E
+1435,GW4,T2204,Die San Francisco-Oakland Bay-brug het altyd dieselfde bedrag om te kruis.,N
+1436,GW4,T2204,Die San Francisco-Oakland Bay-brug het slegs 10 000 mense per dag.,C
+1437,GW86,T2204,Die konstruksie van die San Francisco-Oakland Bay-brug het meer as 3 jaar geneem.,E
+1438,GW86,T2204,"Die hoogste clearance hierbo op enige punt op die San Francisco-Oakland Bay Bridge is 14,67 voet.",N
+1439,GW86,T2204,Die totale lengte van die oostelike deel van die San Francisco-Oakland Bay Bridge is groter as die totale lengte van die Weste.,C
+1440,GW74,T2205,Die SAT word wêreldwyd in Engels aangebied.,E
+1441,GW74,T2205,Die SAT $ 60 in Kanada,N
+1442,GW74,T2205,Dit is moontlik om 'n score van 900 in wiskunde te kry,C
+1443,GW4,T2205,Die SAT word persoonlik op papier geneem.,E
+1444,GW4,T2205,Die SAT eindig met miljoene dollars per era.,N
+1445,GW4,T2205,Die SAT is in die 1950's uitgevind.,C
+1446,GW28,T2205,Die SAT is 'n gestandaardiseerde toets wat gebruik word vir toelating tot Amerikaanse undergraduate programme.,E
+1447,GW28,T2205,Die SAT is 'n veilige en cheat-proof toets wat deur studente regoor die wêreld geneem word.,N
+1448,GW28,T2205,Die SAT is 'n meerdaagse toets wat in verskeie tale aangebied word.,C
+1449,GW28,T2206,Schizoaffektiewe versteuring is 'n behandelbare psigiatriese toestand,E
+1450,GW28,T2206,Schizoaffektiewe versteuring raak hoofsaaklik vroue.,N
+1451,GW28,T2206,Schizoaffektiewe versteuring word veroorsaak deur omgewingsfaktore.,C
+1452,GW106,T2206,Droggebruik is een van die faktore wat bekend is om die simptome van skisoaffektiewe versteuring soos hallusinasies en delusies te verhoog.,E
+1453,GW106,T2206,Suicide tariewe vir diegene met depressiewe tipe skisoaffektiewe versteuring is laer as diegene wat met bipolêre tipe ly.,N
+1454,GW106,T2206,Stop die gebruik van dwelms kan die skisoaffektiewe versteuring genees.,C
+1455,GW19,T2206,"Ten spyte van vordering in moderne medisyne, psigiaters is nie in staat om die presiese oorsaak van skisofrenie te identifiseer nie.",E
+1456,GW19,T2206,Moodstabilisateurs is meer effektief in die behandeling van bipolêre versteuring as antipsigotiese middels.,N
+1457,GW19,T2206,Vooruitkomste in moderne medisyne het psigiaters toegelaat om skisofrenie met gedragsverandering te behandel.,C
+1458,GW86,T2207,“Schizofrenie” kan lei tot die dood.,E
+1459,GW86,T2207,Schizofrenie voorkom soms in individue ouder as 30.,N
+1460,GW86,T2207,Schizofrenie is 'n akute toestand.,C
+1461,GW106,T2207,Autisme en Schizofrenie deel baie van dieselfde simptome.,E
+1462,GW106,T2207,Mense met skisofrenie het 'n korter as die gemiddelde lewensverwagting slegs as hulle ook ly aan gelyktydige hartsiektes.,N
+1463,GW106,T2207,Die meeste mense met skisofrenie kan nie 'n werk hou nie.,C
+1464,GW52,T2207,Schizofrenie lei tot meer as 15 000 sterftes per jaar.,E
+1465,GW52,T2207,Schizofrenie kan op enige ouderdom begin.,N
+1466,GW52,T2207,Schizofrenie kom nie met 'n korter lewensverwagting nie.,C
+1467,GW60,T2208,"Die SQA het 'n begroting van ongeveer 11,333 pond per personeel.",E
+1468,GW60,T2208,Dave Middleton is lief vir Glasgow.,N
+1469,GW60,T2208,David Middleton praat nie Engels by die werk nie.,C
+1470,GW12,T2208,Inligting oor die SQA kan gevind word op www.sqa.org.uk.,E
+1471,GW12,T2208,"Die Skotse Kwalifikasiestyring, geleë in Skotland, het 'n personeel van 750.",N
+1472,GW12,T2208,David Middleton is die president van die Skotse Kwalifikasiestelsel.,C
+1473,GW52,T2208,Die Skotse Kwalifikasiestelsel het 'n begroting van meer as 10 miljoen.,E
+1474,GW52,T2208,Die SQA kan beskou word as 'n klein besigheid.,N
+1475,GW52,T2208,Die HQ van die SQA is in Engeland.,C
+1476,GW52,T2209,Seoul Subway Line 3 is meer as 30 jaar gelede geopen.,E
+1477,GW52,T2209,Die Seoul Subway Line 3 is nog nooit herbou nie.,N
+1478,GW52,T2209,Seoul Subway Line 3 het dieselfde lynlengte vir alle roetes.,C
+1479,GW74,T2209,daar is 8 meer Koraal stasies as daar is aantal spore,E
+1480,GW74,T2209,Daar was 44 stasies toe Seoul Subway Line 3 in 1985 geopen is.,N
+1481,GW74,T2209,Daar is meer Termini as daar is aantal roetes,C
+1482,GW12,T2209,Die oorspronklike naam van Seoul Subway Line 3 is Sam Hoseon.,E
+1483,GW12,T2209,Die Seoul Subway Line 3 is 'n vinnige transit-metro stelsel wat 3 stasies het.,N
+1484,GW12,T2209,Seoul Subway Line 3 geopen in die winter van 1985.,C
+1485,GW52,T2210,Die Settle-Carlisle-lyn is in die 1870's geopen.,E
+1486,GW52,T2210,Die Settle-Carlisle-lyn het oor die jare in gebruik gedaal.,N
+1487,GW52,T2210,Die lengte van die Settle-Carlisle-lyn is 100 myl.,C
+1488,GW12,T2210,Settle-Carlisle lyn is die hooflyn van die Nasionale Spoorwegstelsel.,E
+1489,GW12,T2210,Noord-West-Engeland is die enigste plek op die Settle-Carlisle-lyn.,N
+1490,GW12,T2210,Network Rail en Neville Hill is eienaars van die Settle-Carlisle-lyn.,C
+1491,GW25,T2210,Die Settle-Carlisle-lyn het 10 stasies geleë in Noord-Engeland.,E
+1492,GW25,T2210,Die Settle-Carlisle-lyn is 'n baie beweegde spoorlyn.,N
+1493,GW25,T2210,Die Settle-Carlisle is in besit van Northern Rail en bied 5 dienste.,C
+1494,GW105,T2211,Oudere burgers is meer in gevaar vir Shingles.,E
+1495,GW105,T2211,Shingles sal vir 3 weke duur.,N
+1496,GW105,T2211,Shingles kan gediagnoseer word deur 'n bloedtoets.,C
+1497,GW52,T2211,Shingles raak 1 van elke 3 mense op 'n oomblik in hul lewe.,E
+1498,GW52,T2211,Shingles het 'n gemeenskaplike begin ouderdom.,N
+1499,GW52,T2211,Shingles neem meer as 'n maand om skoon te maak.,C
+1500,GW25,T2211,Shingles kan voorkom word met 'n vaksine en kan met medikasie behandel word.,E
+1501,GW25,T2211,'N uitbraak van die Varicella zoster-virus is gebaseer op simptome waar 'n pynlike uitslag op die bene verskyn.,N
+1502,GW25,T2211,"Herpes simplex, angina, en insekbitte is die enigste siektes wat geassosieer word met haas.",C
+1503,GW106,T2212,Al die passasiers van Singapore Airlines Vlucht 368 kon die vliegtuig sonder gewonde evakueer.,E
+1504,GW106,T2212,Die vliegtuigbrand wat plaasgevind het tydens Singapore Airlines Vlucht 368 het plaasgevind nadat die vliegtuig geland het.,N
+1505,GW106,T2212,"Die olielek wat die vliegtuigbrand veroorsaak het tydens Singapore Airlines Vlug 368 het kort nadat hy die Malpensa-lughawe verlaat het, plaasgevind.",C
+1506,GW52,T2212,Die ongeluk van SQ368 was nie dodelik nie.,E
+1507,GW52,T2212,Die bemanning van die SQ368 het aangedui dat hulle rook gesien het.,N
+1508,GW52,T2212,Die SQ368 crash het in die 1990's plaasgevind.,C
+1509,GW74,T2212,Daar was meer inwoners as passasiers op Singapore Airlines Vlucht 368,E
+1510,GW74,T2212,Singapore Airlines gebruik altyd 'n Boeing 777-312ER,N
+1511,GW74,T2212,Daar was meer gewonde as sterftes,C
+1512,GW86,T2213,Slaapverlamming word soms geraam in die helfte van die mense.,E
+1513,GW86,T2213,Slaapverlamming vereis altyd mediese behandeling.,N
+1514,GW86,T2213,Slaapverlamming kan tot 'n uur duur.,C
+1515,GW52,T2213,Slaapverlamming beïnvloed moontlik die helfte van die bevolking.,E
+1516,GW52,T2213,Slaapverlamming het in voorspelling met verloop van tyd gegroei.,N
+1517,GW52,T2213,Slaapverlamming kan vir 'n uur duur.,C
+1518,GW28,T2213,Slaapverlamming is 'n tydelike mediese toestand waar mense motorfunksie verloor voor of na slaap.,E
+1519,GW28,T2213,Slaapverlamming beïnvloed meestal vroue.,N
+1520,GW28,T2213,'Slaapverlamming' kan vir dae duur,C
+1521,GW95,T2214,Sosiale werkers het almal na die kollege gegaan.,E
+1522,GW95,T2214,Die meeste sosiale werkers werk in chruches,N
+1523,GW95,T2214,Jy kan 'n sosiale werker wees as jy 'n Associates Degree het,C
+1524,GW28,T2214,Sosiale werk kan lei tot werk in verskillende rolle en organisasies na die verkryging van 'n graad.,E
+1525,GW28,T2214,Sosiale werk is 'n goed betaalde beroep.,N
+1526,GW28,T2214,Sosiale werkers kan werk vind met slegs 'n GED.,C
+1527,GW52,T2214,Sosiale werk huise verskeie grade.,E
+1528,GW52,T2214,Sosiale werk het sedert die twintigste eeu toeneem.,N
+1529,GW52,T2214,Sosiale werk gaan net oor fisiese gesondheid.,C
+1530,GW25,T2215,Humphry Davy het eers Sodium ontdek en geïsoleer wat 'n silwer wit metaalagtige voorkoms het.,E
+1531,GW25,T2215,Die meeste alkali metale het 'n silwer wit metaal voorkoms wat hulle moeilik maak om te onderskei.,N
+1532,GW25,T2215,Natrium het 'n silwer goud metaal voorkoms en 'n genesende natuurlike voorkoms.,C
+1533,GW4,T2215,Natrium is bekend om wit en silwer in kleur te wees.,E
+1534,GW4,T2215,Natrium ontploff wanneer dit met water interaksie maak.,N
+1535,GW4,T2215,Sodium is in die 1500's ontdek.,C
+1536,GW52,T2215,Sodium is vir die eerste keer in die 19de eeu ontdek.,E
+1537,GW52,T2215,Sodium word tans in baie voedsel gebruik.,N
+1538,GW52,T2215,Sodium was een van die eerste 10 elemente wat ontdek is.,C
+1539,GW52,T2216,Die Xperia X8 het in hierdie dekade gedebuteer.,E
+1540,GW52,T2216,Die Xperia X8 is nog steeds in produksie.,N
+1541,GW52,T2216,Die Xperia X8 het 1 GB geheue.,C
+1542,GW86,T2216,Die Sony Ericsson Xperia X8 het 'n groter geheue as die opslagkapasiteit.,E
+1543,GW86,T2216,Die Sony Ericsson Xperia X8 kom met 16 GB verwyderbare opslag.,N
+1544,GW86,T2216,Die Sony Ericsson Xperia X8 is beskikbaar vir meer as 'n dekade.,C
+1545,GW1,T2216,Die Sony Ericsson Xperia X8 het in die somer van 2010 vrygestel.,E
+1546,GW1,T2216,Die Sony Ericsson Xperia X8 het beter klank as die Sony Ericsson Xperia X10 Mini.,N
+1547,GW1,T2216,Die Sony Ericsson Xperia X8 weeg meer as 4 pond.,C
+1548,GW74,T2217,SSC CGL is ontwerp om werk in Regeringsorganisasie in Indië te verseker,E
+1549,GW74,T2217,SSC CGL word elke jaar op dieselfde tyd in Indië aangebied,N
+1550,GW74,T2217,SSC CGL begin in Indië in die 19de eeu,C
+1551,GW4,T2217,Die SSC Combined Graduate Level Examination vereis iemand om eers na die kollege te gaan.,E
+1552,GW4,T2217,Die SSC Combined Graduate Level Examination maak baie geld vir Indië.,N
+1553,GW4,T2217,Die SSC Combined Graduate Level Examination word al meer as 50 jaar beoefen.,C
+1554,GW52,T2217,Die SSC CGL het in die 1970's begin.,E
+1555,GW52,T2217,Die SSC CGL is buite Indië aangebied.,N
+1556,GW52,T2217,Die SSC CGL is gratis vir alle toetsgeneemers.,C
+1557,GW52,T2218,Subgame Perfect Equilibrium word gebruik vir speletjies.,E
+1558,GW52,T2218,Subgame Perfect Equilibrium is 'n onlangse stuk van tegnologie.,N
+1559,GW52,T2218,Die Subgame Perfect Equilibrium kruis met die evolusionêre diverse strategie.,C
+1560,GW28,T2218,Subgame Perfect Equilibrium is 'n strategie wat gebruik word in speletjies.,E
+1561,GW28,T2218,Subgame Perfect Equilibrium is geskep deur 'n Harvard-ekonoom.,N
+1562,GW28,T2218,Subgame Perfect Equilibrium is 'n standalone konsep.,C
+1563,GW12,T2218,"Gebruik vir uitgebreide vorm speletjies, die Ultimatum spel is 'n voorbeeld van Subgame Perfect Equilibrium.",E
+1564,GW12,T2218,Subgame Perfect Equilibrium kruis met Nash se balans.,N
+1565,GW12,T2218,Subgame Perfect Equilibrium is voorgestel deur meer mense as net Reinhard Selten.,C
+1566,GW106,T2219,Die Sudan Airways-vlug 139 het in die somer van 2003 neergestort.,E
+1567,GW106,T2219,Die meeste van die passasiers aan boord van Vlug 139 was burgers van Sudan.,N
+1568,GW106,T2219,Meer as 50% van die bemanning en passasiers aan boord van Vlug 139 is uiteindelik binne 'n paar myl van Khartoum International Airport gered.,C
+1569,GW74,T2219,Die bemanning en passasiers in totaal 117,E
+1570,GW74,T2219,Sudan Airways gebruik slegs Boeing 737-200C,N
+1571,GW74,T2219,Daar was minder sterftes as passasiers,C
+1572,GW12,T2219,Sudan Airways Vlieg 139 was op 8 Julie 2003 na Khartoum International Airport.,E
+1573,GW12,T2219,Sudan Airways Vlug 139 was 'n Boeing met die vliegtuig se naam White Nile.,N
+1574,GW12,T2219,Daar was 117 passasiers en 106 sterftes in die val van Sudan Airways Vlug 139.,C
+1575,GW105,T2220,Sushi Mizutani Restaurant is al elf jaar daar.,E
+1576,GW105,T2220,Hachiro Mizutani persoonlik groet gaste.,N
+1577,GW105,T2220,Grote groepe kan net opstaan om te eet.,C
+1578,GW1,T2220,Sushi Mizutani Restaurant is in die herfs van 2016 gesluit.,E
+1579,GW1,T2220,Reserverings is moeilik om te kry by Sushi Mizutani Restaurant.,N
+1580,GW1,T2220,Sushi Mizutani Restaurant geopen in die somer van 2005.,C
+1581,GW109,T2220,Eienaar handhaaf die dress code is besigheid casual vir alle tye.,E
+1582,GW109,T2220,In hierdie restaurant is die mees waardevolle vir daardie tydperk.,N
+1583,GW109,T2220,Voedsel tipe is nie sushi 'n ander soort kos wat hulle goed moet voorberei.,C
+1584,GW86,T2221,Syncope gebeur gewoonlik vinnig en duur 'n kort tyd.,E
+1585,GW86,T2221,Syncope is gewoonlik die gevolg van 'n hartstoornis.,N
+1586,GW86,T2221,Syncope voorkom in ongeveer 5% van die bevolking.,C
+1587,GW28,T2221,Syncope is 'n mediese toestand van verminderde bloedstroom na die brein wat 'n persoon veroorsaak om te vervaag.,E
+1588,GW28,T2221,Syncope is maklik en bekostigbaar behandelbaar.,N
+1589,GW28,T2221,Syncope veroorsaak hiper bewustheid wanneer aangetref word.,C
+1590,GW52,T2221,Syncope voorkom in minder as 1% van die bevolking.,E
+1591,GW52,T2221,Die simptome van Syncope is dieselfde vir alle gevalle.,N
+1592,GW52,T2221,Syncope duur vir 'n lang tyd.,C
+1593,GW52,T2222,Tangerine_Microtan_65 het in die 1970's gedebuteer.,E
+1594,GW52,T2222,Tangerine_Microtan_65 is nog steeds in gebruik vandag.,N
+1595,GW52,T2222,Tangerine_Microtan_65 hou meer as 100KB van RAM.,C
+1596,GW74,T2222,"Tangerine_Microtan_65 kos £ 79,35 in kitvorm aanvanklik in 1979",E
+1597,GW74,T2222,Tangerine_Microtan_65 was die beste persoonlike rekenaar in 1979,N
+1598,GW74,T2222,Tangerine_Microtan_65 het aanvanklik £ 100 gekos in 1979,C
+1599,GW19,T2222,Die Tangerine Microtan 65 persoonlike rekenaar is ongeveer 40 jaar gelede geïntroduceer.,E
+1600,GW19,T2222,Die Tangerine Microtan 65 persoonlike rekenaar was 'n onmiddellike gunsteling onder techieë op sy 1979 vrylating.,N
+1601,GW19,T2222,Die Tangerine Microtan 65 persoonlike rekenaar het gedebuteer by die 2014 CES.,C
+1602,GW4,T2223,"Mens wat onderwysers is, benodig gewoonlik spesiale opvoeding.",E
+1603,GW4,T2223,"Die mense wat onderwysers is, werk altyd in skole.",N
+1604,GW4,T2223,"Mense wat onderwysers is, leer gewoonlik onderwerpe wat hulle nie voorheen bestudeer het nie.",C
+1605,GW12,T2223,'N Onderwyser is 'n professionele beroep wat plaasvind in 'n skool.,E
+1606,GW12,T2223,'N Onderwyser moet bekwaamheid in beplanning en leierskap hê.,N
+1607,GW12,T2223,Sielkunde is die enigste bekwaamheid wat 'n skoolonderwyser benodig.,C
+1608,GW86,T2223,'N Onderwyser word beskou as 'n professionele.,E
+1609,GW86,T2223,'N Onderwyssertifikaat uit een land toelaat gewoonlik onderrig in ander lande.,N
+1610,GW86,T2223,Onderwys behels 'n enkele kompetisie.,C
+1611,GW86,T2224,Die Telmac 1800 was een van 'n reeks huishoudelike rekenaarmodelle.,E
+1612,GW86,T2224,Die Telmac 1800 kan kleurgrafika weergegee.,N
+1613,GW86,T2224,Die Telmac 1800 gebruik floppy diske.,C
+1614,GW52,T2224,Die Telmac 1800 het meer as 40 jaar gelede gedebuteer.,E
+1615,GW52,T2224,Die Telmac 1800 het uitbreidbare CPU gehad.,N
+1616,GW52,T2224,Die Telmac 1800 is beskou as 'n mikro-rekenaar.,C
+1617,GW12,T2224,Die Telmac 1800 was 'n huishoudelike rekenaar wat 42 jaar gelede vrygestel is.,E
+1618,GW12,T2224,"Beskou as 'n rekenaar kit, die Telmac 1800 het 'n 64 x 32 pixel skerm resolusie.",N
+1619,GW12,T2224,Met 2 kB RAM het die Telmac 1800 slegs die Telmac TMC-600 as opvolger gehad.,C
+1620,GW52,T2225,Die Tien van Tevet is 'n Joodse gebeurtenis.,E
+1621,GW52,T2225,Die Tenth of Tevet vind gewoonlik elke jaar plaas.,N
+1622,GW52,T2225,"Die “Tenth of Tevet”, vir 2019, vind in 2019 plaas.",C
+1623,GW4,T2225,Die Tien van Tevet begin voordat die son opkom,E
+1624,GW4,T2225,Die Tenth of Tevet word al meer as 1000 jaar beoefen,N
+1625,GW4,T2225,Die Tenth of Tevet is waar mense meer kos eet as gewoonlik,C
+1626,GW74,T2225,Die 2019 en 2020 datum vir Tenth of Tevet beide gebeur in 2020,E
+1627,GW74,T2225,Alle Jode fast op die Tenth of Tevet,N
+1628,GW74,T2225,Die 2018 datum en die 2020 datum vir Tenth of Tevet gebeur tydens verskillende maande,C
+1629,GW1,T2226,Terbium is in die 19de eeu ontdek en vir die eerste keer geïsoleer.,E
+1630,GW1,T2226,Terbium is byna altyd 'n vaste.,N
+1631,GW1,T2226,Terbium is donkerder in kleur.,C
+1632,GW4,T2226,Terbium het 'n atomiese gewig groter as 150.,E
+1633,GW4,T2226,Terbium kan in vaste vorm gevind word.,N
+1634,GW4,T2226,Terbium is in die laat 1900's gestig.,C
+1635,GW28,T2226,Terbium is 'n element wat deur een mens ontdek en geïsoleer is.,E
+1636,GW28,T2226,Terbium is 'n seldsame element.,N
+1637,GW28,T2226,Terbium is vernoem na die persoon wat dit ontdek het.,C
+1638,GW106,T2227,"'N Kollege-aanvrager kan 'n TOEFL-score van 'n eksamen wat binne die vorige jaar geneem is, gebruik.",E
+1639,GW106,T2227,Die TOEFL eksamen word vereis deur die meeste Ivy League kolleges en universiteite in die Verenigde State.,N
+1640,GW106,T2227,Die wiskundige deel van die TOEFL-toets verteenwoordig 25% van die totale skoor van die toets.,C
+1641,GW19,T2227,Die gestandaardiseerde Test van Engels as 'n Buitelandse Taal (TOEFL) is 'n wêreldwye erkende metode om taalvaardigheid te vestig.,E
+1642,GW19,T2227,Die Verenigde Nasies vereis dat werksoekers die TOEFL slaag.,N
+1643,GW19,T2227,TOEFL word slegs in Oos-Europese en Suidoos-Asiatiese lande aangebied.,C
+1644,GW52,T2227,TOEFL is begin in die 1960's.,E
+1645,GW52,T2227,TOEFL kan geneem word van alle kontinente.,N
+1646,GW52,T2227,TOEFL het 'n negatiewe skoermateriaal.,C
+1647,GW12,T2228,Tetanus en Lockjaw is dieselfde siekte.,E
+1648,GW12,T2228,Lockjaw kan voorkom word met die tetanus-vaksine.,N
+1649,GW12,T2228,"Spierkrampe, koors en hoofpyn is risikofaktore vir tetanus.",C
+1650,GW105,T2228,Tetanus is 'n besmettelike siekte wat van 'n paar dae tot byna 'n maand kan verskyn.,E
+1651,GW105,T2228,Die meeste pasiënte ervaar Tetanus vir 15 dae.,N
+1652,GW105,T2228,Die meeste van die tyd tetanus is hoogs dodelik.,C
+1653,GW19,T2228,"In 2015 het minder as die helfte van die mense wat lockjaw gekry het, aan die siekte gesterf.",E
+1654,GW19,T2228,Lockjaw is in die Verenigde State uitgeroei.,N
+1655,GW19,T2228,Lockjaw is 'n onheilbare terminale siekte.,C
+1656,GW105,T2229,Die Ledbury Restaurant is meer as 'n dekade gelede geopen.,E
+1657,GW105,T2229,Die Ledbury Restaurant het 'n sterk aanlyn teenwoordigheid.,N
+1658,GW105,T2229,Die Ledbury-restaurant kan honderde mense op dieselfde tyd verwelkom.,C
+1659,GW60,T2229,Brett Graham is 'n kok van Britse kombuis.,E
+1660,GW60,T2229,Brett Graham woon in Londen.,N
+1661,GW60,T2229,Brett Graham is 20 jaar lank die hoofkok van Ledbury Restaurant.,C
+1662,GW1,T2229,Die Ledbury Restaurant het in die eerste dekade van die 21ste eeu geopen.,E
+1663,GW1,T2229,Brett Graham was die oorspronklike kok van die Ledbury Restaurant,N
+1664,GW1,T2229,Die Ledbury-restaurant kan meer as 60 mense sit.,C
+1665,GW19,T2230,"Die Tukwila International Boulevard Station, 'n ligte treinstasie in die staat Washington, is al meer as 10 jaar oop.",E
+1666,GW19,T2230,Tukwila International Boulevard Station is 'n gewilde stasie vir pendelaars wat na die sentrum van Seattle reis.,N
+1667,GW19,T2230,Tukwila International Boulevard Station is 'n gewilde stasie in die nasie se hoofstad.,C
+1668,GW86,T2230,Die Tukwila Internasionale Boulevard stasie het soveel laterale platforms as spore.,E
+1669,GW86,T2230,Die Tukwila Internasionale Boulevard stasie het rolstoel rampe.,N
+1670,GW86,T2230,Die Tukwila Internasionale Boulevard Station is minder as 'n dekade gelede geopen.,C
+1671,GW28,T2230,Tukwila International Boulevard Station (Link Light Rail Station) is 'n Amerikaanse openbare vervoer stasie in die staat Washington.,E
+1672,GW28,T2230,Tukwila International Boulevard Station (Link Light Rail Station) aanvaar kontant en digitale betalings.,N
+1673,GW28,T2230,Tukwila International Boulevard Station (Link Light Rail Station) het 'n ekspresspoor saam met twee plaaslike spore.,C
+1674,GW1,T2231,Type 1 diabetes het verskeie simptome.,E
+1675,GW1,T2231,Type 1 diabetes is oorspronklik genoem juveniele diabetes.,N
+1676,GW1,T2231,Daar is slegs 1 vorm van behandeling vir Type 1 diabetes.,C
+1677,GW28,T2231,"Type 1 diabetes kan behandel word, maar nie voorkom word nie.",E
+1678,GW28,T2231,Type 1 diabetes raak meer vroue as mans.,N
+1679,GW28,T2231,Die oorsaak van Type 1 diabetes is 'n geheim en onbehandelbaar,C
+1680,GW74,T2231,Daar is meer risikofaktore as oorsake,E
+1681,GW74,T2231,Celiac-siekte veroorsaak gereelde urinering,N
+1682,GW74,T2231,Gewone aanvang en duur is dieselfde lengte van tyd,C
+1683,GW12,T2232,Noninsulin-afhanklike diabetes mellitus (NIDDM) is 'n ander naam vir Type 2 diabetes.,E
+1684,GW12,T2232,Type 2 diabetes is 'n langtermyn siekte wat tydens die kinderjare voorkom.,N
+1685,GW12,T2232,Mense met Type 2 diabetes kan verwag om tien jaar langer te leef as die gemiddelde persoon.,C
+1686,GW28,T2232,Type 2 diabetes is 'n behandelbare siekte wat meestal ouer volwassenes tref.,E
+1687,GW28,T2232,Type 2 diabetes word veroorsaak deur te veel suiker inname.,N
+1688,GW28,T2232,Type 2 diabetes kan met dwelms genees word.,C
+1689,GW52,T2232,Diabetes tipe 2 dra 'n korter lewensverwagting as normale volwassenes.,E
+1690,GW52,T2232,Diabetes tipe 2 is die mees algemene tipe diabetes.,N
+1691,GW52,T2232,Diabetes tipe 2 word gediagnoseer deur middel van slaapstudie.,C
+1692,GW60,T2233,"Op nie meer as 0,5% van die mense sal 'n kolonoskopie met weefselbiopsies benodig om Ulcerative Colitis te diagnoseer.",E
+1693,GW60,T2233,Meer mense sterf van ulcerative colitis as van Crohn se siekte.,N
+1694,GW60,T2233,Teenagers kan nie ulceratiewe colitis kry nie.,C
+1695,GW52,T2233,"Ulcerative colitis, wanneer gepaard met Crohn se, veroorsaak meer as 47,000 sterftes per jaar.",E
+1696,GW52,T2233,Ulcerative colitis het geen voorkomingsmetodes nie.,N
+1697,GW52,T2233,Ulcerative colitis raak meer as 1% van die bevolking.,C
+1698,GW74,T2233,Daar is meer simptome as komplikasies,E
+1699,GW74,T2233,Die duur van Ulcerative Colitis is so lank as die gewone aanvang,N
+1700,GW74,T2233,Diagnostiese metode oorskry behandelings,C
+1701,GW4,T2234,Die Unaza buslyn loop meer as 20 keer per dag.,E
+1702,GW4,T2234,Die Unaza buslyn ry meer as 50 myl per uur.,N
+1703,GW4,T2234,Die Unaza buslyn kom slegs elke halfuur.,C
+1704,GW86,T2234,Die Unaza-buslyn is minder as 6 uur per dag onbruikbaar.,E
+1705,GW86,T2234,'N Reis op die Unaza bus lyn neem soms meer as 30 minute.,N
+1706,GW86,T2234,Die Unaza buslyn loop minder dikwels op die weke as tydens die week.,C
+1707,GW52,T2234,Die Unaza buslyn werk vir meer as 3/4 van die dag.,E
+1708,GW52,T2234,Die Unaza buslyn moet nog aangepas of gerenoveer word.,N
+1709,GW52,T2234,Die Unaza buslyn is meer as 100 myl lank.,C
+1710,GW52,T2235,Die University Clinical Aptitude Test word jaarliks deur ongeveer 25 000 mense geneem.,E
+1711,GW52,T2235,Die University Clinical Aptitude Test is 'n beduidende bepalende faktor op toelating.,N
+1712,GW52,T2235,Die University Clinical Aptitude Test neem 'n hele dag om te voltooi.,C
+1713,GW1,T2235,Die University Clinical Aptitude Test neem ongeveer 120 minute om te neem.,E
+1714,GW1,T2235,Die University Clinical Aptitude Test is die enigste toets wat Pearson bestuur.,N
+1715,GW1,T2235,Die University Clinical Aptitude Test is vir die eerste keer toegedien in die 20ste eeu.,C
+1716,GW105,T2235,Testtakers kan die eliminasieproses gebruik.,E
+1717,GW105,T2235,Sommige toetsers kan die University Clinical Aptitude Test in slegs twintig minute voltooi.,N
+1718,GW105,T2235,Miljoene mense neem elke jaar die toets.,C
+1719,GW86,T2236,Die ongeluk van US Airways-vlug 1549 is veroorsaak deur diere.,E
+1720,GW86,T2236,Al die bemanning van US Airways-vlug 1549 het ernstig gewond geraak.,N
+1721,GW86,T2236,US Airways Vlug 1549 het tussen sy stopoverpunt en sy uiteindelike bestemming neergestort.,C
+1722,GW4,T2236,Die US Airways-vlug 1549 het van die Amerikaanse ooste afgelaai.,E
+1723,GW4,T2236,US Airways Vlug 1549 het 'n gees geraak terwyl hy vlieg.,N
+1724,GW4,T2236,US Airways Vlucht 1549 kon hul vlug voltooi.,C
+1725,GW52,T2236,US1549 het tien jaar gelede neergestort.,E
+1726,GW52,T2236,US1549 het gerapporteer dat daar geen motorprobleme was voor die voëlstaking nie.,N
+1727,GW52,T2236,Die US1549-ongeluk het tot 5 sterftes gelei.,C
+1728,GW52,T2237,Die Utah Valley Express het net verlede jaar geopen.,E
+1729,GW52,T2237,Die Utah Valley Express werk die hele uur.,N
+1730,GW52,T2237,Die Utah Valley Express reis met spoed bo 60 mph.,C
+1731,GW4,T2237,Die Utah Valley Express is al minder as 10 jaar.,E
+1732,GW4,T2237,Die Utah Valley Express het 5 jaar geneem om te bou.,N
+1733,GW4,T2237,Die Utah Valley Express beweeg vinniger as motors op die snelweg.,C
+1734,GW19,T2237,"Die Utah Valley Express, 'n vinnige busdienst in die suide van Orem, Utah, word al meer as 'n jaar deur die Utah Transit Authority bedryf.",E
+1735,GW19,T2237,"Geen roete veranderinge is gemaak aan die vinnige bus lyn in die suide van Orem, Utah toe dit verander is van die Provo Urem Max na die Utah Valley Express.",N
+1736,GW19,T2237,Die Utah Valley Express vinnige bus lyn dien die metro gebied Salt Lake City in Utah.,C
+1737,GW28,T2238,"Vaisakhi, Baisakhi Punjabi: ਵਿਸਾਖੀ is 'n godsdienstige waarneming deur beide Sikhs en Hindoes.",E
+1738,GW28,T2238,"Vaisakhi, Baisakhi Punjabi: ਵਿਸਾਖੀ vuurwerk en uitruil geskenke as deel van die viering.",N
+1739,GW28,T2238,"Vaisakhi, Baisakhi Punjabi: ਵਿਸਾਖੀ val altyd op dieselfde datum elke jaar.",C
+1740,GW86,T2238,Van Gogh is bekend onder vier verskillende name.,E
+1741,GW86,T2238,Vaisakhi word elke jaar op 13 of 14 April waargeneem.,N
+1742,GW86,T2238,Vaisakhi is streng 'n kulturele waarneming.,C
+1743,GW52,T2238,Die Baisakh plaasvind elke jaar omtrent dieselfde tyd.,E
+1744,GW52,T2238,Die Baisakh het dieselfde waarnemings vir almal wat vier.,N
+1745,GW52,T2238,Baisakh gebeur elke jaar op dieselfde dag.,C
+1746,GW86,T2239,Vesak is bekend deur ten minste 'n half dosyn amptelike name.,E
+1747,GW86,T2239,Vesak word waargeneem deur meer Boeddhiste as Hindoes wêreldwyd.,N
+1748,GW86,T2239,Vesak word elke jaar op dieselfde datum gevier.,C
+1749,GW52,T2239,Die Boeddha-dag word jaarliks gevier.,E
+1750,GW52,T2239,Die dag van Boeddha word in heel Asië gevier.,N
+1751,GW52,T2239,In 2018 is Boeddha-dag op dieselfde dag vir elke land in Asië gevier.,C
+1752,GW12,T2239,Vesak is 'n jaarlikse vakansie en is op 19 Mei in 2019 gevier.,E
+1753,GW12,T2239,Vesak is 'n godsdienstige vakansie wat Gautama Boeddha vier.,N
+1754,GW12,T2239,Vesak word in die wintermaande gevier.,C
+1755,GW28,T2240,Vidyasagar Setu is 'n sesbaan tolbrug.,E
+1756,GW28,T2240,Vidyasagar Setu kos miljarde Amerikaanse dollars.,N
+1757,GW28,T2240,Vidyasagar Setu is bekend vir sy unieke kantilever ontwerp.,C
+1758,GW12,T2240,Vidyasagar Setu is ook bekend as Tweede Hooghly brug en is 'n twee-weg met drie spoor.,E
+1759,GW12,T2240,Die Braithwaite Burn en Jessop Construction Company Limited is die enigste maatskappy wat betrokke was by die konstruksie van die brug.,N
+1760,GW12,T2240,Die Vidyasagar Setu is in die lente van 1992 geopen.,C
+1761,GW86,T2240,Vidyasagar Setu het 'n totaal van ses strepe.,E
+1762,GW86,T2240,"Voertuie wat Vidyasagar Setu gebruik, betaal 'n tol vir reis in beide rigtings.",N
+1763,GW86,T2240,Vidyasagar Setu kos niks vir voertuie om te gebruik nie.,C
+1764,GW28,T2241,Viva Purple is 'n openbare buslyn wat meer as 'n dekade oud is.,E
+1765,GW28,T2241,Openbare WiFi is beskikbaar op alle Viva Purple busse.,N
+1766,GW28,T2241,“Viva Purple” kom twee keer per uur.,C
+1767,GW4,T2241,Viva Purple verlaat vier keer 'n uur.,E
+1768,GW4,T2241,Viva Purple loop daagliks vir meer as 14 jaar.,N
+1769,GW4,T2241,Die Viva Purple lyn het slegs 'n paar honderd mense wat dit per jaar ry.,C
+1770,GW52,T2241,Viva Purple geniet die rit van meer as 5.000 mense.,E
+1771,GW52,T2241,Viva Purple werk op 'n 24-uur skedule.,N
+1772,GW52,T2241,Viva Purple het in die 1990's begin werk.,C
+1773,GW4,T2242,Die Xiaomi Mi 2S het twee verskillende kameras op die agterkant.,E
+1774,GW4,T2242,Die Xiaomi Mi 2S het 'n groter battery as 'n iPhone.,N
+1775,GW4,T2242,Die Xiaomi Mi 2S is kleiner as 120mm breed.,C
+1776,GW74,T2242,Storage is tot 30 GB meer as geheue,E
+1777,GW74,T2242,Xiaomi Mi 2S met Android 4.1 Jelly Bean bedryfstelsels het 16 GB geheue,N
+1778,GW74,T2242,Die Xiaomi Mi3 het die Xiaomi Mi2 aangeneem.,C
+1779,GW105,T2242,Die Xiaomi Mi 2S is 'n slim telefoon.,E
+1780,GW105,T2242,Daar is genoeg geheue vir honderde foto's.,N
+1781,GW105,T2242,Die Xiaomi Mi 2S het baie verwyderbare opslag.,C
+1782,GW28,T2243,B1 is 'n busroete wat daagliks in Zhengzhou bedryf.,E
+1783,GW28,T2243,B1 is 'n kontantloos busstelsel en gebruik elektroniese vorme van betaling.,N
+1784,GW28,T2243,B1 het al meer as 'n dekade voortdurend gewerk.,C
+1785,GW12,T2243,"Geleë in Zhengzhou, B1 word bedryf deur die Zhengzhou Bus Communication Corporation.",E
+1786,GW12,T2243,B1 begin by Zhongzhou Avenue en Nongye Road en eindig op die Dianchang Road B / T.,N
+1787,GW12,T2243,B1 werk daagliks elke sewe minute.,C
+1788,GW52,T2243,Die B1 is al 'n dekade in diens.,E
+1789,GW52,T2243,Die B1 is een van die gewildste busreëls.,N
+1790,GW52,T2243,Die B1 werk op 'n 24-uur skedule.,C
+1791,GW28,T2244,"Indonesië AirAsia Vliegtuig 8501 wat na Singapoer bestemd was, het in die see neergestort en almal aan boord doodgemaak.",E
+1792,GW28,T2244,Indonesie AirAsia Vlieg 8501 mag 'n verkeerde kommunikasie tussen pilote gehad het wat bygedra het tot die ongeluk.,N
+1793,GW28,T2244,Indonesia AirAsia Flight 8501 was 'n Boeing jumbo wat in die landing op die landweg neergestort het.,C
+1794,GW52,T2244,Die QZ8501 het afgeskakel en almal aan boord het gesterf.,E
+1795,GW52,T2244,QZ8501 het motorprobleme gerapporteer voor die stilstand.,N
+1796,GW52,T2244,QZ8501 het in die 1990's geraak.,C
+1797,GW1,T2244,Al die mense aan boord van Indonesië AirAsia Vliegtuig 8501 het gesterf.,E
+1798,GW1,T2244,Indonesië AirAsia Vlieg 8501 is die enigste Indonesië AirAsia Vlieg 8501 wat neergedaal het.,N
+1799,GW1,T2244,Indonesië AirAsia Vliegtuig 8501 het in die somer van 2014 neergestort.,C

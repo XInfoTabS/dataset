@@ -1,0 +1,1801 @@
+annotater_id	table_id	hypothesis	label
+GW74	T2045	Die meisten Überlebenden waren Besatzungsmitglieder.	E
+GW74	T2045	Zu den fünf Todesopfern zählte 1 Passagier	N
+GW74	T2045	Es gab mehr Überlebende als Besatzung.	C
+GW52	T2045	Die meisten Opfer des British Columbia B-36 Crash von 1950 überlebten.	E
+GW52	T2045	Die 1950 British Coluimbia B-36 Crash-Motor Probleme vor dem Absturz	N
+GW52	T2045	Der Absturz von 1950 B-36 war darauf zurückzuführen, dass Vögel in den Motorraum einstiegen.	C
+GW95	T2045	Es gab einen Passagier für alle 16 Besatzungsmitglieder.	E
+GW95	T2045	Alle Toten waren Mitglieder der Crew.	N
+GW95	T2045	Mehr Passagiere als Besatzungsmitglieder starben.	C
+GW86	T2046	Das Jiji-Erdbeben 1999 beschädigte oder zerstörte mehr als 100.000 Gebäude.	E
+GW86	T2046	Das Jiji-Erdbeben 1999 tötete mehr als 2.415 Menschen.	N
+GW86	T2046	Das Jiji-Erdbeben 1999 zerstörte mehr Gebäude als es beschädigte.	C
+GW95	T2046	Das Erdbeben in Jiji fand in Asien statt.	E
+GW95	T2046	Die meisten beschädigten Gebäude waren Häuser.	N
+GW95	T2046	Dieses Erdbeben ereignete sich zu Beginn des Jahrtausends.	C
+GW74	T2046	Die lokale Zeit hat einen Unterschied von sechs Stunden von UTC-Zeit	E
+GW74	T2046	29 Personen wurden seit 20 Jahren vermisst	N
+GW74	T2046	Das Datum der UTC-Zeit und Ortungsdatum sind das gleiche	C
+GW12	T2047	Das Erdbeben und Tsunami im Indischen Ozean 2004 fand am 26. Dezember an den Küsten des Indischen Ozeans statt.	E
+GW12	T2047	Der Gesamtschaden des Erdbebens und Tsunami im Indischen Ozean 2004 betrug über 15 Milliarden US-Dollar.	N
+GW12	T2047	Die Kausalitäten des gewaltsamen Erdbebens im Indischen Ozean und Tsunami 2004 ließen unter 200.000 Toten zurück.	C
+GW28	T2047	2004 Erdbeben im Indischen Ozean und Tsunami ereignete sich in Asien.	E
+GW28	T2047	2004 Erdbeben im Indischen Ozean und Tsunami wurde so weit weg wie Europa gefühlt.	N
+GW28	T2047	Das genaue Datum und die genaue Uhrzeit des Erdbebens im Indischen Ozean und Tsunami 2004 konnte nicht bestimmt werden.	C
+GW52	T2047	Das Erdbeben/Tsunami 2004 tötete über 200.000 Menschen.	E
+GW52	T2047	Das Erdbeben/Tsunami 2004 war auf mehreren Kontinenten zu spüren.	N
+GW52	T2047	Das Erdbeben/Tsunami 2004 wurde als extremes Erdbeben charakterisiert.	C
+GW63	T2048	Es gab ein schweres Erdbeben, das nach 2004 in Indonesien stattfand.	E
+GW63	T2048	Nur ein Teil Indonesiens war vom Erdbeben in Nias-Simeulue betroffen.	N
+GW63	T2048	In Asien gab es nur leichte Erdbeben.	C
+GW12	T2048	Das Nias-Simeulue-Erdbeben 2005 ereignete sich 2005 zur lokalen Zeit von 23:09 Uhr.	E
+GW12	T2048	Das Nias-Simeulue-Erdbeben 2005 betraf das Gebiet Indonesiens.	N
+GW12	T2048	Es gab 915 Verletzte und 340 Tote als Folge des 2005 Nias-Simeulue Erdbebens.	C
+GW28	T2048	2005 Nias-Simeulue Erdbeben war in Asien und schlug in der Nacht.	E
+GW28	T2048	2005 Nias-Simeulue Erdbeben produzierte keinen Tsunami.	N
+GW28	T2048	2005 Nias-Simeulue Erdbeben konnte nicht mit jeder Genauigkeit ermittelt werden.	C
+GW52	T2049	Das Erdbeben in Sichuan kostete über 100 Milliarden Dollar Schaden.	E
+GW52	T2049	Das Erdbeben von Sichuan 2008 hat Schäden, die noch immer nicht repariert wurden.	N
+GW52	T2049	Das Erdbeben erreichte nie über einer X-Intensität.	C
+GW74	T2049	Es gibt einen 8-Stunden-Unterschied in UTC-Zeit und Ortszeit	E
+GW74	T2049	87.587 wurden alle um 14:28:01 CST getötet	N
+GW74	T2049	Das Datum der UTC-Zeit und die Ortszeit sind unterschiedlich	C
+GW1	T2049	Über eine viertel Million Menschen wurden beim Erdbeben von Sichuan 2008 verletzt.	E
+GW1	T2049	Das Sichuan-Erdbeben 2008 ist das einzige Erdbeben, das mit dem Longmenshan-Fault verbunden ist.	N
+GW1	T2049	Das Erdbeben 2008 in Sichuan ereignete sich im Winter 2008.	C
+GW63	T2050	Über 6000 Menschen wurden verletzt und ein Schaden von über 300 Milliarden Dollar ereignete sich im März 2011 Erdbeben	E
+GW63	T2050	Es gab Nachbeben auch nach dem 6. März 2018 aus dem Erdbeben, das in Japan im Jahr 2011	N
+GW63	T2050	USGS-ANSS ComCat ist nur mit Japan und Pacific Rim verwandt	C
+GW1	T2050	Das Tōhoku-Erdbeben 2011 und der Tsunami verursachten über eine viertel Billionen Dollar Schaden.	E
+GW1	T2050	Das Tōhoku-Erdbeben und Tsunami 2011 war der erste Tsunami, der Miyako, Iwate und Tōhoku traf.	N
+GW1	T2050	Mehr als 30.000 Opfer wurden durch das Tōhoku-Erdbeben und Tsunami 2011 verursacht.	C
+GW105	T2050	Das Tōhoku-Erdbeben und der Tsunami war einer der heftigeren Stürme, die im	E
+GW105	T2050	Die pazifischen Rand nahm die meisten Schäden durch Tōhoku Erdbeben und Tsunami.	N
+GW105	T2050	Während des Tōhoku-Erdbebens und des Tsunamis verschwanden Millionen von Menschen.	C
+GW52	T2051	Das Ecuador-Erdbeben 2016 verursachte über 500 Opfer.	E
+GW52	T2051	Das Ecuador-Erdbeben 2016 war in den Vereinigten Staaten zu spüren.	N
+GW52	T2051	Das Ecuador-Erdbeben 2016 wurde als extremes Erdbeben eingestuft.	C
+GW28	T2051	Das Ecuador-Erdbeben 2016 schlugen und töteten Hunderte und verletzten Tausende.	E
+GW28	T2051	Das Ecuador-Erdbeben 2016 war das stärkste Erdbeben Südamerikas seit mehr als einem Jahrhundert.	N
+GW28	T2051	Das Ecuador-Erdbeben 2016 wurde in Ecuador lokalisiert und hatte keine Auswirkungen auf andere Nachbarländer.	C
+GW86	T2051	Das Ecuador-Erdbeben 2016 war in mehr als einem Land zu spüren.	E
+GW86	T2051	2016 Ecuador Erdbeben tötete genau 668 Menschen.	N
+GW86	T2051	Das Ecuador-Erdbeben 2016 war nur in Ecuador zu spüren.	C
+GW4	T2052	Das Peru-Erdbeben 2019 brachte mehr als 1 Person um.	E
+GW4	T2052	Das Peru-Erdbeben 2019 war eines, das erwartet wurde.	N
+GW4	T2052	Das Peru-Erdbeben 2019 war ein schwaches Erdbeben	C
+GW1	T2052	Das Peru-Erdbeben 2019 hat über 2 Dutzend Menschen verletzt.	E
+GW1	T2052	Das Peru-Erdbeben 2019 verletzte mehr Menschen in Peru als Ecuador.	N
+GW1	T2052	Das Peru-Erdbeben 2019 dauerte über 3 Stunden.	C
+GW95	T2052	Dieses Erdbeben ereignete sich früh am Morgen.	E
+GW95	T2052	Die beiden Todesfälle waren Ecuadorianer.	N
+GW95	T2052	Das Erdbeben war das tödlichste in der Geschichte.	C
+GW28	T2053	Acorn Microcomputer wurde mit einer Tastatur veröffentlicht, aber kein Joystick.	E
+GW28	T2053	Acorn Microcomputer wurde nur in Europa verkauft.	N
+GW28	T2053	Acorn Microcomputer beinhaltete modernste Grafiken und Soundkarten.	C
+GW12	T2053	1979 entwickelte Acorn Computers den Acorn Microcomputer.	E
+GW12	T2053	Der Acorn Microcomputer verfügt über ein 25-Tasten-Tastatur und ein LED-Display.	N
+GW12	T2053	Das Veröffentlichungsdatum des Acorn Atoms war vor vierzig Jahren.	C
+GW52	T2053	Der Acorn Microcomputer debütierte vor über 40 Jahren.	E
+GW52	T2053	Der Acorn Microcomputer galt als günstige Alternative.	N
+GW52	T2053	Der Acorn Microcomputer beherbergt mehr als 1 MB RAM.	C
+GW1	T2054	Der Aerotrain ist teilweise über Grund.	E
+GW1	T2054	Aerotrain hatte schon immer 2 Stationen.	N
+GW1	T2054	Die Aerotrain wurde Anfang des 20. Jahrhunderts eröffnet.	C
+GW63	T2054	Männer und Frauen können den Aerotrain im Jahr 2000 nutzen.	E
+GW63	T2054	Malaysia Airports Holdings Berhad baute und entwarf den Aerotrain.	N
+GW63	T2054	Der Aerotrain arbeitet nur über dem Boden für eine Strecke von 2 km in Malaysia	C
+GW52	T2054	Aerotrain wurde vor über 20 Jahren eröffnet.	E
+GW52	T2054	Aerotrain schwankt in der Geschwindigkeit auf der Strecke.	N
+GW52	T2054	Aerotrain hat eine Bahnstrecke über eine Meile.	C
+GW28	T2055	African trypanosomiasis ist eine Infektionskrankheit, die durch Tsetsefliegen in Afrika verbreitet wird.	E
+GW28	T2055	African trypanosomiasis entstand in Europa und verbreitete sich in Afrika.	N
+GW28	T2055	Der Vertrag African trypanosomiasis wurde vor Jahrzehnten ausgerottet.	C
+GW95	T2055	Die meisten Menschen, die es bekommen, erhalten eine Behandlung.	E
+GW95	T2055	Die diagnostischen Methoden sind extrem schmerzhaft.	N
+GW95	T2055	90 Prozent der Menschen, die es bekommen, sterben daran.	C
+GW4	T2055	African trypanosomiasis hat mehr als eine Stufe.	E
+GW4	T2055	Die Krankheit African trypanosomiasis kommt nur aus Afrika.	N
+GW4	T2055	African trypanosomiasis tötet mehr als 50 % der Menschen, die es kontrahieren.	C
+GW106	T2056	Die Lebenserwartung bei Aidskranken steigt mit der antiretroviralen Therapie stark an.	E
+GW106	T2056	Die meisten neuen Fälle von Aids in den Vereinigten Staaten treten als Folge der Exposition gegenüber Muttermilch.	N
+GW106	T2056	Antiretrovirale Therapien sind in der Lage, Aids bei einem kleinen Prozentsatz der Patienten zu heilen.	C
+GW19	T2056	Das humane Immundefizienzvirus (HIV) wird nicht mehr als das automatische Todesurteil angesehen, das es in den 1980er Jahren war.	E
+GW19	T2056	Ungeschütztes Geschlecht ist die primäre Methode der HIV-Übertragung.	N
+GW19	T2056	Wenn früh genug diagnostiziert, kann HIV vollständig geheilt werden.	C
+GW28	T2056	HIV/AIDS ist eine Infektionskrankheit ohne bekannte Heilung, nur Behandlung.	E
+GW28	T2056	HIV/AIDS betrifft hetero- und homosexuelle Paare gleichermaßen.	N
+GW28	T2056	HIV/AIDS ist in der Regel ein Todesurteil für Menschen ohne Behandlung.	C
+GW12	T2057	Alfa Romeo ist der Hersteller des Alfa Romeo V6 Motors, aber nicht der Designer.	E
+GW12	T2057	Der Aluminium-Motor Alfa Romeo V6 wird auch Alfa Romeo V6 Busso genannt.	N
+GW12	T2057	Der Alfa Romeo V6 Motor war seit über 30 Jahren in Produktion.	C
+GW4	T2057	In den 70er Jahren wurde ein Alfa Romeo V6 Motor gebaut.	E
+GW4	T2057	Der Alfa Romeo V6 Motor benötigt regelmäßig Ölwechsel.	N
+GW4	T2057	Ein Alfa Romeo V6 Motor wird mit einem Stahlblock gefertigt.	C
+GW52	T2057	Der Alfa Romeo V6 war ein Vierteljahrhundert in Produktion.	E
+GW52	T2057	Alfa Romeo-V6-Motor wurde in mehreren Fahrzeugen eingesetzt.	N
+GW52	T2057	Der V6 hatte mehr als 225 lb ft Drehmoment.	C
+GW74	T2058	Altostratus undulatus cloud sind wellige Stratuswolken	E
+GW74	T2058	Altostratus undulatus cloud findet man immer auf einer Höhe von 2400-6100 m	N
+GW74	T2058	Altostratus undulatus cloud sind niedrige Wolken, die Niederschlag bilden	C
+GW105	T2058	Der Altostratus sieht tendenziell gewellt aus.	E
+GW105	T2058	Die Altostratuswolke erscheint auf 15.000 ft hoch.	N
+GW105	T2058	Die Altostratuswolke bedeutet normalerweise, dass es einen Hurrikan geben wird.	C
+GW52	T2058	Die AS steigt auf eine Höhe von über 8000 ft.	E
+GW52	T2058	Wolken haben ein Klassifizierungssystem.	N
+GW52	T2058	Der Niederschlag ist mit einer AS-Cloud garantiert.	C
+GW19	T2059	Während der Geburtstag von B.R. Ambedkar in Indien anerkannt ist, ist es kein religiöser Feiertag.	E
+GW19	T2059	Dr. Babasaheb Ambedkar gilt als Autor der indischen Verfassung.	N
+GW19	T2059	Dr. Babasaheb Ambedkar war der Führer der primären pakistanischen nationalistischen Bewegung.	C
+GW63	T2059	Ambedkar Jayanti wird entlang Ashok Vijaya Dashmi am 14. April gefeiert	E
+GW63	T2059	B. R, Ambedkar war auch bekannt als Bhim	N
+GW63	T2059	B. R. Ambedkar wurde im Mai geboren	C
+GW86	T2059	Ambedkar Jayanti tritt jährlich auf.	E
+GW86	T2059	Ambedkar Jayanti erinnert an den Geburtstag eines Arztes.	N
+GW86	T2059	Ambedkar Jayanti ist ein religiöser Feiertag.	C
+GW52	T2060	Angelina wurde Anfang des 20. Jahrhunderts gegründet.	E
+GW52	T2060	Angelina serviert mehrere Arten von Lebensmitteln.	N
+GW52	T2060	Angelina hat fünf verschiedenen Besitzern unterzogen.	C
+GW74	T2060	226 Rue de Rivoli ist in Paris	E
+GW74	T2060	Groupe Bertrand lebt in Paris	N
+GW74	T2060	Antoine Rumpelmayer ersetzte Groupe Bertrand als Eigentümer	C
+GW4	T2060	Angelina wurde vor über 100 Jahren eröffnet.	E
+GW4	T2060	Angelina ist bekannt als einer der besten Orte in Frankreich zu essen.	N
+GW4	T2060	Angelina hat nur einen Hauptstandort.	C
+GW86	T2061	Die Apple I war einer von mehreren Computern.	E
+GW86	T2061	Die Apple I hatte ein Laufwerk.	N
+GW86	T2061	Die Apple I kostete über $2.000, als sie eingeführt wurde.	C
+GW52	T2061	Der Apple I war weniger als zwei Jahre in Produktion.	E
+GW52	T2061	Die Apple I war das erste Modell, das Apple entwickelt hat.	N
+GW52	T2061	Die Apple I war ein preiswerter Computer nach der Veröffentlichung.	C
+GW28	T2061	Die Apple I war weniger als zwei Jahre auf dem Markt.	E
+GW28	T2061	Die Apple I kam mit zwei Joysticks zum Spielen.	N
+GW28	T2061	Im selben Jahr wurde Apple I eingeführt und die Produktion eingestellt.	C
+GW28	T2062	Argon ist seit über hundert Jahren bekannt.	E
+GW28	T2062	Argon ist tödlich, wenn er inhaliert wird.	N
+GW28	T2062	Die Schmelz- und Siedepunkte für Argon sind identisch.	C
+GW74	T2062	Der Schmelzpunkt beträgt mehr als 4 °C als der Siedepunkt.	E
+GW74	T2062	Atomnummer ist die Summe der Elektronen pro Schale	N
+GW74	T2062	Kritischer Punkt ist genau das Doppelte der Dreifachpunkt	C
+GW52	T2062	Argon war eines der ersten 20 entdeckten Elemente.	E
+GW52	T2062	Argon wird bis heute häufig verwendet.	N
+GW52	T2062	Argon wurde im 20. Jahrhundert entdeckt.	C
+GW28	T2063	Astatine wurde in der ersten Hälfte des 20. Jahrhunderts von mehreren Menschen entdeckt.	E
+GW28	T2063	Astatine wurde in freier Wildbahn zufällig entdeckt.	N
+GW28	T2063	Astatine wurde nach einem der Wissenschaftler benannt, die das Element entdeckt haben.	C
+GW4	T2063	Astatin ist auf dem Periodensystem zu finden.	E
+GW4	T2063	Astatine leuchtet, wenn es beleuchtet wird.	N
+GW4	T2063	Astatin ist bekannt dafür, sehr reaktiv zu sein.	C
+GW95	T2063	Astatine wird in Run-Down-Elementen gefunden.	E
+GW95	T2063	Es wurde von 3 Italienern entdeckt.	N
+GW95	T2063	Astatin wird auf sauberen Oberflächen gefunden.	C
+GW95	T2064	Autismus wird in der Regel während der Kleinkinderhaube diagnostiziert.	E
+GW95	T2064	Die meisten Autismuspatienten werden aufgrund ihrer Kommunikationsprobleme schikaniert.	N
+GW95	T2064	Autismus wird mit Schüssen behandelt.	C
+GW52	T2064	Autismus betrifft fast 25 Millionen Menschen im Jahr.	E
+GW52	T2064	Der Beginn des Autismus ist im Laufe der Jahre angestiegen.	N
+GW52	T2064	Autismus dauert nur ein paar Monate.	C
+GW4	T2064	Autismus ist eine Krankheit, die Symptome bei kleinen Kindern zeigt.	E
+GW4	T2064	Menschen mit Autismus haben in der Regel Probleme, mit anderen zu sprechen.	N
+GW4	T2064	Menschen mit Autismus werden normalerweise von ihm getötet.	C
+GW19	T2065	Die Linie B25 Fulton Street, Teil des MTA NYC Bus Systems, das von der NYC Transit Authority betrieben wird, hat jedes Jahr mehr als 2,5 Millionen Fahrer.	E
+GW19	T2065	Die Buslinie B25 ist eine der am häufigsten genutzten Linien im NYC-Bussystem.	N
+GW19	T2065	Die Buslinie B25 verkehrt über die Upper West Side nach Staten Island.	C
+GW106	T2065	Die b25 Fulton Street Line fährt auf der York Street in Brooklyn.	E
+GW106	T2065	Die B25 Busse waren schon immer im East New York Depot untergebracht.	N
+GW106	T2065	Das MTA beschränkt den Betrieb der b5 Fulton Street Line auf den Tag bis in die frühen Abendstunden.	C
+GW86	T2065	Die b25 Fulton Street Line läuft 24 Stunden am Tag.	E
+GW86	T2065	Die b25 Fulton Street Line verläuft auf der Fulton Street für den Großteil ihrer Route.	N
+GW86	T2065	Die b25 Fulton Street Line beginnt am Broadway Junction und endet an der Front Street.	C
+GW52	T2066	b48 Lorimer Street hilft über eine Million Menschen jedes Jahr zu reisen.	E
+GW52	T2066	b48 Lorimer Street bietet immer noch Straßenbahn-Service.	N
+GW52	T2066	Die b48 Lorimer Street ist nur den ganzen Tag	C
+GW84	T2066	Das Fresh Pond Depot befindet sich in Brooklyn.	E
+GW84	T2066	In der B48 Lorimor Street gibt es mehr als 2 Millionen jährliche Gönner.	N
+GW84	T2066	Im Fresh Pond Depot werden nur Busse geparkt.	C
+GW74	T2066	b48 Lorimer Street benutzte nicht Nova Bus RTS-06 im Jahre 1884	E
+GW74	T2066	b48 Lorimer Street begann 1947 mit dem Orion VII.	N
+GW74	T2066	b48 Lorimer Street beginnt und endet in der gleichen Gemeinde	C
+GW52	T2067	Die b63 Fifth Avenue Line wurde im 19. Jahrhundert entwickelt.	E
+GW52	T2067	Die b63 Fifth Avenue Line hat sich im Laufe der Jahre geändert.	N
+GW52	T2067	Die jährliche Nutzungsrate der b63 Fifth Avenue Line übersteigt fünf Millionen.	C
+GW106	T2067	Die B63-Linie ist weniger als 6 Meilen lang.	E
+GW106	T2067	Die B63 Fifth Avenue Line ist die am häufigsten befahrene Strecke in Brooklyn jährlich.	N
+GW106	T2067	Die letzte Abholung der Linie B63 Fifth Avenue geht um 23:59 Uhr vom Pier 6.	C
+GW28	T2067	b63 Fifth Avenue Line ist eine Buslinie, die vor über einem Jahrhundert in Brooklyn (New York) in Betrieb genommen wurde.	E
+GW28	T2067	Die b63 Fifth Avenue Line hat den Tarif zu Nebenzeiten reduziert.	N
+GW28	T2067	b63 Fifth Avenue Line dient auch der Gemeinde in Queens.	C
+GW52	T2068	Die b69 Vanderbilt Avenue Line hat über eine Million Menschen, die auf sie jedes Jahr reisen.	E
+GW52	T2068	Die b69 Vanderbilt Avenue Line hat mit spätabendlichen Operationen experimentiert.	N
+GW52	T2068	Die b69 Vanderbilt Avenue Line wurde 1950 endgültig geschlossen.	C
+GW106	T2068	Die letzte Station der B69 Vanderbilt Avenue Line befindet sich in Brooklyns Innenstadt.	E
+GW106	T2068	Die B69 Line war die beliebteste Transportart nach Ebbets Field während der World Series 1956.	N
+GW106	T2068	Über 1,5 Millionen Kunden fuhren 2017 auf der B69.	C
+GW1	T2068	Die b69 Vanderbilt Avenue Line wurde im 19.	E
+GW1	T2068	Die b69 Vanderbilt Avenue Line hatte immer Transfers auf sie zur Verfügung.	N
+GW1	T2068	Mitte des 19. Jahrhunderts wurde die b69 Vanderbilt Avenue Line nicht mehr in Betrieb genommen.	C
+GW52	T2069	Die Bandra Worli Sea Link begann vor zwei Jahrzehnten mit dem Bau.	E
+GW52	T2069	Der Bandra Worli Sea Link ist ein sehr beliebter Mautstand.	N
+GW52	T2069	Die Sea Link hat eine Maut für alle Fahrzeuge.	C
+GW74	T2069	Der Bau der Bandra Worli Sea Link wurde in ca. 10 Jahren	E
+GW74	T2069	MSRDC engagierte Seshadri Srinivasan für die Gestaltung der Bandra Worli Sea Link	N
+GW74	T2069	Die Bandra Worli Sea Link wurde ein Jahr nach dem Ende der Bauarbeiten eröffnet.	C
+GW106	T2069	Die Bandra Worli Sea Link ist im Besitz und wird von derselben Firma geführt.	E
+GW106	T2069	Die meisten Mautgebühren, die von Fahrern bezahlt werden, die auf der Bandra Worli Sea Link reisen, zahlen durchschnittlich 1,60 US$.	N
+GW106	T2069	Der Bau der Bandra Worli Sea Link fand in zwei Jahrzehnten statt.	C
+GW4	T2070	Bells Lähmung ist eine Krankheit, über die die Menschen hinwegkommen können.	E
+GW4	T2070	Die Krankheit Bells Lähmung ist eine, die ziemlich häufig ist.	N
+GW4	T2070	Bells Lähmung ist eine Krankheit, die Menschen tötet.	C
+GW52	T2070	Glockenlähmung ist ein ungewöhnlicher Zustand.	E
+GW52	T2070	Glockenlähmung kann wieder auftreten.	N
+GW52	T2070	Glockenlähmung ist ein lebenslänglicher Zustand.	C
+GW28	T2070	Bells Lähmung ist eine neurologische Störung, die vorübergehend, aber schmerzhaft und peinlich ist.	E
+GW28	T2070	Bells Lähmung betrifft hauptsächlich ältere erwachsene Männer.	N
+GW28	T2070	Bells Lähmung ist ein lebenslanges Leiden, das man bewältigen kann.	C
+GW28	T2071	Beltane ist eine jährliche kulturelle Beobachtung, die den Beginn des Sommers feiert.	E
+GW28	T2071	Beltane wird von vielen anderen Gruppen unabhängig von Religion oder Glauben gefeiert.	N
+GW28	T2071	Beltane ist eine halbjährliche christliche Feier	C
+GW52	T2071	Beltane bedeutet eine Änderung in der Saison.	E
+GW52	T2071	Beltane ist, wie der Begriff Mai Tag begann.	N
+GW52	T2071	Beltane tritt am 1. Mai auf der ganzen Welt auf.	C
+GW74	T2071	Beltane feiert Anfang des Sommers am 1. Mai	E
+GW74	T2071	Wiccans in der Regel Beleuchtung Lagerfeuer zu feiern Beltane	N
+GW74	T2071	Der Beginn des Sommers wird im Juni in der südlichen Hemisphäre gefeiert	C
+GW52	T2072	Bipolare Störung hat verschiedene Arten.	E
+GW52	T2072	Bipolare Störung ist in der Häufigkeit gewachsen.	N
+GW52	T2072	Bipolare Störung tritt im mittleren Alter auf.	C
+GW105	T2072	Bipolare Störung ist eine seltene Krankheit, die einen kleinen Prozentsatz der Bevölkerung betrifft.	E
+GW105	T2072	Die meisten Fälle von bipolaren Störungen sind auf Genetik zurückzuführen.	N
+GW105	T2072	Kinder sind am meisten für bipolare Störungen gefährdet.	C
+GW74	T2072	Es gibt mehr Risikofaktoren für Bipolare Störung als Ursachen	E
+GW74	T2072	Ein 25-Jähriger, der unter Kindesmissbrauch litt, wird Bipolare Störung entwickeln	N
+GW74	T2072	Es gibt mehr Komplikationen als Symptome	C
+GW1	T2073	Die BMW 3er Serie wurde erstmals im 2. Jahrzehnt des 21. Jahrhunderts hergestellt.	E
+GW1	T2073	Die mit Benzin betriebene BMW 3er Serie gilt als überlegen im Vergleich zur mit Diesel betriebenen BMW 3er Serie.	N
+GW1	T2073	Der BMW 3er hatte 3 Hauptkonstrukteure.	C
+GW28	T2073	BMW 3 Series ist ein deutsches Auto, das in mehreren verschiedenen Ländern montiert wurde.	E
+GW28	T2073	BMW 3 Series ist die preisgünstigste Klasse von Autos von BMW.	N
+GW28	T2073	BMW 3er Series ist das SUV-Angebot mit elektrischen Batterien.	C
+GW52	T2073	Die BMW 3-Serie, F-Edition, hatte fast ein Jahrzehnt der Produktion.	E
+GW52	T2073	Die F-Modell BMW 3 Serie ist die letzte in der 3-Serie-Reihe-up.	N
+GW52	T2073	Die F-Modell BMW 3 Serie hatte zwei Designer für jedes Fahrzeug.	C
+GW4	T2074	Ein Hirntumor bringt normalerweise mehr als 200.000 Menschen im Jahr um.	E
+GW4	T2074	Ein Hirntumor kann rechtzeitig entfernt werden.	N
+GW4	T2074	Mehr als die Hälfte der Menschen, die einen Hirntumor bekommen, wird leben.	C
+GW28	T2074	Die Behandlung eines Hirnturmors ist vielfältig und erfolgt in Verbindung mit Arzneimitteln.	E
+GW28	T2074	Die beliebteste Methode zur Diagnose eines Hirntumors ist eine Gewebebiopsie.	N
+GW28	T2074	Ein Hirntumor ist in der Regel innerhalb weniger Monate nach der Diagnose tödlich.	C
+GW52	T2074	Ein Hirntumor tritt bei über einer Million Patienten auf.	E
+GW52	T2074	Die Prognose für Hirntumore ist im Laufe der Jahre besser geworden.	N
+GW52	T2074	Alle, die einen Hirntumor haben, werden daran sterben.	C
+GW1	T2075	Seit 2015 sind über 2 Millionen Menschen von Brustkrebs betroffen.	E
+GW1	T2075	Statistischerweise bevorzugen Ärzte eine Operation als eine Brustkrebsbehandlung als Strahlentherapie.	N
+GW1	T2075	2018 wurden über eine Million Menschen durch Brustkrebs getötet.	C
+GW74	T2075	Die Sterbefälle im Jahr 2018 waren mehr als ein Viertel der Häufigkeit im Jahr 2015 betroffen.	E
+GW74	T2075	Fettleibigkeit verursacht Veränderung der Brustform	N
+GW74	T2075	Es gibt mehr Symptome als Risikofaktoren	C
+GW52	T2075	Brustkrebs betrifft mehr als zwei Millionen Menschen pro Jahr.	E
+GW52	T2075	Brustkrebs passiert bei Männern.	N
+GW52	T2075	Brustkrebs hat eine niedrige Überlebensrate.	C
+GW4	T2076	Bromine hat eine Masse von mehr als 70.	E
+GW4	T2076	Das Mineral Bromine ist als Halogen bekannt.	N
+GW4	T2076	Bromine wurde erstmals in den 1900er Jahren entdeckt.	C
+GW52	T2076	Bromine war eines der ersten 50 entdeckten Elemente.	E
+GW52	T2076	Bromine ist hochflüchtig.	N
+GW52	T2076	Bromine wurde im 18. Jahrhundert entdeckt.	C
+GW86	T2076	Bromine wurde erstmals im neunzehnten Jahrhundert entdeckt.	E
+GW86	T2076	Bromin tritt am häufigsten in flüssiger Form auf.	N
+GW86	T2076	Bromine ist alkalisch.	C
+GW60	T2077	John Augustus Roebling weiß, wie man Federungs-/Kabelhalte-Hybridbrücken konstruiert.	E
+GW60	T2077	Die Brooklyn Bridge ist die einzige Brücke, die den East River überquert.	N
+GW60	T2077	Die Brooklyn Bridge ist größer als die lange Brücke.	C
+GW4	T2077	Die Brooklyn Bridge wurde aktualisiert, um im Laufe der Jahre mehr Kapazität hinzuzufügen.	E
+GW4	T2077	Die Brooklyn Bridge entlastete den Verkehr auf Brooklyn.	N
+GW4	T2077	Um die Brooklyn Bridge zu nutzen, muss ein Fahrer Geld ausgeben.	C
+GW106	T2077	Die Brooklyn Bridge verbindet Manhattan seit 1883 mit Brooklyn.	E
+GW106	T2077	Die Brooklyn Bridge erreicht ihren höchsten Punkt auf ihrer Reise während ihrer längsten Spannweite.	N
+GW106	T2077	Die Brooklyn Bridge kreuzt mindestens ein Gewässer von Manhattan nach Staten Island.	C
+GW105	T2078	Buddhisten feiern Buddhas Geburtstag im Frühling.	E
+GW105	T2078	Buddhas Geburtstag findet im April häufiger statt als nicht.	N
+GW105	T2078	Buddhas Geburtstag ist ein Winterurlaub.	C
+GW107	T2078	Buddhas Geburtstag wird in vielen Kulturen und Ländern gefeiert.	E
+GW107	T2078	Buddhas Geburtstag wird nur in Asien gefeiert.	N
+GW107	T2078	Buddhas Geburtstag wird jedes Jahr am selben Tag gefeiert.	C
+GW52	T2078	Buddhas Birthday wird in Teilen Asiens	E
+GW52	T2078	Buddhas Geburtstag kann von Menschen außerhalb Asiens gefeiert werden.	N
+GW52	T2078	Buddhas Geburtstag ist jedes Jahr am selben Tag.	C
+GW4	T2079	Burning Man läuft seit über 30 Jahren.	E
+GW4	T2079	Burning Man wird jedes Jahr immer genau an der gleichen Stelle gehalten.	N
+GW4	T2079	Burning Man passiert mehrmals im Jahr.	C
+GW89	T2079	Das Festival Burning Man findet jährlich in Nevada statt.	E
+GW89	T2079	Larry Harvey ist für die Veranstaltung verantwortlich.	N
+GW89	T2079	Das Burning Man Festival begann 1976.	C
+GW1	T2079	Burning Man wurde im Sommer 1986 eingeweiht.	E
+GW1	T2079	Brennende Menschen haben immer etwa 50-70 Tausend Menschen dabei.	N
+GW1	T2079	2019 war Burning Man im Frühjahr.	C
+GW12	T2080	Herzstillstand tritt bei älteren Menschen auf, wenn kein Puls gefunden wird.	E
+GW12	T2080	Herzstillstand kann einen Bewusstseinsverlust und einen sehr niedrigen Kaliumgehalt mit sich bringen.	N
+GW12	T2080	Die Überlebensrate für Herzstillstand ist bei Menschen außerhalb eines Krankenhauses höher.	C
+GW86	T2080	Die Sterberate vom Herzstillstand reicht von 75 bis 90 Prozent.	E
+GW86	T2080	Abnehmen verringert das Risiko von Herzstillstand.	N
+GW86	T2080	Die Sterberate durch Herzstillstand in Krankenhäusern ist höher als die Sterberate außerhalb von Krankenhäusern.	C
+GW28	T2080	Herzstillstand ist ein medizinischer Zustand, bei dem das Herz nicht mehr funktioniert und die Überlebenschancen gering sind.	E
+GW28	T2080	Herzhafte Verhaftung passiert mehr Männern als Frauen.	N
+GW28	T2080	Herzstillstand ist in allen Fällen außerhalb des Krankenhauses tödlich.	C
+GW52	T2081	Cataracts brauchen Zeit, um sich zu entwickeln.	E
+GW52	T2081	Katarakt sind vollständig vermeidbar.	N
+GW52	T2081	Katarakten treten in nur wenigen hunderttausend Menschen auf.	C
+GW28	T2081	Millionen von Menschen haben Katarakte bekommen, können aber behandelt werden.	E
+GW28	T2081	Katarakt sind teuer zu behandeln.	N
+GW28	T2081	Katarakts sind nicht sehr häufig oder verstanden.	C
+GW86	T2081	Cataracts können mit mehr als einer Methode behandelt werden.	E
+GW86	T2081	Katarakt verursacht normalerweise Blindheit.	N
+GW86	T2081	Katarakt kommt plötzlich vor.	C
+GW105	T2082	Zerebrale Lähmung ist eine Kindheitskrankheit, die das ganze Leben überdauert.	E
+GW105	T2082	Die effektivste Form der Behandlung ist die orthopädische Chirurgie.	N
+GW105	T2082	Cerebralparese betrifft fast ein Viertel der Bevölkerung.	C
+GW74	T2082	Schlechte Koordination, tritt in der Regel zuerst in der Kindheit als Folge der Zerebralen Lähmung	E
+GW74	T2082	steife Muskeln werden immer mit Krampfanfällen begleitet	N
+GW74	T2082	Es gibt mehr Komplikationen als Symptome	C
+GW28	T2082	Cerebralparese ist ein neurologischer Zustand, der früh in der Kindheit erscheint.	E
+GW28	T2082	Zerebrale Lähmung ist mit einer Impfung verbunden.	N
+GW28	T2082	Kerebrallähmung kann vor Erreichen des Erwachsenenalters geheilt werden.	C
+GW52	T2083	Cerium wurde erstmals in den 1830er Jahren entdeckt.	E
+GW52	T2083	Cerium ist derzeit weit verbreitet.	N
+GW52	T2083	Cerium war eines der ersten 20 entdeckten Elemente.	C
+GW28	T2083	Es dauerte 35 Jahre, um Cerium nach der Entdeckung zu isolieren.	E
+GW28	T2083	Cerium wurde zuerst von Europäern entdeckt.	N
+GW28	T2083	Cerium wurde nach einem der Wissenschaftler benannt, die das Element entdeckt haben.	C
+GW4	T2083	Cerium wurde entdeckt, bevor es isoliert werden konnte.	E
+GW4	T2083	Das Element Cerium ist dafür bekannt, sehr reaktiv zu sein.	N
+GW4	T2083	Das Element Cerium wurde nach der Person benannt, die es gefunden hat.	C
+GW86	T2084	Chinesisches Neujahr wird immer am oder vor dem 20. Februar gefeiert.	E
+GW86	T2084	Chinesisches Neujahr wird von mehr ethnischen Chinesen als von Nicht-Chinesen gefeiert.	N
+GW86	T2084	Chinesisches Neujahr wird jedes Jahr am selben Tag gefeiert.	C
+GW105	T2084	Chinesisches Neujahr findet im Frühling statt.	E
+GW105	T2084	Mehr Buddhisten feiern das chinesische Neujahr als Daoisten.	N
+GW105	T2084	Chinesisches Neujahr feiert jedes Jahr dasselbe Tier.	C
+GW52	T2084	Das Symbol für 2019 für Chinesisches Neujahr ist Schwein.	E
+GW52	T2084	Das chinesische Neujahr ist für jeden die gleiche Tradition.	N
+GW52	T2084	Das chinesische Neujahr hat alle zwei Jahre dasselbe Tier.	C
+GW28	T2085	Weihnachten ist eine christliche Feier, die auch viele Nichtchristen feiern.	E
+GW28	T2085	Weihnachten ist der berühmteste Feiertag der Welt.	N
+GW28	T2085	Weihnachten wird allgemein am 25. Dezember gefeiert.	C
+GW52	T2085	Weihnachten ein allgemein gefeierter Feiertag.	E
+GW52	T2085	Weihnachten hat die gleichen Traditionen auf der ganzen Welt.	N
+GW52	T2085	Weihnachten findet am selben Tag für alle statt.	C
+GW107	T2085	Weihnachten wird jährlich gefeiert.	E
+GW107	T2085	Weihnachten wird nur von weißen Menschen gefeiert.	N
+GW107	T2085	Weihnachten ist der Geburtstag von Buddha.	C
+GW4	T2086	Der 2.2 & 2.5-Motor wurde durch AMC-Motoren ersetzt.	E
+GW4	T2086	Es wurden Millionen von 2.2 & 2.5 Motor produziert.	N
+GW4	T2086	Der 2.2 & 2.5 Motor wurde auf Diesel betrieben.	C
+GW74	T2086	Kolbenhub ist länger als Zylinderbohrung	E
+GW74	T2086	Die meisten 2.2 & 2.5 Motor im Jahr 1995 produziert haben Multi-Punkt-Brennstoffeinspritzung	N
+GW74	T2086	Kolbenhub ist höchstens 20 mm länger als Zylinderbohrung	C
+GW63	T2086	Das Blockmaterial und das Kopfmaterial der Chrysler 2.2 und 2.5 Motoren sind unterschiedlich.	E
+GW63	T2086	Die Einpunkt-Einspritzung wird nur in den Motoren Chrysler 2.2 und 2.5 verwendet.	N
+GW63	T2086	Produktion von Chrysler Inline 2.2 Motor geht noch auf dieses Datum	C
+GW28	T2087	Cincinnati Bell Connector ist eine elektrische Straßenbahnlinie in Cincinnati, Ohio.	E
+GW28	T2087	Cincinnati Bell Connector hat eine Kapazität von hundert Passagieren pro Straßenbahn.	N
+GW28	T2087	Cincinnati Bell Connector läuft auf Diesel.	C
+GW106	T2087	Der Cincinnati Bell Connector wurde im Sommer 2016 eröffnet.	E
+GW106	T2087	Der Cincinnati Bell Connector ist vollständig in der Stadt Cincinn	N
+GW106	T2087	Der Cincinnati Bell Connector ist im Besitz und wird von derselben Gesellschaft oder derselben leitenden Körperschaft betrieben.	C
+GW74	T2087	Es gibt mehr Stationen als Dienste für den Cincinnati Bell Connector	E
+GW74	T2087	Es gab 18 Stationen, als der Cincinnati Bell Connector am 9. September 2016 eröffnet wurde.	N
+GW74	T2087	Die Zeilennummer ist gleich der Anzahl der Stationen	C
+GW28	T2088	Civil Services Examen ist eine standardisierte Prüfung für indische Absolventen und Bürger, die als Beamter arbeiten wollen.	E
+GW28	T2088	Mehr Männer nehmen die Civil Services Prüfung als Frauen.	N
+GW28	T2088	Civil Services Prüfung ist offen für alle, die sich bewerben.	C
+GW1	T2088	Die Zivildienstprüfung wurde erstmals in der ersten Hälfte des 20. Jahrhunderts durchgeführt.	E
+GW1	T2088	Englisch ist der erste Abschnitt der Civil Services Examination.	N
+GW1	T2088	Die Civil Services Examination wird halbjährlich angeboten.	C
+GW52	T2088	Die Civil Services Examination geht auf die 1920er Jahre zurück.	E
+GW52	T2088	Die Civil Services Examination hat jedes Jahr eine hohe Wahlbeteiligung.	N
+GW52	T2088	Die Qualifikationsquote für die Civil Services Examen ist hoch.	C
+GW1	T2089	Es gibt mehrere verwandte Jobs zu einem klinischen Pharma-Wissenschaftler.	E
+GW1	T2089	Ein klinischer Pharmazeut war ursprünglich als Apotheker bekannt.	N
+GW1	T2089	Ein klinischer Pharmazeut braucht nur einen Bachelor-Abschluss.	C
+GW52	T2089	Clinical Pharmaceutical Scientists erfordern mehrere Kompetenzen.	E
+GW52	T2089	Clinical Pharmaceutical Scientists sind auf dem Vormarsch in Bezug auf die verfügbaren Arbeitsplätze.	N
+GW52	T2089	Clinical Pharmaceutical Scientists umfasst nur den akademischen Sektor.	C
+GW28	T2089	Ein hohes Bildungsniveau ist notwendig, um ein Klinischer Pharma-Wissenschaftler zu werden	E
+GW28	T2089	Clinical Pharmaceutical Scientist ist ein gut bezahlter Beruf.	N
+GW28	T2089	Clinical Pharmaceutical Scientist ist nur in der Wissenschaft tätig.	C
+GW106	T2090	Moderne Clowns stammen von mittelalterlichen Hofnarren.	E
+GW106	T2090	Die meisten Clowns sind Mimes.	N
+GW106	T2090	Heute wurden Clowns beauftragt, nur noch in Zirkus-Akten aufzutreten.	C
+GW52	T2090	Clowns gibt es seit dem ersten Präsidenten der Vereinigten Staaten.	E
+GW52	T2090	Clowns sind im Laufe der Jahre immer beliebter geworden.	N
+GW52	T2090	Clowns sind nicht mit früheren Handlungen verbunden.	C
+GW60	T2090	Narren sind Vorfahren von Mimes.	E
+GW60	T2090	Die Komödianten existierten im 19. Jahrhundert.	N
+GW60	T2090	Clown bedeutet immer, zu sprechen.	C
+GW4	T2091	Die Linie J4 College Park–Bethesda MetroExtra läuft mehr als 20 Mal am Tag.	E
+GW4	T2091	Die Linie J4 College Park–Bethesda MetroExtra spart den Menschen viel Fahrzeit.	N
+GW4	T2091	Die Linie J4 College Park–Bethesda MetroExtra ist eine Bahnlinie.	C
+GW12	T2091	J4 College Park–Bethesda MetroExtra Linie ist Teil der Metrobus-System und ist Garagen in Montgomery.	E
+GW12	T2091	Ende 2002 wurde die Linie J4 College Park–Bethesda MetroExtra in Betrieb genommen.	N
+GW12	T2091	Die Linie J4 College Park–Bethesda MetroExtra läuft den ganzen Tag.	C
+GW52	T2091	Die Linie J4 College Park–Bethesda MetroExtra verkehrt alle 20 Minuten.	E
+GW52	T2091	Die Linie J4 College Park–Bethesda MetroExtra wurde noch nie renoviert.	N
+GW52	T2091	Die Linie J4 College Park–Bethesda MetroExtra läuft den ganzen Tag.	C
+GW28	T2092	16G, 16H Columbia Pike–Pentagon City war eine Buslinie, die den U-Bahnhof Washington D.C. bediente.	E
+GW28	T2092	16G, 16H Columbia Pike-Pentagon City Linie hatte WiFi an Bord alle seine Busse.	N
+GW28	T2092	16G, 16H Columbia Pike-Pentagon City Linie ist ein 24-Stunden-Service noch in Betrieb.	C
+GW4	T2092	Die 16G, 16H Columbia Pike-Pentagon City Linie lief über 20 Mal am Tag.	E
+GW4	T2092	Die 16G, 16H Columbia Pike-Pentagon City Linie half, Menschen Stunden auf pendeln Zeiten zu sparen.	N
+GW4	T2092	Die Linie 16G, 16H Columbia Pike–Pentagon City läuft noch heute.	C
+GW52	T2092	Die Linie 16G, 16H Columbia Pike–Pentagon City wurde 2003 in Betrieb genommen.	E
+GW52	T2092	Die 16G, 16H Columbia Pike–Pentagon City Linie hat die gleiche Länge der Strecke.	N
+GW52	T2092	Beide 16G, 16H Columbia Pike-Pentagon City Linie Eisenbahnen sind weiterhin im Einsatz.	C
+GW63	T2093	Von 2018 bis 2021 wurde Columbus Day vor dem 15. Oktober beobachtet	E
+GW63	T2093	Kolumbustag wird erst im Oktober beobachtet	N
+GW63	T2093	Columbus Day wurde zweimal im Jahr 2018 beobachtet	C
+GW1	T2093	Columbus Day findet einmal im Jahr statt.	E
+GW1	T2093	Columbus Day wurde in den Vereinigten Staaten gefeiert.	N
+GW1	T2093	Der erste Columbus-Tag wurde 1492 gefeiert.	C
+GW19	T2093	Christoph Columbus, der am Columbus Day geehrte Entdecker, stammte aus Italien.	E
+GW19	T2093	Columbus Day wurde schon immer im Monat Oktober gefeiert.	N
+GW19	T2093	Columbus Day markiert das inoffizielle Ende des Sommers.	C
+GW52	T2094	Der CAT hat einen negativen Bereichswert.	E
+GW52	T2094	Der CAT findet in ganz Asien statt.	N
+GW52	T2094	Die Ergebnisse des CAT sind ein Leben lang gut.	C
+GW106	T2094	Der Common Admission Test wird an über 300 Standorten in ganz Indien angeboten.	E
+GW106	T2094	Die CAT-Prüfung wird in der Regel im Dezember eines jeden Jahres angeboten.	N
+GW106	T2094	Der CAT-Test wird von allen indischen Undergraduates benötigt, die eine Graduate School besuchen möchten.	C
+GW28	T2094	Common Admission Test ist eine standardisierte Prüfung in Indien für die Zulassung zu indischen Business Schools verwendet.	E
+GW28	T2094	Der Common Admission Test ist härter als die GMAT-Prüfung in den USA.	N
+GW28	T2094	Common Admission Test wird von US-amerikanischen Business Schools akzeptiert.	C
+GW106	T2095	Mindestens 3 Millionen Menschen könnten verhindern, dass jedes Jahr ein rosa Auge entsteht, indem sie sich einfach die Hände waschen.	E
+GW106	T2095	Rosa Auge ist die am häufigsten diagnostizierte Krankheit von Augenärzten jedes Jahr.	N
+GW106	T2095	Die Symptome im Zusammenhang mit rosa Auge kann bis zu einem Monat in den Vereinigten Staaten dauern.	C
+GW4	T2095	Konjunktivitis führt dazu, dass sich die Augenfarbe der Menschen verändert.	E
+GW4	T2095	Konjunktivitis kann leicht auf Menschen übertragen werden.	N
+GW4	T2095	Konjunktivitis bringt die meisten Menschen, die damit infiziert sind, um	C
+GW28	T2095	Konjunktivitis ist ein medizinischer Zustand, der die Augen beeinflusst.	E
+GW28	T2095	Konjunktivitis kann von einer Person zur anderen übertragen werden.	N
+GW28	T2095	Konjunktivitis ist erblich und wird von ihren Eltern an Kinder weitergegeben.	C
+GW4	T2096	Crohns Krankheit ist etwas, das Magenprobleme verursacht.	E
+GW4	T2096	Crohns Krankheit führt dazu, dass Menschen früher sterben.	N
+GW4	T2096	Crohns Krankheit kann durch Tabak geheilt werden.	C
+GW28	T2096	Crohns Krankheit kann bei jungen Erwachsenen auftreten und beinhaltet Bauchschmerzen und Durchfall	E
+GW28	T2096	Crohns Krankheit überproportional betrifft Männer über Frauen.	N
+GW28	T2096	Crohns Krankheit wird schnell mit Drogen geheilt.	C
+GW52	T2096	Crohns disease hat in den 20er Jahren einen	E
+GW52	T2096	Crohns Krankheit hat im Laufe der Jahre eine erhöhte Häufigkeit gezeigt.	N
+GW52	T2096	Crohns disease Einzelpersonen haben nicht eine kürzere Lebenserwartung.	C
+GW86	T2097	Cumulonimbuswolken werden häufig mit Regen in Verbindung gebracht.	E
+GW86	T2097	Calvuswolken sind die häufigsten Arten der Cumulonimbuswolke.	N
+GW86	T2097	Cumulonimbuswolken finden sich in mehreren Sorten.	C
+GW4	T2097	Eine Cumulonimbus Cloud liegt in der Regel unter 50.000 Fuß.	E
+GW4	T2097	Eine Cumulonimbus Cloud kann oft regnen.	N
+GW4	T2097	Eine Cumulonimbus Cloud ist in der Regel in der Nähe des Weltraums.	C
+GW12	T2097	Cumulonimbus Cloud, aus der Gattung Cumulonimbus, ist abgekürzt Cb.	E
+GW12	T2097	Familie C ist eine hohe Klassifikation von Cumulonimbus Cloud.	N
+GW12	T2097	Cumulonimbus Cloud ist mit niedrigen Niederschlagsmengen assoziiert.	C
+GW12	T2098	Cushings Syndrom betrifft mindestens zwei Millionen Menschen pro Jahr.	E
+GW12	T2098	Der Hyperadrenokortikismus dauert 20-50 Jahre, bis er in einer Person auftaucht.	N
+GW12	T2098	Endokrinologie ist ein anderer Name für Hyperkortisolismus.	C
+GW105	T2098	Ein Patient, der die Pflege des Cushing-Syndroms sucht, sollte zu einem Endokrinologen gehen.	E
+GW105	T2098	Die meisten Menschen mit Cushing-Syndrom haben Akne.	N
+GW105	T2098	Cushings Syndrom ist am häufigsten bei Kindern.	C
+GW28	T2098	Millionen von Menschen sind vom Cushing-Syndrom betroffen, können aber erfolgreich behandelt werden.	E
+GW28	T2098	Die Behandlung mit Cushings Syndrom ist äußerst erschwinglich.	N
+GW28	T2098	Cushing-Syndrom betrifft vor allem Kinder und ist tödlich.	C
+GW86	T2099	Im vergangenen Jahr wurde eine neue Version von Debian veröffentlicht.	E
+GW86	T2099	Eine neue Version von Debian erscheint jedes Jahr im September.	N
+GW86	T2099	Debian ist mit über einem Dutzend Plattformen kompatibel.	C
+GW74	T2099	Die letzte Veröffentlichung von Debian erfolgte im selben Monat wie die erste Veröffentlichung.	E
+GW74	T2099	Debian war 1993 in 75 Sprachen erhältlich.	N
+GW74	T2099	10.1 (Buster) wurde 25 Jahre nach der ersten Veröffentlichung veröffentlicht	C
+GW19	T2099	Die Version 10.1 von Deiban, einem Open-Source-Linux-Betriebssystem, wird weltweit verwendet.	E
+GW19	T2099	Die Version 10.1 von Deiban, einem Open-Source-Linux-Betriebssystem, bietet Hindi Sprachunterstützung.	N
+GW19	T2099	Die elfte Version von Deiban, veröffentlicht im September 2019, ist das Standard-Betriebssystem für iphone.	C
+GW4	T2100	Disney Skyliner wurde im dritten Quartal 2019 eröffnet.	E
+GW4	T2100	Der Disney Skyliner bewegt sich über 20 Meilen pro Stunde.	N
+GW4	T2100	Der Disney Skyliner ist im Disneyland.	C
+GW28	T2100	Disney Skyliner ist ein Transitsystem, das in den Vereinigten Staaten von Amerika funktioniert	E
+GW28	T2100	Eine Gondel auf dem Disney Skyliner bietet Platz für zehn Personen auf einmal.	N
+GW28	T2100	Disney Skyliner ist seit über einem Jahrzehnt in mehreren Disney World Parks auf der ganzen Welt in Betrieb.	C
+GW1	T2100	Disney Skyliner wurde im Herbst 2019 eröffnet.	E
+GW1	T2100	Disney Skyliner ist der erste, der das Doppelmayr Garaventa Group System verwendet.	N
+GW1	T2100	Der Disney Skyliner liegt an der Westküste der Vereinigten Staaten.	C
+GW86	T2101	Diwali ist manchmal unter anderen Namen bekannt.	E
+GW86	T2101	Diwali wird normalerweise im Oktober beobachtet.	N
+GW86	T2101	Diwali wird jedes Jahr am gleichen Datum beobachtet.	C
+GW1	T2101	Diwali wird im Herbst gefeiert.	E
+GW1	T2101	Diwali wurde zuerst in der Geschichte Deepavali genannt.	N
+GW1	T2101	Diwali ist direkt mit mehr als einem Dutzend anderen Feiertagen verbunden.	C
+GW12	T2101	Diwali ist ein religiöser Feiertag, der von einigen Buddhisten beobachtet wird.	E
+GW12	T2101	Deepavali ist ein saisonaler Urlaub mit Heimschmuck und Geschenke gefeiert.	N
+GW12	T2101	Die Termine 2019 für Diwali finden alle zu Beginn des Monats Oktober statt.	C
+GW12	T2102	Das Dongzhi Festival wird von den Chinesen beobachtet und auch Tang-cheh genannt.	E
+GW12	T2102	Dongzhi Festival ist eine jährliche Feier, die im Dezember stattfindet.	N
+GW12	T2102	Das Dongzhi Festival markiert die Wintersonnenwende in der ersten Dezemberwoche.	C
+GW52	T2102	Die Dongzhi ist eine Feier der Vorfahren.	E
+GW52	T2102	Die Dongzhi sind seit mehreren Jahrhunderten in Kraft.	N
+GW52	T2102	Das Festival beginnt jedes Jahr am selben Tag.	C
+GW28	T2102	Dongzhi Festival ist ein jährliches Festival, das die Wintersonnenwende feiert.	E
+GW28	T2102	Dongzhi Festival wird seit Tausenden von Jahren gefeiert.	N
+GW28	T2102	Das Dongzhi Festival wird in ganz Asien und Europa gefeiert.	C
+GW52	T2103	Down Syndrom verursacht mehr als 25.000 Todesfälle pro Jahr.	E
+GW52	T2103	Down Syndrom ist im Laufe der Jahre in der Häufigkeit gestiegen.	N
+GW52	T2103	Down Syndrom betrifft 10 Millionen Menschen pro Jahr.	C
+GW106	T2103	Down Syndrom ist eine chromosomale Störung.	E
+GW106	T2103	Die meisten Fälle von Down-Syndrom treten auf, wenn die Mutter über 40 zum Zeitpunkt der Geburt ist.	N
+GW106	T2103	Down Syndrom ist so selten, dass es nur bei einem Kind pro Familiengeneration auftritt.	C
+GW4	T2103	Down Syndrom ist auf dem 21. Chromosom.	E
+GW4	T2103	Down-Syndrom wird in der Regel durch Spermien übertragen	N
+GW4	T2103	Das Down-Syndrom steigt an und betrifft 1% der Menschen auf der Welt.	C
+GW12	T2104	Die Bahnstrecke Duisburg–Quakenbrück ist eine Bahnstrecke in Deutschland.	E
+GW12	T2104	Mit einer Streckenlänge von 173 km hat die Bahnstrecke Duisburg–Quakenbrück weniger als vier Streckennummern.	N
+GW12	T2104	Die Streckennummer für die Bahnstrecke Duisburg–Quakenbrück ist kleiner als ihre Streckenlänge.	C
+GW86	T2104	Die Züge der Duisburg-Quakenbrück-Bahn werden von einer Oberleitungsstromquelle angetrieben.	E
+GW86	T2104	Die Bahnstrecke Duisburg–Quakenbrück führt durch genau fünf Städte in Deutschland.	N
+GW86	T2104	Die Bahnstrecke Duisburg–Quakenbrück hat eine Streckenlänge von 173 Meilen.	C
+GW52	T2104	Die Bahnstrecke Duisburg–Quakenbrück dauert über 100 Meilen.	E
+GW52	T2104	Die Duisburg-Quakenbrück-Bahn ist eine elektrische Bahnstrecke.	N
+GW52	T2104	Die Bahnstrecke Duisburg–Quakenbrück erreicht 60 km/h.	C
+GW106	T2105	Wenn Hör- und/oder Sehstörungen ausgeschlossen sind, leiden weniger als 10 % der Kinder im Schulalter, die Probleme mit dem Lesen haben, an Legasthenie.	E
+GW106	T2105	Die meisten Kinder, bei denen Dyslexie diagnostiziert wurde, leiden gleichzeitig an ADHS.	N
+GW106	T2105	Dyslexia ist mit der Verwendung bestimmter Medikamente behandelbar.	C
+GW74	T2105	Symptome der Schwierigkeiten beim Lesen in der Regel zuerst auftreten, während der Schulzeit	E
+GW74	T2105	Aufmerksamkeit Defizit Hyperaktivität Störung verursacht Probleme beim Lesen	N
+GW74	T2105	Dyslexia tritt bei 10% der Kinder im Schulalter auf	C
+GW95	T2105	Menschen werden in der Regel mit Legasthenie diagnostiziert, bevor sie die High School abschließen.	E
+GW95	T2105	Dyslexische Schüler brauchen eins-zu-eins-Lehrmethoden.	N
+GW95	T2105	Dyslexia kann von Person zu Person übertragen werden.	C
+GW12	T2106	Ostern ist ein religiöser Feiertag, der die Auferstehung Jesu feiert.	E
+GW12	T2106	Ostern Egg Dekoration ist ein Teil der Ostern Feier.	N
+GW12	T2106	Die Termine zur Feier von Ostern sind in den Jahren 2018 und 2019 gleich.	C
+GW1	T2106	Ostern ist mit mehr als einem Dutzend anderen Feiertagen verwandt.	E
+GW1	T2106	Das Datum von Ostern ändert sich jedes Jahr.	N
+GW1	T2106	Ostern ist typischerweise im Sommer.	C
+GW28	T2106	Ostern fällt jedes Jahr auf unterschiedliche Termine.	E
+GW28	T2106	Kirchenbesuch ist während Ostern erforderlich.	N
+GW28	T2106	Ostern fällt jedes Jahr im April.	C
+GW86	T2107	Eid al-Fitr tritt nach Ramadan auf.	E
+GW86	T2107	2020 wird Eid al-Fitr am 24. Mai gefeiert.	N
+GW86	T2107	Eid al-Fitr wird jedes Jahr im selben Monat gefeiert.	C
+GW89	T2107	Eid al-Fitr ist 2019 zu unterschiedlichen Daten in verschiedenen Ländern aufgetreten.	E
+GW89	T2107	Eid al-Fitr wird am 24. Mai und am 25. Mai 2020 stattfinden.	N
+GW89	T2107	Eid al-Fitr markiert den Beginn des Ramadan.	C
+GW28	T2107	Für Muslime bedeutet Eid al-Fitr das Ende des Fastens für den Ramadan.	E
+GW28	T2107	Eid al-Fitr wird mit süßen Kuchen gefeiert.	N
+GW28	T2107	Eid al-Fitr wird jedes Jahr zum gleichen Datum gefeiert.	C
+GW4	T2108	Die Emirates Air Line ist weniger als eine Meile lang.	E
+GW4	T2108	Die Emirates Air Line brauchte ein paar Jahre, um zu bauen.	N
+GW4	T2108	Die Emirates Air Line hat jährlich weniger als eine Million Passagiere.	C
+GW106	T2108	Die Emirates Air Line wird vollständig im Vereinigten Königreich betrieben.	E
+GW106	T2108	Die Emirates Air Line ist in der Lage, Geschwindigkeiten bis zu 12 m/s zu erreichen, obwohl sie nur offiziell mit 6 m/	N
+GW106	T2108	Die Emirates Air Line wird von der Greenwich Transit Authority betrieben.	C
+GW74	T2108	Die Länge des Gondellifts beträgt 12 Mal so hoch wie die	E
+GW74	T2108	Die Gondel erreicht 300 Fuß auf halbem Weg zwischen Emirates Greenwich Peninsula und Emirates Royal Docks	N
+GW74	T2108	Die Fahrerschaft betrug 1.314.783 ab 10 Jahren nach der Eröffnung	C
+GW28	T2109	Epilepsie ist eine neurologische Störung, die zu unkontrollierbaren Anfällen führt.	E
+GW28	T2109	Epilepsie ist ein überschaubarer Zustand mit einer gesunden Ernährung und Meditation.	N
+GW28	T2109	Epilepsie ist mit Ölen und Stimulation behandelbar.	C
+GW4	T2109	Epilepsie führt das Leben einer ganzen Person	E
+GW4	T2109	Die Krankheit Epilepsie ist in der Regel in der Lage, von Patienten verwaltet werden.	N
+GW4	T2109	Die Krankheit Epilepsie hat immer einen klaren Ausgangspunkt.	C
+GW89	T2109	Es gibt mindestens 6 mögliche Ursachen für Epilepsie.	E
+GW89	T2109	Die Zahl der Todesfälle bei Epilepsie nimmt jedes Jahr ab.	N
+GW89	T2109	Epilepsie ist bei 80% der Patienten kontrollierbar.	C
+GW1	T2110	Alle an Bord von Ethiopian Airlines Flug 302 wurden getötet.	E
+GW1	T2110	Die Untersuchung von Ethiopian Airlines Flug 302 ist fast abgeschlossen.	N
+GW1	T2110	Ethiopian Airlines Flug 302 stürzte im Sommer 2019 ab.	C
+GW74	T2110	Die Zahl der Verkehrstoten war höher als die Zahl der Fluggäste.	E
+GW74	T2110	Äthiopian Airlines verwenden immer Boeing 737 MAX 8	N
+GW74	T2110	Keiner der Besatzungsmitglieder gehörte zu den Todesopfern.	C
+GW19	T2110	Ethiopian Airlines Flug 302 war ein internationaler Flug, der kurz nach dem Start abstürzte.	E
+GW19	T2110	Der Absturz von Ethiopian Airlines Flug 302 war die schlimmste Flugkatastrophe in der Geschichte des Luftfahrtunternehmens.	N
+GW19	T2110	Der Hersteller Airbus war für den Absturz von Ethiopian Airlines Flug 302 verantwortlich.	C
+GW28	T2111	Europium ist ein natürlich vorkommendes Element.	E
+GW28	T2111	Europa wurde von einem europäischen Wissenschaftler entdeckt und isoliert.	N
+GW28	T2111	Europium wird in einem Labor synthetisch hergestellt.	C
+GW52	T2111	Europium wurde an der Wende des 20. Jahrhunderts entdeckt.	E
+GW52	T2111	Europium ist ein weit verbreitetes Element.	N
+GW52	T2111	Der Schmelz- und Siedepunkt von Europium ist derselbe.	C
+GW86	T2111	Europium ist nach einem Kontinent benannt.	E
+GW86	T2111	Europa wurde von Eugène-Anatole Demarçay benannt.	N
+GW86	T2111	Europium ist leicht sauer.	C
+GW28	T2112	Evolutionär stabile Strategie wurde zuerst von zwei Männern vorgeschlagen.	E
+GW28	T2112	Evolutionär stabile Strategie ist mit der evolutionären Spieltheorie assoziiert und ist Teil des Nash-Gleichgewichts.	N
+GW28	T2112	Evolutionär stabile Strategie umfasst Nash Gleichgewicht und Perfect Bayesian Gleichgewicht.	C
+GW12	T2112	Hawk-Taube ist ein Beispiel für eine evolutionär stabile Strategie.	E
+GW12	T2112	Evolutionär stabile Strategie ist eine Untergruppe aus Nash-Gleichgewicht und stochastischem Gleichgewicht.	N
+GW12	T2112	George R. Smith schlug die Idee einer evolutionär stabilen Strategie vor.	C
+GW86	T2112	Evolutionär stabile Strategie wurde von mehreren Individuen vorgeschlagen.	E
+GW86	T2112	Evolutionär stabile Strategie wurde vorgeschlagen, bevor der Vorschlag der Subspiel perfekte Gleichgewicht.	N
+GW86	T2112	Evolutionär stabile Strategie hat keine Beziehung zu zitternden Hand perfekt Gleichgewicht.	C
+GW12	T2113	Zehn Prozent der Menschen erleben explodierendes Kopfsyndrom, auch als episodischer Schädelsensorschock bekannt.	E
+GW12	T2113	Exploding Head Syndrom hat eine kurze Dauer und die Ursachen sind unbekannt.	N
+GW12	T2113	PTSD ist die einzige Diagnose für explodierendes Kopfsyndrom.	C
+GW28	T2113	Exploding Head Syndrom ist ein medizinischer Zustand, der Menschen beim Einschlafen oder Aufwachen betrifft.	E
+GW28	T2113	Exploding Head Syndrom Die Betroffenen schreien, wenn sie aufgewacht sind.	N
+GW28	T2113	Exploding Head Syndrom ist eine fast tödliche Krankheit, wenn sie nicht behandelt wird.	C
+GW86	T2113	Exploding Head Syndrom zeichnet sich durch ungewöhnliche auditive Erfahrungen aus.	E
+GW86	T2113	Exploding Head Syndrom erfordert in der Regel eine Behandlung.	N
+GW86	T2113	Exploding Head Syndrom tritt in etwa einem Viertel der Bevölkerung auf.	C
+GW52	T2114	Fast of Esther ist ein ganztägiges Event.	E
+GW52	T2114	Fast of Esther wird von allen praktizierenden Juden beobachtet.	N
+GW52	T2114	Fast of Esther findet jedes Jahr am selben Tag statt.	C
+GW74	T2114	Fast of Esther ist im selben Monat in 2020 und 2019	E
+GW74	T2114	Alle Juden schnell während Fast of Esther	N
+GW74	T2114	Das Datum 2018 ist ein Monat nach dem Datum 2019	C
+GW4	T2114	Das Fast of Esther dauert nur einen Tag.	E
+GW4	T2114	Jeder jüdische Mensch beobachtet das Fast of Esther.	N
+GW4	T2114	Die Fast of Esther ist jedes Jahr am selben Tag.	C
+GW2	T2115	Die Prognose für hepatische Steatose ist gut, wenn sie früh gefangen wird.	E
+GW2	T2115	Die meisten Zirrhose ist Ursache durch Fettleber.	N
+GW2	T2115	Die hepatische Steatose betrifft unter 70% der starken Trinker.	C
+GW52	T2115	Fatty Leber hat mehrere Arten.	E
+GW52	T2115	Fatty Leber hat keinen Einfluss auf die Lebenserwartung.	N
+GW52	T2115	Fatty Leber kann nur durch Alkohol verursacht werden.	C
+GW25	T2115	Lebersteatose, die auch als Fettleber bekannt ist, kann durch mehrere Methoden diagnostiziert werden.	E
+GW25	T2115	Fatty Leber ist bei starken Trinkern prominent und das Trinken aufzugeben ist ein sicheres Heilmittel.	N
+GW25	T2115	Fatty Leber ist oft mit starkem Trinken verbunden, führt aber nicht zu Zirrhose oder Leberkrebs.	C
+GW52	T2116	Flourin war eines der ersten zehn Elemente, die entdeckt wurden.	E
+GW52	T2116	Mehl ist heute in hohem Maße in Gebrauch.	N
+GW52	T2116	Flourine wurde im 18. Jahrhundert entdeckt.	C
+GW63	T2116	Die Person, die Fluorine genannt hat, unterscheidet sich von der Person, die sie entdeckt hat.	E
+GW63	T2116	Fluorin kann in festem Zustand isoliert werden.	N
+GW63	T2116	Fluorin ist fest, wenn es in der GfbV-Phase ist.	C
+GW25	T2116	Fluorin ist ein Reaktives Nichtmetall mit Alpha-, Beta-Allotropen.	E
+GW25	T2116	Obwohl André-Marie Ampère zum ersten Mal Flourine entdeckte, erwies sich Henri Moissans erste Isolierung als seine Akzeptanz bei Chemie-Akademikern.	N
+GW25	T2116	Humphry Davy hieß Flourine, aber Henri Moissan entdeckte es.	C
+GW1	T2117	Die Main Street Subway Station (Dual System IRT) wurde im Herbst 1928 eröffnet.	E
+GW1	T2117	Die Main Street Subway Station (Dual System IRT) hatte immer 2 Inselplattformen.	N
+GW1	T2117	Die Main Street Subway Station (Dual System IRT) läuft seit über einem Jahrhundert.	C
+GW86	T2117	Der U-Bahnhof Main Street verfügt über mehr Gleise als Bahnsteige.	E
+GW86	T2117	Die U-Bahn-Station Main Street wurde vor 91 Jahren gebaut.	N
+GW86	T2117	Der U-Bahnhof Main Street hat mehr Bahnsteige als Gleise.	C
+GW52	T2117	Die Main Street Subway Station (Dual System IRT) wurde im 20. Jahrhundert eröffnet.	E
+GW52	T2117	Die Main Street Subway Station (Dual System IRT) läuft heute weiter.	N
+GW52	T2117	Die Main Street Subway Station (Dual System IRT) verläuft durch ganz New York.	C
+GW106	T2118	Das ursprüngliche Hauptquartier von Fosters Freeze befindet sich in einer anderen Stadt als heute.	E
+GW106	T2118	Sanjay Patel trat als CEO von Google zurück, um die Position als Leiter der Fosters Freeze zu akzeptieren.	N
+GW106	T2118	Fosters Freeze testete einen neuen Erdbeer-Shortcake weich servieren Twist-Geschmack in bestimmten Geschäften in Phoenix, AZ.	C
+GW83	T2118	Fosters Freeze wurde von George Foster gegründet	E
+GW83	T2118	In Pasadena, Kalifornien, gibt es einen Fosters Gefriertruheort.	N
+GW83	T2118	Fosters Freeze wurde in Hollywood California gegründet.	C
+GW86	T2118	Der Hauptsitz von Fosters Freeze befindet sich in einer anderen Stadt als der Stadt, in der die Kette gegründet wurde.	E
+GW86	T2118	Der Gründer von Fosters Freeze ist verstorben.	N
+GW86	T2118	Fosters Freeze hat Restaurants in mehreren Staaten.	C
+GW52	T2119	Ganesh Chaturthi dauert fast zwei Wochen.	E
+GW52	T2119	Ganesh Chaturthi kann im August enden.	N
+GW52	T2119	Ganesh Chaturthi wird von ganz Asien beobachtet.	C
+GW28	T2119	Ganesh Chaturthi ist ein mehrtägiges religiöses Fest, das jedes Jahr an verschiedenen Tagen	E
+GW28	T2119	Ganesh Chaturthi Tradition diktiert Geld an Kinder als Geschenk während der Einhaltung gegeben werden.	N
+GW28	T2119	Ganesh Chaturthi ist ein einziger Tag der Befolgung, der am Ende des Sommers beginnt.	C
+GW4	T2119	Ganesh Chaturthi dauert über eine Woche.	E
+GW4	T2119	Ganesh Chaturthi ist seit über 1000 Jahren Teil der hinduistischen Tradition.	N
+GW4	T2119	Ganesh Chaturthi findet jedes Jahr am gleichen Datum statt.	C
+GW106	T2120	Die Garfield Park Branch wurde im selben Monat im Abstand von 63 Jahren eröffnet und geschlossen.	E
+GW106	T2120	Die Garfield Park Branch ist die einzige schnelle Transitlinie, die in zwei verschiedenen Jahrhunderten in Chicago überlebt.	N
+GW106	T2120	Die Garfield Park Branch wurde vollständig im Cook County im US-Bundesstaat Illinois betrieben.	C
+GW74	T2120	Garfield Park Branch im selben Monat geschlossen, dass es eröffnet	E
+GW74	T2120	Garfield Park Branch hatte 1895 22 Stationen	N
+GW74	T2120	Metropolitan West Side Elevated Railroad war der Betreiber, als Garfield Park Branch geschlossen	C
+GW28	T2120	Garfield Park Branch ist seit mehr als fünfzig Jahren nicht mehr in Betrieb.	E
+GW28	T2120	Garfield Park Branch wird aufgegeben und verurteilt.	N
+GW28	T2120	Garfield Park Branch bediente mehrere Bundesstaaten im Mittleren Westen.	C
+GW52	T2121	Die allgemeine Prüfung für Frauen war nur für ein Jahrzehnt in Gebrauch.	E
+GW52	T2121	Die Allgemeine Prüfung für Frauen sollte ein Fuß in der Tür zur Arbeit sein.	N
+GW52	T2121	Die Allgemeine Prüfung für Frauen wurde im 20. Jahrhundert durchgeführt.	C
+GW28	T2121	Allgemeine Prüfung für Frauen war eine Prüfung, um Frauen für höheres Lernen an der Universität zu qualifizieren.	E
+GW28	T2121	Allgemeines Examen für Frauen war für Frauen, die eine akademische Laufbahn	N
+GW28	T2121	Die allgemeine Prüfung für Frauen wurde in mehreren Sprachen angeboten und dauert bis heute an.	C
+GW74	T2121	Allgemeine Prüfung für Frauen endete 11 Jahre nach Beginn der Prüfung	E
+GW74	T2121	University of London war die einzige Universität mit einer allgemeinen Prüfung für Frauen im Jahr 1869	N
+GW74	T2121	Die Allgemeine Prüfung für Frauen dauerte 20 Jahre an der Universität London	C
+GW28	T2122	Die George Washington Bridge verbindet NY und NJ.	E
+GW28	T2122	Die George Washington Bridge ist die geschäftigste Brücke der Welt.	N
+GW28	T2122	Die George Washington Bridge ist eine freie, eingeschossige Stahlbrücke.	C
+GW52	T2122	Die GW hat fast 300.000 Fahrzeuge, die es jeden Tag überqueren.	E
+GW52	T2122	GW wurde nie renoviert.	N
+GW52	T2122	GW eröffnete im 19. Jahrhundert.	C
+GW86	T2122	Die George Washington Bridge befindet sich in mehr als einem Staat.	E
+GW86	T2122	Trucks ist es untersagt, die George Washington Bridge zu benutzen.	N
+GW86	T2122	Weniger als 30 Jahre vergingen zwischen dem Beginn des Baus auf der Brücke und der Öffnung aller Teile der Brücke für die Öffentlichkeit.	C
+GW28	T2123	Giant-Zell-Arteritis leidet vor allem an älteren Erwachsenen.	E
+GW28	T2123	Giant-Zell-Arteritis macht das Gesicht durch Entzündung rot.	N
+GW28	T2123	Giant-Zell-Arteritis betrifft Millionen von älteren Menschen und verkürzt die Lebensdauer.	C
+GW86	T2123	Giant-Zell-Arteritis ist sowohl mit einem vollständigen Verlust des Sehvermögens als auch mit Herzproblemen verbunden.	E
+GW86	T2123	Giant-Zell-Arteritis tritt nur bei Menschen über 50 Jahren auf.	N
+GW86	T2123	Giant-Zell-Arteritis beeinflusst typischerweise, wie lange man zu leben erwartet wird.	C
+GW52	T2123	Eine Riesenzellarteritis tritt typischerweise bei Senioren auf.	E
+GW52	T2123	Die Horton-Krankheit tritt nicht bei Kindern auf.	N
+GW52	T2123	Arteritis beeinflusst die Lebenserwartung der Betroffenen.	C
+GW12	T2124	Guter Freitag ist ein christlicher Feiertag, der jährlich stattfindet.	E
+GW12	T2124	Guter Freitag wird nur im April beobachtet.	N
+GW12	T2124	Als religiöser Feiertag betrachtet, findet Guter Freitag am Freitag unmittelbar nach Ostersonntag statt.	C
+GW19	T2124	Wie Ostern fällt Guter Freitag nicht jedes Jahr auf ein bestimmtes Datum.	E
+GW19	T2124	Guten Freitag fällt mit dem ersten Tag des Passahs zusammen.	N
+GW19	T2124	Westliche und östliche Zweige des Christentums feiern beide die Auferstehung Christi am selben Tag.	C
+GW28	T2124	Guten Freitag ist eine jährliche religiöse Befolgung, die jedes Jahr an verschiedenen Tagen	E
+GW28	T2124	Guten Freitag ist die heiligste Zeit des Jahres für Christen.	N
+GW28	T2124	Guten Freitag ist festliche und laute Befolgung durch Christen.	C
+GW74	T2125	Die Punktzahl ist gültig 3 Jahre beginnend 31 nach dem Jahr begonnen	E
+GW74	T2125	Mehr Studenten in Indien nehmen das GATE als in den USA.	N
+GW74	T2125	Die Punktzahl war gültig 3 Jahre 10 Jahre nach Beginn des Jahres	C
+GW86	T2125	Die Gebühr für die Aufnahme des GATE ist je nach Geschlecht, Nationalität und Behinderungsstatus unterschiedlich.	E
+GW86	T2125	GATE wurde vor 2015 eingeführt.	N
+GW86	T2125	GATE ist ein schriftlicher Test.	C
+GW4	T2125	Der Graduate Aptitude Test in Engineering begann in den 80er Jahren.	E
+GW4	T2125	Der Graduate Aptitude Test in Engineering findet nur in Indien statt.	N
+GW4	T2125	Die Graduate Aptitude Test in Engineering ist kostenlos für Studenten zu nehmen.	C
+GW52	T2126	Die GMAT wurde von mehreren hundert Studenten aufgenommen.	E
+GW52	T2126	Der GMAT war kontinuierlich ein primäres Zulassungsinstrument.	N
+GW52	T2126	Der GMAT ist gut fürs Leben.	C
+GW106	T2126	Die GMAT-Prüfung besteht aus vier Abschnitten.	E
+GW106	T2126	Englische Majors machten die höchste Gruppierung von perfekten Partituren auf der GMAT-Prüfung aus.	N
+GW106	T2126	Testteilnehmer mit GMAT-Scores über 850 haben die höchste Wahrscheinlichkeit, zu den renommiertesten Business-Programmen an amerikanischen Hochschulen und Universitäten akzeptiert zu werden.	C
+GW28	T2126	Graduate Management Admission Test ist eine englischsprachige Prüfung, die in der Zulassung zu Business Schools verwendet wird.	E
+GW28	T2126	Graduate Management Admission Test ist Betrug und betrügersicher.	N
+GW28	T2126	Graduate Management Admission Test ist ein mehrtägiger Test, der einen Aufenthalt und eine Übernachtung erfordert.	C
+GW28	T2127	Record Examination: General Test wird in mehreren Ländern durchgeführt, aber nur in einer Sprache angeboten.	E
+GW28	T2127	Record Examination: General Test ist der beliebteste Test, der angeboten wird.	N
+GW28	T2127	Record Examination: General Test ist bei der Bewerbung an Schulen nicht	C
+GW106	T2127	Studierende, die den GRE als papierbasierten Test nehmen, können den Test häufiger als diejenigen, die den Test per Computer durchführen, machen.	E
+GW106	T2127	Die GRE ist obligatorisch für den Abschluss für Undergraduates in den Vereinigten Staaten.	N
+GW106	T2127	Der GRE ist ein standardisierter Test, der erstmals während der Truman-Administration angeboten wurde.	C
+GW60	T2127	GRE wurde 1936 aufgenommen und gilt bis 1941.	E
+GW60	T2127	GRE ist die einzige Prüfung, die vom Bildungsprüfdienst angeboten wird.	N
+GW60	T2127	Einige GRE-Scores wurden 1939 ungültig.	C
+GW28	T2128	Graphic Designer ist ein kreativer und visuell fokussierter Beruf.	E
+GW28	T2128	Graphic Designers sind gut kompensiert.	N
+GW28	T2128	Graphic Designers können in vielen technischen Berufen wie Ingenieur arbeiten.	C
+GW106	T2128	Ein kreativer Leiter einer Werbeagentur wäre ein idealer Beruf für einen Grafikdesigner.	E
+GW106	T2128	Die meisten Grafikdesigner erfolgreich in der Desktop-Publishing-Branche haben College-Kurse in der Kunstgeschichte	N
+GW106	T2128	Die Karriereaussichten für Grafikdesigner im Verlagswesen sind in den letzten Jahren durch den Aufstieg digitaler Bücher zurückgegangen.	C
+GW60	T2128	Ein Kunstdirektor muss in der Kunstgeschichte kompetent sein.	E
+GW60	T2128	Ein kreativer Regisseur kann immer auch ein Website-Designer sein.	N
+GW60	T2128	Ein Kunstverzeichnis kann in der Typografie nicht funktionieren.	C
+GW28	T2129	Das Guillain-Barré-Syndrom ist ein medizinischer Zustand unbekannter Ursache und verlängerter Erholungszeit nach Diagnose und Behandlung.	E
+GW28	T2129	Die Behandlung des Guillain-Barré-Syndroms ist teuer und dauert Jahre.	N
+GW28	T2129	Das Guillain-Barré-Syndrom beginnt im Gehirn und wirkt sich auf Augen und Ohren aus.	C
+GW74	T2129	Es gibt mehr Komplikationen als Symptome	E
+GW74	T2129	Muskelschwäche in Händen und Füßen zu beobachten ist die beste diagnostische Methode	N
+GW74	T2129	Die Sterbefälle der Betroffenen sind niedriger als die Häufigkeit der Betroffenen pro Jahr.	C
+GW52	T2129	Das Guillain-Barré-Syndrom hat eine niedrige Sterblichkeitsrate.	E
+GW52	T2129	Das Guillain-Barré-Syndrom ist in der Häufigkeit gewachsen.	N
+GW52	T2129	Das Guillain-Barré-Syndrom hat bekannte Ursachen.	C
+GW60	T2130	Der Guru Purnima 2018 wurde später im Jahr gefeiert als der Guru Purnima 2019	E
+GW60	T2130	Guru Purnima ist auch ein nationaler Feiertag in Indien.	N
+GW60	T2130	Das Jahr 2020 Guru Purnima wird früher gefeiert als das Jahr 2019 Guru Purnima.	C
+GW1	T2130	Guru Purnima findet im Sommer statt.	E
+GW1	T2130	Nepal ist der einzige Ort, an dem Guru Purnima gefeiert wird.	N
+GW1	T2130	Guru Purnima kommt zweimal im Jahr vor.	C
+GW4	T2130	Guru Purnima ist etwas, das jedes Jahr passiert.	E
+GW4	T2130	Die Menschen essen in der Regel viel zu essen in Guru Purnima.	N
+GW4	T2130	Guru Purnima passiert immer am selben Tag.	C
+GW12	T2131	Hanukkah ist ein jüdischer Feiertag, der von Juden beobachtet wird.	E
+GW12	T2131	Hanukkah beinhaltet Kerzen anzünden, Lieder singen und Essen essen.	N
+GW12	T2131	Hanukkah ist ein jüdischer Feiertag, der erst im Dezember stattfindet.	C
+GW52	T2131	Hanukkah wird jährlich gefeiert.	E
+GW52	T2131	Hanukkah wird in jedem Land gefeiert.	N
+GW52	T2131	Hanukkah findet jedes Jahr zu denselben Terminen statt.	C
+GW60	T2131	Hannukkah begann im Jahr 2018 früher als 2019	E
+GW60	T2131	Hannukkah wird im Jahr 2021 früher als in jedem anderen Jahr im 21. Jahrhundert beginnen.	N
+GW60	T2131	Hannukkah wird später im Jahr 2021 als in jedem anderen Jahr im 21. Jahrhundert beginnen.	C
+GW89	T2132	Holi findet am 9. März 2020 statt.	E
+GW89	T2132	Holi findet jedes Jahr an einem anderen Datum statt.	N
+GW89	T2132	Das Datum von Holi basiert auf dem römischen Kalender.	C
+GW106	T2132	Holi eine kulturelle Feier, die von vielen Religionen beobachtet wird.	E
+GW106	T2132	Lila, grün und blau haben eine besondere Bedeutung für Träger während der Holika Bonfire.	N
+GW106	T2132	Holi findet immer im Frühling statt.	C
+GW19	T2132	Holi ist ein indischer Feiertag, der von mehreren Glaubensrichtungen gefeiert wird.	E
+GW19	T2132	Holi gilt als der heiligste Tag des Jahres in Indien.	N
+GW19	T2132	In Indien beobachten alle Glauben Holi durch Fasten und verbringen den Tag im feierlichen Gebet.	C
+GW52	T2133	Das Projekt Howrah Bridge dauerte mehrere Jahre.	E
+GW52	T2133	Die Howrah Bridge wurde seit der Eröffnung nicht mehr renoviert.	N
+GW52	T2133	Die Howrah Bridge kostet eine Maut.	C
+GW1	T2133	Howrah Bridge dauerte über 5 Jahre, um zu bauen.	E
+GW1	T2133	Die Howrah Bridge ist die einzige Brücke, die und Tritton entworfen.	N
+GW1	T2133	Die Howrah Bridge wurde im Sommer 1943 eröffnet.	C
+GW12	T2133	Die Howrah Bridge besteht aus Stahl und wird von Kolkata Port Trust gepflegt.	E
+GW12	T2133	Der Bau der Howrah Bridge begann 1942 und wurde 1943 eröffnet.	N
+GW12	T2133	Insgesamt 800.000 Menschen und Fahrzeuge überqueren täglich die Howrah Bridge.	C
+GW28	T2134	HTC Dream ist ein Smartphone mit Android Donut.	E
+GW28	T2134	HTC Dream ist ein Smartphone der ersten Generation.	N
+GW28	T2134	HTC Dream hat sowohl hintere als auch nach vorne gerichtete Kameras als Standard.	C
+GW52	T2134	HTC Dream hat einen Akku, der über 1000 mAh ist	E
+GW52	T2134	Der HTC Dream ist noch in Produktion.	N
+GW52	T2134	HTCs Dream ist ein Flip-Handy.	C
+GW4	T2134	Der HTC Dream hat mehr als 1000 mAh Akku.	E
+GW4	T2134	Ein HTC Dream wurde entwickelt, um ein iPhone zu kopieren	N
+GW4	T2134	Der HTC Dream hat nur eine einzelne Bandantenne.	C
+GW86	T2135	Der Huawei Ascend G300 kann auf mehr als einer Art Netzwerk betrieben werden.	E
+GW86	T2135	Aktuell wird der Huawei Ascend G300 hergestellt.	N
+GW86	T2135	Der Huawei Ascend G300 ist ein Tablet-Gerät.	C
+GW52	T2135	Die Ascend G300 Start-Betriebssystem war Android 4.	E
+GW52	T2135	Der Ascend G300 ist noch in Produktion	N
+GW52	T2135	Die Ascend G300 hatte die gleiche Kamera in jedem Modell.	C
+GW38	T2135	Der Huawei Ascend G300 ist kompatibel mit HSPA900/2100 Netzwerken.	E
+GW38	T2135	Der Huawei Ascend G300 ist das schnellste Smartphone von Huawei	N
+GW38	T2135	Der Huawei Ascend G300 läuft auf dem Android 2.0 Betriebssystem	C
+GW12	T2136	Die Häufigkeit von Hyperthyreose, einer überaktiven Schilddrüse, liegt in den USA bei 1,2 %.	E
+GW12	T2136	Die Morbus Graves ist die einzige Ursache für Hyperthyreose.	N
+GW12	T2136	Hyperthyreose tritt in der Regel während der Kindheit.	C
+GW74	T2136	Es gibt mehr Symptome als Ursachen für Hyperthyreose	E
+GW74	T2136	Morbus Graves verursacht Muskelschwäche	N
+GW74	T2136	Es gibt mehr Medikamente als Behandlungen	C
+GW52	T2136	Hyperthyreose tritt in über 1% der Bevölkerung auf.	E
+GW52	T2136	Hyperthyreose hat vor 20 Jahren und nach 50 Jahren begonnen.	N
+GW52	T2136	Hyperthyreose hat keine bekannte Ursache.	C
+GW63	T2137	Der Corona Yard, East 180th Street Yard ist in das New York Subway System integriert.	E
+GW63	T2137	Es gibt eine U-Bahn nur in New York.	N
+GW63	T2137	Die Interborough Rapid Transit Company ist seit über 100 Jahren im Einsatz.	C
+GW52	T2137	Die Interborough Rapid Transit Authority begann im 20. Jahrhundert.	E
+GW52	T2137	Die U-Bahn diente ganz New York.	N
+GW52	T2137	Die Interborough Rapid Transit Authority läuft heute weiter.	C
+GW28	T2137	Interborough Rapid Transit Company existiert seit 37 Jahren.	E
+GW28	T2137	Die Interborough Rapid Transit Company ging bankrott und wurde von der Manhattan Railway Company übernommen.	N
+GW28	T2137	Interborough Rapid Transit Company ist ein privates Unternehmen, das bis heute tätig ist.	C
+GW28	T2138	International English Language Testing System ist ein standardisierter Test für die englische Sprachkompetenz.	E
+GW28	T2138	International English Language Testing System ist der beliebteste Englisch Sprachtest der Welt.	N
+GW28	T2138	International English Language Testing System kann jederzeit online genommen werden.	C
+GW74	T2138	Es gibt mehr Hochschulen, Agenturen und andere Institutionen, die IELTS-Testergebnisse verwenden, als es Testzentren gibt	E
+GW74	T2138	Im Vereinigten Königreich im Jahr 1980 als Erster gestartet	N
+GW74	T2138	Es gibt mehr Länder, die Testergebnisse verwenden, als Testzentren	C
+GW105	T2138	Das International English Language Testing System hat mehrere verschiedene Teile.	E
+GW105	T2138	Der Test richtet sich vor allem an Immigranten aus Mexiko.	N
+GW105	T2138	Nur ein paar Colleges benutzen diesen Test.	C
+GW107	T2139	iOS wird von Apple entwickelt.	E
+GW107	T2139	iOS ist das beste Betriebssystem.	N
+GW107	T2139	iOS ist in Python geschrieben.	C
+GW52	T2139	iOS debütierte erstmals in den 2000er Jahren.	E
+GW52	T2139	iOS hat in den letzten zwölf Jahren häufige Updates erhalten.	N
+GW52	T2139	iOS ist eine Open-Source-Software.	C
+GW74	T2139	Die neueste Vorschau von iOS war 8 Tage nach der letzten Veröffentlichung	E
+GW74	T2139	iOS ist seit 2007 in 40 Sprachen verfügbar	N
+GW74	T2139	Die neueste Veröffentlichung von iOS geschah im selben Monat wie die erste Veröffentlichung	C
+GW52	T2140	IBS tritt auf, bevor Erwachsene ein höheres Alter erreichen.	E
+GW52	T2140	Die IBS-Frequenz hat sich im Laufe der Zeit erhöht.	N
+GW52	T2140	Menschen mit IBS haben eine kürzere Lebenserwartung.	C
+GW63	T2140	Obwohl IBS keine kurzfristige Bedingung ist, müssen sich die Menschen keine Sorgen um eine Verkürzung der Lebensdauer machen.	E
+GW63	T2140	Im Alter von 40 Jahren kann man IBS nie bekommen.	N
+GW63	T2140	Die bekannten Ursachen von IBS können mit einer Operation behandelt werden	C
+GW28	T2140	Irritable Darmsyndrom ist ein medizinischer Zustand, der Darmbewegungen beeinflusst.	E
+GW28	T2140	Die Behandlung des reizbaren Darmsyndroms ist einfach und nicht teuer.	N
+GW28	T2140	Das reizbare Darmsyndrom ist manchmal tödlich.	C
+GW52	T2141	Die q111 q113, q114 Jamaika-Far-Rockaway-Linie ist seit der Wende des 20. Jahrhunderts auf die eine oder andere Weise im Einsatz.	E
+GW52	T2141	Die Linie q113 Jamaica−Far Rockaway läuft nach einem 24-Stunden-Fahrplan	N
+GW52	T2141	Die q111 q113, q114 Jamaika-Far Rockaway-Linie hat alle die gleiche Laufleistung.	C
+GW60	T2141	Der Q111 befördert mehr Passagiere pro Meile als der Q113 und der Q114.	E
+GW60	T2141	Das Baisley Park Depot gehört der MTA Bus Company.	N
+GW60	T2141	Der Q113 ist während des Tages nie geschlossen.	C
+GW28	T2141	q111 q113, q114 Jamaica-Far Rockaway Line ist eine Buslinie zwischen Queens und Nassau County.	E
+GW28	T2141	q111 q113, q114 Jamaica−Far Die Rockaway-Linie ist mit öffentlichem WLAN in allen Bussen ausgestattet.	N
+GW28	T2141	q111 q113, q114 Jamaica−Far Rockaway Line ist eine selten verwendete Linie.	C
+GW4	T2142	Jaundice bewirkt, dass sich die Hautfarbe bei Menschen verändert.	E
+GW4	T2142	Die Krankheit Jaundie kann mit der Medizin geheilt werden.	N
+GW4	T2142	Die Krankheit Jaundice ist eine, die in der Regel tödlich für die Menschen ist.	C
+GW28	T2142	Jaundice ist ein medizinischer Zustand, der Haut und Augen gelb verfärbt.	E
+GW28	T2142	Jaundice ist manchmal tödlich.	N
+GW28	T2142	Jaundice  wird durch eine schlechte Ernährung und mangelnde Bewegung verursacht.	C
+GW12	T2142	Jaundice ist eine hepatologische Spezialität, die die gelbliche Färbung der Haut	E
+GW12	T2142	Die Haut und das Weiß der Augen werden gelb, wenn ein Individuum Gelbsucht hat.	N
+GW12	T2142	Es gibt nur einen Test, um Gelbsucht zu diagnostizieren.	C
+GW1	T2143	Die gemeinsame Zulassungsprüfung wird halbjährlich angeboten.	E
+GW1	T2143	Die Nationale Prüfstelle verwaltet nur die Gemeinsame Eingangsprüfung.	N
+GW1	T2143	Die gemeinsame Eingangsprüfung begann im 20. Jahrhundert.	C
+GW52	T2143	Der JEE Main begann in den 2000er Jahren.	E
+GW52	T2143	Der JEE Main hat die Zahl der im Laufe der Jahre durchgeführten Tests erhöht.	N
+GW52	T2143	Der JEE Main hat nur einen positiven Scoring-Bereich.	C
+GW60	T2143	Es dauert 6 Stunden, um alle Papiere für die JEE Main erforderlich zu vervollständigen.	E
+GW60	T2143	Die JEE Main enthält Differentialrechnung.	N
+GW60	T2143	Sie können die Prüfung jedes Mal nehmen, wenn sie für 2 Jahre in Folge angeboten wird.	C
+GW86	T2144	Die Kelana Jaya Line Extension wurde vor mehr als 3 Jahren eröffnet.	E
+GW86	T2144	Die Kelana Jaya Line Extension ist derzeit in Betrieb.	N
+GW86	T2144	Die Kelana Jaya Line Extension wurde vor 4 Jahren eröffnet.	C
+GW74	T2144	Es gibt 12 mehr Stationen als Dienstleistungen	E
+GW74	T2144	Es gab 13 Stationen die Kelana Jaya Linie Erweiterung eröffnet 30 Juni 2016	N
+GW74	T2144	Es gibt mehr Dienstleistungen als Termini	C
+GW28	T2144	Kelana Jaya Line Extension wurde im 21. Jahrhundert in Südostasien in Betrieb genommen	E
+GW28	T2144	Kelana Jaya Line Extension läuft ausschließlich mit Mag-lev.	N
+GW28	T2144	Kelana Jaya line extension ist in mehreren Ländern über Tausende von Meilen von Gleisen tätig.	C
+GW52	T2145	Die 35 / 36 Metro Lines ermöglichen einen übertragbaren Service.	E
+GW52	T2145	Ein 35 Metro Line Passagier kann auch die 36 Metro Line nutzen.	N
+GW52	T2145	Die 35 / 36 Metro Lines sind ein rund um die Uhr Betrieb.	C
+GW28	T2145	35 / 36 Metro Lines ist eine öffentliche Verkehrslinie, die nach einem festgelegten Zeitplan betrieben wird.	E
+GW28	T2145	Passagiere können mit ihren Smartphones Fahrpreise auf den 35 / 36 Metro Lines bezahlen.	N
+GW28	T2145	35 / 36 Metro Lines fährt 24 Stunden am Tag ohne Pausen.	C
+GW4	T2145	Die 35 / 36 Metro Lines läuft 6 mal am Tag.	E
+GW4	T2145	Die 35 / 36 Metro Lines decken eine Menge Fläche ab.	N
+GW4	T2145	Die 35 / 36 Metro Lines nutzen Audi-Fahrzeuge.	C
+GW106	T2146	Weniger als 10% der Insassen auf LaMia Flug 2933 überlebten den Absturz.	E
+GW106	T2146	Alle Überlebenden an Bord von LaMia Flug 2933 waren Passagiere.	N
+GW106	T2146	Das Avro RJ85-Flugzeug, das in LaMia Flight 2933 eingesetzt wurde, hatte eine defekte Kraftstoffanzeige.	C
+GW74	T2146	Es gab mehr Insassen als Passagiere	E
+GW74	T2146	4 der sechs Überlebenden waren Besatzung	N
+GW74	T2146	Keine Überlebenden hatten Verletzungen.	C
+GW95	T2146	Es gab 18 Passagiere zu jeder 1 Besatzungsmitglied.	E
+GW95	T2146	Von den 6 Überlebenden waren 3 Besatzungsmitglieder.	N
+GW95	T2146	Der Absturz konnte nicht verhindert werden.	C
+GW74	T2147	Der Mindestradius ist länger als die Höhe der Höchsten	E
+GW74	T2147	Las Vegas Monorail hatte 1995 7 Stationen	N
+GW74	T2147	Las Vegas Monorail sind im Besitz eines anderen Unternehmens, als es betreibt	C
+GW4	T2147	Die Las Vegas Monorail gibt es seit über 15 Jahren.	E
+GW4	T2147	Die Las Vegas Monorail hält in den meisten Hotels.	N
+GW4	T2147	Der Las Vegas Monorail geht langsamer als Autos.	C
+GW86	T2147	Die Las Vegas Monorail wurde ursprünglich unter einem anderen Namen eröffnet.	E
+GW86	T2147	Die Las Vegas Monorail hat eine maximale Geschwindigkeit von 50 mph.	N
+GW86	T2147	Der Las Vegas Monorail ist seit 1995 ohne Unterbrechungen im Betrieb.	C
+GW28	T2148	La Tomatina ist eine jährliche kulturelle Feier in Spanien	E
+GW28	T2148	La Tomatina verschwendet jedes Jahr Millionen von Gallonen Tomaten.	N
+GW28	T2148	La Tomatina landet jedes Jahr am selben Tag.	C
+GW4	T2148	La Tomatina ist ein Feiertag, der in Europa gefeiert wird.	E
+GW4	T2148	La Tomatina ist ein Fest voller Essen.	N
+GW4	T2148	La Tomatina findet jedes Jahr am gleichen Datum statt.	C
+GW52	T2148	La Tomatina findet jeden August statt.	E
+GW52	T2148	La Tomatina ist eine Woche lang.	N
+GW52	T2148	La Tomatina tritt jedes Jahr am selben Tag auf.	C
+GW28	T2149	Law School Admission Test ist ein standardisierter Test, der in vielen englischsprachigen Ländern, vor allem in den Vereinigten Staaten, für die Zulassung zu Law Schools verwendet wird.	E
+GW28	T2149	Law School Admission Test kann auch verwendet werden, um die Zulassung zu einigen Graduiertenstudiengängen nicht nur Jura-Schulen.	N
+GW28	T2149	Law School Admission Test ist eine mehrtägige Prüfung in mehreren Sprachen.	C
+GW86	T2149	Der Law School Admission Test besteht seit über 70 Jahren.	E
+GW86	T2149	Die Schreibabteilung des LSAT wird bei der Zulassung von Juraschulen nicht berücksichtigt.	N
+GW86	T2149	LSAT-Scores aus den 2006 durchgeführten Tests sind heute gültig.	C
+GW52	T2149	Das LSAT steht weltweit zur Verfügung.	E
+GW52	T2149	Die Ergebnisse des LSAT sind ein Leben lang gut.	N
+GW52	T2149	Das LSAT hat eine negative Bewertung.	C
+GW28	T2150	LG Optimus G ist ein koreanisches Smartphone mit einer Kamera.	E
+GW28	T2150	LG Optimus G war ein Bestseller für LG.	N
+GW28	T2150	LG Optimus G wird für den heimischen koreanischen Markt hergestellt.	C
+GW74	T2150	Speicher ist bis zu 30 GB mehr als Speicher	E
+GW74	T2150	LG Optimus G als laufen auf Android 4.0 Ice Cream Sandwich haben 16 GB Speicher	N
+GW74	T2150	Das LG G2 kam vor LG Optimus 4X HD	C
+GW52	T2150	Das LG Optimus G verfügt über mehrere Speicheroptionen.	E
+GW52	T2150	Der LG Optimus G wird bis heute weiter produziert.	N
+GW52	T2150	Der LG Optimus G war der erste der Optimus-Serie.	C
+GW74	T2151	OS-Familie und Standard-Benutzeroberfläche sind Unix	E
+GW74	T2151	Linux war 1991 in mehrsprachiger Sprache verfügbar.	N
+GW74	T2151	Es gibt die gleiche Anzahl von Marketing-Zielen wie Plattformen	C
+GW1	T2151	Linux wurde im letzten Jahrzehnt des 20. Jahrhunderts veröffentlicht.	E
+GW1	T2151	Linus Torvalds hat mehr getan, um Linux zu entwickeln, als die	N
+GW1	T2151	Linus arbeitet auf mehr als 30 Plattformen basierend auf dem Diagramm.	C
+GW52	T2151	Linux wurde in den 1990er Jahren entwickelt.	E
+GW52	T2151	Linux ist heute eines der Top-Softwareteile auf dem Markt.	N
+GW52	T2151	Linux ist in C+ geschrieben.	C
+GW1	T2152	Lion Air Flight 610 stürzte im Herbst 2018 ab.	E
+GW1	T2152	Der einzige Rettungstaucher für Lion Air Flight 610 starb.	N
+GW1	T2152	Es gab Überlebende von Lion Air Flight 610.	C
+GW12	T2152	Es gab 181 Passagiere und 8 Besatzungsmitglieder auf Lion Air Flight 610.	E
+GW12	T2152	Die IATA-Nummer und die ICAO-Nummer für Lion Air Flight 610 sind identisch.	N
+GW12	T2152	Lion Air Flight 610 wurde von Lion Air betrieben und stürzte Anfang 2018 ab.	C
+GW52	T2152	JT610 ist letztes Jahr abgestürzt.	E
+GW52	T2152	Das Schicksal des Fluges JT610 hat keinen klaren Beweis.	N
+GW52	T2152	JT610 verursachte mehr als 200 Todesfälle.	C
+GW95	T2153	Loi Krathong geschieht am Ende des Jahres	E
+GW95	T2153	Menschen reisen nach Thailand, um Loi Krathong zu feiern	N
+GW95	T2153	Loi Krathong wird hauptsächlich von Westlern beobachtet	C
+GW86	T2153	Loi Krathong wird einmal im Jahr beobachtet.	E
+GW86	T2153	Loi Krathong wird jedes Jahr am 22. November beobachtet.	N
+GW86	T2153	Loi Krathong ist unter nur vier verschiedenen Namen bekannt.	C
+GW52	T2153	Loi Krathong tritt jedes Jahr auf.	E
+GW52	T2153	Loi Krathong wird in ganz Asien gefeiert.	N
+GW52	T2153	Loi Krathong wird in Nordamerika gefeiert.	C
+GW52	T2154	Lupercalia ist ein Anlass, der mit Lebensmitteln unterstützt wird.	E
+GW52	T2154	Lupercalia opfert jedes Mal ein bestimmtes Tier.	N
+GW52	T2154	Lupercalia findet jedes Jahr am gleichen Datum statt.	C
+GW86	T2154	Lupercalia wird an mehreren Daten beobachtet.	E
+GW86	T2154	Lupercalia wird heute noch von einigen Individuen beobachtet.	N
+GW86	T2154	Lupercalia wird ausschließlich an einem Tag beobachtet.	C
+GW74	T2154	Lupercalia wurde im Februar mit Festessen gefeiert	E
+GW74	T2154	Opfer von Ziegen und einem Hund von der Luperci wurde von allen Römern praktiziert	N
+GW74	T2154	Das Römische Reich feierte Lupercalia im Herbst	C
+GW86	T2155	Māgha Pūjā wird in mindestens fünf Ländern beobachtet.	E
+GW86	T2155	Māgha Pūjā wird in nur sechs Ländern beobachtet.	N
+GW86	T2155	Māgha Pūjā wurde im Sommer 2019 beobachtet.	C
+GW52	T2155	Māgha Pūjā fand im Februar dieses Jahres statt.	E
+GW52	T2155	Māgha Pūjā wird seit Jahrhunderten gefeiert.	N
+GW52	T2155	Māgha Pūjā ist eine streng buddhistische Feier.	C
+GW74	T2155	19. Februar 2019 hatte einen Vollmond.	E
+GW74	T2155	Das Shwedagon Pagoda Festival hat eine Prozession mit Licht,	N
+GW74	T2155	Der dritte Mondmonat war im März 2019	C
+GW84	T2156	Der Geburtstag von Lord Mahavir wird im Frühjahr gefeiert.	E
+GW84	T2156	Der Geburtstag von Mahaveer Swami wird 2019 nicht gefeiert.	N
+GW84	T2156	Der Geburtstag von Mahaveer Swami erfordert, dass die Menschen Geschenke mitbringen.	C
+GW60	T2156	Mahaveer Swami ist wichtig in der Jains Religion.	E
+GW60	T2156	Gebete werden nur im Jain-Tempel gemacht.	N
+GW60	T2156	Es gibt keine Jain-Tempel in Indien.	C
+GW4	T2156	Mahaver Janma Kalyanak ist ein Feiertag, der jährlich in Indien stattfindet.	E
+GW4	T2156	Mahaver Janma Kalyanak findet jedes Jahr immer am selben Tag statt.	N
+GW4	T2156	2019 geschah Mahaver Janma Kalyanak im Mai.	C
+GW28	T2157	Major depressive Störung ist eine psychische Erkrankung, die bei jungen Erwachsenen auftritt und die Monate, wenn nicht Jahre dauern kann.	E
+GW28	T2157	Major depressive Störung tritt bei kleinen Kindern nicht auf.	N
+GW28	T2157	Major depressive Störung kann mit einer Veränderung in der Umgebung geheilt werden.	C
+GW106	T2157	Geringe Selbstachtung ist ein Symptom von Leidenden einer unipolaren Depression.	E
+GW106	T2157	Die meisten leiden unter klinischer Depression auch Selbst-Schaden.	N
+GW106	T2157	Elektrokonvulsive Therapie ist die am häufigsten verwendete Form der Behandlung, um die Wahrscheinlichkeit von Selbstmord bei Patienten mit unipolaren Störungen zu bekämpfen.	C
+GW52	T2157	Major Depressive Disorder hat mehr als 100 Millionen Fälle zugeschrieben.	E
+GW52	T2157	Major Depressive Störung ist auf dem Vormarsch in den diagnostizierten Fällen.	N
+GW52	T2157	Major Depressive Störung ist eine akute Erkrankung.	C
+GW28	T2158	Makara Sankranti kann an verschiedenen Tagen im Januar fallen.	E
+GW28	T2158	Makara Sankranti ist der heiligste Feiertag für Hindus.	N
+GW28	T2158	Makara Sankranti ist ein feierlicher Feiertag mit ruhiger Kontemplation und Befolgung.	C
+GW89	T2158	Makara Sankranti ist das Erntefest.	E
+GW89	T2158	Makara Sankranti fällt jedes Jahr am selben Tag.	N
+GW89	T2158	Makara Sankranti verwendet die amerikanische Kalenderkorrelation.	C
+GW52	T2158	Mela ist eine weitgehend hinduistische Feier.	E
+GW52	T2158	Mela variiert am Tag der Feier.	N
+GW52	T2158	Mela ist ein rein kulturelles Ereignis.	C
+GW52	T2159	Malaysia Airlines Flug 370 wurde angenommen, dass es keine Überlebenden gibt.	E
+GW52	T2159	MH370 wird noch heute erforscht.	N
+GW52	T2159	MAS370 wurde kürzlich im Jahr 2019 gefunden.	C
+GW12	T2159	Die Ursache ist für den Absturz von Malaysia Airlines Flug 370 im Jahr 2014 unbekannt.	E
+GW12	T2159	Die Malaysia Airlines Flug 370 hatte eine Crew von 12 und eine Passagierliste von 227.	N
+GW12	T2159	Malaysia Airlines Flug 370 startete in Beijing Capital International Airport und war für Kuala Lumpur International Airport bestimmt.	C
+GW19	T2159	Der genaue Standort des malaysischen Flugzeugabsturzes 370 wurde noch nie ermittelt.	E
+GW19	T2159	Die Ermittler haben festgestellt, dass die malaysische Air 370 aufgrund einer vorsätzlichen menschlichen Handlung vermisst wurde.	N
+GW19	T2159	Die Ermittler haben schlüssig festgestellt, dass die malaysische Air 370 aufgrund eines Pilotenfehlers abgestürzt ist.	C
+GW1	T2160	Der Bau der Manhattan Bridge begann Anfang des 20. Jahrhunderts.	E
+GW1	T2160	Die Manhattan Bridge war schon immer frei.	N
+GW1	T2160	Es dauerte über 15 Jahre, um die Manhattan Bridge zu bauen.	C
+GW52	T2160	Die Manhattan Bridge ist seit über einem Jahrhundert im Einsatz.	E
+GW52	T2160	Die Manhattan Bridge wurde nie renoviert.	N
+GW52	T2160	Die Manhattan Bridge hat mehr als 100.000 Fahrzeuge, die täglich an ihr vorbeifahren.	C
+GW63	T2160	Es gibt keine Maut für die Länge von 6855 ft der Manhattan Bridge.	E
+GW63	T2160	Manhattan Bridge ist die einzige Brücke, die vom New York City Department of Transportation unterhalten wird.	N
+GW63	T2160	Der Bau der Manhattanbrücke dauerte weniger als 5 Jahre.	C
+GW86	T2161	Mawlid ist ein Feiertag in mehr als dreißig Ländern.	E
+GW86	T2161	Mawlid wird jedes Jahr am 10. oder 15. November gefeiert.	N
+GW86	T2161	Mawlid wird ausschließlich von Anhängern des sunnitischen und schiitischen Islam gefeiert.	C
+GW52	T2161	Mawlid hat unterschiedliche beobachtete Daten je nach sunnitischem oder schiitischem Hintergrund.	E
+GW52	T2161	Mawlid wird von mehreren Kontinenten gefeiert.	N
+GW52	T2161	Mawlid ist ein auf Hindus basierendes Ereignis.	C
+GW28	T2161	Mawlid ist eine islamische Befolgung, die mit der Geburt Muhammads verbunden ist.	E
+GW28	T2161	Mawlid ist der beliebteste islamische Feiertag der Welt.	N
+GW28	T2161	Mawlid wird auch von christlichen Ländern gefeiert.	C
+GW74	T2162	Leistung und Drehmomentausgang haben Bereiche über 150	E
+GW74	T2162	Mazda J-Motor Die Leistung wird durch Torque-Ausgang bestimmt	N
+GW74	T2162	Blockmaterial und Kopfmaterial sind die gleiche Art von Material	C
+GW19	T2162	Der Mazda J-Motor verfügt über verschiedene Ventilzug-Konfigurationen.	E
+GW19	T2162	Der Mazda J Motor ist der leistungsstärkste Motor von Mazda.	N
+GW19	T2162	Der V8 Mazda J-Motor ist einer der leistungsstärksten Motoren in Japan	C
+GW52	T2162	Einige Mazda J Motor erzeugen mehr als 200 PS.	E
+GW52	T2162	Der Mazda J-Motor ist noch heute im Einsatz,	N
+GW52	T2162	Die Mazda J s Drehmomentleistung ist immer höher als seine HP	C
+GW74	T2163	Üblicher Beginn der Masern ist im Durchschnitt länger als Dauer	E
+GW74	T2163	Fieber tritt 10 Tage nach Exposition auf	N
+GW74	T2163	Es gibt halb so viele Todesfälle im Jahr 2015 als die Häufigkeit der Masern	C
+GW52	T2163	Der Beginn und die Dauer der Messungen betragen insgesamt etwa drei Wochen.	E
+GW52	T2163	Messungen stellen für alle Betroffenen die gleiche Art und Weise dar.	N
+GW52	T2163	Die Todesfälle durch Masern übersteigen 100.000 pro Jahr.	C
+GW4	T2163	Es gibt einen Impfstoff, der verhindern kann, dass Menschen  Masern bekommen.	E
+GW4	T2163	Measern ist eine Krankheit, die alleine verschwinden kann.	N
+GW4	T2163	Masern töten mehr als 20% der Menschen, die es bekommen.	C
+GW74	T2164	Jemand, der den MCAT nimmt, kann es Januar, Juni und wieder im August 2017 nehmen, aber nicht wieder im September.	E
+GW74	T2164	Mehr Menschen nahmen den MCAT in den USA als in Kanada	N
+GW74	T2164	Jemand kann den MCAT 4 mal im Jahr 2017 zwischen Januar und Februar nehmen	C
+GW106	T2164	Die Association of American Medical Colleges bieten den MCAT seit den späten 1920er Jahren an.	E
+GW106	T2164	Biologie-Majors erzielen in der Regel höher als Physik-Majors auf der MCAT-Prüfung.	N
+GW106	T2164	In Kanada wird der MCAT sowohl in Englisch als auch in Französisch für Testteilnehmer angeboten.	C
+GW28	T2164	Medical College Admission Test wird von mehreren Ländern verwendet, aber nur in Englisch.	E
+GW28	T2164	Medical College Admission Test ist der angesehenste Test von medizinischen Hochschulen verwendet.	N
+GW28	T2164	Der Medical College Admission Test ist kostenlos und offen für alle, die sich bewerben.	C
+GW89	T2165	Die MGM Grand Las Vegas wurde vor fast 26 Jahren eröffnet.	E
+GW89	T2165	Basierend auf der Anzahl der Zimmer ist das MGM Grand eines der größten Hotels in Las Vegas.	N
+GW89	T2165	Das MGM Grand wurde 2001 renoviert.	C
+GW52	T2165	Der MGM Grand ist über 25 Jahre alt.	E
+GW52	T2165	Das MGM Grand wird derzeit renoviert.	N
+GW52	T2165	Das MGM Grand verfügt über mehr als 7000 Zimmer.	C
+GW28	T2165	MGM Grand Las Vegas ist seit mehr als zwei Jahrzehnten mit mehreren Renovierungen in Betrieb.	E
+GW28	T2165	MGM Grand Las Vegas macht jedes Jahr Milliarden von Dollar Gewinn.	N
+GW28	T2165	MGM Grand Las Vegas wurde zehn Jahre nach der Eröffnung ihrer ersten Renovierung unterzogen.	C
+GW25	T2166	MicroBee ist ein Heimcomputersystem, das in Kit-Form für $399 verkauft wurde.	E
+GW25	T2166	Obwohl der 16 kB oder 32 kB Speicher klein ist, galt der monotone Soundgenerator & Lautsprecher für die Zeit als sehr gut.	N
+GW25	T2166	Die MicroBee wurde erstmals 1982 eingeführt und 1992 nach zehnjähriger Laufzeit eingestellt.	C
+GW52	T2166	Die MicroBee war seit fast einem Jahrzehnt in Produktion.	E
+GW52	T2166	Die MicroBee war ein beliebter Heimcomputer.	N
+GW52	T2166	Die MicroBee hatte mehrere CPUs.	C
+GW4	T2166	MicroBee war seit 8 Jahren auf dem Markt.	E
+GW4	T2166	MicroBee konnte Millionen von Einheiten verkaufen.	N
+GW4	T2166	Die MicroBee lief immer auf Unix.	C
+GW106	T2167	Über-the-counter Medikamente können manchmal wirksam in der Behandlung von Migräne Kopfschmerzen.	E
+GW106	T2167	Das Risiko von Migräne-Kopfschmerzen steigt mit der Menge an Östrogen im eigenen System.	N
+GW106	T2167	Hirntumore sind eine der Hauptursachen von Migräne-Kopfschmerzen.	C
+GW86	T2167	Migräne haben mehrere Ursachen und Risikofaktoren.	E
+GW86	T2167	Migräne treten manchmal bei Männern auf.	N
+GW86	T2167	Migräne sind auch als Spannungskopfschmerz und Clusterkopfschmerz bekannt.	C
+GW28	T2167	Migräne betrifft in der Regel Frauen und kann ein lebenslanger Zustand sein.	E
+GW28	T2167	Migräne, wenn sie unbehandelt bleiben, kann zu Selbstmord führen.	N
+GW28	T2167	Migräne kann mit Massagetherapie und Chirurgie behandelt werden.	C
+GW106	T2168	Der Wechselspeicher des Moto G kann mit einem 16 GB microSDXC erweitert werden.	E
+GW106	T2168	Die Moto G war das meistverkaufte Gerät in Motorolas 3rd Generation Geräte, die auch die Moto X Style und die Moto X Play.	N
+GW106	T2168	Das letzte OS für die Moto G war Android 7.0 Nougat.	C
+GW19	T2168	Die dritte Generation Moto G ermöglichte es Benutzern, den Speicher über einen microSD-Kartenslot zu erweitern.	E
+GW19	T2168	Nachfolgende Generationen der 3. Generation Moto G boten größere Speichermöglichkeiten.	N
+GW19	T2168	Die 3. Generation Moto G ist das neueste Angebot des Herstellers.	C
+GW52	T2168	Das Moto G ist ein Telefon, das eingestellt wurde.	E
+GW52	T2168	Das Moto G wird heute noch unterstützt.	N
+GW52	T2168	Die Moto G hatte Webseiten für jeden Kontinent.	C
+GW1	T2169	Im Jahr 2015 führte Multiple Sklerose zu weniger als 20.000 Todesfällen.	E
+GW1	T2169	Es gibt mehrere Ursachen für Multiple Sklerose.	N
+GW1	T2169	Multiple Sklerose hat nur ein paar Symptome.	C
+GW63	T2169	Menschen mittleren Alters, die Multiple Sklerose haben, werden vorhergesagt, 5-10 Jahre weniger als normale Menschen zu leben.	E
+GW63	T2169	Multiple Sklerose kann nur von einem Neurologen behandelt werden.	N
+GW63	T2169	Die Häufigkeit von Menschen, die von Multipler Sklerose im Jahr 2015 betroffen waren, war doppelt so groß wie die Zahl der Todesfälle, die daraus resultierten.	C
+GW108	T2169	Multiple Sklerose ist eine neurologische Krankheit.	E
+GW108	T2169	Der Betroffene wird sowohl mit Sensation als auch mit Koordination Probleme haben.	N
+GW108	T2169	Multiple Sklerose kann bei kleinen Kindern auftreten.	C
+GW4	T2170	Das Nash-Gleichgewicht ist nach der Person benannt, die es gefunden hat.	E
+GW4	T2170	Das Nash-Gleichgewicht gibt es seit über 20 Jahren.	N
+GW4	T2170	Das Nash-Gleichgewicht ist gut für kooperative Spiele.	C
+GW86	T2170	„Nash-Gleichgewicht gilt immer für Spiele, die keine	E
+GW86	T2170	„Nash-Gleichgewicht gilt für einige Spiele, die	N
+GW86	T2170	Nash-Gleichgewicht hat keinen Zusammenhang mit korreliertem Gleichgewicht.	C
+GW60	T2170	Nash Gleichgewicht enthält Zittern Hand perfekt, aber nicht Epsilon-Equilibrium.	E
+GW60	T2170	Epsilon-Equilibrium wird bei allen nicht-kooperativen Spielen	N
+GW60	T2170	Nash Gleichgewicht enthält Epsilon-Equilibrium, aber nicht Zittern Hand perfekt.	C
+GW4	T2171	Der Nationale Zulassungs-Cum Entrance Test zählt in Indien, um ins College zu kommen.	E
+GW4	T2171	Der nationale Zulassungstest dauert Jahre, um zu studieren.	N
+GW4	T2171	Der nationale Zulassungs-Cum-Entrance-Test wird auf einem Laptop durchgeführt.	C
+GW28	T2171	Nationale Zulassung cum Entrance Test ist eine Prüfung für die Aufnahme in indische Hochschulen.	E
+GW28	T2171	Nationale Zulassung cum Eintritt Test ist kostenlos zu nehmen.	N
+GW28	T2171	Nationale Zulassung cum Entrance Test wird in mehreren Sprachen angeboten und über mehrere Tage.	C
+GW52	T2171	Die NEET (UG) hat einen negativen Punktebereich.	E
+GW52	T2171	Die Ergebnisse des NEET sind ein Leben lang gut.	N
+GW52	T2171	Die NEET (UG) findet in den Vereinigten Staaten statt.	C
+GW28	T2172	Karte der alten National Highway 2 in rot befindet sich in Neu-Delhi und Kolkata.	E
+GW28	T2172	Karte der alten National Highway 2 in rot hat Mautgebühren zu sammeln.	N
+GW28	T2172	Karte der alten National Highway 2 in rot verbindet eine Handvoll Ortschaften.	C
+GW4	T2172	Die Karte des alten National Highway 2 in rot deckt über 500 Meilen Straßen.	E
+GW4	T2172	Die Karte des alten National Highway 2 in rot wurde nach 2000 fertig gestellt.	N
+GW4	T2172	Die Karte des alten National Highway 2 in rot umfasst nur zwei Hauptautobahnen.	C
+GW74	T2172	Es gibt mehr primäre Destinationen als Staaten	E
+GW74	T2172	Der alte National Highway wird mehr in Haryana als jeder andere Staat befahren	N
+GW74	T2172	Delhi hat 1/3 der Gesamtlänge des Old National Highway	C
+GW28	T2173	Navaratri eine mehrtägige Hindu-Feier.	E
+GW28	T2173	Navaratri feiert Feuerwerk und Bodypaint.	N
+GW28	T2173	Navaratri wird jedes Jahr zur gleichen Woche gefeiert.	C
+GW86	T2173	Navaratri dauert mehr als eine Woche.	E
+GW86	T2173	Hindus nehmen sich während Navaratri Freizeit von der Arbeit.	N
+GW86	T2173	Navaratri wird jedes Jahr an den gleichen Daten beobachtet.	C
+GW1	T2173	Navaratri dauert über eine Woche lang.	E
+GW1	T2173	Die Länge von Navaratri war schon immer 9 Tage.	N
+GW1	T2173	Navaratri findet immer im Sommer statt.	C
+GW28	T2174	Nissan BD Engine hat Kraftstoffeinspritzung und ein Kühlsystem.	E
+GW28	T2174	Nissan BD Engine wurde von den Japanern entworfen.	N
+GW28	T2174	Nissan BD Engine wird von Lithium-Ionen-Batterien angetrieben und von Wind gekühlt.	C
+GW19	T2174	Der Nissan BD Motor ist kein V8-Motor.	E
+GW19	T2174	Das Kühlsystem für den Nissan BD Motor ist	N
+GW19	T2174	Der Nissan BD Motor ist ein leistungsstarker Elektroautomotor.	C
+GW52	T2174	Nissan BD Engine stellt eine Leistung von knapp 100	E
+GW52	T2174	Der Nissan BD Motor ist noch im Einsatz.	N
+GW52	T2174	Der Nissan BD Motor ist ein V6.	C
+GW86	T2175	Die Nokia 9 PureView verfügt über mehrere Kameras.	E
+GW86	T2175	Die Nokia 9 PureView verwendet einen Touchscreen.	N
+GW86	T2175	Die Nokia 9 PureView wurde erstmals vor über einem Jahr verfügbar.	C
+GW28	T2175	Nokia 9 PureView ist ein Smartphone mit Vorder- und Rückkameras.	E
+GW28	T2175	Nokia 9 PureView verkauft für mehr als 1000 USD.	N
+GW28	T2175	Nokia 9 PureView ist ein Flip-Telefon mit ausziehbarer Antenne.	C
+GW106	T2175	Das Nokia 9 Pureview hat ein Display, das weniger als 6 Zoll ist.	E
+GW106	T2175	Foxconn produzierte sowohl das Nokia 9 Pureview als auch seinen Vorgänger, das Nokia 8 Sirocco.	N
+GW106	T2175	Die Nokia 9 PureView läuft nativ auf der Android Oreo Plattform.	C
+GW28	T2176	Nowruz ist Neujahrsferien in bestimmten Teilen des Nahen Ostens und Asiens.	E
+GW28	T2176	Nowruz wird durch Schießwaffen in der Luft gefeiert.	N
+GW28	T2176	Nowruz landet jedes Jahr zu unterschiedlichen Daten.	C
+GW74	T2176	Nowruz fällt auf das gleiche Datum in 2018 und 2019	E
+GW74	T2176	Mehr Menschen im Irak feiern Nowruz als in Israel	N
+GW74	T2176	Nowruz ist an einem Wochenende in 2019 und 2021	C
+GW86	T2176	Nowruz wird in über 20 Ländern gefeiert.	E
+GW86	T2176	Nowruz fällt normalerweise am 20. März.	N
+GW86	T2176	Nowruz ist ein religiöser Feiertag.	C
+GW28	T2177	NWFB Route 8 ist eine Buslinie, die ihre Fahrt in weniger als einer Stunde beendet	E
+GW28	T2177	Die NWFB Route 8 führt durch die Insel.	N
+GW28	T2177	Die Wartezeit für die NWFB Route 8 beträgt aufgrund ihrer 30 km langen Route 30 Minuten.	C
+GW60	T2177	NWFB Route 8 hat eine alternative Route.	E
+GW60	T2177	Die NWFB Route 8 verläuft nördlich nach Süden.	N
+GW60	T2177	New World First Bus betreibt auch die MTR Island Line	C
+GW12	T2177	Die NWFB Route 8 beginnt in Heng Fa Chuen und endet bei Wan Chai North.	E
+GW12	T2177	NWFB Route 8 hat zwei Konkurrenten, die MTR Island Linie und NWFB Route N8.	N
+GW12	T2177	Die NWFB Route 8 ist die einzige Route nach Wan Chai North.	C
+GW86	T2178	Obsessive – zwanghafte Störung kann zum Tod führen.	E
+GW86	T2178	Obsessive – zwanghafte Störung erfordert die Behandlung mit Medikamenten.	N
+GW86	T2178	Obsessive – zwanghafte Störung hat eine definitive Ursache.	C
+GW28	T2178	Obsessive – zwanghafte Störung ist eine psychiatrische Erkrankung, die in der Regel bei jüngeren Erwachsenen nach Jahren des Missbrauchs	E
+GW28	T2178	Obsessive – zwanghafte Störung ist ein leicht behandelbarer Zustand.	N
+GW28	T2178	Obsessive – zwanghafte Störung kann mit Ölen und Düften behandelt werden.	C
+GW52	T2178	OCD tritt in mehr als 2% der Bevölkerung auf.	E
+GW52	T2178	Der Beginn der OCD kann stark variieren.	N
+GW52	T2178	OCD hat Ursachen bekannt.	C
+GW60	T2179	Das Festival 2019 findet später im Jahr statt als das Festival 2018.	E
+GW60	T2179	Chingam ist 60 Tage lang.	N
+GW60	T2179	Das Festival ist jedes Jahr eine andere Anzahl von Tagen.	C
+GW74	T2179	Onam, Thiruvonam tritt während eines anderen Monats im Jahr 2019 als 2018 auf	E
+GW74	T2179	Alle Hindus beteiligen sich an Tug of War bei der Beobachtung Onam, Thiruvonam	N
+GW74	T2179	Onam, Thiruvonam beginnt und endet am selben Wochentag 2018 nd 2019	C
+GW28	T2179	Onam, Thiruvonam ist ein religiöses Hindu-Festival, das jedes Jahr auf unterschiedliche Termine fällt.	E
+GW28	T2179	Onam, Thiruvonam wird nur von Hindus in Indien gefeiert.	N
+GW28	T2179	Onam, Thiruvonam ist ein von Pakistanern gefeiertes Festival.	C
+GW52	T2180	Die Oregon, California and Eastern Railway ist über 60 Meilen lang.	E
+GW52	T2180	Die Oregon, California and Eastern Railway läuft den ganzen Tag über.	N
+GW52	T2180	Die Oregon, California and Eastern Railway findet in ganz Oregon statt.	C
+GW28	T2180	Oregon, California and Eastern Railway bedient mehrere Stationen.	E
+GW28	T2180	Die Oregon, California and Eastern Railway war jedes Jahr profitabel.	N
+GW28	T2180	Oregon, California and Eastern Railway erweitert seine Dienste an die Ostküste Amerikas.	C
+GW86	T2180	Die Oregon, California and Eastern Railway ist manchmal unter einem anderen Namen bekannt.	E
+GW86	T2180	Die Oregon, California and Eastern Railway ist derzeit in Betrieb.	N
+GW86	T2180	Die Oregon, California and Eastern Railway ist über 70 Meilen lang.	C
+GW28	T2181	Oxygen ist ein farbloses Gas.	E
+GW28	T2181	Oxygen ist Teil der Ozonschicht.	N
+GW28	T2181	Oxygen wurde nach dem Wissenschaftler benannt, der seine Eigenschaften untersuchte.	C
+GW12	T2181	Oxygen ist ein Gas mit einer atomaren	E
+GW12	T2181	Antoine Lavoisier nannte den Gassauerstoff 1777.	N
+GW12	T2181	Der Siedepunkt und der Schmelzpunkt von Sauerstoff sind genau gleich.	C
+GW1	T2181	Der Name Oxygen wurde im 18.	E
+GW1	T2181	Oxygen wurde zur gleichen Zeit entdeckt, als es benannt wurde.	N
+GW1	T2181	Oxygen hat eine Dichte (bei GfbV) unter 1 g/L.	C
+GW74	T2182	Es gibt mehr Mitarbeiter als Standorte von Panda Express	E
+GW74	T2182	Andrew Cherng stammt ursprünglich aus Glendale, Kalifornien	N
+GW74	T2182	Panda Express hat seinen Hauptsitz in der gleichen Stadt, wo es gegründet wurde	C
+GW60	T2182	Panda Express ist in Europa nicht aktiv.	E
+GW60	T2182	Panda Express ist die einzige Tochtergesellschaft der Panda Restaurant Group.	N
+GW60	T2182	Panda Express hat seinen Hauptsitz in der gleichen Stadt, in der es gegründet wurde.	C
+GW28	T2182	Panda Express hat Tausende von Standorten auf der ganzen Welt.	E
+GW28	T2182	Panda Express ist seit seiner Gründung jedes Jahr profitabel.	N
+GW28	T2182	Panda Express wurde in Europa gegründet und hat Standorte in ganz Europa.	C
+GW4	T2183	Parkinson-Krankheit kann mit Medizin behandelt werden.	E
+GW4	T2183	Parkinsons Krankheit führt immer zu Zittern in den Menschen.	N
+GW4	T2183	Jemand mit Parkinsons Krankheit wird ein normales Leben führen.	C
+GW3	T2183	Symptome einer Parkinsonerkrankung wie Schütteln, Steifigkeit, Langsamkeit der Bewegung und Schwierigkeiten beim Gehen werden mit Dopaminagonisten behandelt	E
+GW3	T2183	Demenz ist immer eine Komplikation der Parkinson-Krankheit	N
+GW3	T2183	Parkinson-Krankheit ist eine psychiatrische Erkrankung	C
+GW52	T2183	Parkinsons Krankheit betrifft über sechs Millionen Menschen im Jahr.	E
+GW52	T2183	Parkinson kann in jedem Alter einsetzen.	N
+GW52	T2183	Parkinson-Patienten haben keine kürzere Lebenserwartung.	C
+GW12	T2184	Paryushana ist eine von Jains gefeierte Feier.	E
+GW12	T2184	Zu beobachten Paryushana beinhaltet, zum Jain-Tempel und Fasten zu gehen.	N
+GW12	T2184	Paryushana wird auch Das Lakshana und Samvatsari genannt.	C
+GW52	T2184	Paryushana ist eine Feier, die über Fasten beobachtet wird.	E
+GW52	T2184	Paryushana wird von Hindus beobachtet.	N
+GW52	T2184	Paryushana hat die gleiche Zeit für jede Feier.	C
+GW19	T2184	Paryushana ist ein Feiertag, der von Jains beobachtet wird, der religiöse Konnotationen hat.	E
+GW19	T2184	Paryushana ist der heiligste Tag für Mitglieder des Jain-Glaubens.	N
+GW19	T2184	Paryushana ist ein Nationalfeiertag, der vom gesamten indischen Subkontinent beobachtet wird.	C
+GW52	T2185	Die Bahnstrecke Pau-Cranfranc wurde im 20. Jahrhundert eröffnet	E
+GW52	T2185	Die Eisenbahn wurde seit der Eröffnung nicht mehr renoviert.	N
+GW52	T2185	Die Eisenbahn ist seit der Eröffnung 1928 offen.	C
+GW28	T2185	Die Bahnstrecke Pau–Canfranc ist seit der Eröffnung nicht mehr ununterbrochen.	E
+GW28	T2185	Die Bahnstrecke Pau–Canfranc führt durch mehrere europäische Länder.	N
+GW28	T2185	Die Bahnstrecke Pau–Canfranc läuft seit ihrer Eröffnung kontinuierlich.	C
+GW60	T2185	Die Pau-Canfranc-Bahn wurde im selben Jahr elektrifiziert.	E
+GW60	T2185	TER Aquitaine ist der Eisenbahnbetreiber für seine gesamte Existenz.	N
+GW60	T2185	Seit 1928 hat die Eisenbahn mehr Jahre geschlossen als geöffnet.	C
+GW1	T2186	2018 war Pentecost im Frühling.	E
+GW1	T2186	Pentecost wurde zuerst als Whitsunday bekannt.	N
+GW1	T2186	2020 wird Pentecost im Herbst sein.	C
+GW74	T2186	Pentecost-Datum ist 11 Tage später Western als im Jahr 2020 als im Jahr 2018.	E
+GW74	T2186	Ost-Orthodoxe beobachten Heilige Kommunion auf	N
+GW74	T2186	Pentecost fällt auf das gleiche Datum Ostern 2019 wie 2020	C
+GW106	T2186	Pentacost tritt jährlich während des Frühlings auf.	E
+GW106	T2186	Pentacost fällt in der Regel während des Monats Juni.	N
+GW106	T2186	Einige jüdische Konfessionen beobachten Pfingsten.	C
+GW28	T2187	Perfect Bayesian Equilibrium steht im Zusammenhang mit Bayesian Nash Gleichgewicht	E
+GW28	T2187	Perfect Bayesian Equilibrium ist ein Konzept, das zur Beschreibung der Spieltheorie verwendet wird.	N
+GW28	T2187	Perfect Bayesian Equilibrium ist nicht mit oder im Zusammenhang mit Spielen verbunden.	C
+GW19	T2187	Perfect Bayesian Gleichgewicht ist nicht der Smae als Bayesian Nash equilibirbium	E
+GW19	T2187	Cho und Kreps arbeiteten viele Jahre zusammen, bevor sie das Konzept des perfekten Bayesischen Äquilibirums vorschlugen.	N
+GW19	T2187	Perfect Bayesian equilibirium ist der technische Name für den Gewinn der Goldmedaille auf der Waage beaam.	C
+GW52	T2187	Das perfekte Byesische Gleichgewicht ist eine Art Spiel.	E
+GW52	T2187	Das perfekte bayesische Gleichgewicht wird in einer großen Menge von Codierung verwendet.	N
+GW52	T2187	Das Perfect Bayesian Gleichgewicht ist ein stabiles System.	C
+GW106	T2188	Die PCAT-Prüfung ist auf knapp dreieinhalb Stunden beschränkt.	E
+GW106	T2188	Eine Punktzahl von 400 gilt als bestandene Note auf der PCAT-Prüfung.	N
+GW106	T2188	PCAT-Scores werden von vielen Zulassungsstellen für medizinische Schulen in den Vereinigten Staaten und Kanada verwendet.	C
+GW52	T2188	Die PCAT wurde erstmals in den 1970er Jahren verwaltet.	E
+GW52	T2188	Die PCAT-Gebühr hat sich in der gesamten Geschichte der PCAT	N
+GW52	T2188	Das PCAT hat eine negative Bewertung.	C
+GW89	T2188	Das PCAT wird für Aufnahmezwecke für Studenten verwendet, die in Apotheken gehen.	E
+GW89	T2188	Die Gebühr für den Test ist für kanadische Studenten günstiger.	N
+GW89	T2188	Die PCAT wurde 1970 eingeführt.	C
+GW52	T2189	Poincaré Vermutung dauerte über ein Jahrhundert, um bewiesen werden.	E
+GW52	T2189	Poincaré conjecture teilt gemeinsame Konzepte mit anderen Vermutungen.	N
+GW52	T2189	Poincaré conjecture wurde erstmals im 19.	C
+GW28	T2189	Poincaré conjecture ist nach Henri Poincare benannt.	E
+GW28	T2189	Poincaré conjecture ist ein ungelöstes mathematisches Problem	N
+GW28	T2189	Poincaré conjecture wurde 2006 gelöst.	C
+GW25	T2189	Poincaré conjecture ist ein Gebiet der geometrischen Topologie, das der sphärischen Raumform Conjecture entspricht.	E
+GW25	T2189	Poincaré conjecture wurde von Henri Poincaré vermutet, der das Feld der geometrischen Topologie etablierte.	N
+GW25	T2189	Poincaré conjecture ist im Bereich der geometrischen Topologie und entspricht der Zeeman conjecture.	C
+GW52	T2190	Polio betrifft weniger als 200 Menschen pro Jahr.	E
+GW52	T2190	Polio wurde weitgehend ausgerottet.	N
+GW52	T2190	Polio braucht Wochen, um Symptome zu zeigen.	C
+GW28	T2190	Polio ist eine ansteckende Krankheit, die vermeidbar und heilbar ist.	E
+GW28	T2190	Der Polio-Impfstoff ist eine teure Behandlung.	N
+GW28	T2190	Polio wurde seit dem 20. Jahrhundert ausgerottet.	C
+GW74	T2190	Bei 136 Personen im Jahr 2018 möglicherweise Muskelschwäche erlebt, was zu einer Unfähigkeit zu bewegen	E
+GW74	T2190	Das Poliovirus wurde in den Fäkalien von 136 Menschen im Jahr 2016 gefunden	N
+GW74	T2190	Muskelschwäche führt zu einer Unfähigkeit, sich nach ein paar Minuten zu bewegen	C
+GW105	T2191	Potassium sieht tendenziell wie ein silbriges Grau aus.	E
+GW105	T2191	Potassium hat hundert verschiedene Verwendungen.	N
+GW105	T2191	Potassium entsteht in einem Labor.	C
+GW12	T2191	Potassium hat ein silbriges graues Aussehen und eine atomare Zahl von 19.	E
+GW12	T2191	Humphry Davy entdeckte Kalium erstmals Anfang des 19. Jahrhunderts.	N
+GW12	T2191	Die Mohs-Härte und die Brinell-Härte sind der gleiche Wert.	C
+GW52	T2191	Potassium war eines der ersten 20 entdeckten Elemente.	E
+GW52	T2191	Potassium ist heute in vielen Lebensmitteln zu finden.	N
+GW52	T2191	Potassium wurde erstmals im 18. Jahrhundert entdeckt.	C
+GW86	T2192	Psychiater sind Mediziner.	E
+GW86	T2192	Psychiater sind Ärzte.	N
+GW86	T2192	Derzeit werden Psychiater auch als Alienisten bezeichnet.	C
+GW60	T2192	Ein Psychiater ist auch Arzt.	E
+GW60	T2192	Ein Psychiater muss alle einen MD und MBBS und einen DO haben.	N
+GW60	T2192	Ein Psychiater braucht keine Ausbildung in der Medizin.	C
+GW28	T2192	Ein Psychiater braucht ein hohes Bildungsniveau und positive Eigenschaften.	E
+GW28	T2192	Psychiatrists neigen dazu, ihre eigene Praxis zu öffnen.	N
+GW28	T2192	Psychiater sind keine Ärzte.	C
+GW52	T2193	Die M8s haben letztes Jahr eröffnet.	E
+GW52	T2193	Die M8s wurden in einem Jahr gebaut.	N
+GW52	T2193	Die M8s mehr als 60 mph.	C
+GW19	T2193	Die Pujiang-Linie, Teil des öffentlichen Nahverkehrs in Shanghai, hat weniger als 10 Stationen.	E
+GW19	T2193	Shanghais öffentliches U-Bahn-System ist völlig über der Erde.	N
+GW19	T2193	Trotz seines Wirtschaftswachstums in den letzten 20 Jahren hat China noch keine öffentlichen Transitsysteme in seinen großen Städten aufgebaut.	C
+GW28	T2193	Pujiang Linie ist eine öffentliche U-Bahn in Shanghai	E
+GW28	T2193	Die Pujiang Linie ist die neueste Linie im Shanghai Metro-System.	N
+GW28	T2193	Die Pujiang-Linie fährt mit im Inland gebauten Zugwagen.	C
+GW52	T2194	Rabies verursacht über 17.000 Todesfälle pro Jahr.	E
+GW52	T2194	Rabies hat derzeit keine Heilung.	N
+GW52	T2194	Eine Tollwutdiagnose garantiert den Tod.	C
+GW4	T2194	Rabies endet normalerweise mit dem Töten von Tieren, die es bekommen.	E
+GW4	T2194	Rabies können Menschen am Mund schäumen.	N
+GW4	T2194	Rabies kann mit einem Schuss geheilt werden.	C
+GW28	T2194	Rabies ist eine ansteckende Krankheit, die behandelbar, aber oft tödlich ist.	E
+GW28	T2194	Rabies ist auch zwischen Menschen übertragbar.	N
+GW28	T2194	Rabies verursacht Blindheit und Durchfall.	C
+GW60	T2195	Die Raksha Bandhan 2018 fand später im Jahr statt als die Raksha Bandhan 2019.	E
+GW60	T2195	Bhai Duj tritt am gleichen Datum wie Raksha Bandhan auf.	N
+GW60	T2195	Rakri ist nicht mit Bhai Tika verwandt.	C
+GW52	T2195	Raksha Bandhan ist ein ganzheitlicher Urlaub.	E
+GW52	T2195	Raksha Bandhan findet immer im August statt.	N
+GW52	T2195	Raksha Bandhan wird von ganz Asien beobachtet.	C
+GW4	T2195	Raksha Bandhan passiert immer in der 8. Motte des Jahres.	E
+GW4	T2195	Raksha Bandhan wird meist in Indien gefeiert.	N
+GW4	T2195	Raksha Bandhan findet jedes Jahr immer am gleichen Datum statt.	C
+GW95	T2196	Der Ramadan findet einen Monat im Jahr statt.	E
+GW95	T2196	Die Muslime lesen den Quran, bevor sie jeden Tag zu fasten beginnen.	N
+GW95	T2196	Ramadan tritt im Winter auf.	C
+GW28	T2196	Ramadan ist ein muslimischer Urlaub, der an verschiedenen Tagen jedes Jahr je nach Land fällt.	E
+GW28	T2196	Ramadan ist die heiligste Feier für Muslime.	N
+GW28	T2196	Ramadan wird mit Feier an einem Tag im Jahr beobachtet.	C
+GW52	T2196	Ramadan ist eine jährliche Veranstaltung.	E
+GW52	T2196	Die Routine des Ramadan ist die gleiche für alle, die es praktizieren.	N
+GW52	T2196	Ramadan geschieht gleichzeitig für alle Beteiligten.	C
+GW1	T2197	Rama Navami passiert einmal im Jahr.	E
+GW1	T2197	Rama Navami ist und war schon immer im Frühling.	N
+GW1	T2197	Rama Navami tritt im Herbst auf.	C
+GW52	T2197	Rama Navami passiert einmal im Jahr.	E
+GW52	T2197	Rama Navami wird von der gesamten hinduistischen Kultur praktiziert.	N
+GW52	T2197	Rama Navami findet jedes Jahr am selben Tag statt.	C
+GW19	T2197	Hindus feiern die Geburt von Rama am Ende von Chaitra Navrati	E
+GW19	T2197	Chaitra Navrati ist einer der heiligsten Tage für Hindus	N
+GW19	T2197	Chaitra Navrati ist ein monatelanges Fest von Hindus und Bhud	C
+GW86	T2198	E Line Busse sind die meiste Zeit des Tages in Betrieb.	E
+GW86	T2198	E Line Fahrerschaft an den Tagen des Wochenendes ist weniger als die Fahrerschaft an Wochentagen.	N
+GW86	T2198	Die E Line ist 24 Stunden am Tag in Betrieb.	C
+GW52	T2198	Die E Line wurde vor fünf Jahren gegründet.	E
+GW52	T2198	Die E Line ist eine in einer Reihe neu hinzugefügter Buslinien.	N
+GW52	T2198	Die E Line arbeitet auf einem 24-Stunden-Fahrplan.	C
+GW106	T2198	Das Aurora Village Transit Center befindet sich im King County im US-Bundesstaat Washington.	E
+GW106	T2198	Die E Line hat mehr Betriebszeiten als die der Route 358X, die ihr vorausging.	N
+GW106	T2198	Die E Line ist vollständig innerhalb einer einzigen Stadt im King County.	C
+GW12	T2199	Gary Rhodes ist Koch im offiziellen Restaurant Rhodes W1.	E
+GW12	T2199	Rhodes W1 bietet nur Haute Cuisine Art der Mahlzeiten.	N
+GW12	T2199	24 Stunden geöffnet, befindet sich Rhodes W1 in London, England.	C
+GW52	T2199	Der W1 ist nicht mehr im Geschäft.	E
+GW52	T2199	Die Rhodes W1 galt als ein erfolgreiches Geschäft.	N
+GW52	T2199	Der W1 hat mehr als 50 Abdeckungen.	C
+GW74	T2199	Gary Rhodes bereitet Haute Cuisine im Rhodes W1 vor	E
+GW74	T2199	Gary Rhodes kommt aus London England	N
+GW74	T2199	Gary Rhodes Vorspeisen meist französische Küche	C
+GW52	T2200	REX Richmond Highway Express wurde vor fünf Jahren in Betrieb genommen.	E
+GW52	T2200	REX Richmond Highway Express muss noch renoviert werden.	N
+GW52	T2200	REX Richmond Highway Express arbeitet rund um die Uhr.	C
+GW28	T2200	REX Richmond Highway Express ist seit mehr als einem Jahrzehnt in Virginia im Einsatz.	E
+GW28	T2200	REX Richmond Highway Express kostet pro Fahrt nur einen Dollar.	N
+GW28	T2200	REX Richmond Highway Express bedient seit Jahrzehnten mehrere Staaten.	C
+GW74	T2200	Der Start des REX Richmond Highway Express ist auch eines der Wahrzeichen	E
+GW74	T2200	Der Bahnhof Eisenhower Avenue befindet sich in Huntington, Virginia	N
+GW74	T2200	REX Richmond Highway Express läuft alle 30 Minuten ab 16:30 Uhr am Samstag	C
+GW86	T2201	Rickets können sowohl physische als auch psychische Anomalien verursachen.	E
+GW86	T2201	Rickets beinhaltet immer einen Mangel an Vitamin D.	N
+GW86	T2201	Rickets ist selten außerhalb Nordamerikas, Südamerikas, Asiens und Australiens.	C
+GW12	T2201	Rickets kommt in der Regel im Kindesalter vor und kann mit Vitamin D und Kalzium behandelt werden.	E
+GW12	T2201	Rickets können mit Blutuntersuchungen und Röntgenaufnahmen diagnostiziert werden.	N
+GW12	T2201	Rickets ist eine Zöliakie, die nur in Afrika vorkommt.	C
+GW52	T2201	Rickets kommt typischerweise bei Kindern vor.	E
+GW52	T2201	Chirurgie ist nicht notwendig für Rachitis.	N
+GW52	T2201	Rickets sind selten östlich des Atlantiks.	C
+GW12	T2202	Die Bahnstrecke Rosenheim-Salzburg liegt in Bayern und hat auch den Namen Bahnstrecke Rosenheim-Salzburg.	E
+GW12	T2202	Die Rosenheim-Salzburgbahn verfügt über 13 Bahnhöfe in ganz Bayern und Salzburg.	N
+GW12	T2202	Die Deutsche Bahn Austrian Federal Railways sind Eigentümer und Betreiber der Rosenheim-Salzburg	C
+GW63	T2202	Mehr als 10 Bahnhöfe sind noch in Rosenheim–Salzburg	E
+GW63	T2202	Die Rosenheim-Salzburg-Bahn hat die Geschwindigkeit von 99 km/h nie überschritten.	N
+GW63	T2202	In der Rosenheim–Salzburgbahn werden dreispurige Fahrspuren für eine Länge von 90 km angelegt	C
+GW52	T2202	Die Rosenheim-Salzburg-Bahn erreicht eine Geschwindigkeit von fast 100 km/h.	E
+GW52	T2202	Die Rosenheim-Salzburgbahn hatte schon immer 13 Bahnhöfe.	N
+GW52	T2202	Die Rosenheim-Salzburgbahn wurde vor kurzem stillgelegt.	C
+GW86	T2203	Die Samsung Galaxy Note9 hat mehrere Kameras.	E
+GW86	T2203	Die Samsung Galaxy Note9 wird noch hergestellt.	N
+GW86	T2203	Die Samsung Galaxy Note9 ist das jüngste Modell in einer Reihe von Geräten.	C
+GW52	T2203	Die Samsung Galaxy Note9 wurde im vergangenen Jahr erstmals veröffentlicht.	E
+GW52	T2203	Die Samsung Galaxy Note9 ist noch in Produktion.	N
+GW52	T2203	Die Samsung Galaxy Note9 war die erste in der Note-Serie.	C
+GW106	T2203	Benutzer können mit ihrem Galaxy Note 9 interagieren, indem Sie den Bixby-Button drücken oder den S Pen verwenden.	E
+GW106	T2203	Die Modellnummer für die AT&T-Variante der Galaxy Note 9 in den Vereinigten Staaten ist SM-N960A.	N
+GW106	T2203	Das Galaxy Note 9 gewann die Fähigkeit, auf 5G-Netzwerken nach einem Software-Update im Dezember 2018 laufen.	C
+GW52	T2204	Die San Francisco-Oakland Bay Bridge wurde in den 1930er Jahren eröffnet.	E
+GW52	T2204	Die San Francisco-Oakland Bay Bridge wurde im Laufe der Jahre renoviert.	N
+GW52	T2204	Die San Francisco-Oakland Bay Bridge hat täglich weniger als 100.000 Autos über	C
+GW4	T2204	Die San Francisco-Oakland Bay Bridge besteht seit über 80 Jahren.	E
+GW4	T2204	Die San Francisco-Oakland Bay Bridge hat immer den gleichen Betrag zu überqueren gekostet.	N
+GW4	T2204	Auf der San Francisco-Oakland Bay Bridge fahren pro Tag nur 10.000 Menschen.	C
+GW86	T2204	Der Bau der San Francisco-Oakland Bay Bridge dauerte mehr als 3 Jahre.	E
+GW86	T2204	Die höchste Clearance an jedem beliebigen Punkt auf der San Francisco-Oakland Bay Bridge beträgt 14,67 Fuß.	N
+GW86	T2204	Die Gesamtlänge des östlichen Teils der San Francisco-Oakland Bay Bridge ist größer als die Gesamtlänge des Westens.	C
+GW74	T2205	Das SAT wird weltweit in englischer Sprache angeboten.	E
+GW74	T2205	Die SAT $60 in Kanada	N
+GW74	T2205	Es ist möglich, eine Punktzahl von 900 in der Mathematik zu erhalten	C
+GW4	T2205	Der SAT wird persönlich auf Papier aufgenommen.	E
+GW4	T2205	Der SAT bringt Millionen Dollar pro Yera	N
+GW4	T2205	Das SAT wurde in den 1950er Jahren erfunden.	C
+GW28	T2205	Der SAT ist ein standardisierter Test, der für die Zulassung zu amerikanischen Undergraduate-Programmen verwendet wird.	E
+GW28	T2205	Der SAT ist ein sicherer und betrügersicherer Test, den Studenten weltweit	N
+GW28	T2205	Der SAT ist ein mehrtägiger Test, der in mehreren Sprachen angeboten wird.	C
+GW28	T2206	Schizoaffektive Störung ist ein behandelbarer psychiatrischer Zustand	E
+GW28	T2206	Schizoaffektive Störung betrifft hauptsächlich Frauen.	N
+GW28	T2206	Schizoaffektive Störung sind auf Umweltfaktoren zurückzuführen.	C
+GW106	T2206	Der Drogenkonsum ist ein Faktor, von dem bekannt ist, dass er die schizoaffektiven Krankheitssymptome wie Halluzinationen und Wahnvorstellungen erhöht.	E
+GW106	T2206	Die Suizidraten bei depressiven Schizoaffektiven Störungen sind niedriger als bei bipolaren Erkrankungen.	N
+GW106	T2206	Diskontinuieren Drogenkonsum kann schizoaffektive Störung heilen.	C
+GW19	T2206	Trotz der Fortschritte in der modernen Medizin konnten Psychiater die genaue Ursache der Schizophrenie nicht ermitteln.	E
+GW19	T2206	Stimmungsstabilisatoren sind wirksamer bei der Behandlung bipolarer Störungen als Antipsychotika.	N
+GW19	T2206	Fortschritte in der modernen Medizin haben den Psychiatern erlaubt, Schizoaphrenie mit Verhaltensänderungen zu behandeln.	C
+GW86	T2207	Schizophrenie kann zum Tod führen.	E
+GW86	T2207	Schizophrenie tritt manchmal bei Personen über 30 Jahren auf.	N
+GW86	T2207	Schizophrenie ist eine akute Erkrankung.	C
+GW106	T2207	Autismus und Schizophrenie teilen viele der gleichen Symptome.	E
+GW106	T2207	Menschen mit Schizophrenie haben nur dann eine kürzere als durchschnittliche Lebenserwartung, wenn sie auch an einer gleichzeitigen Herzerkrankung leiden.	N
+GW106	T2207	Die meisten Schizophrenen sind nicht in der Lage, eine Arbeit zu halten.	C
+GW52	T2207	Schizophrenie führt zu über 15.000 Todesfällen pro Jahr.	E
+GW52	T2207	Schizophrenie kann in jedem Alter auftreten.	N
+GW52	T2207	Schizophrenie kommt nicht mit einer kürzeren Lebenserwartung.	C
+GW60	T2208	DIE SQA hat ein Budget von rund 11 333 Pfund pro Mitarbeiter Person.	E
+GW60	T2208	Dave Middleton liebt in Glasgow.	N
+GW60	T2208	David Middleton spricht bei der Arbeit kein Englisch.	C
+GW12	T2208	Informationen zum SQA finden Sie unter www.sqa.org.uk.	E
+GW12	T2208	Die Scottish Qualifications Authority mit Sitz in Schottland hat 750 Mitarbeiter.	N
+GW12	T2208	David Middleton ist Präsident der Scottish Qualifications Authority.	C
+GW52	T2208	Die Scottish Qualifications Authority verfügt über ein Budget von mehr als 10 Millionen.	E
+GW52	T2208	Die SQA kann als kleines Unternehmen angesehen werden.	N
+GW52	T2208	Das Hauptquartier der SQA befindet sich in England.	C
+GW52	T2209	Seoul Subway Line 3 wurde vor über 30 Jahren eröffnet.	E
+GW52	T2209	Seoul Subway Line 3 wurde nie renoviert.	N
+GW52	T2209	Seoul Subway Line 3 hat die gleiche Länge für alle Strecken.	C
+GW74	T2209	es gibt 8 mehr Korail Station als es gibt Anzahl der Gleise	E
+GW74	T2209	Es gab 44 Stationen, als 1985 die Seoul Subway Line 3 eröffnet wurde.	N
+GW74	T2209	Es gibt mehr Termini als es Anzahl der Tracks gibt	C
+GW12	T2209	Der Name Seoul Subway Line 3 ist Sam Hoseon.	E
+GW12	T2209	Die Seoul Subway Line 3 ist eine Schnelltransit-U-Bahn-Anlage mit 3 Stationen.	N
+GW12	T2209	Die Seoul Subway Line 3 wurde im Winter 1985 eröffnet.	C
+GW52	T2210	Die Strecke Settle–Carlisle wurde in den 1870er Jahren eröffnet.	E
+GW52	T2210	Die Settle-Carlisle-Linie ist im Laufe der Jahre in der Nutzung gesunken.	N
+GW52	T2210	Die Länge der Linie Settle-Carlisle beträgt 100 Meilen.	C
+GW12	T2210	Die Strecke Settle–Carlisle ist die Hauptstrecke des National Rail Systems.	E
+GW12	T2210	North West England ist die einzige Ortschaft der Linie Settle-Carlisle.	N
+GW12	T2210	Network Rail und Neville Hill sind Eigentümer der Linie Settle-Carlisle.	C
+GW25	T2210	Die Linie Settle–Carlisle verfügt über 10 Bahnhöfe in Nord-England.	E
+GW25	T2210	Die Strecke Settle–Carlisle ist eine stark befahrene Eisenbahnstrecke.	N
+GW25	T2210	Die Settle-Carlisle ist im Besitz der Northern Rail und bietet 5 Dienstleistungen.	C
+GW105	T2211	Senioren sind für Shingles stärker gefährdet.	E
+GW105	T2211	Shingles dauert 3 Wochen.	N
+GW105	T2211	Schingeln können durch einen Bluttest diagnostiziert werden.	C
+GW52	T2211	Shingles betrifft 1 von 3 Personen irgendwann in ihrem Leben.	E
+GW52	T2211	Shingles hat ein häufiges Einsetzen.	N
+GW52	T2211	Shingles brauchen einen Monat, um sich zu entleeren.	C
+GW25	T2211	Shingles können mit einem Impfstoff verhindert und mit Medikamenten behandelt werden.	E
+GW25	T2211	Ein Ausbruch des Varicella-Zoster-Virus basiert auf Symptomen, bei denen sich ein schmerzhafter Ausschlag an den Beinen zeigt.	N
+GW25	T2211	Herpes simplex, Angina und Insektenstiche sind die einzigen Krankheiten, die mit Windpocken verbunden sind.	C
+GW106	T2212	Alle Insassen von Singapur Airlines Flug 368 konnten das Flugzeug verletzungsfrei evakuieren.	E
+GW106	T2212	Der Flugzeugbrand, der während der Singapure Airlines Flug 368 stattfand, ereignete sich, nachdem das Flugzeug gelandet war.	N
+GW106	T2212	Das Ölleck, das den Flugzeugbrand während der Singapur Airlines Flug 368 verursachte, ereignete sich kurz nach Verlassen des Flughafens Malpensa.	C
+GW52	T2212	SQ368s Absturz war nicht tödlich.	E
+GW52	T2212	Die Besatzung der SQ368 meldete, Rauch zu sehen.	N
+GW52	T2212	Der Absturz von SQ368 fand in den 1990er Jahren statt.	C
+GW74	T2212	Es gab mehr Insassen als Passagiere auf Singapur Airlines Flug 368	E
+GW74	T2212	Singapore Airlines verwendet immer Boeing 777-312ER	N
+GW74	T2212	Es gab mehr Verletzungen als Todesfälle	C
+GW86	T2213	Schlaflähmung wird manchmal auf die Hälfte der Menschen geschätzt.	E
+GW86	T2213	Schlaflähmung erfordert immer eine medizinische Behandlung.	N
+GW86	T2213	Schlaflähmung kann bis zu einer Stunde dauern.	C
+GW52	T2213	Schlaflähmung kann die Hälfte der Bevölkerung betreffen.	E
+GW52	T2213	Die Schlaflähmung hat im Laufe der Zeit in der Prognose zugenommen.	N
+GW52	T2213	Schlaflähmung kann eine Stunde dauern.	C
+GW28	T2213	Schlaflähmung ist ein vorübergehender medizinischer Zustand, bei dem Menschen die Motorfunktion vor oder nach dem Schlafengehen verlieren.	E
+GW28	T2213	Schlaflähmung betrifft meist Frauen.	N
+GW28	T2213	Schlaflähmung kann tagelang anhalten	C
+GW95	T2214	Sozialarbeiter gingen alle aufs College.	E
+GW95	T2214	Die meisten Sozialarbeiter arbeiten in Chruches	N
+GW95	T2214	Sie können Sozialarbeiter sein, wenn Sie einen Associates Degree haben	C
+GW28	T2214	Die Sozialarbeit kann nach dem Abschluss in verschiedenen Rollen und Organisationen zur Arbeit führen.	E
+GW28	T2214	Soziale Arbeit ist ein gut bezahlter Beruf.	N
+GW28	T2214	Sozialarbeiter können nur mit einem GED eine Beschäftigung finden.	C
+GW52	T2214	Soziale Arbeit beherbergt mehrere Grade.	E
+GW52	T2214	Seit der Wende des 20. Jahrhunderts hat die Sozialarbeit zugenommen.	N
+GW52	T2214	Soziale Arbeit beschäftigt sich nur mit körperlicher Gesundheit.	C
+GW25	T2215	Humphry Davy entdeckte und isolierte Sodium, das ein silbrig weißes metallisches Aussehen hat.	E
+GW25	T2215	Die meisten Alkalimetalle haben ein silbriges weißes metallisches Aussehen, das sie schwer zu unterscheiden macht.	N
+GW25	T2215	Sodium hat eine silbrige goldmetallische Erscheinung und ein heilsames natürliches Vorkommen.	C
+GW4	T2215	Sodium ist bekannt dafür, weiß und silberfarben zu sein.	E
+GW4	T2215	Sodium explodiert, wenn es mit Wasser interagiert.	N
+GW4	T2215	Sodium wurde in den 1500er Jahren entdeckt.	C
+GW52	T2215	Sodium wurde erstmals im 19. Jahrhundert entdeckt.	E
+GW52	T2215	Natrium wird derzeit in vielen Lebensmitteln verwendet.	N
+GW52	T2215	Sodium war eines der ersten 10 Elemente, die entdeckt wurden.	C
+GW52	T2216	Die Xperia X8 debütierte in diesem Jahrzehnt.	E
+GW52	T2216	Der Xperia X8 wird derzeit noch produziert.	N
+GW52	T2216	Der Xperia X8 hat 1 GB Speicher.	C
+GW86	T2216	Der Sony Ericsson Xperia X8 hat einen größeren Speicher als Speicherkapazität.	E
+GW86	T2216	Der Sony Ericsson Xperia X8 kommt mit 16 GB Wechselspeicher.	N
+GW86	T2216	Der Sony Ericsson Xperia X8 ist seit mehr als einem Jahrzehnt erhältlich.	C
+GW1	T2216	Die Sony Ericsson Xperia X8 erschien im Sommer 2010.	E
+GW1	T2216	Die Sony Ericsson Xperia X8 hat bessere Audio als die Sony Ericsson Xperia X10 Mini.	N
+GW1	T2216	Der Sony Ericsson Xperia X8 wiegt über 4 Pfund.	C
+GW74	T2217	SSC CGL soll Arbeitsplätze in Regierungsorganisationen in Indien sichern	E
+GW74	T2217	SSC CGL wird in Indien jedes Jahr zur gleichen Zeit angeboten	N
+GW74	T2217	SSC CGL begann in Indien im 19. Jahrhundert	C
+GW4	T2217	Die SSC Combined Graduate Level Examination erfordert, dass jemand zuerst aufs College geht.	E
+GW4	T2217	Die SSC Combined Graduate Level Examination macht viel Geld für Indien.	N
+GW4	T2217	Die SSC Combined Graduate Level Examination wurde seit über 50 Jahren praktiziert.	C
+GW52	T2217	Der SSC CGL begann bereits in den 1970er Jahren.	E
+GW52	T2217	Der SSC CGL wurde außerhalb Indiens angeboten.	N
+GW52	T2217	Der SSC CGL ist für alle Testnehmer kostenlos.	C
+GW52	T2218	Subgame Perfect Equilibrium wird für Spiele verwendet.	E
+GW52	T2218	Subgame Perfect Equilibrium ist ein neues Stück Technologie.	N
+GW52	T2218	Das Subgame Perfect Equilibrium schneidet sich mit der evolutionär vielfältigen Strategie ab.	C
+GW28	T2218	Subgame Perfect Equilibrium ist eine Strategie, die in Spielen eingesetzt wird.	E
+GW28	T2218	Subgame Perfect Equilibrium wurde von einem Harvard-Ökonomen geschaffen.	N
+GW28	T2218	Subgame Perfect Equilibrium ist ein eigenständiges Konzept.	C
+GW12	T2218	Das Ultimatum-Spiel wird für umfangreiche Formspiele verwendet und ist ein Beispiel für Subgame Perfect Equilibrium.	E
+GW12	T2218	Subgame Perfect Equilibrium schneidet sich mit Nash-Gleich	N
+GW12	T2218	Subgame Perfect Equilibrium wurde von mehr Menschen als nur Reinhard Selten vorgeschlagen.	C
+GW106	T2219	Sudan Airways Flug 139 stürzte im Sommer 2003 ab.	E
+GW106	T2219	Die meisten Passagiere an Bord von Flug 139 waren Bürger des Sudan.	N
+GW106	T2219	Mehr als 50 % der Besatzung und Passagiere an Bord von Flug 139 wurden schließlich innerhalb weniger Meilen vom internationalen Flughafen Khartum gerettet.	C
+GW74	T2219	Die Besatzung und die Passagiere beliefen sich auf 117	E
+GW74	T2219	Sudan Airways hat nur Boeing 737-200C	N
+GW74	T2219	Es gab weniger Todesfälle als Passagiere	C
+GW12	T2219	Juli 2003 flog die Sudan Airways Flight 139 zum internationalen Flughafen Khartum.	E
+GW12	T2219	Sudan Airways Flight 139 war eine Boeing mit dem Namen White Nile.	N
+GW12	T2219	Es gab 117 Passagiere und 106 Todesopfer mit dem Absturz von Sudan Airways Flug 139.	C
+GW105	T2220	Sushi Mizutani Restaurant gibt es seit elf Jahren.	E
+GW105	T2220	Hachiro Mizutani persönlich begrüßt Gäste.	N
+GW105	T2220	Große Gruppen können einfach auftauchen, um zu essen.	C
+GW1	T2220	Sushi Mizutani Restaurant im Herbst 2016 geschlossen.	E
+GW1	T2220	Reservierungen sind im Sushi Mizutani Restaurant schwer zu bekommen.	N
+GW1	T2220	Sushi Mizutani Restaurant wurde im Sommer 2005 eröffnet.	C
+GW109	T2220	Besitzer beibehalten die Kleiderordnung ist Business casual für alle Zeit.	E
+GW109	T2220	In diesem Restaurant ist am wertvollsten für diesen Zeitraum.	N
+GW109	T2220	Lebensmitteltyp ist nicht Sushi eine andere Art von Lebensmitteln, die sie gut zubereitet haben.	C
+GW86	T2221	Syncope tritt in der Regel schnell und dauert eine kurze Zeit.	E
+GW86	T2221	Syncope ergibt sich in der Regel aus einer Herzerkrankung.	N
+GW86	T2221	Syncope tritt in etwa 5% der Bevölkerung auf.	C
+GW28	T2221	Syncope ist ein medizinischer Zustand des verminderten Blutflusses ins Gehirn, der eine Person zu Ohnmacht führt.	E
+GW28	T2221	Syncope ist einfach und erschwinglich behandelbar.	N
+GW28	T2221	Syncope verursacht Hyper-Bewusstsein, wenn betroffen.	C
+GW52	T2221	Syncope tritt in weniger als 1% der Bevölkerung auf.	E
+GW52	T2221	Die Symptome von Syncope sind für alle Fälle gleich.	N
+GW52	T2221	Syncope hält lange an.	C
+GW52	T2222	Tangerine_Microtan_65 debütierte in den 1970er Jahren.	E
+GW52	T2222	Tangerine_Microtan_65 ist heute noch im Einsatz.	N
+GW52	T2222	Tangerine_Microtan_65 beherbergt über 100 KB RAM.	C
+GW74	T2222	Tangerine_Microtan_65 kostete 1979 79,35 £ in Bausatzform	E
+GW74	T2222	Tangerine_Microtan_65 war der erste persönliche Computer im Jahr 1979.	N
+GW74	T2222	Tangerine_Microtan_65 kostete 1979 zunächst 100 £	C
+GW19	T2222	Der PC Tangerine Microtan 65 wurde vor etwa 40 Jahren eingeführt.	E
+GW19	T2222	Der Tangerine Microtan 65 Personal Computer war ein sofortiger Favorit unter den Techies nach seiner Veröffentlichung 1979.	N
+GW19	T2222	Der Tangerine Microtan 65 Personal Computer debütierte auf der CES 2014.	C
+GW4	T2223	Menschen, die Lehrer sind, benötigen in der Regel eine spezielle Ausbildung.	E
+GW4	T2223	Menschen, die Lehrer sind, arbeiten immer an Schulen.	N
+GW4	T2223	Menschen, die Lehrer sind, unterrichten in der Regel Fächer, die sie vorher noch nicht studiert haben.	C
+GW12	T2223	Ein Lehrer ist eine berufliche Beschäftigung, die in einer Schule stattfindet.	E
+GW12	T2223	Ein Lehrer sollte Kompetenz in Planung und Führung besitzen.	N
+GW12	T2223	Psychologie ist die einzige Kompetenz, die ein Lehrer benötigt.	C
+GW86	T2223	Ein Lehrer gilt als Profi.	E
+GW86	T2223	Ein Lehrzeugnis aus einem Land erlaubt in der Regel den Unterricht in anderen Ländern.	N
+GW86	T2223	Das Lehren beinhaltet eine einzige Kompetenz.	C
+GW86	T2224	Der Telmac 1800 war eines von einer Reihe von Heimcomputermodellen.	E
+GW86	T2224	Der Telmac 1800 konnte Farbgrafiken anzeigen.	N
+GW86	T2224	Die Telmac 1800 verwendete Disketten.	C
+GW52	T2224	Der Telmac 1800 debütierte vor über 40 Jahren.	E
+GW52	T2224	Die Telmac 1800 hatte erweiterbare CPU.	N
+GW52	T2224	Der Telmac 1800 galt als Mikrocomputer.	C
+GW12	T2224	Der Telmac 1800 war ein Heimcomputer, der vor 42 Jahren veröffentlicht wurde.	E
+GW12	T2224	Als Computer-Kit betrachtet, hatte der Telmac 1800 eine Auflösung von 64 x 32 Pixeln.	N
+GW12	T2224	Mit 2 kB RAM hatte der Telmac 1800 nur den Telmac TMC-600 als Nachfolger.	C
+GW52	T2225	Das Zehnte von Tevet ist ein jüdisches Ereignis.	E
+GW52	T2225	Das Zehnte von Tevet findet in der Regel jedes Jahr statt.	N
+GW52	T2225	Der Zehnte von Tevet für 2019 findet 2019 statt.	C
+GW4	T2225	Der Zehnte von Tevet beginnt, bevor die Sonne aufgeht	E
+GW4	T2225	Das Zehnte von Tevet wird seit über 1000 Jahren praktiziert	N
+GW4	T2225	Die Zehnte von Tevet ist, wo die Menschen essen mehr Nahrung als normal	C
+GW74	T2225	Das Datum 2019 und 2020 für Tenth of Tevet findet im Jahr 2020 statt.	E
+GW74	T2225	Alle Juden schnell auf Tenth of Tevet	N
+GW74	T2225	Das Datum 2018 und das 2020-Datum für Tenth of Tevet finden in verschiedenen Monaten statt.	C
+GW1	T2226	Terbium wurde im 19. Jahrhundert entdeckt und erstmals isoliert.	E
+GW1	T2226	Terbium ist fast immer ein solides.	N
+GW1	T2226	Terbium ist dunkler in der Farbe.	C
+GW4	T2226	Terbium hat ein Atomgewicht von mehr als 150.	E
+GW4	T2226	Terbium kann in fester Form gefunden werden.	N
+GW4	T2226	Terbium wurde in den späten 1900er Jahren gegründet.	C
+GW28	T2226	Terbium ist ein Element, das von einem Mann entdeckt und isoliert wird.	E
+GW28	T2226	Terbium ist ein seltenes Element.	N
+GW28	T2226	Terbium wurde nach der Person benannt, die es entdeckte.	C
+GW106	T2227	Ein College-Antragsteller kann einen TOEFL-Score aus einer Prüfung des Vorjahres verwenden.	E
+GW106	T2227	Die TOEFL-Prüfung ist von den meisten Ivy League Colleges und Universitäten in den Vereinigten Staaten erforderlich.	N
+GW106	T2227	Der mathematische Teil der TOEFL-Prüfung macht 25% der Gesamtnote der Prüfung aus.	C
+GW19	T2227	Der standardisierte Test of English as a Foreign Language (TOEFL) ist eine weltweit anerkannte Methode, Sprachkenntnisse zu etablieren.	E
+GW19	T2227	Die Vereinten Nationen verlangen, dass Bewerber die TOEFL passieren.	N
+GW19	T2227	Der TOEFL wird nur in osteuropäischen und südostasiatischen Ländern angeboten.	C
+GW52	T2227	TOEFL wurde in den 1960er Jahren gegründet.	E
+GW52	T2227	TOEFL kann von jedem Kontinent genommen werden.	N
+GW52	T2227	TOEFL hat eine negative Bewertung.	C
+GW12	T2228	Tetanus und Lockjaw sind die gleichen Krankheiten.	E
+GW12	T2228	Lockjaw kann mit dem Tetanus-Impfstoff verhindert werden.	N
+GW12	T2228	Muskelkrämpfe, Fieber und Kopfschmerzen sind Risikofaktoren für Tetanus.	C
+GW105	T2228	Tetanus ist eine Infektionskrankheit, die sich überall von wenigen Tagen bis fast einem Monat zeigen kann.	E
+GW105	T2228	Die meisten Patienten erleben Tetanus über 15 Tage.	N
+GW105	T2228	Die meiste Zeit ist Tetanus sehr tödlich.	C
+GW19	T2228	Im Jahr 2015 starben weniger als 1/2 Menschen, die Lockjaw unter Vertrag nahmen, an der Krankheit.	E
+GW19	T2228	Lockjaw wurde in den Vereinigten Staaten ausgerottet.	N
+GW19	T2228	Lockjaw ist eine unheilbare tödliche Krankheit.	C
+GW105	T2229	Das Ledbury Restaurant wurde vor über einem Jahrzehnt eröffnet.	E
+GW105	T2229	Das Ledbury Restaurant hat eine starke Online-Präsenz.	N
+GW105	T2229	Das Ledbury Restaurant kann Hunderte von Menschen gleichzeitig beherbergen.	C
+GW60	T2229	Brett Graham ist ein Küchenchef der britischen Küche.	E
+GW60	T2229	Brett Graham lebt in London.	N
+GW60	T2229	Brett Graham ist seit 20 Jahren Chefkoch im Ledbury Restaurant.	C
+GW1	T2229	Das Ledbury Restaurant wurde im 1. Jahrzehnt des 21. Jahrhunderts eröffnet.	E
+GW1	T2229	Brett Graham war der ursprüngliche Küchenchef des Ledbury Restaurant	N
+GW1	T2229	Das Ledbury Restaurant bietet Platz für über 60 Personen.	C
+GW19	T2230	Die Tukwila International Boulevard Station, ein Bahnhof im Bundesstaat Washington, ist seit mehr als 10 Jahren geöffnet.	E
+GW19	T2230	Tukwila International Boulevard Station ist eine beliebte Station für Pendler, die in die Innenstadt von Seattle reisen.	N
+GW19	T2230	Tukwila International Boulevard Station ist ein beliebter Bahnhof in der Hauptstadt der Nation.	C
+GW86	T2230	Die Tukwila International Boulevard Station hat so viele Seitenplattformen wie Gleise.	E
+GW86	T2230	Die Tukwila International Boulevard Station verfügt über Rollstuhlrampen.	N
+GW86	T2230	Die Tukwila International Boulevard Station wurde vor weniger als einem Jahrzehnt eröffnet.	C
+GW28	T2230	Tukwila International Boulevard Station (Link Light Rail Station) ist ein US-amerikanischer Nahverkehrsbahnhof im Bundesstaat Washington.	E
+GW28	T2230	Tukwila International Boulevard Station (Link Light Rail Station) akzeptiert Bargeld und digitale Zahlungen.	N
+GW28	T2230	Tukwila International Boulevard Station (Link Light Rail Station) hat eine Express-Strecke zusammen mit zwei lokalen Gleisen.	C
+GW1	T2231	Typ-1-Diabetes hat mehrere Symptome.	E
+GW1	T2231	Typ-1-Diabetes wurde ursprünglich Jugenddiabetes genannt.	N
+GW1	T2231	Es gibt nur 1 Behandlungsform für Typ-1-Diabetes.	C
+GW28	T2231	Typ-1-Diabetes kann behandelt, aber nicht verhindert werden.	E
+GW28	T2231	Typ-1-Diabetes betrifft mehr Frauen als Männer.	N
+GW28	T2231	Die Ursache für Typ-1-Diabetes ist ein Geheimnis und unheilbar	C
+GW74	T2231	Es gibt mehr Risikofaktoren als Ursachen	E
+GW74	T2231	Zöliakie verursacht häufiges Wasserlassen	N
+GW74	T2231	Üblicherweise Beginn und Dauer sind die gleiche Länge der Zeit	C
+GW12	T2232	Der Noninsulin-abhängige Diabetes mellitus (NIDDM) ist ein weiterer Name für Typ-2-Diabetes.	E
+GW12	T2232	Typ-2-Diabetes ist eine Langzeiterkrankung, die während der Kindheit auftritt.	N
+GW12	T2232	Menschen mit Typ-2-Diabetes können erwarten, zehn Jahre länger als die durchschnittliche Person zu leben.	C
+GW28	T2232	Typ-2-Diabetes ist eine behandelbare Erkrankung, die meist ältere Erwachsene betrifft.	E
+GW28	T2232	Typ-2-Diabetes wird durch zu viel Zuckerzufuhr verursacht.	N
+GW28	T2232	Typ-2-Diabetes kann mit Medikamenten geheilt werden.	C
+GW52	T2232	Typ-2-Diabetes trägt eine kürzere Lebenserwartung als normale Erwachsene.	E
+GW52	T2232	Typ-2-Diabetes ist die häufigste Art von Diabetes.	N
+GW52	T2232	Typ-2-Diabetes wird in einer Schlafstudie diagnostiziert.	C
+GW60	T2233	Höchstens 0,5% der Menschen benötigen eine Koloskopie mit Gewebebiopsien, um Ulcerative Colitis zu diagnostizieren.	E
+GW60	T2233	An Ulcerative Colitis sterben mehr Menschen als an Morbus Crohn.	N
+GW60	T2233	Teenager können keine Colitis ulcerosa bekommen.	C
+GW52	T2233	Ulcerative Colitis, wenn sie mit Crohns kombiniert wird, verursacht über 47.000 Todesfälle pro Jahr.	E
+GW52	T2233	Ulcerative Colitis hat keine Präventionsmethoden.	N
+GW52	T2233	Ulcerative Colitis betrifft mehr als 1% der Bevölkerung.	C
+GW74	T2233	Es gibt mehr Symptome als Komplikationen	E
+GW74	T2233	Die Dauer der Ulcerative Colitis ist so lang wie der übliche Beginn	N
+GW74	T2233	Diagnostische Methode übertrifft Behandlungen	C
+GW4	T2234	Die Unaza busline läuft über 20 Mal am Tag.	E
+GW4	T2234	Die Unaza busline fährt über 50 Meilen pro Stunde.	N
+GW4	T2234	Die Unaza Buslinie kommt nur jede halbe Stunde.	C
+GW86	T2234	Die Unaza busline ist nicht-operativ für weniger als 6 Stunden am Tag.	E
+GW86	T2234	Eine Fahrt auf der Unaza busline dauert manchmal mehr als 30 Minuten.	N
+GW86	T2234	Die Unaza busline läuft weniger häufig an den Wochenenden als während der Woche.	C
+GW52	T2234	Die Unaza busline fährt über 3/4 des Tages.	E
+GW52	T2234	Die Unaza Buslinie muss noch modifiziert oder renoviert werden.	N
+GW52	T2234	Die Unaza busline ist über 100 Meilen lang.	C
+GW52	T2235	Der University Clinical Aptitude Test wurde jährlich von etwa 25000 Personen durchgeführt.	E
+GW52	T2235	Der University Clinical Aptitude Test ist ein signifikanter Bestimmungsfaktor bei der Zulassung.	N
+GW52	T2235	Der University Clinical Aptitude Test dauert einen ganzen Tag.	C
+GW1	T2235	Der University Clinical Aptitude Test dauert etwa 120 Minuten.	E
+GW1	T2235	Der University Clinical Aptitude Test ist der einzige Test, den Pearson verabreicht.	N
+GW1	T2235	Der University Clinical Aptitude Test wurde erstmals im 20.	C
+GW105	T2235	Testnehmer können Prozess der Elimination verwenden.	E
+GW105	T2235	Einige Testteilnehmer können den University Clinical Aptitude Test in nur zwanzig Minuten abschließen.	N
+GW105	T2235	Jedes Jahr machen Millionen von Menschen den Test.	C
+GW86	T2236	Der Absturz von US Airways Flug 1549 wurde durch Tiere verursacht.	E
+GW86	T2236	Die gesamte Besatzung von US Airways Flug 1549 erlitt schwere Verletzungen.	N
+GW86	T2236	US Airways Flug 1549 stürzte zwischen seinem Zwischenstopppunkt und seinem Endziel ab.	C
+GW4	T2236	US Airways Flug 1549 startete von der Ostküste der USA.	E
+GW4	T2236	US Airways Flug 1549 traf eine Gans während des Fluges.	N
+GW4	T2236	US Airways Flug 1549 konnte ihren Flug abschließen.	C
+GW52	T2236	US1549 ist vor zehn Jahren abgestürzt.	E
+GW52	T2236	Die USA1549 hatten vor dem Vogelschlag keine Motorprobleme gemeldet.	N
+GW52	T2236	Der Unfall in den USA1549 führte zu 5 Todesopfern.	C
+GW52	T2237	Der Utah Valley Express wurde im letzten Jahr eröffnet.	E
+GW52	T2237	Der Utah Valley Express arbeitet rund um die Uhr.	N
+GW52	T2237	Der Utah Valley Express fährt mit Geschwindigkeiten über 60 mph.	C
+GW4	T2237	Der Utah Valley Express ist seit weniger als 10 Jahren da.	E
+GW4	T2237	Der Utah Valley Express brauchte 5 Jahre, um zu bauen.	N
+GW4	T2237	Der Utah Valley Express bewegt sich schneller als Autos auf der Autobahn.	C
+GW19	T2237	Der Utah Valley Express, ein Schnellbus im Süden von Orem, Utah, wird seit über einem Jahr von der Utah Transit Authority betrieben.	E
+GW19	T2237	Im Süden von Orem (Utah) wurden keine Änderungen an der Schnellbuslinie vorgenommen, als sie vom Provo Urem Max in den Utah Valley Express umgestellt wurde.	N
+GW19	T2237	Die Schnellbuslinie Utah Valley Express bedient die U-Bahn-Station Salt Lake City in Utah.	C
+GW28	T2238	Vaisakhi, Baisakhi Punjabi: Biasakhi Punjabi ist eine religiöse Befolgung sowohl von Sikhs als auch von Hindus.	E
+GW28	T2238	Vaisakhi, Baisakhi Punjabi: Schießen Sie Feuerwerk und tauschen Sie Geschenke als Teil der Feierlichkeiten.	N
+GW28	T2238	Vaisakhi, Baisakhi Punjabi: Immer fallen auf das gleiche Datum jedes Jahr.	C
+GW86	T2238	Vaisakhi ist unter 4 verschiedenen Namen bekannt.	E
+GW86	T2238	Vaisakhi wird jedes Jahr am 13. oder 14. April beobachtet.	N
+GW86	T2238	Vaisakhi ist streng eine kulturelle Beobachtung.	C
+GW52	T2238	Der Baisach findet jedes Jahr etwa zur gleichen Zeit statt.	E
+GW52	T2238	Die Baisach hat die gleichen Befolgungen für alle, die feiern.	N
+GW52	T2238	Baisach tritt am gleichen Tag jedes Jahr.	C
+GW86	T2239	Vesak ist unter mindestens einem halben Dutzend offiziellen Namen bekannt.	E
+GW86	T2239	Vesak wird von mehr Buddhisten als Hindus weltweit beobachtet.	N
+GW86	T2239	Vesak wird jedes Jahr zum gleichen Datum gefeiert.	C
+GW52	T2239	Buddha-Tag tritt auf einer jährlichen Basis.	E
+GW52	T2239	Buddha Day wird von ganz Asien gefeiert.	N
+GW52	T2239	2018 wurde der Buddha-Tag für jedes Land in Asien am selben Tag gefeiert.	C
+GW12	T2239	Vesak ist ein jährlicher Feiertag und wurde am 19. Mai 2019 gefeiert.	E
+GW12	T2239	Vesak ist ein religiöser Feiertag, der Gautama Buddha feiert.	N
+GW12	T2239	Vesak wird in den Wintermonaten gefeiert.	C
+GW28	T2240	Vidyasagar Setu ist eine sechsspurige Mautbrücke.	E
+GW28	T2240	Vidyasagar Setu kostete Milliarden US-Dollar.	N
+GW28	T2240	Vidyasagar Setu ist bekannt für sein einzigartiges Cantilever-Design.	C
+GW12	T2240	Vidyasagar Setu ist auch bekannt als Second Hooghly Bridge und ist eine zweispurige mit drei Bahnen.	E
+GW12	T2240	Die Braithwaite Burn and Jessop Construction Company Limited ist das einzige Unternehmen, das am Bau der Brücke beteiligt war.	N
+GW12	T2240	Die Vidyasagar Setu wurde im Frühjahr 1992 eröffnet.	C
+GW86	T2240	Vidyasagar Setu hat insgesamt sechs Bahnen.	E
+GW86	T2240	Fahrzeuge mit Vidyasagar Setu zahlen eine Maut für Reisen in beide Richtungen.	N
+GW86	T2240	Vidyasagar Setu kostet nichts für Fahrzeuge zu verwenden.	C
+GW28	T2241	Viva Purple ist eine öffentliche Buslinie, die über ein Jahrzehnt alt ist.	E
+GW28	T2241	Öffentliches WLAN ist in allen Viva Purple Bussen verfügbar.	N
+GW28	T2241	Viva Purple kommt zweimal in der Stunde an.	C
+GW4	T2241	Viva Purple verlässt vier Mal die Stunde.	E
+GW4	T2241	Viva Purple läuft seit über 14 Jahren täglich.	N
+GW4	T2241	Die Viva Purple Linie hat nur ein paar hundert Menschen fahren es pro Jahr.	C
+GW52	T2241	Viva Purple genießt eine Reiterschaft von über 5.000 Menschen.	E
+GW52	T2241	Viva Purple arbeitet nach einem 24-Stunden-Zeitplan.	N
+GW52	T2241	Viva Purple wurde in den 1990er Jahren in Betrieb genommen.	C
+GW4	T2242	Die Xiaomi Mi 2S hat zwei verschiedene Kameras auf der Rückseite.	E
+GW4	T2242	Der Xiaomi Mi 2S hat einen größeren Akku als ein iPhone.	N
+GW4	T2242	Die Xiaomi Mi 2S ist kleiner als 120mm breit.	C
+GW74	T2242	Speicher ist bis zu 30 GB mehr als Speicher	E
+GW74	T2242	Xiaomi Mi 2S mit Android 4.1 Jelly Bean Betriebssysteme haben 16 GB Speicher	N
+GW74	T2242	Xiaomi Mi3 kam vor Xiaomi Mi2	C
+GW105	T2242	Das Xiaomi Mi 2S ist ein Smartphone.	E
+GW105	T2242	Es gibt genug Speicher für Hunderte von Fotos.	N
+GW105	T2242	Der Xiaomi Mi 2S verfügt über eine Vielzahl von abnehmbaren Aufbewahrungsmöglichkeiten.	C
+GW28	T2243	B1 ist eine Buslinie, die täglich in Zhengzhou fährt.	E
+GW28	T2243	B1 ist ein bargeldloses Bussystem und verwendet elektronische Zahlungsmittel.	N
+GW28	T2243	B1 arbeitet seit über einem Jahrzehnt kontinuierlich.	C
+GW12	T2243	Die B1 befindet sich in Zhengzhou und wird von der Zhengzhou Bus Communication Corporation betrieben.	E
+GW12	T2243	B1 beginnt an der Zhongzhou Avenue und Nongye Road und endet an der Dianchang Road B/T.	N
+GW12	T2243	B1 arbeitet täglich alle sieben Minuten.	C
+GW52	T2243	Die B1 ist seit einem Jahrzehnt im Einsatz.	E
+GW52	T2243	Die B1 ist eine der beliebtesten Busfahrten.	N
+GW52	T2243	Der B1 arbeitet nach einem 24-Stunden-Fahrplan.	C
+GW28	T2244	Indonesia AirAsia Flight 8501, der für Singapur bestimmt war, stürzte ins Meer und tötete alle an Bord.	E
+GW28	T2244	Indonesia AirAsia Flight 8501 könnte eine Fehlkommunikation zwischen Piloten gehabt haben, die zum Unfall beigetragen hat.	N
+GW28	T2244	Indonesia AirAsia Flight 8501 war ein Boeing-Jumbo, der während der Landung auf der Landebahn abgestürzt ist.	C
+GW52	T2244	QZ8501 stürzte ab und führte zu allen Todesfällen an Bord.	E
+GW52	T2244	QZ8501 hatte vor dem Stillstand Triebwerksprobleme gemeldet.	N
+GW52	T2244	QZ8501 Absturz ereignete sich in den 1990er Jahren.	C
+GW1	T2244	Alle an Bord Indonesia AirAsia Flight 8501 sind umgekommen.	E
+GW1	T2244	Indonesia AirAsia Flight 8501 ist der einzige Indonesia AirAsia Flight 8501, der abstürzt.	N
+GW1	T2244	Indonesia AirAsia Flight 8501 stürzte im Sommer 2014 ab.	C

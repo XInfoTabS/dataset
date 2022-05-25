@@ -1,0 +1,50 @@
+{
+    "titel": [
+        "B1"
+    ],
+    "Stelsel": [
+        "Zhengzhou BRT"
+    ],
+    "Operateur": [
+        "Zhengzhou Bus Communication Corporation"
+    ],
+    "Vehikel": [
+        "Yutong ZK6180CHEVNPG3 (18m)"
+    ],
+    "Ligte": [
+        "Groen"
+    ],
+    "Status": [
+        "Operaties"
+    ],
+    "Begin dienste": [
+        "2009"
+    ],
+    "Voorgangers": [
+        "Zhengzhou Bus Route 96"
+    ],
+    "Locale": [
+        "Zhengzhou"
+    ],
+    "Begin": [
+        "Zhongzhou Avenue en Nongye Road"
+    ],
+    "Einde": [
+        "Dianchang Road B / T"
+    ],
+    "Lengte": [
+        "26 km (16 mi)"
+    ],
+    "Stops": [
+        "32"
+    ],
+    "Vlak": [
+        "Daily"
+    ],
+    "frekwensie": [
+        "Elke 2-5 minute"
+    ],
+    "Operasie": [
+        "6: 00 am - 9:30 pm"
+    ]
+}

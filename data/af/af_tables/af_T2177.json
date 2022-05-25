@@ -1,0 +1,41 @@
+{
+    "titel": [
+        "NFB Route 8"
+    ],
+    "Operateur": [
+        "New World First Bus"
+    ],
+    "Vehikel": [
+        "Alexander Dennis Enviro500 MMC"
+    ],
+    "Begin": [
+        "Heng Fa Chuen"
+    ],
+    "Via": [
+        "Island Eastern Corridor"
+    ],
+    "Einde": [
+        "Wan Chai Noord"
+    ],
+    "Lengte": [
+        "14 km"
+    ],
+    "Ander Routes": [
+        "NWFB Route N8"
+    ],
+    "Wettig": [
+        "MTR Eilande lyn"
+    ],
+    "Vlak": [
+        "05:30-00:00"
+    ],
+    "Alt. vlak": [
+        "06:15-00:45"
+    ],
+    "frekwensie": [
+        "11 - 20 min."
+    ],
+    "Reis tyd": [
+        "48 min."
+    ]
+}

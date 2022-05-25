@@ -1,0 +1,47 @@
+{
+    "titel": [
+        "Linux"
+    ],
+    "Ontwikkelaar": [
+        "Kopie, Linus Torvalds"
+    ],
+    "Geskryf in": [
+        "C, assembler"
+    ],
+    "Os familie": [
+        "Unix- like"
+    ],
+    "Werkstasie": [
+        "Huidige"
+    ],
+    "Bron model": [
+        "Open bron"
+    ],
+    "Aanvanklike vrylaat": [
+        "September 17, 1991; 28 jaar geleden (1991-09-17)"
+    ],
+    "Marketing teiken": [
+        "Wolk rekenaars, ingebedde toestelle, mainframe rekenaars, draagbare toestelle, persoonlike rekenaars, bedieners, supercomputers"
+    ],
+    "Beskikbaar in": [
+        "Multilingual"
+    ],
+    "Platforms": [
+        "Alpha, ARC, ARM, C6x, H8/ 300, Hexagon, Itanium, m68k, Microblaze, MIPS, NDS32, Nios II, OpenRISC, PA-RISC, PowerPC, RISC- V, s390, SuperH, SPARC, Unicore32, x86, XBurst, Xtensa"
+    ],
+    "Kernel tipe": [
+        "Monolithic"
+    ],
+    "Userland": [
+        "GNU"
+    ],
+    "Verstek gebruiker koppelvlak": [
+        "Unix tolk"
+    ],
+    "Lisensie": [
+        "GPLv2 en ander (Die naam Linux is 'n handelsmerk)"
+    ],
+    "Offisionele webruimte": [
+        "www. linuxfoundation.org"
+    ]
+}

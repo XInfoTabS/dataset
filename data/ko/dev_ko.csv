@@ -1,0 +1,1801 @@
+annotater_id,table_ids,hypothesis,label
+GW0,T19,Bruno Abakanowicz는 제 1 차 세계 대전 전에 사망했습니다.,E
+GW0,T19,Bruno Abakanowicz는 가장 성공적인 리투아니아 발명가였다.,N
+GW0,T19,Bruno Abakanowicz는 영국에서 태어났습니다.,C
+GW1,T19,Bruno Abakanowicz는 1852 년 가을에 태어났습니다.,E
+GW1,T19,Bruno Abakanowicz는 발명가보다 수학자로 알려지기를 선호했다.,N
+GW1,T19,Bruno Abakanowicz는 1900 년 봄에 사망했습니다.,C
+GW4,T19,Bruno Abakanowicz는 발명가로 알려져 있었다.,E
+GW4,T19,Bruno Abakanowicz는 러시아에서 프랑스로 이사했습니다.,N
+GW4,T19,Bruno Abakanowicz는 60 세의 나이에 사망했습니다.,C
+GW0,T26,옥수수는 Chibuku Shake에서 발견되는 성분입니다.,E
+GW0,T26,Chibuku 셰이크는 1962년 봄에 소개되었다.,N
+GW0,T26,Chibuku Shake는 알코올 수량이 3% 미만입니다.,C
+GW4,T26,Chibuku Shake Shake는 1960 년대에 나온 맥주입니다.,E
+GW4,T26,Chibuku Shake Shake에는 많은 알코올이 들어 있습니다.,N
+GW4,T26,“Chibuku Shake Shake”는 매우 어두운 맥주입니다.,C
+GW1,T26,Chibuku Shake Shake는 20 세기 전후에 처음 만들어졌습니다.,E
+GW1,T26,“Chibuku Shake Shake”는 캄보디아에서 매우 인기가 있습니다.,N
+GW1,T26,Chibuku Shake Shake는 다른 현대 맥주와 비교하여 정말 높은 ABV를 가지고 있습니다.,C
+GW4,T40,Bushwacker는 거의 1 톤의 무게가있는 황소입니다.,E
+GW4,T40,황소 Bushwacker는 2000 년대 중반에 태어났습니다.,N
+GW4,T40,황소 Bushwacker는 2012 년까지 계속 작동했습니다.,C
+GW2,T40,“Bushwacker”는 소이다.,E
+GW2,T40,Bushwacker는 150 개 이상의 리본을 수상했습니다.,N
+GW2,T40,“Bushwacker”는 텍사스에서 태어났습니다.,C
+GW1,T40,Bushwacker는 1500 파운드 이상의 무게를 가졌습니다.,E
+GW1,T40,Bushwacker는 거북이 타는 반지에서 사망했습니다.,N
+GW1,T40,Bushwacker는 거의 7 년 동안 활동했습니다.,C
+GW2,T43,제임스 필드는 서부 해안에서 태어났다.,E
+GW2,T43,제임스 필드는 캘리포니아에 살고 있다.,N
+GW2,T43,제임스 히틀필드는 드럼을 연주하는 방법을 모른다.,C
+GW1,T43,가장 인기있는 밴드 제임스 히틀필드는 메탈리카와 관련이 있습니다.,E
+GW1,T43,제임스 필드는 그가 드럼을 연주하는 것보다 더 많이 노래하는 것을 좋아했습니다.,N
+GW1,T43,제임스 필드는 1963년 봄에 태어났다.,C
+GW4,T43,제임스 필드는 미국 서부 해안에서 태어났다.,E
+GW4,T43,제임스 Hetfield는 워너 브라더스와 함께 일한 음악가입니다.,N
+GW4,T43,뮤지션 제임스 필드는 베이스를 연주하는 것으로 알려져 있습니다.,C
+GW2,T63,‘버트 레이놀즈’는 두 번의 실패한 결혼을 했다.,E
+GW2,T63,‘버트 레이놀즈’가 딸을 낳았다,N
+GW2,T63,Burt Reynolds는 겨울에 사망했습니다.,C
+GW4,T63,‘버트 레이놀즈’는 1936년 겨울에 태어났다.,E
+GW4,T63,Burt Reynolds는 감독과 프로듀서로 알려져 있습니다.,N
+GW4,T63,‘버트 레이놀즈’는 오늘도 살아있다.,C
+GW1,T63,Burt Reynolds는 약 60 년 동안 영화 사업에있었습니다.,E
+GW1,T63,Burt Reynolds는 평생 미시간과 플로리다에서만 살았다.,N
+GW1,T63,‘버트 레이놀즈’는 1936년 여름에 태어났다.,C
+GW0,T65,Brothers in Arms는 두 개의 다른 스튜디오에서 녹음되었습니다.,E
+GW0,T65,Neil Dorfsman은 Brothers in Arms 앨범에서 생산하고 연주했습니다.,N
+GW0,T65,Brothers in Arms는 1985 년 겨울에 발매되었습니다.,C
+GW4,T65,Brothers in Arms는 1985년 봄에 발매된 앨범이다.,E
+GW4,T65,앨범 Brothers in Arms는 대부분 미국에서 녹음되었다.,N
+GW4,T65,앨범 Brothers in Arms는 1 시간 이상 지속되었습니다.,C
+GW1,T65,Brothers in Arms는 1985 년 가을에 출시되었습니다.,E
+GW1,T65,Brothers in Arms는 창조적 인 차이 때문에 녹음하는 데 오랜 시간이 걸렸습니다.,N
+GW1,T65,Brothers in Arms는 거의 1 시간 반의 실행 시간을 가지고 있습니다.,C
+GW2,T75,‘존 아담스’는 가을에 태어났다.,E
+GW2,T75,존 아담스에게는 4명의 아들이 있었다.,N
+GW2,T75,‘존 아담스’는 아내의 죽음을 앞두고 있었다.,C
+GW1,T75,‘존 아담스’는 1826년 독립기념일에 사망했다.,E
+GW1,T75,존 아담스는 대학 경험 때문에 때때로 정치 파티를 변경했습니다.,N
+GW1,T75,‘존 아담스’는 1735년 봄에 태어났다.,C
+GW4,T75,John Adams는 매사추세츠 주에서 태어났습니다.,E
+GW4,T75,“존 아담스”는 평생 매사추세츠에서 살았다.,N
+GW4,T75,존 아담스는 평생 두 명의 아내를 가졌습니다.,C
+GW4,T84,Ciara는 대륙 미국에서 자랐습니다.,E
+GW4,T84,Ciara는 수많은 상을 수상했습니다.,N
+GW4,T84,Ciara는 클래식 음악가로 알려져 있습니다.,C
+GW0,T84,Ciara는 2 년 이상 결혼했습니다.,E
+GW0,T84,Jazze Pha는 Ciara의 모든 음악을 제작했습니다.,N
+GW0,T84,Ciara는 적어도 5 년 동안 활동하고있다.,C
+GW1,T84,시아라는 NFL 선수와 결혼했다.,E
+GW1,T84,“Ciara”는 Epic보다 Warner Bros.를 더 좋아합니다.,N
+GW1,T84,‘시아라’는 1985년 여름에 태어났다.,C
+GW4,T105,“칠레 공화국”은 인종별로 대부분 백인이다.,E
+GW4,T105,칠레 공화국은 스페인어를 사용하는 사람들 만 가지고 있습니다.,N
+GW4,T105,칠레 공화국은 그것을 이끄는 왕이 있습니다.,C
+GW1,T105,칠레 공화국은 대부분 민족 그룹이 갈 때 흰색입니다.,E
+GW1,T105,Carlos Montes Cisternas는 Pi-era가 대통령으로 떠나면 Sebasti‡n Pi-era를 대신 할 것입니다.,N
+GW1,T105,의회는 칠레 공화국의 상원의원보다 더 강력합니다.,C
+GW2,T105,칠레인은 스페인에서 유래한 언어를 사용합니다.,E
+GW2,T105,칠레 대통령은 1년도 미만의 세월이 흘렀다.,N
+GW2,T105,칠레의 수도는 가장 큰 도시가 아닙니다.,C
+GW1,T110,Brokeback Mountain은 2 시간 이상 실행 시간을 가지고 있습니다.,E
+GW1,T110,래리 맥머리 (Larry McMurtry)는 다이애나 오사나 (Diana Ossana)보다 Brokeback Mountain의 시나리오를 적게 썼다.,N
+GW1,T110,Brokeback Mountain는 상점에서 예산보다 2 억 달러를 벌었습니다.,C
+GW2,T110,Brokeback Mountain는 프랑스에서 처음 출시되었습니다.,E
+GW2,T110,Brokeback Mountain는 9 주 동안 영화관에서 연주되었습니다.,N
+GW2,T110,Brokeback Mountain는 리버 로드 엔터테인먼트에 의해 배포되었습니다.,C
+GW4,T110,Brokeback Mountain는 2 시간 이상 지속되었습니다.,E
+GW4,T110,Brokeback Mountain는 유럽 이후 미국에서 나왔다.,N
+GW4,T110,Brokeback Mountain는 상점에서 돈을 잃어 버렸습니다.,C
+GW4,T112,Jeffery는 2016 년 여름에 발표 된 앨범입니다.,E
+GW4,T112,앨범 Jeffery는 힙합으로 알려져 있습니다.,N
+GW4,T112,앨범 ‘제퍼리’는 1시간이 넘게 길었다.,C
+GW9,T112,Jeffery는 2016 년 여름에 앨범에 출시되었습니다.,E
+GW9,T112,레코드 레이블 Atlantic은 남부 캘리포니아에 거주하고 있습니다.,N
+GW9,T112,카시우스 제이는 실행 프로듀서였다.,C
+GW1,T112,제퍼리의 실행 시간은 50 분 미만입니다.,E
+GW1,T112,Goose는 Wheezy보다 더 많은 앨범 Jeffery에서 프로듀서 역할을했다.,N
+GW1,T112,제퍼리는 2016 년 봄에 출시되었습니다.,C
+GW1,T167,니콜라스 포신이 죽었다.,E
+GW1,T167,니콜라스 포신 (Nicolas Poussin)의 그림은 루브르 (Louvre)에 빌려졌습니다.,N
+GW1,T167,니콜라스 포신 (Nicolas Poussin)은 18 세기에 Et in Arcadia ego를 그렸다.,C
+GW0,T167,Et in Arcadia ego는 300 년이 넘는 나이입니다.,E
+GW0,T167,Et in Arcadia ego는 루브르 박물관에서만 전시되었습니다.,N
+GW0,T167,“Et in Arcadia ego”는 높이보다 넓다.,C
+GW4,T167,Et in Arcadia ego는 1600 년대 중반에 그렸습니다.,E
+GW4,T167,Et in Arcadia ego는 주로 기름 페인트로 만들어집니다.,N
+GW4,T167,예술 작품 Et in Arcadia ego은 영국에 보관되어 있습니다.,C
+GW4,T178,BtoB는 2010 년대부터 한국 사람들을 즐겁게 해 왔습니다.,E
+GW4,T178,BtoB는 대부분 K-pop 밴드로 알려져 있습니다.,N
+GW4,T178,BtoB는 4 년 동안 레코드 라벨을 가지고있다.,C
+GW14,T178,이 밴드는 5개 미만의 라벨과 연관되어 있다.,E
+GW14,T178,같은 BtoB의 멤버들은 또한 United Cube에 있었다.,N
+GW14,T178,밴드는 클린턴 행정부 기간 동안 활발하게 활동했다.,C
+GW1,T178,BtoB는 아시아 국가에서 형성되었습니다.,E
+GW1,T178,BtoB는 댄스 팝보다 R&B와 더 관련이 있습니다.,N
+GW1,T178,BtoB는 10 년 이상 활동하고 있습니다.,C
+GW4,T200,브루스 윌리스는 독일에서 태어났다.,E
+GW4,T200,브루스 윌리스는 어린 시절 미국으로 이주했다.,N
+GW4,T200,브루스 윌리스는 세 명의 아내가 있었다.,C
+GW0,T200,브루스 윌리스는 현재 거주하는 동일한 주에서 태어났습니다.,E
+GW0,T200,Bruce Willis는 Montclair State University에서 석사 학위를 취득했습니다.,N
+GW0,T200,브루스 윌리스는 엠마 헤밍과 이혼 한 후 데미 무어와 결혼했다.,C
+GW1,T200,브루스 윌리스는 1955년 봄에 태어났다.,E
+GW1,T200,브루스 윌리스는 더 많은 자녀를 가질 것이다.,N
+GW1,T200,브루스 윌리스는 50년 가까이 영화를 만났다.,C
+GW1,T206,Keerthy Suresh는 1992 년 가을에 태어났습니다.,E
+GW1,T206,Keerthy Suresh는 배우보다 모델을 선호합니다.,N
+GW1,T206,Keerthy Suresh는 1990 년대부터 그녀의 경력에 적극적으로 활동하고있다.,C
+GW0,T206,“Keerthy Suresh”는 30세 미만입니다.,E
+GW0,T206,Keerthy Suresh는 결혼 생활에서 태어났습니다.,N
+GW0,T206,Keerthy Surest는 가수로 가장 잘 알려져 있습니다.,C
+GW4,T206,Keerthy Suresh는 1992 년 가을에 태어났습니다.,E
+GW4,T206,Keerthy Suresh는 인도에서 평생을 보냈습니다.,N
+GW4,T206,Keerthy Suresh는 지난 25 년 동안 일해 왔습니다.,C
+GW1,T238,"1735년 가을, ‘제시 람스덴’이 태어났다.",E
+GW1,T238,제시 람스덴은 천문학보다 광학에 더 관심이있었습니다.,N
+GW1,T238,‘제시 람스덴’은 1800년 봄에 사망했다.,C
+GW2,T238,제시 람스덴은 59세 또는 60세의 나이에 코플리 메달을 수상했다.,E
+GW2,T238,제시 람스덴은 런던에서 학교에 다녔다.,N
+GW2,T238,‘제시 람스덴’은 프랑스어와 스웨덴어만을 사용했다.,C
+GW4,T238,제시 람스덴은 18세기에 코플리 메달을 받았다.,E
+GW4,T238,Jesse Ramsden은 과학적 도구를 개발하는 데 도움을주었습니다.,N
+GW4,T238,제시 람스덴은 100 세가 될 때까지 살아 왔습니다.,C
+GW30,T262,XXXI 올림픽의 자전거 이벤트는 8 월 6 일부터 21 일까지 진행되었습니다.,E
+GW30,T262,사이클링 이벤트는 17 개의 금메달을 획득 한 미국 팀이 지배했습니다.,N
+GW30,T262,XXXI 올림픽에는 10 개 행사에서 7 개국의 경쟁자 만 참가했습니다.,C
+GW25,T262,2016 년 올림픽에서 16 일 동안 18 개의 자전거 이벤트가 개최되었습니다.,E
+GW25,T262,80 개국이 하나 이상의 이벤트 범주에서 대표되었습니다.,N
+GW25,T262,포트 코파카바나 벨로 드롬 (Fort Copacabana Velodrome)에서 개최 된 훈련 바퀴 결승전은 2016 년 8 월 22 일에 개최되었습니다.,C
+GW4,T262,XXXI 올림픽 경기에서 자전거는 18 가지 이벤트가있었습니다.,E
+GW4,T262,XXXI 올림픽 경기에서 자전거는 전 세계에서 경쟁자가있었습니다.,N
+GW4,T262,XXXI 올림픽 경기에서 자전거 타는 것이 스페인에서 일어났습니다.,C
+GW14,T278,K.A.R.D.는 아시아에서 시작되었습니다.,E
+GW14,T278,슈퍼 주니어와 K.A.R.D.는 같은 축제에서 공연했습니다.,N
+GW14,T278,K.A.R.D.는 클린턴 행정부 기간 동안 형성되었다.,C
+GW4,T278,밴드 KARD는 아시아 국가에 기반을 두고 있습니다.,E
+GW4,T278,밴드 KARD는 자신의 음악을 위해 많은 상을 수상했습니다.,N
+GW4,T278,밴드 KARD는 2016 년 이전에 함께 녹음하기 시작했습니다.,C
+GW28,T278,KARD는 한국의 Kpop 그룹입니다.,E
+GW28,T278,KARD는 두 명의 여성과 두 명의 남성으로 구성됩니다.,N
+GW28,T278,KARD는 SM 엔터테인먼트에서 10 년 이상 활동하고 있습니다.,C
+GW28,T283,처녀의 죽음은 카라바지오에 의해 그려졌으며 파리 루브르에 위치했습니다.,E
+GW28,T283,처녀의 죽음은 20 백만 달러의 가치가 있습니다.,N
+GW28,T283,처녀의 죽음은 인치보다 센티미터 더 크다.,C
+GW14,T283,카라바지오는 적어도 하나의 기름 그림을 그렸다.,E
+GW14,T283,카라바지오의 언어는 이탈리아어였다.,N
+GW14,T283,카라바지오가 ‘ 처녀의 죽음’을 그리기까지 한 달이 걸렸다.,C
+GW4,T283,프랑스에서 ‘ 처녀의 죽음’이라는 그림이 매달려 있다.,E
+GW4,T283,‘신부의 죽음’이라는 그림이 완성되기까지는 거의 10년이 걸렸다.,N
+GW4,T283,그림 신부의 죽음은 100 평방 피트 이상의 크기입니다.,C
+GW0,T285,"죽음의 증거는 같은 사람이 제작, 쓴, 그리고 감독했다.",E
+GW0,T285,Death Proof는 이중 기능 Grindhouse의 첫 번째 부분이었다.,N
+GW0,T285,Death Proof는 같은 영화 스튜디오에 의해 제작되고 배포되었습니다.,C
+GW27,T285,‘죽음의 증거’는 퀸틴 타란티노가 작곡하고 감독했다.,E
+GW27,T285,Death Proof의 생산 회사는 Death Proof의 영화 제작자에 의해 운영됩니다.,N
+GW27,T285,Dimension Films는 Death Proof를 자체적으로 발표했습니다.,C
+GW28,T285,‘죽음의 증거’는 미국의 할리우드 영화다.,E
+GW28,T285,‘죽음의 증거’는 퀸틴 타란티노의 10번째 영화다.,N
+GW28,T285,Death Proof는 같은 회사에 의해 제작되고 배포되었습니다.,C
+GW0,T291,키프로스에는 4개의 다른 언어가 있습니다.,E
+GW0,T291,터키인들은 그리스인들보다 먼저 키프로스에 도착했다.,N
+GW0,T291,Nicos Anastasiades는 키프로스의 대통령과 의회의 회장입니다.,C
+GW28,T291,키프로스 공화국은 다국적이고 다국적이다.,E
+GW28,T291,키프로스 공화국은 지중해의 섬입니다.,N
+GW28,T291,키프로스 공화국은 에콰도르 근처에 위치하고 있습니다.,C
+GW4,T291,키프로스 공화국에는 많은 그리스어 언어가 있습니다.,E
+GW4,T291,키프로스 공화국은 선거를 실시하는 정부가 있습니다.,N
+GW4,T291,키프로스 공화국에는 아르메니아인이 없다.,C
+GW0,T297,소설 시리즈와 FLCL의 애니메이션 버전은 같은 사람이 쓴다.,E
+GW0,T297,마가와 소설 시리즈 FLCL는 동시에 출시되었습니다.,N
+GW0,T297,MVM 엔터테인먼트는 FLCL에 대한 북미 라이선스를 보유하고 있습니다.,C
+GW28,T297,FLCL소설 시리즈와 원래 비디오 애니메이션은 한 남자가 쓴다.,E
+GW28,T297,소설 시리즈의 원래 실행은 Manga의 원래 실행보다 일찍입니다.,N
+GW28,T297,소설 시리즈와 맨고는 같은 인구를 목표로합니다.,C
+GW32,T297,FLCL시리즈의 두 개의 볼륨이 있습니다.,E
+GW32,T297,FLCL는 그래픽 소설 시리즈이며 더 많은 볼륨이 출시되고 있습니다.,N
+GW32,T297,FLCL는 원래 1980 년대에 출시되었습니다.,C
+GW0,T302,마이클 피터 발자리 (Michael Peter Balzary)는 1972 년 가을에 태어났습니다.,E
+GW0,T302,마이클 피터 발자리 (Michael Peter Balzary)는 레드 핫 칠리 퍼스 (Red Hot Chili Peppers)의 멤버에 의해 그의 무대 이름 플레이을 받았다.,N
+GW0,T302,Flea는 그의 경력 동안 오직 리드 기타를 연주했다.,C
+GW28,T302,Flea는 17 세 때부터 활동적이었습니다.,E
+GW28,T302,플레이는 활발하게 활동하기 전에 피아노를 연주하는 법을 배웠습니다.,N
+GW28,T302,Flea는 독립적 인 음악가로서 단순히 스트레인 악기를 연주합니다.,C
+GW4,T302,Flea는 원래 1962 년 가을 호주에서 태어났습니다.,E
+GW4,T302,뮤지션 Flea는 그들이 베이스를 연주하기 전에 피아노를 배웠습니다.,N
+GW4,T302,음악가 Flea는 고전적인 서있는 베이스를 연주하는 것으로 알려져있다.,C
+GW28,T309,제퍼슨 항공기는 미국의 록 밴드였다.,E
+GW28,T309,제퍼슨 항공기는 그들의 시간 동안 전 세계의 도시에서 많은 콘서트를했다.,N
+GW28,T309,‘제퍼슨 항공기’는 1960년대 이후 끊임없이 공연했다.,C
+GW30,T309,제퍼슨 항공기는 1960년대 중반부터 1970년대 초반 사이에 활동했던 캘리포니아 밴드이다.,E
+GW30,T309,Jefferson Airplane는 첫 앨범으로 두 개의 그라미상을 수상했습니다.,N
+GW30,T309,Jefferson Airplane는 유니버설 라벨로만 녹음되었습니다.,C
+GW0,T309,제퍼슨 항공기는 활동 기간 동안 두 개의 주요 레코드 레이블에 서명했다.,E
+GW0,T309,제퍼슨 항공기(Jefferson Airplane)는 1980년대에 제퍼슨 항공기(Jefferson Starship)로 이름을 바꿨다.,N
+GW0,T309,제퍼슨 항공기는 50 년 이상 연속적으로 공연하고있다.,C
+GW30,T311,Charles Xavier Thomas는 계수계를 발명한 프랑스인입니다.,E
+GW30,T311,아리트모미터는 20세기 중반까지 아리트메틱 문제를 해결하는 유일한 도구였습니다.,N
+GW30,T311,Charles Xavier Thomas는 짧은 삶을 살았고 27 세의 나이에 죽었습니다.,C
+GW28,T311,Charles Xavier Thomas의 국적은 프랑스어입니다.,E
+GW28,T311,찰스 사비어 토마스(Charles Xavier Thomas)는 수학자였다.,N
+GW28,T311,Charles Xavier Thomas는 그가 사망했을 때 74 세였습니다.,C
+GW27,T311,아리트모터의 발명자는 프랑스에서 태어났다.,E
+GW27,T311,아리트모터는 프랑스에서 발명되었다.,N
+GW27,T311,아리트모터의 발명자는 벨기에인이었다.,C
+GW33,T333,찰리 머피는 1959년 7월 12일 뉴욕에서 태어났으며 그의 웹사이트는 www.charliemurphycomedy.com입니다.,E
+GW33,T333,찰리 머피는 2017년 4월 12일 57세의 나이로 사망했다.,N
+GW33,T333,찰리 머피는 영화 산업의 스토리 작가,C
+GW28,T333,‘찰리 머피’는 미국의 엔터테인먼트였다.,E
+GW28,T333,찰리 머피는 그의 동생 에디보다 먼저 코미디를 시작했다.,N
+GW28,T333,찰리 머피는 베이스를 연주 한 파트 타임 뮤지션이었다.,C
+GW0,T333,찰리 머피는 그가 태어난 동일한 도시에서 사망했다.,E
+GW0,T333,찰리 머피는 티샤 머피와 세 딸을 낳았다.,N
+GW0,T333,찰리 머피는 그의 출생 이름과는 다른 무대 이름을 사용했다.,C
+GW4,T337,저스틴 트루도(Justin Trudeau)는 2015년부터 총리가 됐다.,E
+GW4,T337,데이비드 존스턴이 저스틴 트루도(Justin Trudeau)가 은퇴할 때 감독을 맡게 된다.,N
+GW4,T337,저스틴 트루도 (Justin Trudeau)는 2011년 스티븐 하퍼 (Stephen Harper) 이후 대통령직을 맡았다.,C
+GW28,T337,저스틴 트루도 (Justin Trudeau)는 스티븐 하퍼 (Stephen Harper)의 임기가 끝날 때 대통령직을 맡았다.,E
+GW28,T337,저스틴 트루도(Justin Trudeau)는 현재 캐나다에서 가장 젊은 총리가 됐다.,N
+GW28,T337,저스틴 트루도는 2015년 겨울 PC MP가 되었다.,C
+GW0,T337,스티븐 하퍼 (Stephen Harper)는 2015년 대부분의 시간 동안 PC MP 사무실을 맡았습니다.,E
+GW0,T337,데이비드 존스턴은 Julie Payette보다 더 오래 총독을 맡았습니다.,N
+GW0,T337,저스틴 트루도 (Justin Trudeau)는 2015년 여름에 대통령직을 맡았다.,C
+GW28,T339,Femme aux Bras CroisŽs는 유명한 그림자에 의해 2 년 동안 그려졌습니다.,E
+GW28,T339,Femme aux Bras CroisŽs는 회전적으로 박물관에 대출됩니다.,N
+GW28,T339,Femme aux Bras CroisŽs는 대중의 시청을 위해 열려 있습니다.,C
+GW32,T339,"이 그림, Femme Aux Bras Croises는 아티스트 파블로 피카소에 의해 만들어졌습니다.",E
+GW32,T339,Femme Aux Bras Croises는 매우 부유 한 사람이 개인 컬렉션에 보유하고 있습니다.,N
+GW32,T339,Femme aux Bras Croises는 1970 년대에 그렸습니다.,C
+GW4,T339,Femme aux Bras CroisŽs는 원래 20세기 초에 피카소가 그렸습니다.,E
+GW4,T339,Femme aux Bras CroisŽs의 그림은 이전에 박물관에 매달려있었습니다.,N
+GW4,T339,Femme aux Bras CroisŽs 그림은 물 색상으로 만들어집니다.,C
+GW0,T362,5ive은 경력 기간 동안 두 차례의 휴식을 취했으며 총 10 년을 차지했습니다.,E
+GW0,T362,5ive는 스파이스 그리스와 함께 세계적 투어에 가져 왔습니다.,N
+GW0,T362,5ive는 총 10 년 이내에 공연 해 왔습니다.,C
+GW28,T362,5ive는 영국의 팝 그룹이다.,E
+GW28,T362,5ive는 5 명으로 구성되어 있습니다.,N
+GW28,T362,5ive의 경력은 4 년을 거슬러 갔다.,C
+GW14,T362,5ive는 모든 소녀 밴드와 관련이 있습니다.,E
+GW14,T362,5ive에는 공식 웹사이트가 없습니다.,N
+GW14,T362,“5ive”는 20년 넘게 지속적으로 활동해 왔습니다.,C
+GW28,T395,제드 늑대가 디즈니 영화에 등장,E
+GW28,T395,‘제드 늑대’는 공격적인 동물이었다.,N
+GW28,T395,제드 늑대는 배우로서 평생을 일했다.,C
+GW4,T395,제드 늑대는 월트 디즈니 사진 회사에서 일한 개였다.,E
+GW4,T395,Jed Wolf는 전적으로 미국에서 자랐습니다.,N
+GW4,T395,제드 늑대는 결코 액션 영화를 만들지 않았다.,C
+GW27,T395,‘제드 늑대’는 남성 늑대 개였다.,E
+GW27,T395,제드 늑대는 건강 상태가 좋지 않았기 때문에 은퇴했으며 1 년 후 사망했습니다.,N
+GW27,T395,클린트 로우 (Clint Rowe)의 개는 개 쇼에서 모델링을 훈련 받았다.,C
+GW48,T401,Keith Richards는 4 개의 라벨 아래 녹음되었습니다.,E
+GW48,T401,Keith Richards는 Dartford Technical School과 Sidcup Art College를 모두 졸업했습니다.,N
+GW48,T401,‘키스 리처드스’는 롤링 스톤에서만 출연했다.,C
+GW0,T401,‘키스 리처드스’는 30년 넘게 결혼했다.,E
+GW0,T401,Keith Richards는 롤링 스톤스에 합류하기 전에 여러 밴드에서 연주했습니다.,N
+GW0,T401,Keith Richards는 첫 파트너와 함께 5 명의 아들을 낳았습니다.,C
+GW11,T401,“Keith Richards”는 영어입니다.,E
+GW11,T401,Keith Richards는 AARP 멤버십을 가지고 있습니다.,N
+GW11,T401,Keith Richards는 대학 학위를 가지고 있습니다.,C
+GW27,T407,제임스 6세와 나는 스코틀랜드에서 태어나 영국에서 죽었다.,E
+GW27,T407,제임스 6세와 나는 스튜어트의 집에서 처음으로 웨스트민스터 아베에 묻혔다.,N
+GW27,T407,헨리 스튜어트에게는 조부모가 없었다.,C
+GW28,T407,제임스 VI와 나는는 다른 나라에서 태어났고 죽었다.,E
+GW28,T407,제임스 VI와 나는는 프랑스 귀족에서 유래합니다.,N
+GW28,T407,제임스 6세와 나는 16세기에 죽었다.,C
+GW14,T407,제임스 6세는 왕실의 아들이다.,E
+GW14,T407,제임스 6세는 덴마크에서 안나를 만났다.,N
+GW14,T407,제임스 6세는 지평선 남쪽에서 태어났다.,C
+GW4,T409,그림 Charles V의 여배우의 초상화는 16 세기에 출판되었습니다.,E
+GW4,T409,찰스 5세의 초상화 Equestrian Portrait of Charles V는 몇 년이 걸렸다.,N
+GW4,T409,예술 작품 카를로스 V의 수영장 초상화는 물 색상으로 그려졌습니다.,C
+GW27,T409,티티아누스는 1548년 ‘카를로스 5세의 초상화(Equestrian Portrait of Charles V)’를 그렸다.,E
+GW27,T409,‘찰스 5세의 엘리자베스의 초상화’는 티티아니오의 마지막 기름이었다.,N
+GW27,T409,티티아노의 찰스 5세의 여배우의 초상화는 사설 컬렉션에 있습니다.,C
+GW28,T409,스페인에 위치한 Charles Vs Equestrian Portrait입니다.,E
+GW28,T409,카를로스 V의 트리어 초상화는 완료 후에 프레임되었습니다.,N
+GW28,T409,찰스 5세의 초상화(Equestrian Portrait of Charles V)는 여러 예술가들의 수년간의 노력이었다.,C
+GW28,T415,Ex Machina는 낮은 예산의 영화였습니다.,E
+GW28,T415,Ex Machina는 영국과 미국의 공동 작업이었다.,N
+GW28,T415,Ex Machina는 영국과 미국에서 동시에 출시되었습니다.,C
+GW14,T415,영화 Ex Machina는 예산의 두 배 이상의 총 상금 수익을 얻었습니다.,E
+GW14,T415,Film4와 DNA Films는 같은 사무실 단지에 본사를 두고 있습니다.,N
+GW14,T415,Ex Machina는 로브 하디가 쓴 작품이다.,C
+GW27,T415,Ex Machina는 같은 사람에 의해 작성되고 감독되었습니다.,E
+GW27,T415,Ex Machina의 감독은 편집을 위해 Mark Day를 고용했습니다.,N
+GW27,T415,알렉스 가 랜드 (Alex Garland)의 영화는 예산보다 적게 만든다.,C
+GW42,T429,Compton은 캘리포니아에 위치한 도시입니다.,E
+GW42,T429,Compton 시의회에는 5 명 이상의 회원이 있습니다.,N
+GW42,T429,시장,C
+GW4,T429,"컴턴, 캘리포니아에는 시의회에있는 5 명이 있습니다.",E
+GW4,T429,"Compton, California의 도시 매니저는 이사회를 이끌 수있는 능력을 가지고 있습니다.",N
+GW4,T429,"Compton, California는 대표 민주주의로 알려져 있습니다.",C
+GW28,T429,"Compton, California는 미국의 도시입니다.",E
+GW28,T429,"Compton, California주민은 대부분 아프리카계 미국인입니다.",N
+GW28,T429,"‘콤튼, 캘리포니아’는 아야 브라운이 감독한다.",C
+GW28,T450,코너 맥그리거 (Conor McGregor)는 아일랜드의 전문 전투기입니다.,E
+GW28,T450,코너 맥그리거가 아일랜드에서 열차를 타고 있다.,N
+GW28,T450,코너 맥그리거 (Conor McGregor)는 30 세에 싸움을 시작했습니다.,C
+GW27,T450,코너 앤서니 맥그리거는 ‘The Notorious’로 알려져 있다.,E
+GW27,T450,코너 앤서니 맥그레거 (Conor Anthony McGregor)는 그의 코치 존 카바나 (John Kavanagh)에 의해 The Notorious라는 별명을 받았다.,N
+GW27,T450,코너 앤서니 맥그레거 (Conor Anthony McGregor)는 부서가 싸운 것보다 더 많은 별명을 가지고 있습니다.,C
+GW0,T450,코너 맥그리거는 3 개의 다른 무게 부서에서 싸웠다.,E
+GW0,T450,코너 맥그리거는 2008년부터 매년 벨트를 지키고 있다.,N
+GW0,T450,코너 맥그리거 (Conor McGregor)의 권투 코치는 또한 MMA에서 그의 주요 코치입니다.,C
+GW33,T473,"chrisbrownworld.com은 Chris Brown의 공식 웹 사이트이며, 그는 싱어, 래퍼, 노래 작가, 댄스, R 배우, 레코드 프로듀서입니다.",E
+GW33,T473,크리스토퍼 모리스 브라운은 그의 음악 경력에서 많은 상을 받았습니다.,N
+GW33,T473,크리스토퍼 모리스 브라운(Christopher Maurice Brown)은 미국 배우가 아니다.,C
+GW28,T473,‘크리스 브라운’은 미국의 뮤지션이다.,E
+GW28,T473,‘크리스 브라운’은 아프리카계 미국인이다.,N
+GW28,T473,크리스 브라운은 20대에 뮤지션으로 활동했다.,C
+GW4,T473,‘크리스 브라운’은 16살 때 유명해졌다.,E
+GW4,T473,음악가 크리스 브라운은 이전에 Big Sean과 함께 노래를 녹음했습니다.,N
+GW4,T473,래퍼 크리스 브라운은 그의 음악에 대한 상을 결코 수상하지 않았습니다.,C
+GW28,T474,Cusco는 소규모 인구가있는 도시입니다,E
+GW28,T474,Cusco는 안데스에있는 도시입니다.,N
+GW28,T474,Cusco는 2015 년부터 인구가 줄어들었습니다.,C
+GW4,T474,"Cusco의 인구는 400,000 명 이상입니다.",E
+GW4,T474,Cusco의 인구 밀도가 증가하고 있습니다.,N
+GW4,T474,Cusco는 일광 절약 시간을 위해 시계를 변경합니다.,C
+GW30,T474,Cusco는 500만 명 미만의 총 인구를 가지고 있으며 거기에서 온 사람들은 cuzque-o로 알려져 있습니다.,E
+GW30,T474,Cusco는 Inuit 사람들이 평범한 옷을 입고 살 수있는 매우 추운 장소입니다.,N
+GW30,T474,Cusco는 3 백만 명이 넘는 인구와 높은 밀도를 가지고 있습니다.,C
+GW28,T476,Corduroy는 오랫동안 살았던 동물이었다.,E
+GW28,T476,Corduroy는 인생의 끝에 많은 의료 합병증을 겪었습니다.,N
+GW28,T476,Corduroy는 3 개의 다른 수십 년 동안 살았습니다.,C
+GW27,T476,Corduroy는 남성 Felis domesticus 이었다.,E
+GW27,T476,Ashley Reed Okura는 가장 오래된 살아있는 고양이가 된 것을 채택했습니다.,N
+GW27,T476,"Corduroy, 남성 Felis domesticus는 다른 주에서 태어나고 죽었습니다.",C
+GW14,T476,Corduroy고양이는 인간의 나이에 27 세 이상이었다.,E
+GW14,T476,Ashley Okura는 현재 오레곤에 거주하고 있습니다.,N
+GW14,T476,Corduroy고양이는 새끼 고양이 한 마리를 낳을 수있었습니다.,C
+GW51,T518,ClariS는 일본 호카이도 출신의 J-Pop 밴드입니다.,E
+GW51,T518,ClariS는 처음으로 한국에서 팝 음악으로 유명해졌습니다.,N
+GW51,T518,ClariS는 원래 서울 한국에서 왔으며 20 년 동안 활동 해 왔습니다.,C
+GW33,T518,ClariS의 공식 웹사이트는 www.clarismusic.jp,E
+GW33,T518,ClariS는 2009 년에 자신의 경력을 시작했습니다.,N
+GW33,T518,ClariS는 2009 년에 태어났습니다,C
+GW28,T518,클라리스(ClariS)는 일본의 음악 그룹이다.,E
+GW28,T518,ClariS는 세 명의 가족 구성원으로 구성됩니다.,N
+GW28,T518,ClariS는 20 주년을 축하합니다.,C
+GW33,T537,Cradle of Filth는 1991 년부터 열리고 활성화되었습니다.,E
+GW33,T537,"Cradle of Filth는 Suffolk, 영국, 영국에서 열립니다",N
+GW33,T537,Cradle of Filth는 1991 년에 폐쇄됩니다.,C
+GW51,T537,The Cradle of Fifth는 영국의 메탈 록 밴드이다.,E
+GW51,T537,The Cradle of Filth는 그들의 텍스트로 논란이있는 것으로 잘 알려져 있습니다.,N
+GW51,T537,The Cradle of Dirt는 1982 년에 설립 된 이래로 동일한 라벨 아래 머물 수있었습니다.,C
+GW28,T537,‘Cradle of Filth’는 영국의 메탈 밴드이다.,E
+GW28,T537,Cradle of Filth는 음악으로 많은 상을 수상했습니다.,N
+GW28,T537,Cradle of Filth는 30 년 전에 그들을 서명 한 원래 레이블에 충실했습니다.,C
+GW27,T542,Citation의 시어는 Bull Lea였고 그 Grandsire는 Bull Dog였습니다.,E
+GW27,T542,신문은 같은 세기에 실패하고 사망했다.,N
+GW27,T542,Citation에는 동일한 수의 코치와 소유자가있었습니다.,C
+GW28,T542,Citation는 미국의 경마마였다.,E
+GW28,T542,신문은 마침내 스튜드에 갔던 남성 경주 말이었다.,N
+GW28,T542,신문은 알 수없는 부모의 야생에서 태어났다.,C
+GW51,T542,“Citation”는 미국의 스탈리온이다.,E
+GW51,T542,Citation의 이름은 주인이 하루 전에 주차장을 가져 오는 직전에 주차 인용서를 받았을 때 영감을 받았습니다.,N
+GW51,T542,Citation은 코치 로스 페로 (Ross Perot)의 지배하에 경주 경력 동안 한 번도 경주를 잃지 않았다.,C
+GW51,T562,Definitely Maybe는 1994년 발매된 록 앨범이다.,E
+GW51,T562,"Oasis는 Definitely Maybe를 만든, 제작하고 발매한 밴드입니다.",N
+GW51,T562,Definitely Maybe는 Oasis의 전체 앨범에서 1 시간 이상 실행되는 유일한 앨범입니다.,C
+GW28,T562,Definitely Maybe는 2 년 동안 녹음되고 발매 된 음악 앨범입니다.,E
+GW28,T562,Definitely Maybe는 모든 게스트 가수와 함께하는 앨범입니다.,N
+GW28,T562,Definitely Maybe는 이전에 들리지 않은 실험적인 소리였다.,C
+GW12,T562,‘아마도’는 25년 전 출간됐다.,E
+GW12,T562,마크 코일은 Sawmills 스튜디오에서 Definitely Maybe를 제작하는 데 도움을 주었다.,N
+GW12,T562,Definitely Maybe는 1993년 봄에 녹음되었다.,C
+GW51,T565,더비는 의회가있는 도시입니다.,E
+GW51,T565,Derby는 영국에 존재하는 작은 도시입니다.,N
+GW51,T565,더비는 1 개의 MP 대표와 진보적 인 임원이 있습니다.,C
+GW28,T565,더비는 의회의 회원들이 이끄는 도시입니다.,E
+GW28,T565,‘더비’는 영국의 도시다.,N
+GW28,T565,‘더비’는 노동당의 요새다.,C
+GW27,T565,Derby는 시의회와 함께 통일 된 권한입니다.,E
+GW27,T565,더비시의회는 리더와 정부를 임명합니다.,N
+GW27,T565,더비시의 의원들은 모두 같은 정치당 출신입니다.,C
+GW0,T582,Darkest Hour는 두 명의 다른 사람들에 의해 작성되고 감독되었습니다.,E
+GW0,T582,어두운 시간은 조 라이트의 가장 성공적인 영화였다.,N
+GW0,T582,Darkest Hour는 미국 이전에 영국에서 발매되었습니다.,C
+GW28,T582,Darkest Hour는 미국-영국 영화 제작이다.,E
+GW28,T582,‘Darkest Hour’는 액션 영화다.,N
+GW28,T582,‘Darkest Hour’는 영국에서 처음으로 출연했다.,C
+GW51,T582,Darkest Hour는 2017 년 9 월에 출시 된 영화이며 게리 올드만이 주연합니다.,E
+GW51,T582,게리 올드먼 (Gary Oldman)은 Darkest Hour에서 가장 좋은 배우로 오스카를 수상했다.,N
+GW51,T582,Darkest Hour는 처음으로 미국에서 촬영되기 전에 영국에서 발매되었습니다.,C
+GW51,T586,Circe Offering the Cup to Ulysses는 갤러리 올드햄에 매달려있는 기름 그림입니다.,E
+GW51,T586,존 윌리엄 워터하우스 (John William Waterhouse)는 Circe Offering the Cup to Ulysses라는 그림을 그린 후 다시는 가면에 기름을 사용하지 않을 것입니다.,N
+GW51,T586,Circe Offering the Cup to Ulysses는 1 세기 전에 사라졌으며 위치는 알려지지 않습니다.,C
+GW53,T586,존 워터하우스 (John Waterhouse)는 1891 년에이 예술을 그렸습니다.,E
+GW53,T586,John Waterhouse는 Gallery Oldham에서 예술 작품을 보유하고 있습니다.,N
+GW53,T586,Circe Offering the Cup to Ulysses는 1900 년에 그려졌습니다.,C
+GW28,T586,Circe Offering the Cup to Ulysses는 19세기 예술 작품입니다.,E
+GW28,T586,Circe Offering the Cup to Ulysses가 완성되기까지 한 달이 걸렸다.,N
+GW28,T586,Circe Offering the Cup to Ulysses는 교회의 천장에 벽화입니다.,C
+GW0,T595,Despicable Me는 광범위하게 출시되기 몇 주 전에 MIFF에서 시청되었습니다.,E
+GW0,T595,Pharrell Williams는 Despicable Me에 대한 새로운 힙합 노래를 녹음했습니다.,N
+GW0,T595,Despicable Me는 원래 예산보다 500 만 달러 이상을 모금했습니다.,C
+GW51,T595,Despicable Me는 피에르 코핀과 크리스 레노드가 감독한 영화다.,E
+GW51,T595,Despicable Me는 스티브 캐렐이 영화에서 처음으로 연출한 음성 역할이었다.,N
+GW51,T595,Despicable Me는 2009 년 프랑스 극장에 Dreamworks에 의해 처음 출시되었습니다.,C
+GW28,T595,Despicable Me는 잘 알려진 배우가있는 할리우드 영화였습니다.,E
+GW28,T595,Despicable Me는 애니메이션 영화,N
+GW28,T595,‘Despicable Me’는 박스 오피스 플로프였다.,C
+GW28,T604,시가는 그의 경력에서 수백만 달러를 벌어온 미국의 레이싱 말이었다.,E
+GW28,T604,시가는 경쟁적 인 경주 말을 뽑기 위해 계속되었습니다.,N
+GW28,T604,‘시가’는 야생에서 태어났다.,C
+GW33,T604,Cigar는 Madeleine A. Paulson과 Allen E. Paulson이 소유하고 있습니다.,E
+GW33,T604,"시가르의 평생 수익은 $ 9,999,815 이상입니다.",N
+GW33,T604,‘시가’는 2014년 10월 7일에 태어났다,C
+GW0,T604,시가르는 경력에서 10 백만 달러 미만을 벌었습니다.,E
+GW0,T604,결혼한 커플이 담배를 소유하고 있다.,N
+GW0,T604,‘시가’는 25살까지 살았다.,C
+GW27,T622,런던 시티(City of London) 회사를 대표하는 시장은 피터 에스틀린이다.,E
+GW27,T622,Lord Mayor와 City of London Corporation의 Town Clerk는 같은 정치당에 속한다.,N
+GW27,T622,도시 런던회사는 런던 의회와 영국 의회에서 동일한 정치당에 의해 대표된다.,C
+GW51,T622,런던 시티(City of London)의 시장은 피터 에스틀린(Peter Estlin)이다.,E
+GW51,T622,London City의 대표 인 Mark Field은 유명한 영국 올림픽 선수입니다.,N
+GW51,T622,런던 시티에는 4명의 다른 시장이 있다.,C
+GW28,T622,City of London은 통합 된 단체입니다.,E
+GW28,T622,City of London는 런던 대도시 지역 내에 있습니다.,N
+GW28,T622,London City는 더 큰 지배 기관에 대표가 없습니다.,C
+GW0,T628,데이브 매튜스 밴드(Dave Matthews Band)는 25년 넘게 음악을 연주해왔다.,E
+GW0,T628,데이브 매튜스 밴드 (Dave Matthews Band)는 1990 년대에 펄  (Pearl Jam)에 개장했습니다.,N
+GW0,T628,Dave Matthews Band는 버지니아 주 수도에서 형성되었습니다.,C
+GW28,T628,데이브 매튜스 밴드(Dave Matthews Band)는 미국의 밴드이다.,E
+GW28,T628,데이브 매튜스 밴드는 5 명의 대학 룸메이트로 구성됩니다.,N
+GW28,T628,데이브 매튜스 밴드(Dave Matthews Band)는 수십 년 동안 존재해 왔습니다.,C
+GW51,T628,DMB는 버지니아에서 시작한 록 밴드입니다.,E
+GW51,T628,Dave Matthews Band의 주인공은 남아프리카 출신입니다.,N
+GW51,T628,Dave Matthews Band는 Eminem과 함께 랩 노래로 가장 유명합니다.,C
+GW0,T671,‘Diamond Dogs’는 1974년 봄에 출간됐다.,E
+GW0,T671,‘Diamond Dogs’는 보위가 녹음한 가장 짧은 앨범이다.,N
+GW0,T671,데이비드 보위는 북미에서 다이아몬드 개 (Diamond Dogs)를 녹음했다.,C
+GW28,T671,Diamond Dogs는 1 년 이내에 녹음되고 출시되었습니다.,E
+GW28,T671,Diamond Dogs는 자신의 노래로 수많은 상을 수상했습니다.,N
+GW28,T671,Diamond Dogs는 미국과 아시아에서 녹음되었습니다.,C
+GW51,T671,‘Diamond Dogs’는 1974년 발매된 록 앨범이다.,E
+GW51,T671,Diamond Dogs는 데이비드 보위의 이전 앨범 중 하나였다.,N
+GW51,T671,Diamond Dogs는 Atlantic Records에 의해 수년간 많은 세션에서 녹음되었습니다.,C
+GW51,T707,데이브 그롤(Dave Grohl)은 미국의 유명한 록 뮤지션이다.,E
+GW51,T707,Dave Grohl는 Nirvana 밴드의 음악가로서의 역할으로 가장 잘 알려져 있습니다.,N
+GW51,T707,데이브 그로 (Dave Grohl)는 아리아나 그란데 (Ariana Grande)와의 헤어짐 후 1990 년에 음악에서 은퇴했습니다.,C
+GW0,T707,데이브 그롤(Dave Grohl)은 30년 넘게 음악을 연주해왔다.,E
+GW0,T707,데이브 그로 (Dave Grohl)는 Scream 밴드를 시작했습니다.,N
+GW0,T707,데이브 그로는 그가 태어난 동일한 상태에서 그의 음악적 시작을 얻었다.,C
+GW28,T707,데이브 그로(Dave Grohl)는 미국의 뮤지션이다.,E
+GW28,T707,데이브 그로 홀은 자신의 음악을 모두 썼다.,N
+GW28,T707,데이브 그롤은 20대 이후로 활발하게 활동하고 있다.,C
+GW6,T722,벨기에에서 유래한 감자 소다.,E
+GW6,T722,Coca-Cola Light Sango를 제조하는 회사는 본국에 위치하고 있습니다.,N
+GW6,T722,코카콜라 라이트 샌고는 소규모 회사에 의해 제조됩니다.,C
+GW51,T722,코카콜라 라이트 샌고(Coca-Cola Light Sango)는 벨기에의 오렌지 콜라입니다.,E
+GW51,T722,Light Sango는 그것이 도입 된 후에 가장 잘 팔리는 오렌지 소다로 Crush를 신속하게 채택했습니다.,N
+GW51,T722,코카콜라 라이트 샌고(Coca-Cola Light Sango)는 20년 전 벨기에에서 소개되었습니다.,C
+GW28,T722,코카콜라 라이트 샌고(Coca-Cola Light Sango)는 벨기에-미국 음료입니다.,E
+GW28,T722,Coca-Cola Light Sango는 벨기에에서 인기있는 오렌지 맛의 탄산 음료입니다.,N
+GW28,T722,‘코카콜라 라이트 샌고’는 10년이 지났다.,C
+GW51,T730,데이비드 캐시디(David Cassidy)는 평생 세 명의 아내를 가진 배우이자 가수였다.,E
+GW51,T730,카시디는 5살 때 처음으로 음악을 쓰기 시작했다.,N
+GW51,T730,카시디는 같은 10 년 동안 세 명의 여성과 결혼하고 이혼했습니다.,C
+GW4,T730,David Cassidy는 원래 큰 도시에서 왔습니다.,E
+GW4,T730,David Cassidy는 첫 번째 아내와 함께 두 자녀를 가졌습니다.,N
+GW4,T730,David Cassidy는 다른 유명한 가족 구성원이 없습니다.,C
+GW28,T730,데이비드 캐시디는 미국의 엔터테인먼트 작가였다.,E
+GW28,T730,David Cassidy는 그의 음악에 대해 많은 상을 수상했습니다.,N
+GW28,T730,David Cassidy는 그의 20 년대에 그의 경력을 시작했다.,C
+GW14,T735,Die Another Day는 미국에서 발매하기 1 주일 전에 영국에서 발매되었습니다.,E
+GW14,T735,Die Another Day는 영국보다 미국의 상점에서 더 많은 것을 만들었습니다.,N
+GW14,T735,‘다른 날 죽어라’는 같은 여성이 쓴 작품이다.,C
+GW51,T735,Die Another Day는 Pierce Brosnan이 주연하는 제임스 본드 영화입니다.,E
+GW51,T735,Pierce Brosnan은 그의 경력 동안 총 3 번 제임스 본드를 묘사했습니다.,N
+GW51,T735,Die Another Day는 예산보다 약 10 백만 달러의 이익을 창출 할 수있었습니다.,C
+GW28,T735,‘다른 날 죽는다’는 영국-미국 할리우드 영화이다.,E
+GW28,T735,Die Another Day는 제임스 본드 프랜차이즈의 일부입니다.,N
+GW28,T735,Die Another Day는 영국과 미국 모두에서 동시에 개봉했다.,C
+GW2,T736,크로아티아어는 자그레브가 수도인 국가의 공식 언어입니다.,E
+GW2,T736,Kolinda Grabar-Kitarovi_는 크로아티아 공화국의 대통령이며 기독교인으로 식별합니다.,N
+GW2,T736,크로아티아 공화국의 기독교인들은 모두 크로아티아인이다.,C
+GW28,T736,크로아티아 공화국은 다국적이고 다종교적인 유럽 국가입니다.,E
+GW28,T736,크로아티아 공화국은 이전 소련의 국가입니다.,N
+GW28,T736,크로아티아 공화국은 동유럽의 땅에 갇힌 국가입니다.,C
+GW27,T736,크로아티아 인구의 90.42%가 크로아티아인이다.,E
+GW27,T736,크로아티아의 무슬림은 주로 세르비아인이다.,N
+GW27,T736,크로아티아에서는 무슬림이 세르비아인들보다 더 많다.,C
+GW28,T739,데이비드 크로스 (David Cross)는 미국의 엔터테인먼트 배우이다.,E
+GW28,T739,David Cross는 그의 TV 역할으로 유명한 배우입니다.,N
+GW28,T739,David Cross는 그의 십대 시절에 그의 경력을 시작했습니다.,C
+GW14,T739,데이비드 크로스는 세기 전부터 코미디에서 활동하고있다.,E
+GW14,T739,Amber Tamblyn은 sitcom의 세트에서 David Cross를 만났습니다.,N
+GW14,T739,데이비드 크로스는 그가 태어난 동일한 주에서 사망했다.,C
+GW2,T739,데이비드 크로스(David Cross)는 미국의 배우이다.,E
+GW2,T739,David Cross는 파티에서 아내 Amber Tamblyn을 만났습니다.,N
+GW2,T739,David Cross는 25 년 동안 코미디언으로 일했습니다.,C
+GW4,T740,크로아티아 공화국은 유럽 연합의 일부입니다.,E
+GW4,T740,크로아티아는 소련의 일부였다.,N
+GW4,T740,크로아티아 공화국은 결코 해스부르크에 합류하지 않았다.,C
+GW2,T740,크로아티아 공화국은 이전에 헝가리와 연합을 가졌지만 그 이후로 분리되었습니다.,E
+GW2,T740,크로아티아 공화국은 EU에 가입한 세 번째로 오래된 국가입니다.,N
+GW2,T740,크로아티아 공화국은 북아프리카에 위치하고 있습니다.,C
+GW51,T740,크로아티아는 7 세기에 거슬러 올라가는 공화국입니다.,E
+GW51,T740,크로아티아는 스웨덴만큼 많은 해안선을 가지고 있습니다.,N
+GW51,T740,크로아티아는 수십 년 동안 유럽 연합 (EU)의 일부였습니다.,C
+GW0,T742,Crooked Teeth는 남부 캘리포니아에서 녹음되었습니다.,E
+GW0,T742,Crooked Teeth는 Colin Brittain의 첫 번째 생산 크레딧이었습니다.,N
+GW0,T742,Crooked Teeth는 여러 레코드 레이블에 출시되었습니다.,C
+GW4,T742,앨범 Crooked Teeth은 미국에서 제작되었습니다.,E
+GW4,T742,앨범 Crooked Teeth을 만드는 데 1년이 걸렸다.,N
+GW4,T742,앨범 Crooked Teeth에는 프로듀서가 하나밖에 없었다.,C
+GW51,T742,Crooked Teeth는 2017년 RAS가 제작한 하드 록 앨범이다.,E
+GW51,T742,Crooked Teeth는 Crooked Eye와 Nine Inch Nails의 협력 작품이다.,N
+GW51,T742,Crooked Teeth는 RAS가 제작한 가장 짧은 앨범으로 1시간이 넘는 실행 시간을 보냈다.,C
+GW4,T747,David Edward Hughes는 마이크를 개발하는 데 도움이되었습니다.,E
+GW4,T747,데이비드 에드워드 휴즈는 평생 런던에서만 살았다.,N
+GW4,T747,David Edward Hughes는 전구를 만드는 데 도움이되었습니다.,C
+GW51,T747,데이비드 에드워드 휴즈(David Edward Hughes)는 1800년대 영국의 발명가이다.,E
+GW51,T747,Hughes는 현대 마이크를 발명했습니다.,N
+GW51,T747,Hughes는 그의 50 년대에 암으로 사망했습니다.,C
+GW14,T747,데이비드 에드워드 휴즈는 반세기 이상 살고 있습니다.,E
+GW14,T747,David Edward Hughes는 한동안 미국에서 살았습니다.,N
+GW14,T747,데이비드 에드워드 휴즈 (David Edward Hughes)는 그가 죽은 동일한 도시에서 태어났다.,C
+GW14,T748,월트 디즈니 스튜디오는 최소한 하나의 다른 스튜디오와 함께 생산을 공유했습니다.,E
+GW14,T748,미국에서는 모렐리아보다 ‘코코’를 더 많이 봤다.,N
+GW14,T748,Jason Katz는 Steve Bloom과 함께 Coco의 시나리오를 공동 작성했습니다.,C
+GW51,T748,‘코코’는 8억 달러 이상을 벌어온 디즈니 영화다.,E
+GW51,T748,Coco는 중앙 아메리카 축제 Dia de los Muertos를 중심으로 한 영화입니다.,N
+GW51,T748,코코는 제작에 2억 달러 이상의 비용을 지불한 유일한 디즈니 애니메이션 영화이다.,C
+GW0,T748,Coco는 2017 년 가을에 축제에서 데뷔했습니다.,E
+GW0,T748,Lee Unkrich는 주요 스타들에게 Coco의 이야기를 공동 작성하는 데 도움을 요청했습니다.,N
+GW0,T748,코코는 작은 독립적 인 애니메이션 스튜디오 커플에 의해 제작되었습니다.,C
+GW28,T750,데이비드 포스터는 캐나다의 뮤지션이다.,E
+GW28,T750,David Foster는 그의 음악에 대해 수많은 상을 수상했습니다.,N
+GW28,T750,David Foster는 그의 십대 때 그의 경력을 시작했습니다.,C
+GW4,T750,음악가 David Foster는 70 년대부터 앨범을 만들고 있습니다.,E
+GW4,T750,데이비드 포스터는 다른 모든 악기보다 먼저 피아노를 연주하는 법을 배웠습니다.,N
+GW4,T750,데이비드 포스터는 18살 때 공연을 시작했다.,C
+GW51,T750,David Foster는 40 년 이상 음악에서 활동 한 음악가입니다.,E
+GW51,T750,"포스터는 지구, 바람, 불을 위한 피아노와 뿔을 연주하는 것으로 유명하다.",N
+GW51,T750,포스터는 1990년대에 음악에서 은퇴했다.,C
+GW2,T754,Crowded House는 캐피톨에서 녹음 한 호주 출신의 밴드입니다.,E
+GW2,T754,Crowded House는 2012 년에 ATO 라벨에 앨범을 발표했습니다.,N
+GW2,T754,Crowded House는 북반구의 록 밴드입니다.,C
+GW51,T754,Crowded House는 오스트레일리아 출신의 록과 팝 밴드입니다.,E
+GW51,T754,Crowded House라는 이름은 밴드가 처음으로 웃기게 포장 된 형집에서 공연했을 때 유래했습니다.,N
+GW51,T754,Crowded House는 40 년 이상 그룹으로 함께 왔습니다.,C
+GW4,T754,밴드 Crowded House는 두 레이블에 있었다.,E
+GW4,T754,밴드 Crowded House는 한 번 이상 헤어졌습니다.,N
+GW4,T754,밴드 ‘Crowded House’는 미국 출신이다.,C
+GW51,T755,Coda는 Jimmy Page가 제작한 록 롤 앨범이다.,E
+GW51,T755,Coda는 Jimmy Page의 첫 번째 솔로 앨범이었습니다.,N
+GW51,T755,‘코다’는 녹음하기까지 약 2년이 걸렸다.,C
+GW28,T755,코다(Coda)는 수십 년간 영국의 뮤지컬 활동이었다.,E
+GW28,T755,Coda는 Led Zeppelin의 사용되지 않은 트랙의 컬렉션이었다.,N
+GW28,T755,"Coda는 한 시간 길이의 멀티 장르, 멀티 언어 음악 앨범이었다.",C
+GW4,T755,앨범 ‘코다’는 10년이 넘는 시간이 걸렸다.,E
+GW4,T755,앨범 코다는 대부분 솔 스튜디오에서 녹음되었다.,N
+GW4,T755,앨범 Coda은 1 시간 이상 지속됩니다.,C
+GW6,T756,David Gilmour는 십대 때부터 활동적이었습니다.,E
+GW6,T756,폴리 샘슨 (Polly Samson)은 8 명의 자녀가 있습니다.,N
+GW6,T756,David Gilmour는 은퇴 후 이혼했습니다.,C
+GW0,T756,David Gilmour는 적어도 12 개의 레코드 레이블에 서명했습니다.,E
+GW0,T756,David Gilmour는 아직도 고향에 살고 있습니다.,N
+GW0,T756,David Gilmour는 음악가가되기 전에 Polly Samson과 결혼했습니다.,C
+GW14,T756,David Gilmour는 북반구에서 태어났다.,E
+GW14,T756,David Gilmour는 다른 누구보다도 소니 라벨을 통해 더 많은 음악을 발표했습니다.,N
+GW14,T756,David Gilmour는 3 번 이상 결혼했습니다.,C
+GW51,T773,Crush는 Dr Pepper와 Keurig가 제조 한 부드러운 음료입니다.,E
+GW51,T773,Crush는 세계에서 가장 잘 팔리는 오렌지 향유 소다입니다.,N
+GW51,T773,Crush는 영국에서 Sainsbury에 의해 배포되고 제조 된 후 미국에 도입되었습니다.,C
+GW4,T773,음료 Crush는 100 년 이상 존재합니다.,E
+GW4,T773,음료 Crush는 항상 동일한 회사의 소유자였습니다.,N
+GW4,T773,음료 Crush는 원래 독일에서 만들어졌습니다.,C
+GW6,T773,Crush는 20 세기 초부터 주변에있다.,E
+GW6,T773,Crush와 Fanta는 모두 북아메리카 출신입니다.,N
+GW6,T773,Crush는 서구 반구의 모든 국가에서 동일한 유통 업체를 보유하고 있습니다.,C
+GW51,T780,Crystal Harris는 The Girls Next Door의 역할으로 알려진 TV 인물입니다.,E
+GW51,T780,크리스탈 해리스는 캘리포니아의 만화 콘 이벤트에서 Hugh Hefner에 의해 발견되었습니다.,N
+GW51,T780,해리스는 거의 40 년 동안 플레이보이와 관련이있었습니다.,C
+GW2,T780,2009년 12월 Playboy Playmate of the Month는 Hugh Hefner와 결혼했다.,E
+GW2,T780,2013년 휴 헤프너의 아내였던 여성은 샌디에고 주립 대학에서 예술을 공부했다.,N
+GW2,T780,Hugh Hefner는 2012 년에 결혼 한 여성보다 젊었습니다.,C
+GW28,T780,크리스탈 해리스(Crystal Harris)는 미국의 여성 엔터테인먼트 배우이다.,E
+GW28,T780,크리스탈 해리스(Crystal Harris)는 Hugh Hefner의 가장 좋아하는 아내였다.,N
+GW28,T780,크리스탈 해리스는 십대 때 Hugh Hefner와 결혼했다.,C
+GW14,T783,Crystal Light 브랜드는 온라인 존재를 가지고 있습니다.,E
+GW14,T783,Kraft Foods는 다양한 브랜드의 향기로운 물을 제조합니다.,N
+GW14,T783,Crystal Light은 단일 색상으로 제공됩니다.,C
+GW51,T783,Crystal Light는 Kraft Foods 브랜드의 향기로운 물입니다.,E
+GW51,T783,크리스탈 라이트는 라 크로이스가 자신의 스프링 워터를 만드는 영감을 불어넣었다.,N
+GW51,T783,크리스탈 라이트는 70 년대 후반에 소개되었습니다.,C
+GW4,T783,‘크리스탈 라이트’는 1980년대에 나왔다.,E
+GW4,T783,음료 크리스탈 라이트는 미국에서 나왔습니다.,N
+GW4,T783,음료 크리스탈 라이트는 밝은 색상 만 제공됩니다.,C
+GW28,T795,‘골리아트의 머리와 함께하는 다윗’은 17세기 이탈리아의 예술 작품이다.,E
+GW28,T795,‘골리아트의 머리와 함께하는 다윗’은 카라바지오의 마지막 그림이다.,N
+GW28,T795,‘골리아트의 머리와 함께하는 다윗’은 평균적인 사람보다 더 큰 그림이다.,C
+GW51,T795,다윗과 골리아트의 머리 (David with the Head of Goliath)는 카라바지오가 만든 기름 그림이다.,E
+GW51,T795,카라바지오는 예술가로서의 경력 전체에서 두 장의 그림만을 그렸습니다.,N
+GW51,T795,‘골리아트의 머리와 함께하는 다윗’은 1600년대 후반에 완성되었다.,C
+GW2,T795,다윗과 골리아트의 머리는 프랑스에 위치한 기름 그림입니다.,E
+GW2,T795,골리아트의 머리를 가진 다윗은 Kunsthistorisches Museum에서 가장 인기있는 그림입니다.,N
+GW2,T795,카라바지오는 “골리아트의 머리를 가진 다윗”을 페인팅했다.,C
+GW51,T798,Colin Kaepernick는 미국 중서부 출신의 NFL 축구 선수입니다.,E
+GW51,T798,Kaepernick는 원래 샌프란시스코 49ers에 의해 설계되었습니다.,N
+GW51,T798,Kaepernick은 6 피트 높이의 그림자에 불과합니다.,C
+GW28,T798,콜린 Kaepernick은 평균보다 높은 미국인입니다.,E
+GW28,T798,Colin Kaepernick는 논란의 여지가있는 스포츠 인물입니다.,N
+GW28,T798,콜린 카페니크는 현재 샌프란시스코 49저스(San Francisco 49ers)를 대표한다.,C
+GW4,T798,콜린 Kaepernick은 킬로그램보다 센티미터 더 니다.,E
+GW4,T798,Colin Kaepernick은 항상 위스콘신에 살았습니다.,N
+GW4,T798,Colin Kaepernick은 1990년 이후에 태어났다.,C
+GW4,T812,Cura’ao의 나라에는 여전히 왕이 그것을 이끌고 있습니다.,E
+GW4,T812,쿠라아오 국가는 하나 이상의 공식 언어를 가지고 있습니다.,N
+GW4,T812,쿠라오의 나라에는 수도가 없습니다.,C
+GW2,T812,"쿠라아오 국가는 3개의 공식 언어를 가지고 있으며, 왕권도 있다.",E
+GW2,T812,Curacao의 국가는 40 백만 명의 인구를 가지고 있습니다.,N
+GW2,T812,Curacao의 주지사는 Eugene Rhuggenaath입니다.,C
+GW28,T812,Country of Curaʻao는 남아메리카 근처의 섬 국가입니다.,E
+GW28,T812,쿠라아오 땅은 네덜란드인들에 의해 식민지화되었다.,N
+GW28,T812,Curacao의 국가는 멕시코 골프에 위치하고 있습니다.,C
+GW51,T817,콜로라도 스프링스 (Colorado Springs)는 콜로라도 주에 위치한 도시는 해수면에서 1 마일 이상 높습니다.,E
+GW51,T817,콜로라도 스프링스 (Colorado Springs)는 콜로라도 주립 대학의 고향입니다.,N
+GW51,T817,콜로라도 스프링스 (Colorado Springs)의 가장 낮은 지점은 해수면 아래에 있습니다.,C
+GW4,T817,"Colorado Springs, Colorado는 모든 위치에서 1 마일 이상 높습니다.",E
+GW4,T817,"Colorado Springs, Colorado에는 많은 산이 있습니다.",N
+GW4,T817,"Colorado Springs, Colorado는 크기가 100 평방 마일 미만입니다.",C
+GW28,T817,"Colorado Springs, Colorado는 바다에서 멀리 떨어져 있습니다.",E
+GW28,T817,"콜로라도 스프링스(Colorado Springs, Colorado)는 미국에서 가장 높은 도시이다.",N
+GW28,T817,"콜로라도 스프링스, 콜로라도는 내구성 운동 선수를위한 나쁜 훈련 장소입니다.",C
+GW51,T818,Coloring Book는 2016년 중순에 발매된 힙합 앨범이다.,E
+GW51,T818,Coloring Book는 Chance the Rapper의 데뷔 스튜디오 앨범이다.,N
+GW51,T818,Coloring Book은 2016 년 말에 출시되기 전에 3 개의 다른 사람들에 의해 제작되었습니다.,C
+GW28,T818,Coloring Book는 라벨이없는 독립적 인 힙합 앨범입니다.,E
+GW28,T818,Coloring Book에는 3개의 Kanye West 트랙이 있습니다.,N
+GW28,T818,Coloring Book는 클래식 음악 컬렉션입니다.,C
+GW4,T818,앨범 Coloring Book은 2016 년 봄에 나왔다.,E
+GW4,T818,앨범 Coloring Book은 어떤 라벨없이 출판되었습니다.,N
+GW4,T818,앨범 ‘Coloring Book’에는 단 한 명의 프로듀서만 있었다.,C
+GW6,T820,Colossal은 같은 사람에 의해 작성되고 감독되었습니다.,E
+GW6,T820,콜로사일은 주로 스페인에서 촬영되었다.,N
+GW6,T820,Colossal는 박스 오피스에서 예산을 되찾은 것보다 더 많은 돈을 벌었습니다.,C
+GW51,T820,Colossal는 2016 년 Anne Hathaway와 Jason Sudekis의 주연 영화입니다.,E
+GW51,T820,"Colossal은 영화, Cloverfield의 연속입니다.",N
+GW51,T820,Colossal은 Anne Hathaway에 의해 제작되고 감독되었습니다.,C
+GW4,T820,영화 Colossal은 같은 사람에 의해 작성되고 감독되었습니다.,E
+GW4,T820,영화 Colossal은 여러 상을 수상했다.,N
+GW4,T820,영화 Colossal은 극장에서 순수한 이익을 얻었습니다.,C
+GW14,T824,Combat Rock는 마지막 녹음 세션이 끝난 지 한 달 만에 마침내 출시되었습니다.,E
+GW14,T824,한 시간 안에 ‘전투 록’을 들을 수 있다.,N
+GW14,T824,Combat Rock는 영국에서 완전히 녹음되었습니다.,C
+GW51,T824,Combat Rock는 1980년대에 발매된 뉴 웨이브/펑크 앨범이다.,E
+GW51,T824,‘Combat Rock’는 The Clash 역사상 가장 많이 팔린 앨범이다.,N
+GW51,T824,Combat Rock는 녹음과 제작에 4 년이 걸렸습니다.,C
+GW0,T824,Combat Rock은 1982 년 봄에 출시되었습니다.,E
+GW0,T824,CBS 레코드는 미국에서 Combat Rock를 발표했다.,N
+GW0,T824,Clash는 자신의 고향에서 완전히 Combat Rock을 녹음했습니다.,C
+GW51,T825,Combined Driving는 말 경주 이벤트 스타일입니다.,E
+GW51,T825,Combined Driving는 1900 년대 초반에 말로 끌린 차량에 의해 영감을 받았습니다.,N
+GW51,T825,Combined driving는 최첨단 실내 레이싱 트랙을 사용하는 것을 포함합니다.,C
+GW4,T825,결합 운전의 스포츠는 남성과 여성 모두가 수행 할 수 있습니다.,E
+GW4,T825,‘연합 운전’은 경주 말을 포함한다.,N
+GW4,T825,‘연합 운전’은 개별 스포츠다.,C
+GW28,T825,Combined Driving는 인간과 말을 짝짓는 조직된 스포츠입니다.,E
+GW28,T825,연합 운전은 올림픽 스포츠가 될 것으로 간주되고 있습니다.,N
+GW28,T825,연합 운전은 동물 때문에 폭력적인 스포츠가 될 수 있습니다.,C
+GW51,T826,Come On Over는 1997년 말에 발매된 캔디 록 앨범이다.,E
+GW51,T826,‘Come On Over’는 ‘Mutt’의 첫 스스로 제작한 앨범이다.,N
+GW51,T826,Come on Over는 90년대 초반에 4년 넘게 녹음한 제품이었다.,C
+GW28,T826,Come On Over는 2년 동안 녹음되고 발매된 앨범이다.,E
+GW28,T826,Come On Over는 멀티 장르뿐만 아니라 다국어 앨범입니다.,N
+GW28,T826,‘Come On Over’는 21세기 음악 앨범이다.,C
+GW4,T826,앨범 Come On Over을 만드는 데 1 년이 걸렸습니다.,E
+GW4,T826,앨범 Come On Over는 대부분 나시빌에서 녹음되었다.,N
+GW4,T826,앨범 Come On Over에는 여러 프로듀서가 있었다.,C
+GW4,T827,Commodores는 50 년 이상 연주하고 있습니다.,E
+GW4,T827,“Commodores”는 자신의 음악을 위해 상을 수상했습니다.,N
+GW4,T827,Commodores는 단 하나의 라벨에만 있었다.,C
+GW28,T827,Commodores는 미국의 음악 그룹이다.,E
+GW28,T827,Commodores는 4 명의 아프리카 계 미국인 회원으로 구성됩니다.,N
+GW28,T827,Commodores는 20 세기 중반부터 연주하고 있습니다.,C
+GW51,T827,The Commodores는 미국 앨라배마 출신의 펑크와 영혼 그룹입니다.,E
+GW51,T827,Commodores는 현대 랩에서 발견되는 많은 소리와 스타일로 인용됩니다.,N
+GW51,T827,Commodores는 창조적 인 차이로 인해 설립 된 지 약 9 년 후에 그룹으로 분리되었습니다.,C
+GW28,T830,코모로 연합 (Union of the Comoros)은 아프리카의 동부 해안에 위치한 섬입니다.,E
+GW28,T830,코모로 연합은 독립 국가입니다.,N
+GW28,T830,코모로스 연합은 다국적이고 다국적이며 다국적이다.,C
+GW4,T830,코모로 연합은 여러 언어를 사용합니다.,E
+GW4,T830,코모로 연합은 항상 이슬람을 따랐다.,N
+GW4,T830,코모로 연합에는 한 명의 부통령만 있다.,C
+GW51,T830,코모로 연합은 남반구의 주권 영토입니다.,E
+GW51,T830,코모로 연합은 아프가니스탄에 의해 통제됩니다.,N
+GW51,T830,코모로 연합 (Union of the Comoros)은 에콰도르 북쪽에서 발견 될 수 있습니다.,C
+GW4,T832,밴드 DAY6는 하나 이상의 라벨을 가지고있다.,E
+GW4,T832,밴드 DAY6는 이전에 JYP 국가와 함께 공연했다.,N
+GW4,T832,밴드 DAY6는 메탈 음악을 연주하는 것으로 알려져 있습니다.,C
+GW51,T832,DAY6는 약 4 년 동안 활동하고있는 한국의 K 팝 그룹입니다.,E
+GW51,T832,Day6의 이름은 트래비스 스콧의 앨범 Days before Rodeo에 대한 그들의 사랑에 의해 영감을 받았습니다.,N
+GW51,T832,DAY6는 힙합 음악을 그룹으로 7 년 이상 출시하고 있습니다.,C
+GW59,T832,Day6는 2015 년부터 음악 무대에서 활발하게 활동하고 있습니다.,E
+GW59,T832,워너 뮤직 일본은 Day6에 서명한 최초의 레이블이었습니다.,N
+GW59,T832,Day6는 하드 록 음악으로 유명합니다.,C
+GW6,T836,리처드 린클레이터는 Dazed and Confused에서 세 가지 역할을했다.,E
+GW6,T836,Dazed and Confused는 1993년 출연한 영화다.,N
+GW6,T836,Dazed and Confused는 비용보다 적은 돈을 벌었습니다.,C
+GW4,T836,영화 Dazed and Confused는 상점에서 수익을 창출 할 수있었습니다.,E
+GW4,T836,영화 Dazed and Confused는 상을 수상했다.,N
+GW4,T836,영화 Dazed and Confused는 두 개의 다른 사람들에 의해 작성되고 감독되었습니다.,C
+GW51,T836,Dazed and Confused는 리처드 린클레이터가 감독하고 쓴 90년대 초반의 영화이다.,E
+GW51,T836,Dazed and Confused는 Matthew McConaughey가 그의 첫 번째 영화 역할을했다.,N
+GW51,T836,Dazed and Confused는 박스 오피스 경주 동안 수익을 얻지 못했습니다.,C
+GW14,T841,Dead Poets Society는 20 세기에 출판되었습니다.,E
+GW14,T841,Buena Vista Pictures는 미국 이외의 국가에서 영화를 배포합니다.,N
+GW14,T841,Dead Poets Society는 상점에서 예산의 정확히 10 배를 벌었습니다.,C
+GW0,T841,Dead Poets Society는 창출 비용보다 상점에서 2 억 달러 이상을 벌었습니다.,E
+GW0,T841,피터 와이어 (Peter Weir)는 개인적으로 로빈 윌리엄스 (Robin Williams)를 죽은 시인 사회 (Dead Poets Society)의 주인공으로 고용했습니다.,N
+GW0,T841,Dead Poets Society는 1989 년 겨울에 발매되었습니다.,C
+GW51,T841,Dead Poets Society는 로빈 윌리엄스가 주연하는 80 년대 후반의 움직이는 영화입니다.,E
+GW51,T841,로빈 윌리엄스 (Robin Williams)는 Dead Poets Society에서 그의 역할을 위해 최고의 배우로 지명되었습니다.,N
+GW51,T841,Dead Poets Society는 로빈 윌리엄스가 감독하고 쓴 작품이다.,C
+GW51,T842,Dealpool 2는 Ryan Reynolds가 주연한 2018년 영화다.,E
+GW51,T842,‘Deadpool 2’는 2016년 영화 ‘Deadpool’의 연속작이다.,N
+GW51,T842,Deadlpool 2는 원래 Leicester Square에서 영국 프리미어를 하기 전에 미국에서 출시되었습니다.,C
+GW12,T842,Ryan Reynolds는 모두 Deadpool 2에서 작곡하고 주연했습니다.,E
+GW12,T842,20세기 폭스와 마블 엔터테인먼트는 Deadpool 2를 배포했다.,N
+GW12,T842,사이먼 킨버그는 Deadpool 2를 제작하고 감독했다.,C
+GW4,T842,영화 Deadpool 2는 6 억 달러 이상의 수익을 창출했다.,E
+GW4,T842,영화 Deadpool 2의 주인공은 Ryan Reynolds가있었습니다.,N
+GW4,T842,영화 Deadpool 2는 녹음에 여러 감독이있었습니다.,C
+GW12,T847,"웨인 카운티는 Dearborn, Michigan에 살고있는 주민들의 집입니다.",E
+GW12,T847,"처음 정착 된 이래로 Dearborn, Michigan이 도시가되기까지 거의 141 년이 걸렸다.",N
+GW12,T847,"Dearborn, Michigan은 거의 300 년 동안 정착되어 왔습니다.",C
+GW4,T847,"Dearborn, Michigan은 90 년 이상 도시입니다.",E
+GW4,T847,"Dearborn, Michigan은 항상 웨인 카운티의 일부였습니다.",N
+GW4,T847,"Dearborn, Michigan는 17 세기에 정착했습니다.",C
+GW28,T847,"Dearborn, Michigan는 미국의 도시입니다.",E
+GW28,T847,"Dearborn, Michigan는 미국의 녹색 벨트에 있는 산업 도시입니다.",N
+GW28,T847,"Dearborn, Michigan은 단지 30 년 만에 마을에서 도시로 성장했습니다.",C
+GW51,T849,Dear Zindagi는 Gauri Sinde가 감독하고 쓴 인도 영화입니다.,E
+GW51,T849,Dear Zindagi는 미국 영화 Dear John의 현대적인 적응입니다.,N
+GW51,T849,Dear Zindagi는 인도에서 처음 출시되었으며 2 일 후 미국에서 출시되었습니다.,C
+GW4,T849,Dar Zindagi는 전 세계보다 먼저 미국에서 나왔습니다.,E
+GW4,T849,Dear Zindagi는 Gauri Shinde에 의해 강하게 통제되었습니다.,N
+GW4,T849,영화 Dear Zindagi는 극장에서 수익을 창출하지 못한 영화였습니다.,C
+GW14,T849,Dar Zindagi는 실행 시간은 3 시간 미만입니다.,E
+GW14,T849,많은 힌두교 언어를 사용하지 않는 사람들은 Dear Zindagi라는 제목의 버전을 보았다.,N
+GW14,T849,Alia Bhatt는 Hemanti Sarkar와 함께 Dear Zindagi의 시나리오에 협력했습니다.,C
+GW14,T852,죽음의 증명서를 위해 일하는 생산자가 반십 명 미만이있었습니다.,E
+GW14,T852,Ice Cube는 Priority Records와 긴밀하게 협력했습니다.,N
+GW14,T852,죽음 증명서를 시작부터 끝까지 3시간 동안 4번 이상 들을 수 있습니다.,C
+GW51,T852,Death Certificate는 Ice Cube가 제작한 90년대 갱스타 힙합 앨범이다.,E
+GW51,T852,Ice Cube는 Death Certificate가 발표되기 전에 랩 그룹 N.W.A.의 전 멤버였습니다.,N
+GW51,T852,Death Certificate는 Dr. Dre의 스튜디오에서 녹음하기까지 약 2 년이 걸렸고 90 년대 중반에 출시되었습니다.,C
+GW6,T852,3명의 프로듀서가 담은 힙합 앨범은 1991년 10월 말에 발매되었다.,E
+GW6,T852,“죽음 증명서”는 1991년 10월에 기록되었다.,N
+GW6,T852,Priority 및 EMI는 1시간 미만의 앨범만 발매합니다.,C
+GW51,T861,Bridgeport는 코네티컷의 해수면에서 몇 피트 높이에 위치한 도시입니다.,E
+GW51,T861,Bridgeport는 Connecticut 주에서 두 번째로 큰 도시입니다.,N
+GW51,T861,"Bridgeport는 1,000 평방 마일에 불과한 작은 도시 지역을 가지고 있습니다.",C
+GW28,T861,"브리지 포트(Bridgeport, Connecticut)는 해수면에 거의 없는 작은 미국 도시이다.",E
+GW28,T861,"Bridgeport, Connecticut는 롱 아일랜드 사운드 (Long Island Sound)를 바라보는 위치에 있습니다.",N
+GW28,T861,"Bridgeport, Connecticut의 육지 면적은 물 면적의 절반 미만입니다.",C
+GW27,T861,"브리지 포트(Bridgeport, Connecticut)는 물보다 땅이 더 많다.",E
+GW27,T861,Bridgeport의 물 지역은 바다에 접근 할 수 있습니다.,N
+GW27,T861,Bridgeport의 대부분의 지역은 물입니다.,C
+GW0,T900,기독교는 중앙 아프리카 공화국에서 가장 인기있는 종교입니다.,E
+GW0,T900,Faustin-Archange Touad?ra는 바야 민족입니다.,N
+GW0,T900,중앙아프리카 공화국의 사람들은 오직 프랑스어만을 말한다.,C
+GW12,T900,Simplice Sarandji는 중앙 아프리카 공화국의 총리로 유명한 인물입니다.,E
+GW12,T900,Bangui는 중앙 아프리카 공화국의 Faustin-Archange Touadera 대통령의 집입니다.,N
+GW12,T900,바야는 중앙 아프리카 공화국에서 가장 큰 도시입니다.,C
+GW51,T900,"중앙 아프리카 공화국은 아프리카에 있는 나라이며, 자본은 뱅구이이다.",E
+GW51,T900,중앙 아프리카 공화국은 중앙 아프리카에서 여러 부족에 걸친 대규모 내전 후에 형성되었습니다.,N
+GW51,T900,중앙아프리카 공화국은 이평양의 남쪽에 위치하고 있습니다.,C
+GW28,T917,카이로는 이집트의 과도한 인구 도시,E
+GW28,T917,카이로는 고대 기념물에 대한 문화적 매력입니다.,N
+GW28,T917,‘카이로’는 이집트의 인구가 약한 도시이다.,C
+GW51,T917,카이로는 19 백만 명 이상의 인구가있는 도시입니다.,E
+GW51,T917,카이로는 이집트에서 가장 큰 도시입니다.,N
+GW51,T917,카이로는 미국의 도시와 동일한 시간대가 있습니다.,C
+GW27,T917,카이로는 지하철 지역에 20 백만 명 이상의 사람들이 있습니다.,E
+GW27,T917,‘카이로’는 이집트에서 가장 큰 도시이다.,N
+GW27,T917,카이로는 지하철 지역보다 도시 지역에 더 많은 사람들이 있습니다.,C
+GW28,T931,Bougainville는 섬 체인의 일부입니다.,E
+GW28,T931,Bougainville는 솔로몬 섬에서 가장 큰 섬입니다.,N
+GW28,T931,Bougainville는 대서양에 위치하고 있습니다.,C
+GW51,T931,Bougainville은 남반구의 아일랜드 아일랜드의 일부입니다.,E
+GW51,T931,Bougainville는 인도네시아의 섬들 중 하나입니다.,N
+GW51,T931,Bougainville은 그 땅에서 바다 위의 한 지점도 가지고 있지 않습니다.,C
+GW27,T931,솔로몬 섬은 멜라네시아의 일부입니다.,E
+GW27,T931,솔로몬 섬은 지평선 남쪽에 있습니다.,N
+GW27,T931,"발비 산은 10,000피트 정도 높다.",C
+GW27,T948,프랑스 왕국에는 두 명의 왕이 있었다.,E
+GW27,T948,프랑스 왕국은 혁명에 빠졌다.,N
+GW27,T948,프랑스 왕국은 재건 후 1 년 만에 헌법을 채택했다.,C
+GW51,T948,프랑스 왕국은 19세기에 거의 2십 년 동안 지속되는 프랑스에서 설립 된 정부였다.,E
+GW51,T948,프랑스 왕국은 나폴레옹의 통치 후에 시작되었다.,N
+GW51,T948,프랑스 왕국은 루이 16세가 살해당한 프랑스 혁명을 이끌었다.,C
+GW28,T948,프랑스 왕국은 프랑스어를 사용하는 기독교 국가였으며 왕실이 이끌었다.,E
+GW28,T948,프랑스 왕국은 농민 반란으로 끝났다.,N
+GW28,T948,프랑스 왕국은 20 세기에 잘 지속되었습니다.,C
+GW28,T995,카메룬 공화국은 다국적이고 다국적 인 아프리카 국가입니다.,E
+GW28,T995,"카메룬 공화국은 프랑스, 영국 및 독일 식민지들의 영향을 받았다.",N
+GW28,T995,카메룬 공화국은 아프리카 동부 해안에 위치한 공화국이다.,C
+GW14,T995,카메룬 공화국 대통령의 이름은 알파벳의 시작에 가까운 문자로 시작됩니다.,E
+GW14,T995,카메룬 공화국 의원들은 2년마다 선출된다.,N
+GW14,T995,Equatorial Bantu 사람들이 Camaroon Highlanders보다 더 많습니다.,C
+GW51,T995,카메룬은 프랑스어를 가장 많이 사용하는 국가입니다.,E
+GW51,T995,카메룬 공화국은 원래 프랑스에 의해 설립 된 식민지였다.,N
+GW51,T995,카메룬은 에콰도르 남쪽에 위치하고 있습니다.,C
+GW28,T998,Bursa는 터키의 한 지방 지방입니다.,E
+GW28,T998,Bursa는 터키의 도시뿐만 아니라 지방입니다.,N
+GW28,T998,버사는 마케팅 계획이없는 작은 아름다운 마을입니다..,C
+GW51,T998,Bursa는 몇 백만 명의 사람들이 거주하는 도시입니다.,E
+GW51,T998,Bursa는 현대 터키에 위치한 큰 도시입니다.,N
+GW51,T998,Bursa는 런던과 같은 시간대가 있습니다.,C
+GW1,T998,Bursa는 메트로폴리탄 마을에서 1.8 백만 명 이상의 사람들을 가지고 있습니다.,E
+GW1,T998,EEST에서 S는 표준을 의미합니다.,N
+GW1,T998,Bursa는 매일 저축 시간을 존중하지 않습니다.,C
+GW2,T1062,Bosintang는 한국에서 만든 개 고기 요리입니다.,E
+GW2,T1062,Dangogiguk는 개 고기와 브로콜리로 만든 요리입니다.,N
+GW2,T1062,Bosintang는 한국의 채식 요리입니다.,C
+GW28,T1062,‘Bosintang’은 한국 음식이다.,E
+GW28,T1062,‘보스민타’는 주로 노인 한국인들이 먹는 맛집이다.,N
+GW28,T1062,Bosintang는 냄비와 소수 샷으로 제공됩니다.,C
+GW51,T1062,Bosintang는 한국에서 온 한 종류의 탱크입니다.,E
+GW51,T1062,Bosintang는 특히 라브라더의 고기에서 만들어집니다.,N
+GW51,T1062,Bosintang은 그것이 만든 유일한 맛을 묘사하는 하나의 알려진 대체 이름을 가지고 있습니다.,C
+GW27,T1083,Bundaberg Rum는 호주의 Bundaberg Distilling Company에 의해 제조됩니다.,E
+GW27,T1083,Bundaberg Rum는 호주에서 가장 잘 알려진 람입니다.,N
+GW27,T1083,Bundaberg Rum는 그 유통업체에 의해 만들어집니다.,C
+GW28,T1083,Bundaberg Rum는 호주 음료,E
+GW28,T1083,Bundaberg Rum는 멜라스와 흡입 잔디로 만들어져 그것의 어두운 색을줍니다.,N
+GW28,T1083,Bundaberg Rum의 인기는 추가 마케팅없이 모든 단어에서 시작됩니다.,C
+GW12,T1083,Bundaberg Distilling Company는 호주의 Bundaberg Run의 제조업체입니다.,E
+GW12,T1083,Diageo는 Bundaberg Distilling Company의 유통업체입니다.,N
+GW12,T1083,1888 년에 도입 된 Bundaberg Rum는 어두운 색상 만 제공됩니다.,C
+GW51,T1108,Caloocan는 오스카 말라피탄이 시장이있는 도시입니다.,E
+GW51,T1108,Caloocan는 필리핀에 위치한 도시입니다.,N
+GW51,T1108,"Caloocan은 지역에서 가장 큰 도시 중 하나이며, 유권자 인구는 500 만 명 미만입니다.",C
+GW27,T1108,Caloocan에는 대표자를위한 두 개의 지구가 있습니다.,E
+GW27,T1108,Caloocan의 두 대표 지구는 대략 동등한 인구를 가지고 있습니다.,N
+GW27,T1108,Caloocan의 시장과 부시 시장은 같은 사람입니다.,C
+GW28,T1108,Caloocan은 선출 된 공무원과 대표자가 지배하는 지리적 지역입니다.,E
+GW28,T1108,Caloocan은 Caloocan의 유권자에 의해 직접 투표되는 2명의 대표자를 보유하고 있습니다.,N
+GW28,T1108,Caloocan은 장로들의 회의에 의해 통치됩니다.,C
+GW1,T1145,Caveat의 수입은 약 50 만 달러였다.,E
+GW1,T1145,Caveat는 미국에서만 경주했습니다.,N
+GW1,T1145,Caveat는 그것이 들어온 경주의 절반 이상을 이겼다.,C
+GW28,T1145,Caveat는 미국의 남성 레이싱 말입니다.,E
+GW28,T1145,Caveat는 그를 키우고 훈련시키는 데 필요한 것보다 더 많은 승리를 얻었습니다.,N
+GW28,T1145,Caveat는 승리 비율보다 더 나은 비율을 가지고 있습니다.,C
+GW0,T1145,Caveat는 경력에서 50 만 달러 이상을 벌었습니다.,E
+GW0,T1145,아우구스 벨몬트 4세는 Caveat의 부모도 소유했다.,N
+GW0,T1145,‘Caveat’은 유럽에서 태어났다.,C
+GW12,T1149,세린 디온 (Celine Dion)은 2016 년 남편이 사망했을 때 활발한 연주자였습니다.,E
+GW12,T1149,캐나다에서 태어난 셀린 디온(Celine Dion)은 7억 달러의 가치가 있다.,N
+GW12,T1149,Tanguay Dion은 Celine Dion의 딸입니다.,C
+GW6,T1149,Tanguay Dion에게는 과부가 된 아이가 있었다.,E
+GW6,T1149,앵글리일은 세 명의 자녀가 있었다.,N
+GW6,T1149,아드마르 - 찰스 디온의 자녀는 그들의 고향을 떠난 적이 없습니다.,C
+GW4,T1149,세린 디온은 35년 넘게 연주를 해왔다.,E
+GW4,T1149,셀린 디온은 어린 시절 캐나다에서 미국으로 이사했다.,N
+GW4,T1149,셀린 디온은 항상 같은 레이블에 있었다.,C
+GW22,T1174,National Television Awards는 1995 년에 처음으로 수여되었습니다.,E
+GW22,T1174,National Television Awards는 인디고 텔레비전에서만 제작됩니다.,N
+GW22,T1174,Dermot OLeary는 국가 텔레비전 상의 유일한 호스트입니다.,C
+GW4,T1174,국립 텔레비전 상은 거의 10 년 동안 O2 아레나에 있습니다.,E
+GW4,T1174,국립 텔레비전 상은 항상 2 시간 이상 지속되었습니다.,N
+GW4,T1174,국립 텔레비전상은 항상 같은 호스트를 받았습니다.,C
+GW1,T1174,National Television Awards는 현재 O2 아레나에서 개최되고 있습니다.,E
+GW1,T1174,National Television Awards는 영국에서 만든 TV 프로그램에만 적용됩니다.,N
+GW1,T1174,국가 텔레비전 상은 3 시간의 실행 시간을 가지고 있습니다.,C
+GW6,T1178,"미국 물리학 센터 (American Center for Physics)의 한 연구소에는 100,000 명이 넘는 회원이 있습니다.",E
+GW6,T1178,H. Frederick Dylla는 메릴랜드의 College Park에 살고 있습니다.,N
+GW6,T1178,미국 물리학 연구소는 100 년 전에 형성되었습니다.,C
+GW28,T1178,미국 물리학 연구소는 20 세기에 설립되었습니다.,E
+GW28,T1178,미국 물리학 연구소는 기부금을 지불하는 단독 회원 기관입니다.,N
+GW28,T1178,미국 물리학 연구소는 물리학자들이 일자리와 네트워크를 찾는 것을 구체적으로 돕는 조직입니다.,C
+GW27,T1178,미국 물리학 연구소는 1931 년에 설립 된 비영리 단체입니다.,E
+GW27,T1178,미국 물리학 연구소는 메릴랜드에 설립되었습니다.,N
+GW27,T1178,미국 물리학 연구소와 본부는 동일한 암호를 가지고 있습니다.,C
+GW40,T1198,The Home Safe Collective는 1981 년 에딘버러 코미디 상에서 패널상을 수상했습니다.,E
+GW40,T1198,에딘버러 코미디 상은 항상 웹 사이트에 의해 후원됩니다.,N
+GW40,T1198,1981 년 에딘버러 코미디 상은 영국에서 개최되었습니다.,C
+GW22,T1198,Edinburgh Comedy Awards는 스코틀랜드의 Edinburgh Festival Fringe에서 개최됩니다.,E
+GW22,T1198,lastminute.com은 Edinburgh Comedy Awards의 유일한 스폰서입니다.,N
+GW22,T1198,에딘버러 코미디상 수상자에게는 현금 보상이 없습니다.,C
+GW4,T1198,에딘버러 코미디 상은 30 년 전에 시작되었습니다.,E
+GW4,T1198,에딘버러 코미디 상에는 여러 수준의 상이 있습니다.,N
+GW4,T1198,Edinburgh Comedy Awards는 런던에서 열립니다.,C
+GW1,T1230,‘브리지트 닐슨’은 1963년 여름에 태어났다.,E
+GW1,T1230,Brigitte Nielsen는 모델이되기 전에 노래 경력을 가지고있었습니다.,N
+GW1,T1230,Brigitte Nielsen는 40 년 이상 활동 해 왔습니다.,C
+GW4,T1230,Brigitte Nielsen는 원래 유럽에서 왔습니다.,E
+GW4,T1230,Brigitte Nielsen는 Sylvester Stallone과 함께 모든 자녀를 가졌습니다.,N
+GW4,T1230,‘브리지트 닐슨’은 30살 때 유명해졌다.,C
+GW72,T1230,브리지트 닐슨은 4번이나 결혼했다.,E
+GW72,T1230,Brigitte Nielsen에 3 명의 딸과 2 명의 아들이 있습니다.,N
+GW72,T1230,Brigitte Nielsen는 유명한 운동 선수였습니다.,C
+GW28,T1249,Association for the Study of Australian Literature Ltd는 호주의 단체입니다.,E
+GW28,T1249,Association for the Study of Australian Literature Ltd는 호주 선전을 홍보하기 위해 설립되었습니다.,N
+GW28,T1249,Association for the Study of Australian Literature Ltd는 비영리 단체입니다.,C
+GW27,T1249,호주 문학 연구 협회는 봉사하는 국가에 본사를 두고 있습니다.,E
+GW27,T1249,호주 문학 연구 협회 (Association for the Study of Australian Literature)는 1984 년 이전에 이익을 위해 운영되었습니다.,N
+GW27,T1249,호주 문학 연구 협회는 동일한 세금 ID 및 등록 번호를 가지고 있습니다.,C
+GW22,T1249,Association for the Study of Australian Literature Ltd는 1977 년 빅토리아의 버우드에서 설립되었습니다.,E
+GW22,T1249,Association for the Study of Australian Literature Ltd는 문학 및 교육 분야에서만 근무하는 보증에 의해 제한된 호주 공공 회사입니다.,N
+GW22,T1249,Association for the Study of Australian Literature Ltd의 등록 번호는 ABN 37 002 755 599 및 세금 ID 번호는 ACN 002 755 599.,C
+GW1,T1258,Rutgers는 18 세기 후반에 설립되었습니다.,E
+GW1,T1258,Robert L. Barchi는 Christopher Molloy를 Rutgers의 임시 kansler로 대체합니다.,N
+GW1,T1258,Rutgers는 두 번의 이름 변경을 한 적이 있습니다.,C
+GW51,T1258,Rutgers는 뉴저지에 위치한 대학입니다.,E
+GW51,T1258,"Rutgers는 뉴저지에서 가장 오래 설립 된 대학으로, 250 년 이상 설립되었습니다.",N
+GW51,T1258,"Rutgers는 학부 및 대학원 과정을 모두 결합 할 때 10,000 명 미만의 학생을 가지고 있습니다.",C
+GW22,T1258,"Rutgers, 뉴저지 주립 대학은 1766년 11월 10일에 설립되었으며 미국 뉴브런스윅-피스카타웨이, 뉴저지에 위치하고 있습니다.",E
+GW22,T1258,"Rutgers, 뉴저지 주립 대학은 3 개의 이전 이름을 가지고 있습니다.",N
+GW22,T1258,"Rutgers, 뉴저지 주립 대학은 학부생보다 대학원생이 더 많습니다.",C
+GW76,T1274,Carl F. Auer von Welsbach는 1858 년 9 월 1 일에 태어난 화학자입니다.,E
+GW76,T1274,Carl F. Auer von Welsbach는 생애 초기에 희귀 지구 요소에 대한 연구를 시작했습니다.,N
+GW76,T1274,Carl F. Auer von Welsbach는 그가 태어난 동일한 오스트리아 마을에서 사망했습니다.,C
+GW22,T1274,Carl F. Auer von Welsbach는 1858년 9월 1일 오스트리아 제국 비엔나에서 태어나 1929년 8월 4일 70세의 나이로 사망했다.,E
+GW22,T1274,Carl F. Auer von Welsbach는 그의 생애 동안 Elliott Cresson 메달이라는 이름의 상을 한 번만 받았다.,N
+GW22,T1274,Carl F. Auer von Welsbach는 72 년 전 오스트리아 제국의 비엔나에서 사망했습니다.,C
+GW1,T1274,Carl F. Auer von Welsbach는 1929 년 여름에 사망했습니다.,E
+GW1,T1274,Carl F. Auer von Welsbach는 lutetium의 발견을 위해 1900 년에 Elliott Cresson 메달을 수상했습니다.,N
+GW1,T1274,Carl F. Auer von Welsbach은 단지 한 세기를 살았습니다.,C
+GW22,T1279,국제 동물보호기금(International Fund for Animal Welfare)은 1969년 캐나다 뉴브런즈위크에 설립된 비영리 단체이다.,E
+GW22,T1279,Azzedine Downes와 Kathleen Savesky는 국제 동물 복지 기금 (International Fund for Animal Welfare)의 유일한 주요 인물입니다.,N
+GW22,T1279,"국제동물보호기금(International Fund for Animal Welfare)은 전 세계적으로 300명 미만의 직원을 보유하고 있으며 2013년 연간 매출은 99,079,000달러였다.",C
+GW4,T1279,국제 동물 복지 기금(International Fund for Animal Welfare)은 50년간 활동해 왔습니다.,E
+GW4,T1279,국제 동물 복지 기금 (International Fund for Animal Welfare)은 전 세계적으로 돈을 기부합니다.,N
+GW4,T1279,국제 동물보호기금(International Fund for Animal Welfare)은 100명의 직원을 보유하고 있다.,C
+GW28,T1279,International Fund for Animal Welfare - IFAW는 북미의 비영리 단체입니다.,E
+GW28,T1279,International Fund for Animal Welfare - IFAW는 수천 명의 자원봉사자를 모집하여 메시지를 전달합니다.,N
+GW28,T1279,International Fund for Animal Welfare - IFAW는 북아메리카에만 초점을 맞춘 국가 조직입니다.,C
+GW28,T1281,Brandeis University는 20 세기에 설립 된 미국의 사립 대학입니다.,E
+GW28,T1281,브랜디스 대학은 주로 유태인 학생들을 끌어들입니다.,N
+GW28,T1281,Brandeis University는 남성 대학원생으로서 학부생으로 등록했습니다.,C
+GW1,T1281,브랜디스 대학은 남성 마스코트를 가지고 있습니다.,E
+GW1,T1281,Lisa M. Lynch는 Brandeis University를 떠날 때 Ronald D. Liebowitz를 대신합니다.,N
+GW1,T1281,Brandeis University는 파트 타임 직원보다 풀 타임 직원이 3 배 많습니다.,C
+GW12,T1281,Brandeis University의 행정 직원은 학업 직원을 초과합니다.,E
+GW12,T1281,Brandeis University는 1948 년 가을에 설립 된 사립 학교입니다.,N
+GW12,T1281,Ollie the Owl은 Brandeis University의 별명입니다.,C
+GW22,T1288,영국 코미디 상은 영국에서 가장 인기있는 코미디를 수상합니다.,E
+GW22,T1288,영국 코미디 상의 텔레비전 / 라디오 커버링은 ITV 및 채널 4에서만 제공됩니다.,N
+GW22,T1288,"영국 코미디상은 처음으로 1992년에, 마지막으로 2016년에 수여되었다.",C
+GW28,T1288,영국 코미디상은 유럽의 상을 선보였다.,E
+GW28,T1288,영국 코미디 상은 경쟁 프로그램 때문에 중단되었습니다.,N
+GW28,T1288,영국 코미디상은 매년 두 차례 개최되는 행사이다.,C
+GW17,T1288,영국 코미디상 최초의 상은 1990년에 수여되었다.,E
+GW17,T1288,영국 코미디상은 지금까지 여성보다 남성을 더 많이 수상했다.,N
+GW17,T1288,영국 코미디상 최종 상은 1994년에 수여되었다.,C
+GW22,T1310,Arromanches는 또한 Colossus로 알려져 있으며 1943 년 9 월 30 일에 발사되었습니다.,E
+GW22,T1310,Arromanches는 Vickers-Armstrong이 제조 한 유일한 항공모함입니다.,N
+GW22,T1310,"Arromanches의 속도는 50km / h이며 범위는 10,000km입니다.",C
+GW28,T1310,Arromanches는 프랑스 항공모함이었다.,E
+GW28,T1310,Arromanches는 영국 왕립 해군에서 빌려 왔고 결국 완전히 구입되었습니다.,N
+GW28,T1310,Arromanches는 임무를 수행 한 지 40 년 후에 해제되었습니다.,C
+GW6,T1310,Arromanches는 해고 된 지 4 년 후에 폐기되었습니다.,E
+GW6,T1310,Colossus 클래스의 모든 항공모함이 해제되었습니다.,N
+GW6,T1310,프랑스 해군은 40 년대 초에 Arromanches를 인수했습니다.,C
+GW27,T1313,Ca?onero II는 Pretendre에 의해 묘사되었고 Doutelle에 의해 묘사되었습니다.,E
+GW27,T1313,Caonero II는 베네수엘라에서 가장 성공적인 베이입니다.,N
+GW27,T1313,Ca?onero II의 소유자와 번식자는 동일한 사람입니다.,C
+GW12,T1313,Buddy Hirsch는 1972 년 사망 한 Canonero II를 훈련했습니다.,E
+GW12,T1313,1968 년에 태어난 Canonero II는 Pretendre와 Doutelle의 역사를 가지고 있습니다.,N
+GW12,T1313,에드워드 벤자민은 13 년 동안 Canonero II의 소유자였습니다.,C
+GW1,T1313,카오네로 2세는 1968년 봄에 파산되었다.,E
+GW1,T1313,카오네로 2호는 베네수엘라에서만 경주했다.,N
+GW1,T1313,카오네로 2세는 말로 500만 달러 이상을 벌었다.,C
+GW1,T1314,Tu-204 / Tu-214는 거의 30 년 동안 생산되고 있습니다.,E
+GW1,T1314,Tu-204 / Tu-214는 Cubana Airlines보다 Air Koryo에 더 많이 사용됩니다.,N
+GW1,T1314,Tu-204 / Tu-214의 첫 비행과 도입 사이에 5 년 미만이었습니다.,C
+GW4,T1314,Tu-204 / Tu-214는 오늘날에도 아직도 제작되고 있습니다.,E
+GW4,T1314,Tu-204 / Tu-214는 전 세계의 항공사에서 사용됩니다.,N
+GW4,T1314,Tu-204 / Tu-214는 수년 동안 아무런 개정이 없었습니다.,C
+GW28,T1314,Tu-204 / Tu-214은 수십 년 전의 러시아 항공기입니다.,E
+GW28,T1314,Tu-204 / Tu-214는 공산주의 국가에서 가장 인기있는 항공기입니다.,N
+GW28,T1314,Tu-204 / Tu-214는 수출을위한 것이 아닙니다.,C
+GW12,T1318,Cameron Diaz는 1994 년부터 연극 배우입니다.,E
+GW12,T1318,Benji Madden은 Cameron Diaz와 4 년 동안 결혼했습니다.,N
+GW12,T1318,카메론 디아즈는 1972년 캘리포니아 주 롱비치에서 태어났다.,C
+GW1,T1318,Cameron Diaz는 연기에서 약 20 년 동안 활동했습니다.,E
+GW1,T1318,카메론 디아즈는 평생 캘리포니아에서 살았다.,N
+GW1,T1318,카메론 디아즈는 1972년 겨울에 태어났다.,C
+GW27,T1318,Cameron Diaz는 다른 도시에서 태어나고 자랐습니다.,E
+GW27,T1318,카메론 디아즈는 연기를 그만두고 결혼을 했다.,N
+GW27,T1318,Cameron Diaz는 같은 도시에서 태어나고 자랐습니다.,C
+GW22,T1327,Chaco Culture National Historical Park는 유네스코 세계 유산지이며 미국 뉴멕시코 주 샌 후안 카운티와 맥킨리 카운티에 위치하고 있습니다.,E
+GW22,T1327,Chaco Culture National Historical Park는 미국 역사적 장소의 국립 기록에 의해 지정된 유일한 역사적 지구입니다.,N
+GW22,T1327,"Chaco Culture National Historical Park 총 35,000 에이커가 있습니다.",C
+GW28,T1327,Chaco Culture National Historical Park는 미국의 유네스코 세계 유산입니다.,E
+GW28,T1327,Chaco Culture National Historical Park는 대중에게 무료로 방문할 수 있습니다.,N
+GW28,T1327,Chaco Culture National Historical Park는 애리조나와 뉴멕시코의 일부를 커버합니다.,C
+GW1,T1327,Chaco Culture National Historical Park는 70 년 이상 미국의 국립 기념물이었습니다.,E
+GW1,T1327,Chaco Culture National Historical Park의 대부분은 San Juan County보다 McKinley County에 위치하고 있습니다.,N
+GW1,T1327,Chaco Culture National Historical Park는 N.M. State Register of Cultural Property에 넣은 후 미국 역사적 장소의 국가 등록에 추가되었습니다.,C
+GW1,T1329,캐니발 시체는 미국 서부 해안에서 형성되었습니다.,E
+GW1,T1329,Cannibal Corpse의 일부 동일한 멤버들은 Tirant Sin에 있습니다.,N
+GW1,T1329,Cannibal Corpse는 30 년 동안 밴드가 아니었습니다.,C
+GW27,T1329,Cannibal Corpse는 뉴욕 출신의 데스 메탈 밴드이다.,E
+GW27,T1329,Cannibal Corpse는 메탈 블레이드 라벨의 유일한 데스 메탈 밴드이다.,N
+GW27,T1329,Cannibal Corpse는 관련 행동보다 더 많은 라벨에있었습니다.,C
+GW12,T1329,"뉴욕 버팔로(Buffalo, New York)는 죽음의 메탈 밴드 Cannibal Corpse의 기원이다.",E
+GW12,T1329,Tirant Sin 및 Slayer는 Cannibal Corpse와 관련된 4 개의 행동 중 2 개입니다.,N
+GW12,T1329,Cannibal Corpse는 1980 년대 후반에 비활성화 된 메탈 밴드입니다.,C
+GW1,T1333,Brie Larson은 1989 년 가을에 처음으로 공기를 호흡했습니다.,E
+GW1,T1333,Brie Larson는 그녀가 태어난 직후 그녀의 이름을 변경했다.,N
+GW1,T1333,Brie Larson은 25 년 이상 활발한 경력을 쌓았습니다.,C
+GW28,T1333,브리 라슨(Brie Larson)은 미국의 배우이다.,E
+GW28,T1333,Brie Larson는 그녀의 연기에 대해 많은 상을 수상했습니다.,N
+GW28,T1333,Brie Larson은 그녀의 20 년대에 그녀의 경력을 시작했다.,C
+GW72,T1333,Brie Larson는 여배우와 영화 제작자로서의 일에 대한 상을 받았습니다.,E
+GW72,T1333,Brie Larson는 영화 제작자로 시작,N
+GW72,T1333,Brie Larson 은퇴 한 배우,C
+GW1,T1337,리처드 시어스 (Richard Sears)는 미국 오픈에서 마이크 브라이언보다 더 많은 타이틀을 가지고 있습니다 (어쨌든).,E
+GW1,T1337,Margaret Osborne duPont는 미국 오픈에서 싱글 챔피언이 된 적이 없습니다.,N
+GW1,T1337,미국 오픈은 20세기 초에 시작되었다.,C
+GW22,T1337,미국 오픈은 1881년 138년 전에 설립되었다.,E
+GW22,T1337,US Open에는 USTA 빌리 제인 킹 국립 테니스 센터(Billie Jean King National Tennis Center)에 위치한 단 하나의 경기장이 있습니다.,N
+GW22,T1337,"미국 오픈은 4 개의 주요 챔피언십으로 구성됩니다 : 남성과 여성의 싱글, 남성과 여성의 더블.",C
+GW28,T1337,미국 오픈은 양쪽 성별 모두에게 열려있는 미국 스포츠 대회입니다.,E
+GW28,T1337,미국 오픈은 남성과 여성 챔피언 모두에게 동등한 금액의 상금을 부여합니다.,N
+GW28,T1337,미국 오픈은 여러 표면에서 연주됩니다.,C
+GW28,T1383,Chance The Rapper는 미국의 래퍼다.,E
+GW28,T1383,Chance The Rapper는 한 딸의 아버지다.,N
+GW28,T1383,Chance The Rapper는 그의 20 세에 그의 경력을 시작했습니다.,C
+GW4,T1383,스 래퍼(Chance the Rapper)는 항상 시카고에 살았습니다.,E
+GW4,T1383,Chance The Rapper는 노래하기 전에 피아노를 연주하기 시작했습니다.,N
+GW4,T1383,Chance The Rapper는 캐니 웨스트와 함께 결코 전형화되지 않았습니다.,C
+GW40,T1383,래퍼의 진짜 이름은 조나단 베넷(Jonathan Bennett).,E
+GW40,T1383,Chance The Rapper는 그가 결혼 한 것보다 랩 무대에서 더 오래 활동했습니다.,N
+GW40,T1383,‘Chance the Rapper’은 사실 랩퍼가 아니다.,C
+GW1,T1400,AARP의 본부는 동부 해안에 있습니다.,E
+GW1,T1400,Jo Ann Jenkins가 AARP의 CEO로 떠나는 것은 Joan R. Ruff가 CEO로 맡을 것을 의미합니다.,N
+GW1,T1400,AARP는 2016 년에 지출보다 수입이 낮았습니다.,C
+GW12,T1400,"AARP는 2,250 명의 직원과 20,000 명의 범위에 많은 자원 봉사자를 보유하고 있습니다.",E
+GW12,T1400,Ethel Percy Andrus는 61 년 전에 AARP를 설립했습니다.,N
+GW12,T1400,AARP의 자회사는 AARP 재단과 미국 은퇴자 협회가 포함됩니다.,C
+GW28,T1400,AARP는 수백만 명의 회원을 가진 미국의 비영리 단체입니다.,E
+GW28,T1400,AARP는 노인 여성에 의해 설립되었습니다.,N
+GW28,T1400,AARP는 노인들을 옹호하는 국제기구입니다.,C
+GW28,T1407,요하네스부르크도시 지역은 도시 지역보다 덜 밀도가 있습니다.,E
+GW28,T1407,Johannesburg는 남아프리카 공화국의 도시입니다.,N
+GW28,T1407,요하네스버그메트로 인구는 도시 인구보다 작습니다.,C
+GW1,T1407,요하네스버그의 지하철 지역에는 약 10 백만 명이 있습니다.,E
+GW1,T1407,현재 요하네스버그의 인구는 매년 줄어듭니다.,N
+GW1,T1407,실제 도시 요하네스부르크에 백만 명이 넘는 사람들이 살고 있습니다.,C
+GW4,T1407,요하네스부르크에는 백만 명이 넘는 사람들이 있습니다.,E
+GW4,T1407,요하네스버그는 점점 증가하는 밀도를 가지고 있습니다.,N
+GW4,T1407,"요하네스버그는 평방 마일 당 10,000 명이 넘는 도시 밀도를 가지고 있습니다.",C
+GW1,T1430,Jeff Bridges는 어린 시절부터 경력을 시작했습니다.,E
+GW1,T1430,제프 브리지즈는 그가 아무것도 작곡하기 전에 노래자였습니다.,N
+GW1,T1430,‘제프 브리지스’는 1949년 여름에 태어났다.,C
+GW0,T1430,제프 브리지스는 자신의 인생의 절반 이상에 걸쳐 수잔 제스턴과 결혼했습니다.,E
+GW0,T1430,Jeff Bridges는 그의 노래의 앨범을 발표했다.,N
+GW0,T1430,제프 브리지스는 나중에 인생에서 연기를 시작하지 않았다.,C
+GW84,T1430,“제프 브리지스”는 1900년대 중반에 태어났다.,E
+GW84,T1430,제프 브리지스는 부모님과 함께 연기를 시작했습니다.,N
+GW84,T1430,"제프 브리지스의 유일한 형제는 그의 동생, 보입니다.",C
+GW1,T1431,John Augustus Larson의 죽음은 1965 년 가을에 일어났습니다.,E
+GW1,T1431,John Augustus Larson은 폴리그래피를 연구하기 전에 범죄학을 공부했습니다.,N
+GW1,T1431,John Augustus Larson은 18 세기의 마지막 10 년에 태어났습니다.,C
+GW85,T1431,존은 낙하에서 태어났다.,E
+GW85,T1431,존은 중요한 사람이었다.,N
+GW85,T1431,존은 교육을 받지 못했다.,C
+GW28,T1431,John Augustus Larson은 교육을 받은 범죄 학자였다.,E
+GW28,T1431,John Augustus Larson은 자연화 된 미국인이었다.,N
+GW28,T1431,John Augustus Larson은 30 세에 박사 학위를 받았다.,C
+GW84,T1432,John Jacob Astor IV는 타이타닉호가 침몰했을 때 사망했습니다.,E
+GW84,T1432,John Jacob Astor IV의 시신은 타이타닉에서 결코 회복되지 않았습니다.,N
+GW84,T1432,John Jacob Astor IV는 그가 죽었을 때 그의 초기 60 년대에있었습니다.,C
+GW28,T1432,John Jacob Astor IV는 해상 침몰에서 사망 한 교육받은 사람이었습니다.,E
+GW28,T1432,존 제이콥 아스토르 4세는 백만장자 사업가였다.,N
+GW28,T1432,John Jacob Astor IV는 바다에 묻혔다.,C
+GW0,T1432,John Jacob Astor IV는 바다에서 사망했습니다.,E
+GW0,T1432,John Jacob Astor IV는 하버드 대학에서 magna cum laud을 졸업했습니다.,N
+GW0,T1432,John Jacob Astor IV는 미국 북동부에서 왔습니다.,C
+GW1,T1434,Jodhpur는 15 세기의 회전 후에 정착했습니다.,E
+GW1,T1434,조드푸르(Jodhpur)라는 나라는 언제나 인도라고 불린다.,N
+GW1,T1434,Jodhpur의 주와 부서는 같은 이름을 가지고 있습니다.,C
+GW4,T1434,Jodhpur는 그것을 발견 한 사람을 따서 명명되었습니다.,E
+GW4,T1434,Jodhpur는 라자스탄에서 가장 큰 도시입니다.,N
+GW4,T1434,Jodhpur는 2000 년 전에 설립되었습니다.,C
+GW84,T1434,Jodhpur는 미국 외부의 도시입니다.,E
+GW84,T1434,Jodhpur는 미국이 식민지화되기 전에 정착되었습니다.,N
+GW84,T1434,Jodhpur는 유럽 신의 이름을 따서 명명되었다.,C
+GW28,T1437,조셉 스탈린은 여러 자녀를 가진 결혼 한 남자였다.,E
+GW28,T1437,조셉 스탈린은 죽을 때까지 소련을 지배했다.,N
+GW28,T1437,조셉 스탈린은 그의 십대에 결혼했다.,C
+GW84,T1437,조셉 스탈린은 겨울 시즌 동안 태어났다.,E
+GW84,T1437,조셉 스탈린은 자연적인 원인으로 사망했습니다.,N
+GW84,T1437,조셉 스탈린은 두 번째 아내와 결혼한 것보다 첫 번째 아내와 더 오래 결혼했다.,C
+GW1,T1437,조셉 스탈린은 그의 죽음 4 일 후에 묻혔다.,E
+GW1,T1437,조셉 스탈린은 소련 공산당 이외의 다른 정치당의 회원이 아니었다.,N
+GW1,T1437,조셉 스탈린은 1878 년 여름에 태어났다.,C
+GW84,T1441,존 허트는 그의 다른 아내들보다 짧은 시간 동안 애네트 로버트슨과 결혼했다.,E
+GW84,T1441,존 허트의 두 자녀는 동일한 여성의 것입니다.,N
+GW84,T1441,존 허트는 영국에서 연기를 계속한다.,C
+GW28,T1441,존 허트 (John Hurt)는 영국의 배우이다.,E
+GW28,T1441,존 허트는 두 딸과 결혼했다.,N
+GW28,T1441,존 허트 (John Hurt)는 십대 때부터 활동적입니다.,C
+GW1,T1441,존 허트 (John Hurt)는 그가 사망 한 해까지 연극에 적극적으로 참여했습니다.,E
+GW1,T1441,존 허트 (John Hurt)는 진정한 배우가되기 전에 이야기자로 일했습니다.,N
+GW1,T1441,John Hurt는 죽기 전에 Anwen Rees-Myers와 이혼했습니다.,C
+GW4,T1442,Kehlani는 그녀가 14 세 때부터 연주하고있다.,E
+GW4,T1442,Kehlani는 그녀의 앨범으로 여러 상을 수상했습니다.,N
+GW4,T1442,Kehlani는 그들이 Compton에있을 때 랩을 시작했습니다.,C
+GW60,T1442,Kehlani는 14 세의 해에 자신의 경력을 시작했습니다.,E
+GW60,T1442,Kehlani는 항상 그의 노래에 적어도 하나의 유명한 손님을 가지고 있습니다.,N
+GW60,T1442,Kehlani는 많은 국가 음악 아티스트와 관련이 있습니다.,C
+GW74,T1442,Kehlani는 13 이후에 전문적으로 공연하기 시작했습니다.,E
+GW74,T1442,Kehlani는 Cardi B를 위해 노래를 썼다.,N
+GW74,T1442,Kehlani는 2008 년 Tsunami Mob 라벨 아래 공연했습니다.,C
+GW84,T1445,Journey는 서부 해안에서 형성 된 밴드입니다.,E
+GW84,T1445,밴드 Journey에 3 명의 멤버가 있습니다.,N
+GW84,T1445,Journey는 더 이상 음악을 연주하지 않습니다.,C
+GW28,T1445,Journey는 미국의 록 밴드입니다.,E
+GW28,T1445,Journey는 수많은 음악상을 수상했습니다.,N
+GW28,T1445,Journey는 1970 년대 이후 지속적으로 연주되었습니다.,C
+GW1,T1445,“Journey”는 35년 넘게 밴드로서 활동해 왔습니다.,E
+GW1,T1445,Journey는 Frontiers와 함께 음악을 만들기 전에 Sanctuary 레코드 라벨과 함께 음악을 만들었습니다.,N
+GW1,T1445,Journey는 캘리포니아 남부의 밴드로 시작되었습니다.,C
+GW84,T1458,Joan Jett의 밴드는 블랙헤어트 (Blackhearts) 였습니다.,E
+GW84,T1458,‘조안 제트’는 어렸을 때 기타를 연주하는 법을 배웠다.,N
+GW84,T1458,조안 제트는 다른 어떤 곳보다 캘리포니아에서 더 오래 살았습니다.,C
+GW1,T1458,Joan Jett는 40 년 넘게 활발한 경력을 쌓았습니다.,E
+GW1,T1458,Joan Jett는 그녀가 레코드 프로듀서가되기 전에 여배우였다.,N
+GW1,T1458,Joan Jett는 미국 동부 해안에서 음악가로 그녀의 시작을했다.,C
+GW68,T1458,Joan Jett는 1975 년과 현재 사이에 여러 번 크라이사일스와 머큐리 라벨에 서명되었습니다.,E
+GW68,T1458,1983년 Joan은 Polydor를 떠나 CBS에 서명했다.,N
+GW68,T1458,그녀는 하드 록 노래를 부르지만 기타를 연주하지 않습니다.,C
+GW28,T1467,Joanne는 주로 캘리포니아에서 녹음된 여러 장르의 음악 앨범입니다.,E
+GW28,T1467,Joanne는 비평가의 인기를 얻기 위해 발표 된 음악 앨범입니다.,N
+GW28,T1467,Joanne은 2016 년에 모두 녹음하고 출시되었습니다.,C
+GW1,T1467,Joanne는 2016 년 가을에 처음 나왔습니다.,E
+GW1,T1467,Joanne의 녹음은 Electric Lady Studios에서 녹음하기 전에 Dragonfly Recording Studios에서 이루어졌습니다.,N
+GW1,T1467,Joanne에 대한 모든 녹음은 같은 해에 이루어졌습니다.,C
+GW84,T1467,Joanne는 반 시간 이상 실행됩니다.,E
+GW84,T1467,Joanne는 케빈 파커가 작업 한 유일한 녹음입니다.,N
+GW84,T1467,Joanne는 봄에 출시되었습니다.,C
+GW1,T1480,John McCain은 20 년 이상 봉사했습니다.,E
+GW1,T1480,John McCain은 그의 실버 스타보다 빨간색 심장을 얻었습니다.,N
+GW1,T1480,John McCain은 봉사하는 동안 결코 부상을 입지 않았습니다.,C
+GW84,T1480,존 매케인은 20년 넘게 군대에서 봉사했다.,E
+GW84,T1480,존 매케인은 한 번의 전쟁 동안만 봉사했다.,N
+GW84,T1480,존 매케인은 군사 상을 한 번만 받았다.,C
+GW4,T1480,존 매케인은 20 년 이상 군대에 갔다.,E
+GW4,T1480,John McCain은 수십 개의 상을 수상했습니다.,N
+GW4,T1480,John McCain은 여러 전쟁에 관여했습니다.,C
+GW1,T1481,Parthasarathy Srinivasan은 20 세기에 그의 첫 번째 상을 수상했습니다.,E
+GW1,T1481,Kamal Haasan은 어린 나이에 Parthasarathy Srinivasan에서 이름을 바꾸었습니다.,N
+GW1,T1481,Parthasarathy Srinivasan은 1954 년 봄에 태어났습니다.,C
+GW84,T1481,Kamal Haasan은 다른 이름으로 태어났습니다.,E
+GW84,T1481,Kamal Haasan은 그들이 연기한 것보다 더 많은 영화를 제작했습니다.,N
+GW84,T1481,Chevalier French Award는 Kamal Haasan이 수상한 최초의 상입니다.,C
+GW4,T1481,Kamal Haasan은 배우로서의 작품으로 유명합니다.,E
+GW4,T1481,Kamal Haasan은 Sarika와 함께 두 자녀를 낳았습니다.,N
+GW4,T1481,Kamal Haasan은 항상 인도의 같은 마을에서 살았습니다.,C
+GW84,T1488,Joseph-Armand Bombardier의 자녀는 Laurent Beaudoin과 결혼했다.,E
+GW84,T1488,Joseph-Armand Bombardier는 평생 캐나다에서 살았습니다.,N
+GW84,T1488,Joseph-Armand Bombardier는 1900 년대 초반에 사망했습니다.,C
+GW0,T1488,조셉-아르만드 폭바디어는 110 년 전에 태어났습니다.,E
+GW0,T1488,Joseph-Armand Bombardier는 유연하게 프랑스어를 말합니다.,N
+GW0,T1488,Bombardier는 19세기에 설립되었습니다.,C
+GW1,T1488,Joseph-Armand Bombardier는 봄 시간에 생일을 보냈습니다.,E
+GW1,T1488,Joseph-Armand Bombardier는 평생 캐나다에서 살았습니다.,N
+GW1,T1488,1964년 가을에 사망한 조셉-아르만드 폭격기(Joseph Armand Bombardier),C
+GW4,T1494,Kees Schouhamer Immink는 CD를 개발하는 데 도움이되었습니다.,E
+GW4,T1494,Kees Schouhamer Immink는 항상 네덜란드에서 살았습니다.,N
+GW4,T1494,Kees Schouhamer Immink는 그들의 디자인에 대한 상을 결코 수상하지 않았다.,C
+GW14,T1494,Kees Schouhamer Immink는 아시아의 교육 기관과 관련이있었습니다.,E
+GW14,T1494,Kees Schouhamer Immink은 다른 나라에 살지 않았습니다.,N
+GW14,T1494,Kees Schouhamer Immink는 수십 개 이상의 상을 수상했습니다.,C
+GW1,T1494,"1946년 겨울, ‘키스 슈하머 Immink’가 태어났다.",E
+GW1,T1494,Kees Schouhamer Immink는 에디슨 메달을 받기 전에 파라데이 메달을 받았다.,N
+GW1,T1494,Kees Schouhamer Immink는 그의 경력에서 몇 개의 기관에서만 일했습니다.,C
+GW84,T1495,KARD는 아시아 국가에서 온 밴드입니다.,E
+GW84,T1495,KARD는 콘서트를 위해 전 세계를 여행합니다.,N
+GW84,T1495,KARD는 미국의 J-Pop 밴드입니다.,C
+GW4,T1495,‘카드’는 벌써 3년이 지났다.,E
+GW4,T1495,KARD는 Heo Youngji와 함께 앨범을 녹음했습니다.,N
+GW4,T1495,KARD는 그들이 함께했던 여러 레코드 레이블을 가지고있었습니다.,C
+GW1,T1495,KARD는 아시아 국가에서 그 뿌리를 가지고 있습니다.,E
+GW1,T1495,KARD는 행동 슈퍼 주니어와 동일한 멤버가 있습니다.,N
+GW1,T1495,KARD는 5 년 이상 활동하고 있습니다.,C
+GW1,T1498,Jhen? Aiko는 10 년 반 이상 음악에 적극적으로 참여해 왔습니다.,E
+GW1,T1498,Jhen? Aiko는 전문적으로 노래 작가가되기 전에 노래 작가였습니다.,N
+GW1,T1498,Aiko는 가을 생일이 있습니다.,C
+GW4,T1498,Aiko는 그들이 24 살 때 포장하기 시작했습니다.,E
+GW4,T1498,Jhen? Aiko는 자신의 앨범에 대한 상을 수상했습니다.,N
+GW4,T1498,Jhen? Aiko는 Big Sean과 트랙에 있지 않았습니다.,C
+GW84,T1498,Aiko는 15년 넘게 노래를 부르고 있습니다.,E
+GW84,T1498,Aiko는 Drake를 위해 노래를 썼다.,N
+GW84,T1498,Aiko는 그의 20 년대에 공연을 시작했습니다.,C
+GW60,T1501,스탈린은 2년 동안 소련의 국방부 장관이자 마사일이었다.,E
+GW60,T1501,스탈린은 1912년 이전에 러시아 정치에서 전혀 활동하지 않았다.,N
+GW60,T1501,스탈린이 멤버십이나 사무실을 보유하지 않은 격년이 있습니다.,C
+GW1,T1501,조셉 스탈린은 10 년간의 봉사를 제공했습니다.,E
+GW1,T1501,조셉 스탈린은 일찍 그의 별명을 얻었다.,N
+GW1,T1501,그것은 20 세기의 전환 전에 조셉 스탈린이 장관의 사무실을 폐지했다.,C
+GW28,T1501,조셉 스탈린은 소련의 마샬의 등급으로 상승했다.,E
+GW28,T1501,조셉 스탈린은 경력 정부 공무원이었다.,N
+GW28,T1501,조셉 스탈린은 1 차 세계 대전 동안 소련 군대에서 봉사했다.,C
+GW1,T1504,Jon Bon Jovi의 경력은 40 년 이상 지속되었습니다.,E
+GW1,T1504,"Jon Bon Jovi는 그의 첫 번째 고등학교에서 쫓겨났고, 그 때문에 그는 그 중 두 곳에 갔다.",N
+GW1,T1504,서부 해안은 Jon Bon Jovi가 태어난 곳입니다.,C
+GW28,T1504,존 본 조비(Jon Bon Jovi)는 뉴저지 출신의 록 가수이다.,E
+GW28,T1504,존 본 조비는 4명의 딸과 결혼했다.,N
+GW28,T1504,존 본 조비(Jon Bon Jovi)는 20대 초반부터 활발하게 활동하고 있다.,C
+GW84,T1504,Jon Bon Jovi는 그의 아버지의 이름을 따서 명명되었습니다.,E
+GW84,T1504,Jon Bon Jovi의 아이들은 모두 그의 아내를위한 것입니다.,N
+GW84,T1504,존 본 조비 (Jon Bon Jovi)는 35 년 이상 결혼했습니다.,C
+GW4,T1506,“요르단 해시미트 왕국”은 대부분 아랍인이다.,E
+GW4,T1506,요르단 해시미트 왕국은 대부분 이슬람을 다루고 있습니다.,N
+GW4,T1506,“요르단 해시미트 왕국”은 민주주의가 없습니다.,C
+GW14,T1506,왕 아두달라 2세는 요르단 해시미트 왕국에서 가장 큰 도시에서 지배한다.,E
+GW14,T1506,하원에는 요르단 해시미트 왕국의 하원보다 더 많은 멤버가 있다.,N
+GW14,T1506,오마르 라자즈 (Omar Razzaz)는 주로 아랍인 인구에서 사무실을 맡은 적이 없습니다.,C
+GW1,T1506,요르단의 해시미 왕국은 기독교인의 1/25에 불과합니다.,E
+GW1,T1506,Abdullah II가 요르단 해시미트 왕국의 군주가 되지 않으면 Omar Razzaz가 그의 자리를 차지할 것입니다.,N
+GW1,T1506,요르단 해시미트 왕국에는 기독교인보다 더 많은 아르메니아인이 있습니다.,C
+GW14,T1510,조 바이든은 인기있는 여성 이름으로 구성된 중간 이름을 가지고 있습니다.,E
+GW14,T1510,조 바이든은 닐리아 헌터의 장례식에 참석했다.,N
+GW14,T1510,조 바이든은 그의 전 배우자와 같은 이름을 가진 아이가 없었습니다.,C
+GW84,T1510,조 바이든은 미국의 정치인이다.,E
+GW84,T1510,조 바이든은 델라웨어의 학교에 가기 전에 시라큐즈에서 학교에 다녔다.,N
+GW84,T1510,조 바이든은 소셜 미디어를 사용하지 않는다.,C
+GW4,T1510,조 바이든은 한 번 이상 결혼했다.,E
+GW4,T1510,조 바이든은 두 번째 아내와 함께 모든 자녀를 가졌습니다.,N
+GW4,T1510,조 바이든은 결코 변호사가 되지 않았다.,C
+GW28,T1525,Jujutsu는 일본의 전투 예술의 한 형태입니다.,E
+GW28,T1525,Jujutsu는 수세기 오래된 양손 싸움의 형태입니다.,N
+GW28,T1525,Jujutsu는 일본의 전투 예술의 대부분 잊혀진 형태입니다.,C
+GW14,T1525,Jujutsu는 북아메리카에서 유래하지 않았습니다.,E
+GW14,T1525,일본에서는 다른 어느 나라보다도 더 많은 사람들이 Jujutsu를 연습합니다.,N
+GW14,T1525,유도 대회는 스포츠 애호가를위한 것입니다.,C
+GW1,T1525,Jujutsu는 여러 가지 글꼴을 가지고 있습니다.,E
+GW1,T1525,Seishiro Okazaki는 Jujutsu의 가장 유명한 연습자였습니다.,N
+GW1,T1525,Jujutsu는 올림픽에서 자신의 이름으로 간다.,C
+GW1,T1529,지미 헨드릭스의 죽음은 1970년 가을에 일어났다.,E
+GW1,T1529,지미 헨드릭스는 폴리도르보다 바클레이와 더 많은 레코드를 기록했다.,N
+GW1,T1529,‘지미 헨드릭스’는 10년이 넘는 시간 동안 음악을 만들었다.,C
+GW86,T1529,지미 헨드릭스는 그의 직업에서 10 년 미만 동안 활동했습니다.,E
+GW86,T1529,"비록 그는 또한 노래, 지미 헨드릭스는 주로 기타 플레이어로 알려져 있었다.",N
+GW86,T1529,지미 헨드릭스는 그의 음악 경력 전체를 위해 단 하나의 레이블에 서명되었습니다.,C
+GW84,T1529,‘지미 헨드릭스’는 다른 이름으로 태어났다.,E
+GW84,T1529,Jimi Hendrix는 처음으로 Capitol Records에 서명되었습니다.,N
+GW84,T1529,지미 헨드릭스는 그가 사망했을 때 30대였다.,C
+GW4,T1531,저지고양이는 1800 파운드 이상의 무게를 가질 수 있습니다.,E
+GW4,T1531,Jersey고양이는 여러 종류의 코트와 함께 제공 될 수 있습니다.,N
+GW4,T1531,여성 저지고양이는 남성 저지고양이보다 더 무게를 가질 수 있습니다.,C
+GW28,T1531,남성 Jersey 가축은 여성 Jersey 가축보다 무게가 더 많습니다.,E
+GW28,T1531,Jersey고양이는 잔디로 먹이고 호르몬이 없습니다.,N
+GW28,T1531,Jersey소는 성별에 관계없이 무게에 동일합니다.,C
+GW1,T1531,남성 저지소는 600 파운드 이상의 무게 범위를 가지고 있습니다.,E
+GW1,T1531,“저지” 가축은 “저지” 외부에서 찾을 수 없습니다.,N
+GW1,T1531,여성 저지소는 300 파운드 이상의 무게로 변할 수 있습니다.,C
+GW14,T1532,제퍼슨 스타시피는 록 장르의 적어도 4 개의 다른 행동과 관련이있었습니다.,E
+GW14,T1532,모든 원래 핫 토나 밴드 멤버는 그들이 제퍼슨 스타시피가되었을 때 계속되었다.,N
+GW14,T1532,제퍼슨 스타스키는 1970 년부터 지금까지 지속적으로 일하고 있습니다.,C
+GW1,T1532,제퍼슨 스타스키는 미국 서부 해안에서 시작되었습니다.,E
+GW1,T1532,제퍼슨 스타시피의 일부 동일한 멤버들은 핫 튜나 밴드에 있었다.,N
+GW1,T1532,제퍼슨 스타스키는 총 45 년 이상 활동 해 왔습니다.,C
+GW28,T1532,Jefferson Starship는 1970 년대에 샌프란시스코에서 시작된 록 밴드입니다.,E
+GW28,T1532,제퍼슨 스타시피는 그의 음악을 위해 많은 상을 수상했다.,N
+GW28,T1532,‘제퍼슨 스타시피’는 1970년대 이후 계속해서 공연을 하고 있다.,C
+GW28,T1535,Joe Jonas는 미국의 뮤지션이다.,E
+GW28,T1535,Joe Jonas는 그의 음악에 대한 상을 수상했습니다.,N
+GW28,T1535,‘조 조나스’는 20대 이후로 활발하게 활동하고 있다.,C
+GW1,T1535,‘조 조나스’는 1989년 여름에 태어났다.,E
+GW1,T1535,Joe Jonas는 월트 디즈니를 위해 만들기 전에 할리우드 레코드 라벨에서 음악을 만들었습니다.,N
+GW1,T1535,Joe Jonas는 20 년 이상 음악에 적극적으로 활동 해 왔습니다.,C
+GW0,T1535,조 조나스는 20대 후반에 소피 터너와 약혼했다.,E
+GW0,T1535,‘조이 조나스’는 조나스 형제 중 가장 오래된 사람이다.,N
+GW0,T1535,조 조나스는 그가 자랐던 동일한 상태에서 태어났다.,C
+GW4,T1536,John Carter는 상점에서 이익을 줄 수있었습니다.,E
+GW4,T1536,John Carter는 그의 제작에 대해 몇 가지 상을 수상했습니다.,N
+GW4,T1536,존 카터는 3 시간 이상 지속되었습니다.,C
+GW14,T1536,John Carter의 총 예산은 상자 수입보다 높았습니다.,E
+GW14,T1536,2012년 2월 22일보다는 3월 9일에 더 많은 사람들이 ‘존 카터’를 보았습니다.,N
+GW14,T1536,John Carter는 시나리오를 쓴 동일한 사람이 제작했습니다.,C
+GW1,T1536,존 카터의 실행 시간은 2 시간 이상입니다.,E
+GW1,T1536,마이클 샤보 (Michael Chabo)는 마크 앤드류스 (Mark Andrews)보다 존 카터의 시나리오를 더 많이 썼다.,N
+GW1,T1536,John Carter는 상점에서 예산보다 훨씬 더 많은 것을 만들었습니다.,C
+GW84,T1539,제프리 딘 모건은 태평양 주에서 태어났다.,E
+GW84,T1539,제프리 딘 모건은 워싱턴에서 살았던 것보다 뉴욕에서 더 오래 살았습니다.,N
+GW84,T1539,제프리 딘 모건은 대부분 그의 작품 노래로 알려져 있습니다.,C
+GW28,T1539,제프리 딘 모건 (Jeffrey Dean Morgan)은 엔터테인먼트 배우이다.,E
+GW28,T1539,제프리 딘 모건은 두 딸과 결혼했다.,N
+GW28,T1539,제프리 딘 모건은 그의 십대 때 그의 경력을 시작했다.,C
+GW1,T1539,제프리 딘 모건은 10 년 이상 다시 결혼하기를 기다렸습니다.,E
+GW1,T1539,Anya Longwell은 Jeffrey Dean Morgan의 두 자녀의 어머니입니다.,N
+GW1,T1539,제프리 딘 모건은 1966년 여름에 태어났다.,C
+GW28,T1540,존 C. 테일러는 발명품으로 인정받는 교육받은 사람이다.,E
+GW28,T1540,John C. Taylor는 왕립 공학 아카데미의 멤버입니다.,N
+GW28,T1540,John C. Taylor는 그의 이름에 주목할만한 것이없는 무지한 사람입니다.,C
+GW1,T1540,존 C. 테일러는 4개의 직업을 가지고 있다.,E
+GW1,T1540,존 C. 테일러는 영국에서 평생을 살았다.,N
+GW1,T1540,존 C. 테일러는 1936년 봄에 태어났다.,C
+GW4,T1540,존 C. 테일러는 그들의 삶에서 전자를 개발했습니다.,E
+GW4,T1540,John C. Taylor는 여러 특허를 보유하고 있습니다.,N
+GW4,T1540,존 C. 테일러가 사망했다.,C
+GW84,T1542,‘조킨 피닉스’는 미국 밖에서 태어났다.,E
+GW84,T1542,Joaquin Phoenix는 다른 어느 곳보다 캘리포니아에서 더 오래 살았습니다.,N
+GW84,T1542,Joaquin Phoenix는 그에게 주어진 이름으로 간다.,C
+GW31,T1542,Joaquin Phoenix는 포르투르토 리코에서 Arlyn과 John Phoenix에게 태어났습니다.,E
+GW31,T1542,Joaquin Phoenix는 1982년부터 배우로 활동하고 있다.,N
+GW31,T1542,‘조킨 피닉스’는 캘리포니아나 푸에르토리코에 가본 적이 없다.,C
+GW40,T1542,Joaquin Phoenix에는 한 형제와 세 자매가 있습니다.,E
+GW40,T1542,"조킨 피닉스는 결국 그의 파트너, 루니 마라와 결혼할 것입니다.",N
+GW40,T1542,‘조킨 피닉스’는 할리우드에서 아무것도 제작한 적이 없다.,C
+GW84,T1546,키스 캠벨은 과학에서 그의 작품으로 알려져 있습니다.,E
+GW84,T1546,키스 캠벨의 유일한 논문은 1988 년에 작성되었습니다.,N
+GW84,T1546,‘키스 캠벨’은 오직 하나의 상을 획득했다.,C
+GW28,T1546,‘키스 캠벨’은 영국의 과학자였다.,E
+GW28,T1546,키스 캠벨은 3 년 만에 박사 학위를 완료했습니다.,N
+GW28,T1546,키스 캠벨은 그의 50 년대에 도리 양을 만들었습니다.,C
+GW14,T1546,키스 캠벨은 생물학을 참조하는 적어도 하나의 항목을 썼다.,E
+GW14,T1546,Keith Campbell은 Roslin Institute에서 Shaw Prize를 수상했습니다.,N
+GW14,T1546,Keith Campbell은 클론에 익숙하지 않다.,C
+GW4,T1548,Katie Holmes는 오하이오에서 캘리포니아로 이사했다.,E
+GW4,T1548,Katie Holmes의 아이는 톰 크루즈와 함께 태어났다.,N
+GW4,T1548,Katie Holmes는 한 번 이상 결혼했습니다.,C
+GW84,T1548,Katie Holmes는 5 년 이상 결혼했습니다.,E
+GW84,T1548,Katie Holmes는 오하이오에서 살았던 것보다 캘리포니아에서 더 오래 살았습니다.,N
+GW84,T1548,Katie Holmes는 그녀가 연기하기 시작했을 때 20 세였습니다.,C
+GW28,T1548,Katie Holmes는 이혼 한 사람의 어머니입니다.,E
+GW28,T1548,Katie Holmes는 상을 수상한 여배우입니다.,N
+GW28,T1548,Katie Holmes는 20 대 초반부터 활발하게 활동했습니다.,C
+GW4,T1554,Jupiter et SŽmŽlŽ는 기름 페인트를 사용하여 그렸습니다.,E
+GW4,T1554,Jupiter et SŽmŽlŽ는 파리로 옮겨졌습니다.,N
+GW4,T1554,Jupiter et SŽmŽlŽ는 20세기에 그렸습니다.,C
+GW1,T1554,가장 좁은 지점에서 Jupiter et SŽmŽlŽ는 4 피트 미만의 넓이를 측정합니다.,E
+GW1,T1554,Jupiter et SŽmŽlŽ는 MusŽe National Gustave-Moreau에게만 대출됩니다.,N
+GW1,T1554,MusŽe 국립 Gustave-Moreau는 그림을 그리는 데 몇 년이 걸렸다.,C
+GW40,T1554,Jupiter et SŽmŽlŽ는 영어로 Jupiter와 Semele을 의미합니다.,E
+GW40,T1554,Jupiter et SŽmŽlŽ는 Gustave Moreau의 가면에 기름입니다.,N
+GW40,T1554,Jupiter et SŽmŽlŽ는 이탈리아의 박물관에 있습니다.,C
+GW0,T1593,Jugger는 20 년 이상 연주 된 스포츠입니다.,E
+GW0,T1593,Jugger는 골프 공의 크기의 공으로 재생됩니다.,N
+GW0,T1593,Jugger는 솔로 플레이어 스포츠로 알려져 있습니다.,C
+GW1,T1593,Jugger는 20 세기 말에 처음으로 연주되었습니다.,E
+GW1,T1593,베팅은 나중에 Jugger의 게임에 도입되었습니다.,N
+GW1,T1593,Jugger는 남자가 만든 재료로 연주됩니다.,C
+GW28,T1593,Jugger는 공과 함께 플레이하는 게임입니다.,E
+GW28,T1593,“Jugger”는 미국의 게임이다.,N
+GW28,T1593,Jugger는 단독 게임입니다.,C
+GW74,T1603,제니퍼 앤 가너 (Jennifer Anne Garner)는 23 세에 경력을 시작했습니다.,E
+GW74,T1603,제니퍼 앤 가너 (Jennifer Anne Garner)와 스콧 포일 (Scott Foley)는 3 명의 자녀를 낳았습니다.,N
+GW74,T1603,제니퍼 앤 가너 (Jennifer Anne Garner)는 그녀가 처음 경력을 시작했을 때 결혼했습니다.,C
+GW28,T1603,제니퍼 가너 (Jennifer Garner)는 두 번 이혼 한 배우입니다.,E
+GW28,T1603,제니퍼 가너 (Jennifer Garner)는 3 명의 딸의 유일한 어머니입니다.,N
+GW28,T1603,제니퍼 가너는 십대 때부터 전문적으로 연기하고있다.,C
+GW84,T1603,제니퍼 가너는 20 년 이상 연기하고있다.,E
+GW84,T1603,제니퍼 가너 (Jennifer Garner)는 데니슨 대학에서 그녀의 수업의 상단에서 졸업했습니다.,N
+GW84,T1603,제니퍼 가너 (Jennifer Garner)는 벤 애플렉 (Ben Affleck)과 결혼한 것보다 스콧 포리 (Scott Foley)와 더 오래 결혼했습니다.,C
+GW74,T1613,‘조셉 겔(Josef Mengele)’은 68세 생일을 맞이하기 약 한 달 전에 사망했다.,E
+GW74,T1613,조셉 겔레는 그의 28 번째 생일 후 첫 번째 아내와 결혼했다.,N
+GW74,T1613,Josef Mengele는 군 복무 기간 동안 Martha Mengele와 결혼했습니다.,C
+GW4,T1613,Josef Mengele는 나치당에서 1 개 이상의 상을 수상했습니다.,E
+GW4,T1613,조셉 겔레는 독일을 떠난 후 결혼했다.,N
+GW4,T1613,조셉 겔레는 그들이 태어난 같은 나라에서 죽었다.,C
+GW1,T1613,조셉 겔레의 첫 번째 결혼은 10 년 이상 지속되었습니다.,E
+GW1,T1613,Josef Mengele는 Iron Cross First Class Award를 받았을 때 부상자를위한 블랙 배지를 받았습니다.,N
+GW1,T1613,Josef Mengele는 19 세기 말에 태어났습니다.,C
+GW84,T1617,‘키인’은 1990년대에 공연을 시작했다.,E
+GW84,T1617,‘키인’은 평생 영국에서 살았다.,N
+GW84,T1617,Keane는 휴식을 취하기 전에 20 년 이상 연주했습니다.,C
+GW4,T1617,‘키인’은 더 이상 함께 연주하지 않는다.,E
+GW4,T1617,Keane는 Mt. Desolation과 함께 라이브 공연을 했다.,N
+GW4,T1617,Keane는 죽음의 메탈을 연주하는 것으로 알려져 있습니다.,C
+GW1,T1617,Keane는 2 십 년 미만 동안 활성화되었습니다.,E
+GW1,T1617,Keane는 Interscope 라벨 전에 Fierce Panda에 대한 음악을 만들었습니다.,N
+GW1,T1617,Keane에는 온라인 존재가 없습니다.,C
+GW1,T1622,Jeremiah Weed는 동부 해안에서 만들어집니다.,E
+GW1,T1622,Heublein은 항상 Jermiah Weed의 제조자였습니다.,N
+GW1,T1622,Jeremiah Weed는 분명한 술입니다.,C
+GW4,T1622,Jeremiah Weed는 United States 출신입니다.,E
+GW4,T1622,Jeremiah Weed는 햄버거를위한 많은 알코올을 가지고 있습니다.,N
+GW4,T1622,Jeremiah Weed는 영국에서 만들어졌습니다.,C
+GW28,T1622,‘Jeremiah Weed’는 미국의 부르본이다.,E
+GW28,T1622,Jeremiah Weed는 마리화나와 관련이 없습니다.,N
+GW28,T1622,Jeremiah Weed는 약한 유럽 리커스입니다.,C
+GW4,T1623,제레미 코빈은 4년 넘게 대통령직을 맡았다.,E
+GW4,T1623,제레미 코빈이 토니 벤 (Tony Benn)과 함께 일했다.,N
+GW4,T1623,제레미 코빈은 앤드류 머레이에 대해 결코 투표하지 않았다.,C
+GW28,T1623,제레미 코빈은 몇 년 동안 의원이었다.,E
+GW28,T1623,Andrew Murray와 Jeremy Corbyn은 경쟁자입니다.,N
+GW28,T1623,제레미 코빈 (Jeremy Corbyn)은 10 년 동안 대통령직을 맡았습니다.,C
+GW84,T1623,제레미 코빈 (Jeremy Corbyn)은 5 년 이내에 대통령직을 맡았습니다.,E
+GW84,T1623,제레미 코빈은 단 한 번의 임기를 보냈다.,N
+GW84,T1623,제레미 코빈은 다른 사람들에 의해 성공하고 앞서 왔습니다.,C
+GW84,T1628,Julianne Hough는 10 년 이상 음악을 수행하고 있습니다.,E
+GW84,T1628,Julianne Hough에는 오직 한 명의 형제 인 Derek가 있습니다.,N
+GW84,T1628,Julianne Hough는 5 년 동안 결혼했습니다.,C
+GW1,T1628,Julianne Hough는 그녀의 음악 경력을 시작하기 전에 활발한 댄서와 배우였다.,E
+GW1,T1628,Julianne Hough는 졸업하기 전에 Alta 고등학교를 졸업했습니다.,N
+GW1,T1628,Julianne Hough는 1988 년 가을에 태어났습니다.,C
+GW0,T1628,Julianne Hough는 10 년 전에 그녀의 음악 경력을 시작했습니다.,E
+GW0,T1628,Julianne Hough는 남편 인 Brooks Laich와 함께 스타와 함께 춤을 추었습니다.,N
+GW0,T1628,Julianne Hough는 겨울에 태어났습니다.,C
+GW1,T1629,Jefferson Airplane는 하나 이상의 레코드 레이블을 위해 음악을 만들었습니다.,E
+GW1,T1629,위대한 사회의 일부 멤버들은 또한 제퍼슨 항공기에 있었다.,N
+GW1,T1629,제퍼슨 항공기는 10 년 이상 활동했다.,C
+GW84,T1629,제퍼슨 항공기는 미국 서부에서 시작되었습니다.,E
+GW84,T1629,‘제퍼슨 항공기’가 무대에 올랐다.,N
+GW84,T1629,‘제퍼슨 항공기’는 클래식 음악을 연주했다.,C
+GW28,T1629,Jefferson Airplane는 20 세기 동안 수십 년 동안 공연 한 록 밴드입니다.,E
+GW28,T1629,제퍼슨 항공기는 그의 음악을 위해 많은 상을 수상했다.,N
+GW28,T1629,제퍼슨 항공기는 1965 년부터 중단없이 공연하고있다.,C
+GW0,T1646,‘조 부덴’은 20년째 랩을 하고 있다.,E
+GW0,T1646,Joe Budden은 Slaughterhouse 그룹을 형성했습니다.,N
+GW0,T1646,Joe Budden는 그의 출생 이름과는 다른 무대 이름을 사용합니다.,C
+GW28,T1646,Joe Budden는 뉴저지 출신의 래퍼이다.,E
+GW28,T1646,Joe Budden은 아프리카계 미국인이다.,N
+GW28,T1646,Joe Budden은 20 세에 자신의 경력을 시작했습니다.,C
+GW1,T1646,조 버덴은 그의 경력에서 20 년 동안 활동적이었습니다.,E
+GW1,T1646,Joe Budden는 노래 작가가되기 전에 방송사였습니다.,N
+GW1,T1646,"1980년 봄, ‘조 버덴’이 태어났다.",C
+GW28,T1650,Jemaine Clement은 뉴질랜드 출신의 엔터테인먼트 배우이다.,E
+GW28,T1650,Jemaine Clement은 그의 코미디 루틴에 대한 상을 수상했습니다.,N
+GW28,T1650,Jemaine Clement는 그의 십대 시절에 그의 경력을 시작했습니다.,C
+GW40,T1650,"Jemaine Clement는 기타, 베이스 기타, 그리고 다른 것들 사이에서 드럼을 연주 할 수 있습니다.",E
+GW40,T1650,Jemaine Clement의 무대 이름은 Hiphopopotamus입니다.,N
+GW40,T1650,제이마인 클레멘트의 가장 인기있는 코미디 주제는 정치와 가족 구성원입니다.,C
+GW1,T1650,Jemaine Clement는 10 개 이상의 악기를 연주합니다.,E
+GW1,T1650,Jemaine Clement은 코미디언이 되기 전에 음악가였습니다.,N
+GW1,T1650,"1974년 여름, ‘제이마인 클레멘트’가 태어났다.",C
+GW14,T1651,Johann Jacob Schweppe는 기업가 정신과 시계 제작 경험이 있습니다.,E
+GW14,T1651,Johann Jacob Schweppe는 현재의 Schweppes 미네랄 물 공식을 완성하기 전에 수십 년 동안 일했습니다.,N
+GW14,T1651,Johann Jacob Schweppe는 현재 스위스의 Schweppes 공장에서 생산을 감독하고 있습니다.,C
+GW1,T1651,Johann Jacob Schweppe는 1740 년 후반에 태어났습니다.,E
+GW1,T1651,Johann Jacob Schweppe는 시계 제조사가 된 후 사업가였습니다.,N
+GW1,T1651,Johann Jacob Schweppe는 1821 년 여름에 사망했습니다.,C
+GW28,T1651,Johann Jacob Schweppe는 물이 부드러운 물로 유명합니다.,E
+GW28,T1651,Johann Jacob Schweppe는 칵테일의 인기에 기여했습니다.,N
+GW28,T1651,Johann Jacob Schweppe는 시계 제작 능력으로 더 유명했습니다.,C
+GW28,T1663,Jet는 호주 출신의 록 밴드입니다.,E
+GW28,T1663,Jet은 자신의 음악을 위해 많은 상을 수상했습니다.,N
+GW28,T1663,Jet은 2001 년부터 중단없이 지속적으로 공연하고있다.,C
+GW1,T1663,Jet은 여러 레코드 라벨에서 음악을 만들었습니다.,E
+GW1,T1663,Jet의 일부 멤버들도 The Bamboos에 있었다.,N
+GW1,T1663,"밴드로서, Jet는 총 20 년 이상 활동했다.",C
+GW4,T1663,Jet은 경력 중간에 휴식을 취했습니다.,E
+GW4,T1663,‘Jet’은 오늘 투어를 하고 있습니다.,N
+GW4,T1663,“Jet”는 영국에서 형성되었습니다.,C
+GW4,T1666,"Kansas City, Missouri는 1000 피트 이하의 고도에 있습니다.",E
+GW4,T1666,"Kansas City, Missouri는 규모가 커지고 있습니다.",N
+GW4,T1666,"Kansas City, Missouri는 400 평방 마일 이상의 땅을 가지고 있습니다.",C
+GW1,T1666,"캔자스 시티, 미주리 (Kansas City, Missouri)는 1% 이상의 물입니다.",E
+GW1,T1666,"Kansas City, Missouri는 최근 몇 년 동안 크기가 커졌습니다.",N
+GW1,T1666,"캔자스 시티, 미주리(Kansas City, Missouri)는 90퍼센트가 땅이고 나머지는 물이다.",C
+GW85,T1666,카나스 시티는 Mosty Urban입니다.,E
+GW85,T1666,Kanas City는 큰 지역입니다.,N
+GW85,T1666,카나스 시티는 높이가 별로 높지 않습니다.,C
+GW28,T1670,Jennifer Connelly는 아이비 리그 졸업생과 배우입니다.,E
+GW28,T1670,제니퍼 코넬리 (Jennifer Connelly)는 세 명의 딸과 결혼했습니다.,N
+GW28,T1670,‘제니퍼 코넬리’는 20대 이후로 활발하게 활동하고 있다.,C
+GW84,T1670,제니퍼 코넬리는 두 개의 다른 대학에서 공부했다.,E
+GW84,T1670,제니퍼 코넬리는 예일에 참석하기 전에 스탠포드에 갔다.,N
+GW84,T1670,제니퍼 코넬리(Jennifer Connelly)는 40년 넘게 연기해왔다.,C
+GW4,T1670,제니퍼 코넬리는 그들이 태어난 동일한 상태에서 살고 있습니다.,E
+GW4,T1670,제니퍼 코넬리 (Jennifer Connelly)는 폴 베타니 (Paul Bettany)와 함께 세 자녀를 낳았습니다.,N
+GW4,T1670,제니퍼 코넬리는 단 하나의 대학에 다녔다.,C
+GW0,T1676,Joy Mangano는 20 대 초에 처음으로 결혼했습니다.,E
+GW0,T1676,Joy Mangano는 나중에 세 명의 자녀를 가졌습니다.,N
+GW0,T1676,조이 가노는 결혼하기 전에 성공적인 기업가였다.,C
+GW1,T1676,Joy Mangano는 10 년 이상 결혼했습니다.,E
+GW1,T1676,Joy Mangano의 모든 자녀는 Anthony Miranne를 아버지로 가지고 있습니다.,N
+GW1,T1676,Joy Mangano는 여름 달에 생일을 가지고 있습니다.,C
+GW84,T1676,Joy Mangano는 10 년 이상 결혼했습니다.,E
+GW84,T1676,Joy Mangano의 세 자녀는 모두 Anthony Miranne의 자녀였습니다.,N
+GW84,T1676,Joy Mangano는 그녀가 태어난 후 미국으로 이사했습니다.,C
+GW84,T1681,제시카 알바는 현재 서부 해안에 살고 있습니다.,E
+GW84,T1681,‘제시카 알바’는 1980년대에 공연을 시작했다.,N
+GW84,T1681,제시카 알바와 그녀의 남편은 세 명 이상의 자녀가 있습니다.,C
+GW28,T1681,제시카 알바와 그녀의 가족은 평생 동안 재정적으로 안전합니다.,E
+GW28,T1681,제시카 알바는 그녀의 사업에서 그녀의 재산의 대부분을 얻었다.,N
+GW28,T1681,제시카 알바는 30대 초에 결혼했다.,C
+GW1,T1681,제시카 알바는 2 년 반 동안 연기 활동을하고있다.,E
+GW1,T1681,제시카 알바는 배우가되기 전에 비즈니스 여성이었다.,N
+GW1,T1681,제시카 알바는 15 년 이상 캐시 워렌과 결혼해 왔습니다.,C
+GW84,T1693,Jedediah Strutt는 텍스트에있는 인물이었습니다.,E
+GW84,T1693,Jedediah Strutt와 그의 아내는 함께 일했습니다.,N
+GW84,T1693,Jedediah Strutt와 그의 아내는 단 한 명의 자녀가있었습니다.,C
+GW28,T1693,Jedediah Strutt는 18 세기 영국인이었다.,E
+GW28,T1693,Jedediah Strutt는 의류 제조사였습니다.,N
+GW28,T1693,Jedediah Strutt는 5 명의 딸과 결혼했습니다.,C
+GW1,T1693,Jedediah Strutt는 18 세기에 태어났습니다.,E
+GW1,T1693,Anne Daniels는 Jedediah Strutt의 모든 자녀의 어머니였습니다.,N
+GW1,T1693,Jedediah Strutt은 1797 년 가을에 사망했습니다.,C
+GW74,T1698,Judwaa 2는 예산의 3 배 이상을 벌었습니다.,E
+GW74,T1698,Fox Star Studios는 인도에 본사를 두고 있습니다.,N
+GW74,T1698,Judwaa 2는 같은 사람에 의해 편집되고 감독되었습니다.,C
+GW84,T1698,Judwaa 2는 예산보다 두 배 이상의 돈을 벌었습니다.,E
+GW84,T1698,Judwaa 2는 Sajid Nadiadwala가 제작한 최초의 영화입니다.,N
+GW84,T1698,Judwaa 2는 2 시간 미만으로 실행됩니다.,C
+GW28,T1698,Judwaa 2는 힌두 언어의 인도 영화입니다.,E
+GW28,T1698,Judwaa 2는 유다와의 연속이다.,N
+GW28,T1698,Judwaa 2는 스튜디오를 위해 수익성이 없었습니다.,C
+GW1,T1700,Kamloops정치인은 선출되기 위해 투표를 받아야합니다.,E
+GW1,T1700,"만약 켄 크리스티안이 ‘캠루프스’ 시장으로 사임한다면, 캐시 맥리오드가 그를 대신할 가능성이 높다.",N
+GW1,T1700,토드 스톤은 Kamloops의 MLA 역할을 상속받았다.,C
+GW84,T1700,캄보디아에는 한 명의 시장이 있다.,E
+GW84,T1700,Kamloops시의회는 일주일에 한 번 모임,N
+GW84,T1700,Kamloops는 대통령에 의해 지배됩니다.,C
+GW4,T1700,Kamloops는 민주주의 구조를 가지고 있습니다.,E
+GW4,T1700,Kamloops는 시장에 대한 선거가 있습니다.,N
+GW4,T1700,Kamloops는 지배 기관이 없습니다.,C
+GW0,T1701,John Barrowman은 여러 종류의 책을 썼다.,E
+GW0,T1701,John Barrowman는 그의 40 년대에 연기를 시작했습니다.,N
+GW0,T1701,John Barrowman은 그의 출생 국가의 시민입니다.,C
+GW1,T1701,John Barrowman은 1967 년 봄에 태어났습니다.,E
+GW1,T1701,John Barrowman는 노래가되기 전에 작가였습니다.,N
+GW1,T1701,존 바로먼은 10 년 이상 결혼했습니다.,C
+GW84,T1701,“존 바로먼”은 30년 동안 연주해 왔습니다.,E
+GW84,T1701,존 바로먼은 미국에서 결혼했다.,N
+GW84,T1701,‘존 바로우먼’이 40대다.,C
+GW1,T1705,조디 포스터는 50 년 이상 활발한 경력을 쌓았습니다.,E
+GW1,T1705,Alicia Christian Foster는 어린 나이에 Jodie라는 이름을 채택했습니다.,N
+GW1,T1705,‘조디 포스터’는 5살 때 연기를 시작했다.,C
+GW28,T1705,조디 포스터는 카메라 앞과 뒤에서 작동합니다.,E
+GW28,T1705,조디 포스터는 레즈비언이다.,N
+GW28,T1705,조디 포스터는 그녀의 늦은 십대 이후로 활동적입니다.,C
+GW4,T1705,조디 포스터(Jodie Foster)는 52세 때 결혼했다.,E
+GW4,T1705,조디 포스터는 항상 로스 앤젤레스에 살고있다.,N
+GW4,T1705,조디 포스터는 자신의 이름을 그녀의 무대 이름으로 사용합니다.,C
+GW84,T1710,짐 모리슨은 1940년대에 태어났다.,E
+GW84,T1710,Jim Morrison는 The Doors의 주요 가수였습니다.,N
+GW84,T1710,Jim Morrison은 10 년 넘게 활발한 연주자였습니다.,C
+GW4,T1710,짐 모리슨(Jim Morrison)은 30세가 되기 전에 사망했다.,E
+GW4,T1710,짐 모리슨은 십대 때 공연을 시작했다.,N
+GW4,T1710,짐 모리슨은 미국에서 사망했다.,C
+GW14,T1710,짐 모리슨은 그가 태어난 곳과는 다른 대륙에서 죽었다.,E
+GW14,T1710,당신은 thedoors.com에서 Jim Morrison의 하나 이상의 비디오를 볼 수 있습니다.,N
+GW14,T1710,Jim Morrison은 결코 별명을 가지고 있지 않았습니다.,C
+GW4,T1711,John Lithgow는 그들이 17 살 때부터 연기하고있다.,E
+GW4,T1711,John Lithgow는 모두 Jean Taynton과 함께 자녀를 가졌습니다.,N
+GW4,T1711,John Lithgow는 그가 태어난 같은 나라에서 대학을 졸업했습니다.,C
+GW1,T1711,“John Lithgow”의 생일이 가을에 다가오고 있습니다.,E
+GW1,T1711,John Lithgow의 모든 자녀는 Mary Yeager를 어머니로 가지고 있습니다.,N
+GW1,T1711,John Lithgow는 50 년 이상 활발한 경력을 쌓았습니다.,C
+GW84,T1711,John Lithgow는 가을에 태어났습니다.,E
+GW84,T1711,John Lithgow의 자녀들은 모두 그의 아내와 동일했습니다.,N
+GW84,T1711,John Lithgow는 56보다 짧습니다.,C
+GW84,T1719,“Jor-El”는 가상의 캐릭터입니다.,E
+GW84,T1719,Jor-El는 과학 위원회의 회원입니다.,N
+GW84,T1719,Jor-El은 지구 행성에서 왔습니다.,C
+GW4,T1719,Jor-El은 슈퍼맨 프랜차이즈에 포함되어 있습니다.,E
+GW4,T1719,Jor-El는 그들이 필요로하는 모든 것을 만들 수 있습니다.,N
+GW4,T1719,Jor-El은 슈퍼맨의 악당으로 알려져 있습니다.,C
+GW31,T1719,Jor-El는 슈퍼맨의 동맹국이며 크립토나이트에 면역합니다.,E
+GW31,T1719,Jor-El은 슈퍼맨의 sidekick로 DC 만화의 많은 책에 나타납니다.,N
+GW31,T1719,Jor-El은 지구 행성에서 태어났고 매우 약합니다.,C
+GW84,T1721,Kamelot는 남부 주에서 유래 한 밴드입니다.,E
+GW84,T1721,‘카멜로트’는 플로리다에서만 공연한다.,N
+GW84,T1721,Kamelot는 20 년 이내에 음악을 수행했습니다.,C
+GW1,T1721,Kamelot는 20 년 이상 밴드로서 활동하고 있습니다.,E
+GW1,T1721,Kamelot은 Edel을 위해 음악을 만들기 전에 Sanctuary 라벨에서 음악을 만들었습니다.,N
+GW1,T1721,Kamelot은 서부 해안에서 시작했습니다.,C
+GW28,T1721,Kamelot는 플로리다 출신의 하이 메탈 밴드입니다.,E
+GW28,T1721,Kamelot은 자신의 음악을 위해 많은 상을 수상했습니다.,N
+GW28,T1721,Kamelot는 3 년 이상 연주하고있다.,C
+GW28,T1725,"지미 키멜은 남편, 아버지 및 엔터테인먼트입니다.",E
+GW28,T1725,‘지미 킴멜’은 4명의 딸과 결혼했다.,N
+GW28,T1725,지미 키멜은 그의 십대 때부터 활발하게 활동해 왔습니다.,C
+GW68,T1725,지미 킴멜은 두 번 결혼했고 4 명의 자녀가 있습니다.,E
+GW68,T1725,그의 동생 조나단은 그보다 두 살 더 늙었다.,N
+GW68,T1725,Jimmy는 23 세 때 Gina Maddy와 결혼했습니다.,C
+GW1,T1725,지미 킴멜은 그의 20대 초반에 그의 경력을 시작했다.,E
+GW1,T1725,지미 키멜은 그가 영화에 출연하기 전에 라디오에 있었다.,N
+GW1,T1725,지미 키멜은 15년 넘게 지나 매디와 결혼했다.,C
+GW93,T1738,Isabela Moner는 브로드웨이 라벨 아래에 있습니다.,E
+GW93,T1738,Isabela Moner는 두 개의 상을 수상했습니다.,N
+GW93,T1738,“Isabela Moner”는 뉴스 기자입니다.,C
+GW84,T1738,Isabela Moner는 현재 십대입니다.,E
+GW84,T1738,Isabela Moner는 평생 오하이오에서 살았습니다.,N
+GW84,T1738,이사벨라 모너 (Isabela Moner)는 2 년 이내에 노래를 부른다.,C
+GW28,T1738,Isabela Moner는 그녀의 십대에 그녀의 경력을 시작했다.,E
+GW28,T1738,Isabela Moner는 그녀의 연기에 대한 상을 수상했습니다.,N
+GW28,T1738,Isabela Moner는 성인 여배우입니다.,C
+GW28,T1739,Houses of the Holy는 3년 동안 녹음되고 발매된 록 앨범이다.,E
+GW28,T1739,Houses of the Holy는 음악을 위해 많은 상을 수상했습니다.,N
+GW28,T1739,성령의 집은 여러 라벨 아래에서 출시되었습니다.,C
+GW93,T1739,1973년 ‘성령의 집’이 출간되었다.,E
+GW93,T1739,Houses of the Holy는 런던의 Island Studios에서 롤링 스톤스 모바일 스튜디오보다 오래 녹음되었습니다.,N
+GW93,T1739,Houses of the Holy는 지미 블랙이 제작한 작품이다.,C
+GW2,T1739,Houses of the Holy는 Jimmy Page가 제작했으며 1973 년에 발표되었습니다.,E
+GW2,T1739,‘성령의 집’은 이중 앨범이다.,N
+GW2,T1739,성령의 집은 단일 스튜디오에서 녹음되었습니다.,C
+GW93,T1758,아이스크림 콘의 주요 성분은 밀과 설탕입니다.,E
+GW93,T1758,아이스크림 콘은 아이스크림을 제공하기 위해 컵보다 더 인기가 있습니다.,N
+GW93,T1758,아이스크림 콘은 약 100 kcal의 에너지를 제공합니다.,C
+GW4,T1758,아이스크림 콘은 많은 다른 품종으로 나옵니다.,E
+GW4,T1758,아이스크림 코너는 미국에서 만들어졌습니다.,N
+GW4,T1758,아이스크림 콘은 보통 100 칼로리 이상을 가지고 있습니다.,C
+GW28,T1758,“Ice cream cone”는 설탕의 치료법입니다.,E
+GW28,T1758,“아이스크림 콘”은 생산하기에 저렴합니다.,N
+GW28,T1758,아이스크림 콘은 많은 칼로리를 가지고 있습니다.,C
+GW85,T1763,Ingrid Goes West - 매트 스파이서,E
+GW85,T1763,잉글리드 가서 웨스트 (Ingrid Goes West) 미국 영화,N
+GW85,T1763,Ingrid Goes West는 TV를 위해 만들어졌습니다,C
+GW28,T1763,잉그리드 가서 웨스트 (영어: Ingrid Goes West)는 미국 독립 영화이다.,E
+GW28,T1763,전체적으로 Ingrid Goes West는 제작자에게 돈을 잃었습니다.,N
+GW28,T1763,Ingrid Goes West는 유명한 할리우드 배우들의 주인공입니다.,C
+GW93,T1763,팀 화이트 (Tim White)는 Ingrid Goes West의 감독 중 한 명이었습니다.,E
+GW93,T1763,Ingrid Goes West는 상점에서 만든 것보다 더 큰 예산을 가지고있었습니다.,N
+GW93,T1763,Ingrid Goes West는 60 분의 실행 시간을 보유하고 있습니다.,C
+GW85,T1780,Israel Kamakawiwo ole은 1959 년에 태어났습니다.,E
+GW85,T1780,Israel Kamakawiwo Ole는 노래가,N
+GW85,T1780,이스라엘 Kamakawiwo ole는 90 년대에 큰 것이 아니 었습니다.,C
+GW28,T1780,Israel Kamakawiwo Ole는 하와이의 엔터테인먼트가었습니다.,E
+GW28,T1780,Israel Kamakawiwo ole는 그의 깊은 바리톤 목소리로 알려져있었습니다.,N
+GW28,T1780,Israel Kamakawiwo ole는 그의 20 대 초반에 그의 경력을 시작했습니다.,C
+GW14,T1780,이스라엘 Kamakawiwo ole는 지구상에서 가장 햇빛나는 곳 중 하나에 살았습니다.,E
+GW14,T1780,Israel Kamakawiwo ole는 녹음에서 노래하는 것보다 ukulele를 더 자주 연주했습니다.,N
+GW14,T1780,‘이스라엘 카마카위우 올’은 올해 국제 투어를 진행할 예정이다.,C
+GW84,T1790,힐스보로 재앙은 봄에 일어났다.,E
+GW84,T1790,힐스보로 재해로 부상당한 대부분의 사람들은 다음날 석방되었다.,N
+GW84,T1790,힐스보로 재해로 100명 이상이 사망했다.,C
+GW14,T1790,힐스보로 재난 동안 비사상자가 사망자보다 약 7 배 더 많았습니다.,E
+GW14,T1790,힐스보로 재난 이후 힐스보로 경기장에서 더 이상 사망자가 없었다.,N
+GW14,T1790,스테판 포퍼 (Stefan Popper)는 힐스보로 독립 패널 (Hillsborough Independent Panel)에 의해 심문되었습니다.,C
+GW60,T1790,테일러 보고서는 재앙 이후 1년 만에 완료되었습니다.,E
+GW60,T1790,테일러 보고서와 힐스보로 독립 패널 (Hillsborough Independent Panel)은 재앙에 관해 질문한 유일한 사람들입니다.,N
+GW60,T1790,존 골드링 경의 두 번째 조사는 힐스보로 독립 패널(Hillsborough Independent Panel) 앞에 있었다.,C
+GW4,T1798,Hindi Medium는 극장에서 300 개 이상의 크로어를 만들었습니다.,E
+GW4,T1798,Hindi Medium는 제작에 몇 년이 걸렸습니다.,N
+GW4,T1798,Hindi Medium은 2 시간 미만의 길이였습니다.,C
+GW93,T1798,Hindi Medium에는 4 명의 주연 배우 / 여배우가 있습니다.,E
+GW93,T1798,Hindi Medium는 인도에서만 관찰되었습니다.,N
+GW93,T1798,Hindi Medium 실행 시간은 2 시간 미만입니다.,C
+GW85,T1798,Hindi Medium의 주인공은 Irfan Khan이다.,E
+GW85,T1798,Hindi Medium은 2017 년에 나왔습니다,N
+GW85,T1798,Hindi Medium는 인기가 없습니다,C
+GW84,T1804,‘그것’은 소설에 기초했다.,E
+GW84,T1804,It는 2 시간 이상 실행됩니다.,N
+GW84,T1804,It는 상자에 10 배 이상의 예산을 만들었습니다.,C
+GW93,T1804,It는 Warner Bros. Pictures에 의해 배포되었습니다.,E
+GW93,T1804,‘It’의 프로듀서는 로이 리다.,N
+GW93,T1804,It은 2 시간 미만의 실행 시간을 가지고 있습니다.,C
+GW28,T1804,It는 책을 바탕으로 한 미국 영화입니다.,E
+GW28,T1804,It는 이전 영화의 리메이크입니다.,N
+GW28,T1804,“그것”은 생산자들에게 이익이 없었다.,C
+GW93,T1808,1984 겨울 올림픽에서 아이스 하키는 2 월에 수행되었습니다.,E
+GW93,T1808,1984 겨울 올림픽에서 아이스 하키의 우승자는 캐나다였다.,N
+GW93,T1808,1984 겨울 올림픽에서 아이스 하키에 14 개의 팀이있었습니다.,C
+GW85,T1808,1984 겨울 올림픽에서 아이스 하키는 2 월,E
+GW85,T1808,"1984 겨울 올림픽에서 아이스 하키는 Zetra 올림픽 홀, Skenderija 올림픽 홀에있을 것입니다",N
+GW85,T1808,1984 겨울 올림픽에서 아이스 하키는 미국에 있었다,C
+GW84,T1808,아이스 하키는 84 올림픽에서 일주일 이상 연주되었습니다.,E
+GW84,T1808,미국은 84회 올림픽에서 하키를 연주한 팀 중 하나였다.,N
+GW84,T1808,올림픽 84 경기에서 빙하 하키는 3 주 이상 지속되었습니다.,C
+GW93,T1815,이타카는 물 지역보다 더 큰 땅을 가지고 있습니다.,E
+GW93,T1815,이타카는 뉴욕에서 세 번째로 인구가 많은 도시입니다.,N
+GW93,T1815,Ithaca는 500 피트의 고도를 가지고 있습니다.,C
+GW84,T1815,이타카는 도시 지역보다 지하철 지역에 더 많은 땅을 가지고 있습니다.,E
+GW84,T1815,대부분의 관광객들은 이타카의 지하철 지역을 방문합니다.,N
+GW84,T1815,Ithaca는 대략 바다 수준에 있습니다.,C
+GW28,T1815,이타카시에는 도시 지역보다 덜 땅이 있습니다.,E
+GW28,T1815,“이타카”는 바다에서 멀리 떨어져 있습니다.,N
+GW28,T1815,이타카는 육지와 같은 물 지역을 가지고 있습니다.,C
+GW86,T1838,Iwan Rheon의 음악은 하나 이상의 음악 장르에 속하는 것으로 특징 지어졌습니다.,E
+GW86,T1838,Iwan Rheon은 현재 웨일즈에 거주하고 있습니다.,N
+GW86,T1838,뮤지션으로서 Iwan Rheon은 항상 가수로 엄격하게 연주했습니다.,C
+GW93,T1838,Iwan Rheon은 1985 년에 태어났습니다.,E
+GW93,T1838,Iwan Rheon는 기타 연주자로 가장 잘 알려져 있습니다.,N
+GW93,T1838,Iwan Rheon은 2002 년부터 현재까지 멈추지 않고 활동하고 있습니다.,C
+GW28,T1838,Iwan Rheon은 영국의 엔터테인먼트 작가입니다.,E
+GW28,T1838,Iwan Rheon에는 한 명의 딸이 있습니다.,N
+GW28,T1838,Iwan Rheon은 데뷔 이후 끊임없이 공연했습니다.,C
+GW28,T1852,Jackie는 미국보다 앞서 유럽에서 프리미어를 했다.,E
+GW28,T1852,Jackie는 주제에 대한 비판적인 칭찬을 받았습니다.,N
+GW28,T1852,Jackie는 같은 사람에 의해 작성되고 감독되었습니다.,C
+GW93,T1852,잭은 예산의 두 배 이상을 만들었습니다.,E
+GW93,T1852,Juan De Dios Larrain은 Jackie의 주요 스타입니다.,N
+GW93,T1852,‘잭’은 한 나라에서 녹음되었다.,C
+GW85,T1852,Jackie는 Pablo Larra?n이 감독한 영화다.,E
+GW85,T1852,Jackie는 미국에서 잘 알려져 있습니다.,N
+GW85,T1852,“Jackie”는 스페인어로,C
+GW28,T1878,‘인격 위기’는 많은 사람들의 협력적 노력이다.,E
+GW28,T1878,‘인식 위기’는 한 번의 출판물이었다.,N
+GW28,T1878,‘인격 위기’는 단순한 단어를 가진 소설이다.,C
+GW60,T1878,펜은 이 책의 창조자이기도 하다.,E
+GW60,T1878,‘인격 위기’는 브래드 멜츠의 유일한 책이다.,N
+GW60,T1878,커버 아티스트도 이 책의 창작자였다.,C
+GW84,T1878,인격 위기의 작가는 또한 제작자 중 한 명이었습니다.,E
+GW84,T1878,‘인격 위기’는 브래드 멜츠가 쓴 유일한 만화이다.,N
+GW84,T1878,‘인격위기’는 한 사람만이 만들어냈다.,C
+GW84,T1880,잭 니콜슨은 세 번이나 결혼했다.,E
+GW84,T1880,잭 니콜슨의 아이들은 모두 같은 어머니가 있다.,N
+GW84,T1880,잭 니콜슨이 80대 때 사망했다.,C
+GW28,T1880,잭 니콜슨(Jack Nicholson)은 미국의 배우이다.,E
+GW28,T1880,잭 니콜슨은 결혼했고 3 명의 딸과 2 명의 아들이 있습니다.,N
+GW28,T1880,잭 니콜슨은 20대 초반에 경력을 시작했다.,C
+GW85,T1880,잭 니콜슨은 민주당 의원이다.,E
+GW85,T1880,잭 니콜슨(Jack Nicholson)은 미국 영화 스타이다.,N
+GW85,T1880,잭 니콜슨(Jack Nicholson)은 팝 노래가,C
+GW14,T1887,"적어도 한 가지 경우에, 같은 사람이 Idiocracy를 쓰고 생산하는 데 관여했다.",E
+GW14,T1887,테오도르 샤피로 (Theodore Shapiro)는 하나 이상의 마이크 판사 (Mike Judge) 영화에 대한 음악을 썼다.,N
+GW14,T1887,Idiocracy는 생산 비용을 감당하기 위해 상점에서 충분히 만들었습니다.,C
+GW4,T1887,Idiocracy는 같은 사람이 감독하고 썼다.,E
+GW4,T1887,영화 Idiocracy는 몇 가지 상을 수상했다.,N
+GW4,T1887,영화 Idiocracy는 2 시간 이상 지속됩니다.,C
+GW28,T1887,‘Idiocracy’는 미국 영화다.,E
+GW28,T1887,‘Idiocracy’는 할리우드 코미디 영화다.,N
+GW28,T1887,Idiocracy는 영화 제작자들에게 수익성이있었습니다.,C
+GW94,T1891,"“Hip, Hip, Hurrah!”는 1888년에 만들어졌습니다.",E
+GW94,T1891,"Hip, Hip, Hurrah!는 영국에서 고텐버그 미술관으로 옮겨졌습니다.",N
+GW94,T1891,"“Hip, Hip, Hurrah!”는 모자이크입니다.",C
+GW4,T1891,"“Hip, Hip, Hurrah!”는 19세기에 그려진 그림이다.",E
+GW4,T1891,"“Hip, Hip, Hurrah!”는 스웨덴에서 그렸습니다.",N
+GW4,T1891,"“Hip, Hip, Hurrah!”가 파리에서 전시되었습니다.",C
+GW28,T1891,"“Hip, Hip, Hurrah!”는 19세기 예술 작품이다.",E
+GW28,T1891,"Hip, Hip, Hurrah!는 페더 세비인 크라이어의 가장 유명한 작품이다.",N
+GW28,T1891,"Hip, Hip, Hurrah!는 천장에 그려진 벽화입니다.",C
+GW84,T1956,봄에 태어난 Ill Have Another,E
+GW84,T1956,Ill Have Another는 마리오 구티레즈가 항상 타고있었습니다.,N
+GW84,T1956,Ill Have Another는 대부분의 경주를 잃었다.,C
+GW28,T1956,Ill Have Another는 미국의 레이싱마스이다.,E
+GW28,T1956,Ill Have Another는 소유자에게 수익을 가져 왔습니다.,N
+GW28,T1956,Ill Have Another는 승리보다 더 많은 경주를 잃었다.,C
+GW93,T1956,Ill Have Another는 카스네트 색상이었습니다.,E
+GW93,T1956,Ill Have Another는 다른 나라로 여행한 적이 없습니다.,N
+GW93,T1956,Ill Have Another는 3 백만 달러 이상을 벌었다.,C
+GW28,T1966,섬과 유니버설 음악 레벨은 Illuminate를 생산했다.,E
+GW28,T1966,Illuminate는 중요한뿐만 아니라 재정적 인 성공을 거두었습니다.,N
+GW28,T1966,Illuminate는 2 년 동안 녹음되고 제작되었습니다.,C
+GW93,T1966,‘Illuminate’는 2016년 녹음됐다.,E
+GW93,T1966,Jake Gosling은 Illuminate의 주요 프로듀서입니다.,N
+GW93,T1966,Illuminate는 1 시간 이상의 실행 시간을 가지고 있습니다.,C
+GW4,T1966,Illuminate는 하나 이상의 라벨에서 출시되었습니다.,E
+GW4,T1966,Illuminate는 녹음에 거의 1 년이 걸렸습니다.,N
+GW4,T1966,Illuminate는 1 시간 이상 지속되었습니다.,C
+GW28,T1969,Imagine Dragons는 미국의 록 밴드이다.,E
+GW28,T1969,Imagine Dragons는 그의 음악에 대해 수많은 상을 수상했습니다.,N
+GW28,T1969,Imagine Dragons는 전혀 마케팅을하지 않습니다.,C
+GW93,T1969,Imagine Dragons는 이집트어와 관련이 있습니다.,E
+GW93,T1969,Imagine Dragons 밴드의 모든 멤버들은 라스베가스에서 태어났습니다.,N
+GW93,T1969,Imagine Dragons는 더 이상 활성화되지 않습니다.,C
+GW72,T1969,Imagine Dragons는 적어도 10 년 동안 활성화되었습니다.,E
+GW72,T1969,Imagine Dragons는 현재 The Moth & The Flame와 함께 투어를 진행 중입니다.,N
+GW72,T1969,Imagine Dragons가 캘리포니아에서 밴드를 시작했습니다.,C
+GW86,T1977,Jake Gyllenhaal은 12 세가되기 전에 배우로 활동했습니다.,E
+GW86,T1977,Jake Gyllenhaal은 캘리포니아 주 로스앤젤레스에 살고 있습니다.,N
+GW86,T1977,Jake Gyllenhaal은 미국 중서부에서 태어났습니다.,C
+GW4,T1977,Jake Gyllenhaal은 11살 때 연기를 시작했다.,E
+GW4,T1977,Jake Gyllenhaal은 캘리포니아에서 자신의 삶을 살았습니다.,N
+GW4,T1977,Jake Gyllenhaal은 그가 태어난 동일한 주에서 대학에 다녔습니다.,C
+GW84,T1977,Jake Gyllenhaal은 고등학교 후에 대학에 갔다.,E
+GW84,T1977,Jake Gyllenhaal은 인생의 대부분을 서부 해안에서 살았습니다.,N
+GW84,T1977,Jake Gyllenhaal은 20대 때부터 연기를 했다.,C
+GW84,T1988,칼 블록은 1866년에 그림을 그렸다.,E
+GW84,T1988,칼 블록의 대부분의 작품은 1860년대에 만들어졌다.,N
+GW84,T1988,칼 블록은 결코 기름으로 그림을 그리지 않았다.,C
+GW28,T1988,로마 Osteria는 19 세기의 예술 작품입니다.,E
+GW28,T1988,로마 Osteriais Carl Bloch의 가장 유명한 작품.,N
+GW28,T1988,로마의 Osteria는 넓은 것보다 높습니다.,C
+GW93,T1988,로마 Osteria는 1866 년에 만들어졌습니다.,E
+GW93,T1988,로마 Osteria에서 여러 상을 수상했습니다.,N
+GW93,T1988,In a Roman Osteria는 런던에서 전시되어 있습니다.,C
+GW28,T2007,인도 공화국은 다국적이고 다국적이고 다국적이다.,E
+GW28,T2007,인도 공화국은 세속적 인 정부가있는 다종교 사회입니다.,N
+GW28,T2007,시키즘은 대다수의 종교다.,C
+GW103,T2007,뉴델리는 인도 공화국의 수도이다.,E
+GW103,T2007,힌디어와 영어는 인도 공화국의 공식 언어입니다.,N
+GW103,T2007,Sumitra Mahajan은 Lok Sabha의 연사입니다.,C
+GW93,T2007,인도의 주요 종교는 힌두교입니다.,E
+GW93,T2007,인도 공화국은 언제나 연방 의회가 있었다.,N
+GW93,T2007,만다린은 인도 공화국에서 인정받는 언어입니다.,C
+GW93,T2033,‘사랑의 개’는 한시간도 안 걸린다.,E
+GW93,T2033,Hounds of Love는 진보적 인 팝 앨범으로 가장 잘 알려져 있습니다.,N
+GW93,T2033,Hounds of Love는 워너가 제작한 작품이다.,C
+GW14,T2033,케이트 부시는 영국에서 적어도 하나의 앨범을 녹음했습니다.,E
+GW14,T2033,Hounds of Love의 몇 분은 Abbey Road Studios보다 Windmill Lane Studios에서 녹음되었습니다.,N
+GW14,T2033,EMI는 팝 앨범을 발매한 적이 없다.,C
+GW28,T2033,Hounds of Love는 2 년 동안 녹음되고 발매 된 음악 앨범입니다.,E
+GW28,T2033,“Hounds of Love”는 수백만 앨범을 팔았다.,N
+GW28,T2033,‘사랑의 개’는 독립적으로 제작되었다.,C
