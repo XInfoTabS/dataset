@@ -1,0 +1,106 @@
+{
+    "Titel": [
+        "Bromine"
+    ],
+    "Aussprache": [
+        "/--bro-mi-n, -m-n, -ma-n/ ( BROH-meen, --min, --myn )"
+    ],
+    "Aussehen": [
+        "rötlich-braun"
+    ],
+    "Standard Atomgewicht Ar, std(Br)": [
+        "[79.901, 79.907] konventionell: 79.904"
+    ],
+    "Atomnummer (Z)": [
+        "35"
+    ],
+    "Gruppe": [
+        "Gruppe 17 (Halogen)"
+    ],
+    "Zeitraum": [
+        "Zeitraum 4"
+    ],
+    "Block": [
+        "p-block"
+    ],
+    "Elementkategorie": [
+        "Reaktives Nichtmetall"
+    ],
+    "Elektronenkonfiguration": [
+        "[Ar] 3d 10 4s 2 4p 5"
+    ],
+    "Elektronen pro Schale": [
+        "2, 8, 18, 7"
+    ],
+    "Phase bei GfbV": [
+        "flüssig"
+    ],
+    "Schmelzpunkt": [
+        "(Br 2 ) 265.8 K (−7.2 °C, 19 °F)"
+    ],
+    "Siedepunkt": [
+        "(Br 2 ) 332.0 K (58,8 °C, 137,8 °F)"
+    ],
+    "Dichte (nahe r.t.)": [
+        "Br 2, Flüssigkeit: 3.1028 g/cm 3"
+    ],
+    "Dreifachpunkt": [
+        "265,90 K, 5.8 kPa"
+    ],
+    "Kritischer Punkt": [
+        "588 K, 10.34 MPa"
+    ],
+    "Fusionswärme": [
+        "(Br 2 ) 10.571 kJ/mol"
+    ],
+    "Dampfwärme": [
+        "(Br 2 ) 29.96 kJ/mol"
+    ],
+    "Molare Wärmeleistung": [
+        "(Br 2 ) 75.69 J/(mol·K)"
+    ],
+    "Oxidationszustände": [
+        "−1, +1, +3, +4, +5, +7 (ein stark saures Oxid)"
+    ],
+    "Elektronegativität": [
+        "Pauling-Skala: 2.96"
+    ],
+    "Ionisierungsenergien": [
+        "1.: 1139.9 kJ/mol",
+        "2.: 2103 kJ/mol",
+        "3.: 3470 kJ/mol"
+    ],
+    "Atomradius": [
+        "empirisch: 120 Uhr"
+    ],
+    "Gleichwertiger Radius": [
+        "120±3 pm"
+    ],
+    "Van der Waals Radius": [
+        "185 pm"
+    ],
+    "Natürliches Vorkommen": [
+        "Urursprünglich"
+    ],
+    "Schallgeschwindigkeit": [
+        "206 m/s (bei 20 °C)"
+    ],
+    "Wärmeleitfähigkeit": [
+        "0,122 W/(m·K)"
+    ],
+    "Elektrischer Widerstand": [
+        "7.8×10 10 Ω·m (bei 20 °C)"
+    ],
+    "Magnetische Ordnung": [
+        "Diamagnetisch"
+    ],
+    "Magnetische Empfindlichkeit": [
+        "−56.4·10 −6 cm 3 /mol"
+    ],
+    "CAS-Nummer": [
+        "7726-95-6"
+    ],
+    "Entdeckung und erste Isolation": [
+        "Antoine Jérôme Balard und Carl Jacob Löwig (1825)"
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "제목": [
+        "Xiaomi Mi 2S"
+    ],
+    "코드 이름": [
+        "아티스트"
+    ],
+    "제조사": [
+        "Xiaomi Tech"
+    ],
+    "시리즈": [
+        "Xiaomi Phone"
+    ],
+    "호환되는 네트워크": [
+        "GSM 850, 900, 1800 및 1900 MHz & WCDMA 850, 1900 및 2100 MHz"
+    ],
+    "이전": [
+        "Xiaomi Mi2"
+    ],
+    "후계자": [
+        "Xiaomi Mi3"
+    ],
+    "관련": [
+        "Xiaomi Mi2A"
+    ],
+    "유형": [
+        "스마트폰"
+    ],
+    "형식 요인": [
+        "Slate"
+    ],
+    "차원": [
+        "126 mm (5.0 인치) H, 62 mm (2.4 인치) W, 10.2 mm (0.40 인치) D"
+    ],
+    "무게": [
+        "145 g (5.1 oz)"
+    ],
+    "운영체제": [
+        "원본: MIUI v5 (Android 4.1 Jelly Bean)현재: MIUI 9 (Android 5.0.1 Lollipop)"
+    ],
+    "CPU": [
+        "Qualcomm Snapdragon 600 APQ8064T Quad-Core Krait 300 @ 1.7 GHz"
+    ],
+    "GPU": [
+        "Adreno 320"
+    ],
+    "메모리": [
+        "2 GB RAM"
+    ],
+    "스토리지": [
+        "16 GB / 32 GB ROM"
+    ],
+    "삭제 가능한 스토리지": [
+        "아무것도"
+    ],
+    "배터리": [
+        "2000 mAh"
+    ],
+    "데이터 입력": [
+        "용량 터치 스크린"
+    ],
+    "디스플레이": [
+        "IPS 디스플레이 4.3 인치 @ 1280px x 720px (341 PPI) (Sharp Inc.)"
+    ],
+    "백 카메라": [
+        "8 메가픽셀 (16 GB 버전) / 13 메가픽셀 (32 GB 버전)(백면 조명 (BSI)), 레코드 1080p 30fps 및 720p 90fps"
+    ],
+    "프론트 카메라": [
+        "2 메가픽셀, 1080p 30fps"
+    ],
+    "연결": [
+        "목록 블루투스 4.0 + A2DP",
+        "Wi-Fi (802.11 b/g/n)",
+        "Wi-Fi Direct",
+        "DLNA"
+    ],
+    "연결성": [
+        "Micro-USB On-The-Go with MHL link"
+    ],
+    "웹사이트": [
+        "mi.com /mi2s"
+    ]
+}

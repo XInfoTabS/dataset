@@ -1,0 +1,43 @@
+{
+    "t\u00edtulo": [
+        "Caracter\u00edsticas orbitales de la Tierra (Epch J2000)"
+    ],
+    "Aphelion": [
+        "152100000 km, (94500000 mi; 1.017 AU)"
+    ],
+    "Perihelion": [
+        "147095000 km, (91401000 mi; 0.98327 AU)"
+    ],
+    "Eje semimajor": [
+        "149598023 km, (92955902 mi; 1.00000102 AU)"
+    ],
+    "Eccentricidad": [
+        "0.0167086"
+    ],
+    "Per\u00edodo orbital": [
+        "365.256363004 d, (1.00001742096 yr)"
+    ],
+    "Velocidad orbital promedio": [
+        "29.78 km/s, (107200 km/h; 66600 mph)"
+    ],
+    "Mean anomal\u00eda": [
+        "7000625904740362451\u2660358.617\u00b0"
+    ],
+    "inclinaci\u00f3n": [
+        "7.155\u00b0 hacia el ecuador del Sol;",
+        "1.57869\u00b0 hacia el plano invariable;",
+        "0.00005\u00b0 a J2000 ecl\u00edptico"
+    ],
+    "Longitud del nodo ascendente": [
+        "\u221211.26064\u00b0 a J2000 ecl\u00edptica"
+    ],
+    "Argumento del perihelio": [
+        "114.20783\u00b0"
+    ],
+    "Sat\u00e9lites": [
+        "1 sat\u00e9lite natural: la Luna",
+        "5 cuasi-sat\u00e9lites",
+        ">1.800 sat\u00e9lites artificiales operativos",
+        ">16 000 escombros espaciales"
+    ]
+}

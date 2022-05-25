@@ -1,0 +1,53 @@
+{
+    "\u6807\u9898": [
+        "\u201cHTC Dream\u201d"
+    ],
+    "\u5236\u9020\u5546": [
+        "\u201cHTC\u201d"
+    ],
+    "\u7ee7\u4efb\u8005": [
+        "HTC Magic, HTC Desire Z (T-Mobile G2), Nexus One"
+    ],
+    "\u5f62\u72b6\u56e0\u5b50": [
+        "\u201cSlider \u667a\u80fd\u624b\u673a\u201d"
+    ],
+    "\u5c3a\u5bf8": [
+        "117.7 mm (4.63 in) (h)",
+        "55.7 \u6beb\u7c73 (2.19 \u82f1\u5bf8) (w)",
+        "17.1 mm (0.67 \u82f1\u5bf8) (d)"
+    ],
+    "\u91cd\u91cf": [
+        "158 \u514b(5.6 \u76ce\u53f8)"
+    ],
+    "\u64cd\u4f5c\u7cfb\u7edf": [
+        "\u539f\u7248: Android m3-rc22a (\u5185\u90e8), Android 1.0 (\u6d88\u8d39\u8005), \u5f53\u524d: Android 1.6 Donut"
+    ],
+    "CPU": [
+        "528 MHz Qualcomm MSM7201A ARM11 \u5904\u7406\u5668"
+    ],
+    "\u5185\u5b58": [
+        "256 MB \u5185\u90e8\u5b58\u50a8,192 MB RAM"
+    ],
+    "\u53ef\u79fb\u9664\u7684\u5b58\u50a8\u7a7a\u95f4": [
+        "\u6700\u591a 16 GB microSD"
+    ],
+    "\u7535\u6c60": [
+        "1150mAh, \u5185\u7f6e\u53ef\u91cd\u65b0\u5145\u7535\u7684\u53ef\u62c6\u5378\u9502\u79bb\u5b50\u7535\u6c60"
+    ],
+    "\u6570\u636e\u8f93\u5165": [
+        "\u5bb9\u91cf\u89e6\u6478\u5c4f\u663e\u793a\u5668,QWERTY\u952e\u76d8,\u8ddf\u8e2a\u7403,\u97f3\u91cf\u63a7\u5236,\u4e09\u8f74\u52a0\u901f\u8ba1"
+    ],
+    "\u663e\u793a": [
+        "320 x 480 \u50cf\u7d20, 3.2 \u82f1\u5bf8 (81 \u6beb\u7c73), HVGA, 65,536 \u8272 TFT-LCD \u6bcf\u82f1\u5bf8 180 \u50cf\u7d20 (ppi)"
+    ],
+    "\u80cc\u90e8\u6444\u50cf\u5934": [
+        "3.15 \u5146\u50cf\u7d20,\u81ea\u52a8\u7126\u70b9"
+    ],
+    "\u8fde\u63a5\u6027": [
+        "\u65e0\u7ebf\u7f51\u7edc(802.11b/g),\u84dd\u7259 2.0+EDR,ExtUSB,A-GPS"
+    ],
+    "\u8fde\u63a5": [
+        "\u56db\u5e26 GSM 850 900 1800 1900 MHz GPRS/EDGE",
+        "\u53cc\u5e26 UMTS 1700 2100 MHz HSDPA/HSUPA (\u7f8e\u56fd/\u6b27\u6d32) (7.2/2 Mbit/s)"
+    ]
+}

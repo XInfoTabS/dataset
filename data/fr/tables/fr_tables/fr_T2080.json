@@ -1,0 +1,35 @@
+{
+    "titre": [
+        "Arr\u00eat cardiaque"
+    ],
+    "Description": [
+        "RCR administr\u00e9 pendant une simulation d'arr\u00eat cardiaque."
+    ],
+    "Sp\u00e9cialit\u00e9": [
+        "Cardiologie, m\u00e9decine d'urgence"
+    ],
+    "Sympt\u00f4mes": [
+        "Perte de conscience, respiration anormale ou nulle"
+    ],
+    "Apparition habituelle": [
+        "A\u00een\u00e9"
+    ],
+    "Causes": [
+        "Maladie coronarienne, insuffisance cardiaque cong\u00e9nitale, perte importante de sang, manque d'oxyg\u00e8ne, tr\u00e8s faible taux de potassium, insuffisance cardiaque"
+    ],
+    "M\u00e9thode diagnostique": [
+        "Ne pas trouver de pouls"
+    ],
+    "Pr\u00e9vention": [
+        "Ne pas fumer, activit\u00e9 physique, maintenir un poids sant\u00e9"
+    ],
+    "Traitement": [
+        "R\u00e9animation cardiopulmonaire (RPC), d\u00e9fibrillation"
+    ],
+    "Prognose": [
+        "Taux de survie ~ 10% (hors h\u00f4pital) 25% (\u00e0 l'h\u00f4pital)"
+    ],
+    "Fr\u00e9quence": [
+        "13 pour 10 000 personnes par an (h\u00f4pital ext\u00e9rieur aux \u00c9tats-Unis)"
+    ]
+}

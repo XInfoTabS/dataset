@@ -1,0 +1,108 @@
+{
+    "Titel": [
+        "Fluor"
+    ],
+    "Aussprache": [
+        "/-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+        "/-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
+    ],
+    "Allotrope": [
+        "alpha, beta"
+    ],
+    "Aussehen": [
+        "Gas: sehr hellgelb, Flüssigkeit: hellgelb, fest: Alpha ist undurchsichtig, Beta ist transparent"
+    ],
+    "Standard-Atomgewicht Ar, std(F)": [
+        "18.998403163(6)"
+    ],
+    "Atomnummer (Z)": [
+        "9"
+    ],
+    "Gruppe": [
+        "Gruppe 17 (Halogen)"
+    ],
+    "Zeitraum": [
+        "Zeitraum 2"
+    ],
+    "Block": [
+        "p-block"
+    ],
+    "Elementkategorie": [
+        "Reaktives Nichtmetall"
+    ],
+    "Elektronenkonfiguration": [
+        "[He] 2s 2 2p 5"
+    ],
+    "Elektronen pro Schale": [
+        "2, 7"
+    ],
+    "Phase bei der GfbV": [
+        "Gas"
+    ],
+    "Schmelzpunkt": [
+        "(F 2 ) 53,48 K (−219,67 °C, −363,41 °F)"
+    ],
+    "Siedepunkt": [
+        "(F 2 ) 85,03 K (−188.11 °C, −306,60 °F)"
+    ],
+    "Dichte (bei GfbV)": [
+        "1.696 g/L"
+    ],
+    "wenn flüssig (bei b.p.)": [
+        "1.505 g/cm 3"
+    ],
+    "Dreifachpunkt": [
+        "53.48 K, 90 kPa"
+    ],
+    "Kritischer Punkt": [
+        "144.41 K, 5.1724 MPa"
+    ],
+    "Verdampfungswärme": [
+        "6.51 kJ/mol"
+    ],
+    "Molare Wärmeleistung": [
+        "C p : 31 J/(mol·K) (bei 21,1 °C), C v : 23 J/(mol·K) (bei 21,1 °C)"
+    ],
+    "Oxidationszustände": [
+        "−1 (oxidiert Sauerstoff)"
+    ],
+    "Elektronegativität": [
+        "Pauling-Skala: 3.98"
+    ],
+    "Ionisierungsenergien": [
+        "1.: 1681 kJ/mol",
+        "2.: 3374 kJ/mol",
+        "3.: 6147 kJ/mol",
+        "(mehr)"
+    ],
+    "Gleichwertiger Radius": [
+        "64 pm"
+    ],
+    "Van der Waals Radius": [
+        "135 pm"
+    ],
+    "Natürliches Vorkommen": [
+        "Urursprünglich"
+    ],
+    "Wärmeleitfähigkeit": [
+        "0,02591 W/(m·K)"
+    ],
+    "Magnetische Anordnung": [
+        "Diamagnetisch (−1.2×10 −4 )"
+    ],
+    "CAS-Nummer": [
+        "7782-41-4"
+    ],
+    "Namensgebung": [
+        "nach dem mineralischen Fluorit, selbst nach lateinischem Fluo benannt (zum Fließen, beim Schmelzen)"
+    ],
+    "Entdeckung": [
+        "André-Marie Ampère (1810)"
+    ],
+    "Erste Isolation": [
+        "Henri Moissan (26. Juni 1886)"
+    ],
+    "Benannt von": [
+        "Humphry Davy"
+    ]
+}

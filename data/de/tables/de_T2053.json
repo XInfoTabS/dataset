@@ -1,0 +1,53 @@
+{
+    "Titel": [
+        "Acorn Microcomputer"
+    ],
+    "Entwickler": [
+        "Acorn-Computer"
+    ],
+    "Typ": [
+        "8-Bit semiprofessionell"
+    ],
+    "Veröffentlichungsdatum": [
+        "März 1979; vor 40 Jahren (1979-03)"
+    ],
+    "Einführungspreis": [
+        "65 £ (Kit), 75 £ (konfektioniert)"
+    ],
+    "CPU": [
+        "6502 @ 1MHz"
+    ],
+    "Arbeitsspeicher": [
+        "1.125K"
+    ],
+    "Speicher": [
+        "CUTS Kassettenband-Schnittstelle"
+    ],
+    "Anzeige": [
+        "LED"
+    ],
+    "Grafik": [
+        "-"
+    ],
+    "Ton": [
+        "-"
+    ],
+    "Eingang": [
+        "25-Tasten-Tastatur"
+    ],
+    "Controller-Eingang": [
+        "-"
+    ],
+    "Konnektivität": [
+        "INS8154 RAMIO Erweiterungschip (optional), CUTS Kassettenband-Schnittstelle, Steckdose für optionales zusätzliches ROM/EPROM"
+    ],
+    "Leistung": [
+        "7.5V+ von externem Netzteil durch an Bord 5V Regler"
+    ],
+    "Abmessungen": [
+        "160 x 100mm zwei gestapelte Bretter"
+    ],
+    "Nachfolger": [
+        "Eichelsystem 2, Eichelatom"
+    ]
+}

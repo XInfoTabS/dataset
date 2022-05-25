@@ -1,0 +1,48 @@
+{
+    "Titel": [
+        "Rosenheim-Salzburg-Eisenbahn"
+    ],
+    "Einheimischer Name": [
+        "Bahnstrecke Rosenheim-Salzburg"
+    ],
+    "Typ": [
+        "Schwerbahn, Personen-/Frachtbahn,, Intercitybahn, Regionalbahn, Kommunebahn"
+    ],
+    "Status": [
+        "Betrieb"
+    ],
+    "Locale": [
+        "Bayern in Deutschland, Salzburg in Österreich"
+    ],
+    "Termini": [
+        "Rosenheim, Salzburg"
+    ],
+    "Bahnhöfe": [
+        "13"
+    ],
+    "Streckennummer": [
+        "5703 (Rosenheim-Grenze der Bundesländer), 217 01 (Grenze der Bundesländer-Salzburg)",
+        "951, 200 (Freilassing - Saalfelden)"
+    ],
+    "geöffnet": [
+        "Zwei Etappen im Jahr 1860"
+    ],
+    "Eigentümer": [
+        "Deutsche Bahn, Österreichische Bundesbahnen"
+    ],
+    "Betreiber": [
+        "DB Bahn, EuroCity, Österreichische Bundesbahnen"
+    ],
+    "Streckenlänge": [
+        "88,6 km"
+    ],
+    "Anzahl der Gleise": [
+        "Doppelgleis, 3 (Salzburg Liefering - Salzburg Hbf)"
+    ],
+    "Elektrifizierung": [
+        "15 kV/16.7 Hz Wechselstrom-Oberleitung"
+    ],
+    "Betriebsgeschwindigkeit": [
+        "160 km/h (99 mph)"
+    ]
+}

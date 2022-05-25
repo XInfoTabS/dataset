@@ -1,0 +1,47 @@
+{
+    "Titel": [
+        "Flyby von Neptun"
+    ],
+    "Missionstyp": [
+        "Planetarische Erkundung"
+    ],
+    "Operator": [
+        "NASA / JPL"
+    ],
+    "COSPAR ID": [
+        "1977-076A"
+    ],
+    "SATCAT-Nr.": [
+        "10271"
+    ],
+    "Website": [
+        "voyager.jpl.nasa.gov"
+    ],
+    "Missionsdauer": [
+        "41 Jahre, 9 Monate und 5 Tage verstrichen, Planetarische Mission: 12 Jahre, 1 Monat, 12 Tage, Interstellare Mission: 29 Jahre, 7 Monate und 23 Tage verstrichen (Fortsetzung)"
+    ],
+    "Hersteller": [
+        "Jet Propulsion Laboratory"
+    ],
+    "Startmasse": [
+        "825,5 Kilogramm (1.820 Pfund)"
+    ],
+    "Leistung": [
+        "470 Watt (zum Start)"
+    ],
+    "Startdatum": [
+        "20. August 1977, 14:29:00 (1977-08-20UTC14:29Z) UTC"
+    ],
+    "Rocket": [
+        "Titan IIIE"
+    ],
+    "Start-Site": [
+        "Cape Canaveral LC-41"
+    ],
+    "Nächster Ansatz": [
+        "25. August 1989, 03:56:36 UTC"
+    ],
+    "Entfernung": [
+        "4,951 km (3.076 mi)"
+    ]
+}

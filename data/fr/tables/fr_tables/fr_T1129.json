@@ -1,0 +1,74 @@
+{
+    "titre": [
+        "Param\u00e8tres d'orbite"
+    ],
+    "Noms": [
+        "Mangalyaan"
+    ],
+    "Type de mission": [
+        "Mars orbiter"
+    ],
+    "Op\u00e9rateur": [
+        "ISRO"
+    ],
+    "ID COSPAR": [
+        "2013-060A"
+    ],
+    "SATCAT n\u00b0": [
+        "39370"
+    ],
+    "Site Web": [
+        "www.isro.gov.in /pslv-c25-mars-orbiter-mission"
+    ],
+    "Dur\u00e9e de la mission": [
+        "Pr\u00e9vu: 6 mois, \u00c9ch\u00e9ance: 4 ans, 7 mois, 29 jours"
+    ],
+    "Bus": [
+        "I-1K"
+    ],
+    "Fabricant": [
+        "ISAC"
+    ],
+    "Masse de lancement": [
+        "1,337,2 kg (2,948 lb)"
+    ],
+    "Masse de BOL": [
+        "550 kg (1 210 lb)"
+    ],
+    "Masse s\u00e8che": [
+        "482,5 kg (1 064 lb)"
+    ],
+    "Masse de charge utile": [
+        "13,4 kg (30 lb)"
+    ],
+    "Dimensions": [
+        "1,5 m (4,9 pi) cube"
+    ],
+    "Puissance": [
+        "840 watts"
+    ],
+    "Date de lancement": [
+        "5 novembre 2013, 09:08 (2013-11-05UTC09:08) UTC"
+    ],
+    "Rocket": [
+        "PSLV-XL C25"
+    ],
+    "Site de lancement": [
+        "Satish Dhawan FLP"
+    ],
+    "Entrepreneur": [
+        "ISRO"
+    ],
+    "Insertion orbitale": [
+        "24 septembre 2014, 02:00 UTC, MSD 50027 06:27 AMT, 1702 jours / 1656 sols"
+    ],
+    "Periareon": [
+        "421,7 km (262,0 mi)"
+    ],
+    "Apoareon": [
+        "76 993.6 km (47 841.6 mi)"
+    ],
+    "Inclination": [
+        "150.0\u00b0"
+    ]
+}

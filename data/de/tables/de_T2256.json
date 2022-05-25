@@ -1,0 +1,53 @@
+{
+    "Titel": [
+        "Dental Admission Test"
+    ],
+    "Abkürzung": [
+        "DAT"
+    ],
+    "Typ": [
+        "Computerbasierter standardisierter Test"
+    ],
+    "Entwickler / Administrator": [
+        "American Dental Association"
+    ],
+    "Wissen / Fähigkeiten getestet": [
+        "Biologie, Allgemeine Chemie, Organische Chemie, Wahrnehmungsfähigkeit, Leseverständnis und Quantitative Reasoning"
+    ],
+    "Zweck": [
+        "Zulassungen an Zahnkliniken (meist in den Vereinigten Staaten und Kanada)."
+    ],
+    "Anfangsjahr": [
+        "1950 (1950)"
+    ],
+    "Score / Gradbereich": [
+        "1 bis 30 (in 1-Punkt-Schritten) für jeden der 8 Abschnitte (Biologie, Allgemeine Chemie, Organische Chemie, Wahrnehmungsfähigkeit, Leseverständnis, und Quantitative Reasoning, Gesamtwissenschaft, und Akademischer Durchschnitt)."
+    ],
+    "Score / Grade Gültigkeit": [
+        "In der Regel 2 bis 3 Jahre (abhängig von Zahnklinik angewendet werden)."
+    ],
+    "Angeboten": [
+        "Ganzjährig."
+    ],
+    "Einschränkungen bei Versuchen": [
+        "Kann maximal 3 Mal durchgeführt werden. Zusätzliche Wiederholungstests erfordern die Autorisierung durch die ADA."
+    ],
+    "Länder / Regionen": [
+        "Vereinigte Staaten, Kanada, Guam, Virgin Islands und Puerto Rico."
+    ],
+    "Sprachen": [
+        "Englisch"
+    ],
+    "Voraussetzungen / Eignungskriterien": [
+        "Der Kandidat muss sich auf eine Zahnschule vorbereiten."
+    ],
+    "Gebühr": [
+        "US$ 475, (Fee Assistance Program für US-Bürger, Dauerbewohner oder Flüchtlinge zur Verfügung, zeigt finanzielle Notwendigkeit.)"
+    ],
+    "Noten / Noten von": [
+        "Dental Colleges verwendet (meist in den Vereinigten Staaten und Kanada)."
+    ],
+    "Website": [
+        "www.ada.org /de /Bildungsberufe /dental-admission-test /"
+    ]
+}

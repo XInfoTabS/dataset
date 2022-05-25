@@ -1,0 +1,104 @@
+{
+    "titre": [
+        "Argon"
+    ],
+    "Prononciation": [
+        "/ / -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
+    ],
+    "Apparence": [
+        "gaz incolore pr\u00e9sentant une lueur lilas/violet lorsqu'il est plac\u00e9 dans un champ \u00e9lectrique"
+    ],
+    "Poids atomique standard Ar, std(Ar)": [
+        "[ 39.792, 39.963 ] conventionnel: 39.95"
+    ],
+    "Num\u00e9ro atomique (Z)": [
+        "18"
+    ],
+    "Groupe": [
+        "Groupe 18 (gaz nobles)"
+    ],
+    "P\u00e9riode": [
+        "P\u00e9riode 3"
+    ],
+    "Bloc": [
+        "bloc p"
+    ],
+    "Cat\u00e9gorie d'\u00e9l\u00e9ment": [
+        "Gaz noble"
+    ],
+    "Configuration \u00e9lectronique": [
+        "[Ne] 3s 2 3p 6"
+    ],
+    "\u00c9lectrons par r\u00e9servoir": [
+        "2, 8, 8"
+    ],
+    "Phase au STP": [
+        "gaz"
+    ],
+    "Point de fusion": [
+        "83,81 K (\u2212189.34 \u00b0C, \u2212308.81 \u00b0F)"
+    ],
+    "Point d'\u00e9bullition": [
+        "87,302 K (\u2212185,848 \u00b0C, \u2212302,526 \u00b0F)"
+    ],
+    "Densit\u00e9 (au STP)": [
+        "1,784 g/L"
+    ],
+    "lorsque liquide (\u00e0 b.p.)": [
+        "1.3954 g/cm 3"
+    ],
+    "Triple point": [
+        "83,8058 K, 68,89 kPa"
+    ],
+    "Point critique": [
+        "150.687 K, 4.863 MPa"
+    ],
+    "Chaleur de fusion": [
+        "1,18 kJ/mol"
+    ],
+    "Chaleur de vaporisation": [
+        "6,53 kJ/mol"
+    ],
+    "Capacit\u00e9 calorifique molaire": [
+        "20.85 J/(mol\u00b7K)"
+    ],
+    "\u00c9tat d'oxydation": [
+        "0"
+    ],
+    "\u00c9chelle d'\u00e9lectron\u00e9gativit\u00e9": [
+        "\u00c9chelle d'\u00e9paississement: aucune donn\u00e9e"
+    ],
+    "\u00c9nergies d'ionisation": [
+        "1\u00e8re: 1520.6 kJ/mol",
+        "2\u00e8me: 2665.8 kJ/mol",
+        "3\u00e8me: 3931 kJ/mol",
+        "(plus)"
+    ],
+    "Rayon covalent": [
+        "106\u00b110 pm"
+    ],
+    "Rayon Van der Waals": [
+        "188 pm"
+    ],
+    "\u00c9v\u00e9nement naturel": [
+        "primordial"
+    ],
+    "Vitesse du son": [
+        "323 m/s (gaz, \u00e0 27 \u00b0C)"
+    ],
+    "Conductivit\u00e9 thermique": [
+        "17.72 \u00d710 - 3 W/(m\u00b7K)"
+    ],
+    "Commande magn\u00e9tique": [
+        "diamagn\u00e9tique"
+    ],
+    "Sensibilit\u00e9 magn\u00e9tique": [
+        "\u221219.6\u00b710 \u22126 cm 3 /mol"
+    ],
+    "Num\u00e9ro CAS": [
+        "7440-37-1"
+    ],
+    "D\u00e9couverte et premier isolement": [
+        "Lord Rayleigh et William Ramsay (1894)"
+    ]
+}

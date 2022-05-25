@@ -1,0 +1,54 @@
+{
+    "titre": [
+        "Debian"
+    ],
+    "D\u00e9veloppeur": [
+        "Le projet Debian"
+    ],
+    "Famille d'exploitation": [
+        "Linux (like Unix)"
+    ],
+    "\u00c9tat de fonctionnement": [
+        "Courant"
+    ],
+    "Mod\u00e8le source": [
+        "Open source"
+    ],
+    "Sortie initiale": [
+        "Septembre 1993; il y a 26 ans (1993-09)"
+    ],
+    "Derni\u00e8re sortie": [
+        "10.1 (Buster) (7 septembre 2019; il y a 47 jours (2019-09-07)) [\u00b1]"
+    ],
+    "Derni\u00e8re pr\u00e9visualisation": [
+        "11 (Bullseye)"
+    ],
+    "Disponible en": [
+        "75 langues"
+    ],
+    "M\u00e9thode de mise \u00e0 jour": [
+        "Soutien \u00e0 long terme"
+    ],
+    "Gestionnaire de paquets": [
+        "APT (avant-garde), dpkg"
+    ],
+    "Plateformes": [
+        "x86-64, bras64, armel, armhf, i386, mips, mipsel, mips64el, ppc64el, s390x, riscv64 (en cours)"
+    ],
+    "Type de noyau": [
+        "Monolithique (Linux)"
+    ],
+    "Userland": [
+        "GNU"
+    ],
+    "Interface utilisateur par d\u00e9faut": [
+        "GNOME sur DVD",
+        "XFCE sur les ports CD et non Linux"
+    ],
+    "Licence": [
+        "Licences compatibles avec le DFSG"
+    ],
+    "Site officiel": [
+        "www.debian.org"
+    ]
+}

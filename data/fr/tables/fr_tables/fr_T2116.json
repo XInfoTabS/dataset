@@ -1,0 +1,108 @@
+{
+    "titre": [
+        "Fluorine"
+    ],
+    "Prononciation": [
+        "/----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+        "/----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
+    ],
+    "Allotropes": [
+        "alpha, b\u00eata"
+    ],
+    "Apparence": [
+        "gaz: tr\u00e8s jaune p\u00e2le, liquide: jaune vif, solide: alpha est opaque, b\u00eata est transparent"
+    ],
+    "Poids atomique standard Ar, std(F)": [
+        "18.998403163(6)"
+    ],
+    "Num\u00e9ro atomique (Z)": [
+        "9"
+    ],
+    "Groupe": [
+        "Groupe 17 (halog\u00e8nes)"
+    ],
+    "P\u00e9riode": [
+        "p\u00e9riode 2"
+    ],
+    "Bloc": [
+        "bloc p"
+    ],
+    "Cat\u00e9gorie d'\u00e9l\u00e9ment": [
+        "Non-m\u00e9tal r\u00e9actif"
+    ],
+    "Configuration \u00e9lectronique": [
+        "[He] 2s 2 2p 5"
+    ],
+    "\u00c9lectrons par r\u00e9servoir": [
+        "2, 7"
+    ],
+    "Phase au STP": [
+        "gaz"
+    ],
+    "Point de fusion": [
+        "(F 2 ) 53.48 K (\u2212219.67 \u00b0C, \u2212363.41 \u00b0F)"
+    ],
+    "Point d'\u00e9bullition": [
+        "(F 2 ) 85.03 K (\u2212188.11 \u00b0C, \u2212306.60 \u00b0F)"
+    ],
+    "Densit\u00e9 (au STP)": [
+        "1.696 g/L"
+    ],
+    "lorsque liquide (\u00e0 b.p.)": [
+        "1,505 g/cm 3"
+    ],
+    "Triple point": [
+        "53,48 K, 90 kPa"
+    ],
+    "Point critique": [
+        "144,41 K, 5.1724 MPa"
+    ],
+    "Chaleur de vaporisation": [
+        "6,51 kJ/mol"
+    ],
+    "Puissance thermique molaire": [
+        "C p : 31 J/(mol\u00b7K) (\u00e0 21.1 \u00b0C), C v : 23 J/(mol\u00b7K) (\u00e0 21.1 \u00b0C)"
+    ],
+    "\u00c9tat d'oxydation": [
+        "\u22121 (oxydant l'oxyg\u00e8ne)"
+    ],
+    "\u00c9chelle d'\u00e9lectron\u00e9gativit\u00e9": [
+        "Pauling: 3.98"
+    ],
+    "\u00c9nergies d'ionisation": [
+        "1\u00e8re: 1681 kJ/mol",
+        "2\u00e8me: 3374 kJ/mol",
+        "3\u00e8me: 6147 kJ/mol",
+        "(plus)"
+    ],
+    "Rayon covalent": [
+        "64 pm"
+    ],
+    "Rayon Van der Waals": [
+        "135 pm"
+    ],
+    "\u00c9v\u00e9nement naturel": [
+        "primordial"
+    ],
+    "Conductivit\u00e9 thermique": [
+        "0,02591 W/(m\u00b7K)"
+    ],
+    "Commande magn\u00e9tique": [
+        "diamagn\u00e9tique (\u22121,2\u00d710 \u22124 )"
+    ],
+    "Num\u00e9ro CAS": [
+        "7782-41-4"
+    ],
+    "Nom": [
+        "d'apr\u00e8s le fluorite min\u00e9ral, lui-m\u00eame nomm\u00e9 d'apr\u00e8s le fluor latin (\u00e0 \u00e9coulement, dans la fonte)"
+    ],
+    "D\u00e9couverte": [
+        "Andr\u00e9-Marie Amp\u00e8re (1810)"
+    ],
+    "Premier isolement": [
+        "Henri Moissan (26 juin 1886)"
+    ],
+    "nomm\u00e9 par": [
+        "Humphry Davy"
+    ]
+}

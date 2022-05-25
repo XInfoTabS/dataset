@@ -1,0 +1,83 @@
+{
+    "t\u00edtulo": [
+        "\u201cLG Optimus G\u201d"
+    ],
+    "Fabricante": [
+        "\u201cLG Electronics\u201d"
+    ],
+    "Slogan": [
+        " Vivir sin fronteras "
+    ],
+    "Serie": [
+        "Optimus, serie G"
+    ],
+    "Redes compatibles": [
+        "GSM (850 / 900 / 1800 / 1900), HSDPA, CDMA (Global 800 / 850 / 1900 & Corea del Sur LG U+ Korean Pcs 1800), LTE"
+    ],
+    "Disponibilidad por regi\u00f3n": [
+        "noviembre 2012 (Estados Unidos y Canad\u00e1)"
+    ],
+    "Predecesor": [
+        "\u201cLG Optimus 4X HD\u201d"
+    ],
+    "Sucesor": [
+        "\u201cLG G2\u201d"
+    ],
+    "Relacionado": [
+        "LG Optimus G Pro, Nexus 4"
+    ],
+    "Tipo": [
+        "\u201cSmartphone\u201d"
+    ],
+    "Factor de forma": [
+        "Bar"
+    ],
+    "Dimensiones": [
+        "131.9 mm (5.19 pulgadas) H, 68.9 mm (2.71 pulgadas) W, 8.5 mm (0.33 pulgadas) D"
+    ],
+    "Peso": [
+        "145 g (5.11 oz)"
+    ],
+    "Sistema operativo": [
+        "Android 4.0 Ice Cream Sandwich, 4.1.2 Jelly Bean y 4.4.2 KitKat"
+    ],
+    "Sistema en chip": [
+        "Qualcomm Snapdragon S4 Pro APQ8064, 1.4 GHz cuaternario Samsung Exynos"
+    ],
+    "CPU": [
+        "1.5 GHz Quad-core Qualcomm Krait, 1.4 GHz ARM Cortex-A53"
+    ],
+    "GPU": [
+        "Qualcomm Adreno 320, Mali-400 MP2"
+    ],
+    "Memoria": [
+        "2 GB de RAM LPDDR2 relojado a 533mhz"
+    ],
+    "Almacenamiento": [
+        "16 y 32 GB"
+    ],
+    "Almacenamiento removible": [
+        "No disponible en los modelos Globales, microSD hasta 64GB AT&T & Jap\u00f3n & Taiw\u00e1n"
+    ],
+    "Bater\u00eda": [
+        "Li-ion no removible 2100 mAh (EE.UU., Canad\u00e1 y Corea del Sur y variante global) Li-ion removible 2210 mah (variante de Jap\u00f3n), Li-ion removible 2280 mAh (variante de Taiw\u00e1n)"
+    ],
+    "Ingresos de datos": [
+        "\u201cTouch\u201d"
+    ],
+    "Display": [
+        "4,7 pulgadas (120 mm) diagonal, True HD IPS LCD 768\u00d71280"
+    ],
+    "C\u00e1mara frontal": [
+        "1.3 MP, grabaci\u00f3n de v\u00eddeo HD (720p)"
+    ],
+    "Conectividad": [
+        "3.5 mm jack de audio est\u00e9reo, Wi-Fi 802.11 a/b/g/n, Wi-Fi Hotspot, DLNA, Bluetooth 4.0 + A2DP, puerto micro-USB 2.0 (5-pin) con conexi\u00f3n m\u00f3vil de v\u00eddeo de alta definici\u00f3n (MHL) para conexi\u00f3n USB o HDMI"
+    ],
+    "Otros": [
+        "1-Seg (Jap\u00f3n), NOTTV(NTT DoCoMo), T-DMB(Corea del Sur)"
+    ],
+    "SAR": [
+        "0.70 W/kg (cabeza), 1.06 W/kg (cuerpo)"
+    ]
+}

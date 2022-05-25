@@ -1,0 +1,65 @@
+{
+    "titre": [
+        "REX Richmond Highway Express"
+    ],
+    "Syst\u00e8me": [
+        "Metrobus"
+    ],
+    "Op\u00e9rateur": [
+        "Washington Metropolitan Area Transit Authority"
+    ],
+    "Garage": [
+        "Cinder Bed"
+    ],
+    "V\u00e9hicule": [
+        "Nouveau Flyer DE40LFA"
+    ],
+    "Livery": [
+        "Richmond Highway Express"
+    ],
+    "\u00c9tat": [
+        "En service"
+    ],
+    "Service d'autobus": [
+        "26 septembre 2004"
+    ],
+    "Pr\u00e9d\u00e9cesseurs": [
+        "Metrobus 9A"
+    ],
+    "Locale": [
+        "Ville d'Alexandrie, Comt\u00e9 de Fairfax"
+    ],
+    "Collectivit\u00e9s desservies": [
+        "Vieille ville Alexandrie, Huntington, Virginie, Groveton, Virginie, Hybla Valley, Virginie, Mont Vernon, Virginie, Woodlawn, Virginie"
+    ],
+    "Emplacements desservis": [
+        "King Street-Old Town station, Eisenhower Avenue station, Huntington station, Fort Belvoir"
+    ],
+    "D\u00e9part": [
+        "King Street-Old Town station"
+    ],
+    "Via": [
+        "Richmond Highway"
+    ],
+    "Fin": [
+        "Fort Belvoir"
+    ],
+    "Longueur": [
+        "15 milles (24,14 km)"
+    ],
+    "Niveau": [
+        "Jamais"
+    ],
+    "Fr\u00e9quence": [
+        "10-25 minutes (Heure de Rush), 30 minutes (service du midi et de la semaine), 30 minutes (samedi), 60 minutes (dimanche)"
+    ],
+    "Fonctionne": [
+        "5:00 - 23:39 (Semaines), 5:00 - 22:56 (Samedi), 5:00 - 22:00 (Samedi)"
+    ],
+    "Transferts": [
+        "SmarTrip seulement"
+    ],
+    "Horaire": [
+        "Richmond Highway Express"
+    ]
+}

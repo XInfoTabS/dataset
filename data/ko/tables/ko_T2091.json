@@ -1,0 +1,53 @@
+{
+    "제목": [
+        "J4 College Park-Bethesda Metro Extra line"
+    ],
+    "시스템": [
+        "Metrobus"
+    ],
+    "운영자": [
+        "Washington Metropolitan Area Transit Authority"
+    ],
+    "차고": [
+        "Montgomery"
+    ],
+    "리": [
+        "MetroExtra"
+    ],
+    "상태": [
+        "서비스 중"
+    ],
+    "서비스 시작": [
+        "2002년 4월 15일"
+    ],
+    "로컬": [
+        "Prince George's County, Montgomery County"
+    ],
+    "커뮤니티 서비스": [
+        "College Park, Maryland, University Of Maryland, Langley Park, Maryland, Takoma Park, Maryland, Silver Spring, Maryland, Rock Creek Forest, Chevy Chase, Maryland, Bethesda, Maryland"
+    ],
+    "지점 서비스": [
+        "College Park-University of Maryland 역, University Of Maryland, Langley Park, Maryland, Takoma Park, Maryland, Takoma Langley Crossroads Transit Center, Silver Spring 역, Rock Creek Forest, Chevy Chase, Maryland, Bethesda 역"
+    ],
+    "출발": [
+        "College Park-University of Maryland 역"
+    ],
+    "Via": [
+        "River Road, Paint Branch Parkway, Campus Drive, University Boulevard, New Hampshire Avenue, Piney Branch Road, Flower Avenue, Wayne Avenue, Colesville Road, East-West Highway"
+    ],
+    "끝": [
+        "Bethesda 역"
+    ],
+    "레벨": [
+        "Weekday Peak Hour Service Only"
+    ],
+    "주파수": [
+        "20 분"
+    ],
+    "수술": [
+        "5:20 AM - 9:30 AM, 3:25 PM - 7:45 PM"
+    ],
+    "트랜스퍼스": [
+        "SmarTrip only"
+    ]
+}

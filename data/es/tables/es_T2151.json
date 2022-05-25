@@ -1,0 +1,47 @@
+{
+    "T\u00edtulo": [
+        "\u201cLinux\u201d"
+    ],
+    "Desarrollador": [
+        "Comunidad, Linus Torvalds"
+    ],
+    "Escrito en": [
+        "C, ensamblador"
+    ],
+    "Familia de OS": [
+        "Unix-like"
+    ],
+    "Estado de trabajo": [
+        "Actualmente"
+    ],
+    "Modelo de fuente": [
+        "Open Source"
+    ],
+    "Edici\u00f3n inicial": [
+        "17 de septiembre de 1991; hace 28 a\u00f1os (1991-09-17)"
+    ],
+    "Objetivo de marketing": [
+        "Computaci\u00f3n en la nube, dispositivos incorporados, ordenadores mainframe, dispositivos m\u00f3viles, ordenadores personales, servidores, superordenadores"
+    ],
+    "Disponible en": [
+        "Multiling\u00fce"
+    ],
+    "Plataformas": [
+        "Alpha, ARC, ARM, C6x, H8/300, Hexagon, Itanium, m68k, Microblaze, MIPS, NDS32, Nios II, OpenRISC, PA-RISC, PowerPC, RISC-V, s390, SuperH, SPARC, Unicore32, x86, XBurst, Xtensa"
+    ],
+    "Tipo de n\u00facleo": [
+        "Monol\u00edtico"
+    ],
+    "Pa\u00eds de Usuario": [
+        "\u201cGNU\u201d"
+    ],
+    "Interfaz de usuario predeterminada": [
+        "Unix shell"
+    ],
+    "Licencia": [
+        "GPLv2 y otros (el nombre Linux es una marca comercial)"
+    ],
+    "Sitio web oficial": [
+        "www.linuxfoundation.org"
+    ]
+}

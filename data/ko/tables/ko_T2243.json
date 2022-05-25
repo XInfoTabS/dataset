@@ -1,0 +1,50 @@
+{
+    "제목": [
+        "B1"
+    ],
+    "시스템": [
+        "Zhengzhou BRT"
+    ],
+    "운영자": [
+        "Zhengzhou Bus Communication Corporation"
+    ],
+    "차량": [
+        "Yutong ZK6180CHEVNPG3 (18m)"
+    ],
+    "리버리": [
+        "그린"
+    ],
+    "상태": [
+        "운영"
+    ],
+    "서비스 시작": [
+        "2009"
+    ],
+    "전임자": [
+        "Zhengzhou 버스 라인 96"
+    ],
+    "로컬": [
+        "Zhengzhou"
+    ],
+    "출발": [
+        "Zhongzhou Avenue and Nongye Road"
+    ],
+    "End": [
+        "Dianchang Road B/T"
+    ],
+    "길이": [
+        "26 km (16 mi)"
+    ],
+    "정류장": [
+        "32"
+    ],
+    "레벨": [
+        "매일"
+    ],
+    "주파수": [
+        "2-5 분마다"
+    ],
+    "수술": [
+        "오전 6시 - 오후 9시"
+    ]
+}

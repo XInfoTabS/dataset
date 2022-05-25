@@ -1,0 +1,122 @@
+{
+    "T\u00edtulo": [
+        "\u201cSodium\u201d"
+    ],
+    "Apariencia": [
+        "blanco met\u00e1lico"
+    ],
+    "Peso at\u00f3mico est\u00e1ndar Ar, std(Na)": [
+        "22.98976928(2)"
+    ],
+    "N\u00famero at\u00f3mico (Z)": [
+        "11"
+    ],
+    "Grupo": [
+        "Grupo 1: H y metales alcalinos"
+    ],
+    "Per\u00edodo": [
+        "Per\u00edodo 3"
+    ],
+    "Bloqueo": [
+        "\u00abs-bloqueo\u00bb"
+    ],
+    "Elementos categor\u00eda": [
+        "Metales alcalinos"
+    ],
+    "Configuraci\u00f3n electr\u00f3nica": [
+        "[Ne] 3s 1"
+    ],
+    "Electrones por shell": [
+        "2, 8, 1"
+    ],
+    "Fase en STP": [
+        "s\u00f3lido"
+    ],
+    "Punto de fusi\u00f3n": [
+        "370.944 K (97.794 \u00b0C, 208.029 \u00b0F)"
+    ],
+    "Punto de ebullici\u00f3n": [
+        "1156.090 K (882.940 \u00b0C, 1621.292 \u00b0F)"
+    ],
+    "Densidad (cerca de r.t.)": [
+        "0.968 g/cm 3"
+    ],
+    "cuando l\u00edquido (en m.p.)": [
+        "0,927 g/cm 3"
+    ],
+    "Punto cr\u00edtico": [
+        "2573 K, 35 MPa (extrapolado)"
+    ],
+    "Calor de fusi\u00f3n": [
+        "2,60 kJ/mol"
+    ],
+    "Calor de vaporizaci\u00f3n": [
+        "97.42 kJ/mol"
+    ],
+    "Capacidad t\u00e9rmica molar": [
+        "28.230 J/(mol\u00b7K)"
+    ],
+    "Estados de oxidaci\u00f3n": [
+        "\u22121, +1 (un \u00f3xido de base fuerte)"
+    ],
+    "Electr\u00f3negatividad": [
+        "Escala de Pauling: 0.93"
+    ],
+    "Energ\u00edas de ionizaci\u00f3n": [
+        "1o: 495.8 kJ/mol",
+        "2o: 4562 kJ/mol",
+        "3rd: 6910.3 kJ/mol",
+        "(m\u00e1s)"
+    ],
+    "Radio at\u00f3mico": [
+        "emp\u00edrico: 186 pm"
+    ],
+    "Radius covalente": [
+        "166 \u00b1 9 pm"
+    ],
+    "Radio de Van der Waals": [
+        "227 pm"
+    ],
+    "ocurrencia natural": [
+        "primordial"
+    ],
+    "Velocidad de la barra delgada del sonido": [
+        "3200 m/s (a 20 \u00b0C)"
+    ],
+    "Expansi\u00f3n t\u00e9rmica": [
+        "71 \u03bcm/(m\u00b7K) (a 25 \u00b0C)"
+    ],
+    "Conductividad t\u00e9rmica": [
+        "142 W/(m\u00b7K)"
+    ],
+    "Resistividad el\u00e9ctrica": [
+        "47,7 n\u03a9\u00b7m (a 20 \u00b0C)"
+    ],
+    "Ordenamiento magn\u00e9tico": [
+        "Paramagn\u00e9tico"
+    ],
+    "Sensibilidad magn\u00e9tica": [
+        "+16.0\u00b710 \u22126 cm 3 /mol (298 K)"
+    ],
+    "M\u00f3dulo de Young": [
+        "10 GPa"
+    ],
+    "M\u00f3dulo de corte": [
+        "3.3 GPa"
+    ],
+    "M\u00f3dulo de volumen": [
+        "6.3 GPa"
+    ],
+    "Dureza de Mohs": [
+        "0,5"
+    ],
+    "Brinell": [
+        "0.69 MPa"
+    ],
+    "N\u00famero CAS": [
+        "7440-23-5"
+    ],
+    "Descubrimiento y primer aislamiento": [
+        "Humphry Davy (1807)"
+    ]
+}

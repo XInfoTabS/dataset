@@ -1,0 +1,38 @@
+{
+    "타이틀": [
+        "b25 Fulton Street Line"
+    ],
+    "시스템": [
+        "MTA New York City Bus"
+    ],
+    "운영자": [
+        "New York City Transit Authority"
+    ],
+    "차고": [
+        "East New York Depot"
+    ],
+    "로컬": [
+        "브루클린"
+    ],
+    "출발": [
+        "Fulton Landing - Front Street and York Street"
+    ],
+    "Via": [
+        "Fulton Street"
+    ],
+    "End": [
+        "East New York - Broadway Junction and Alabama Avenue"
+    ],
+    "길이": [
+        "6.1 마일 (9.8 km)"
+    ],
+    "운영": [
+        "모든 시간"
+    ],
+    "연간 후원": [
+        "2,850,871 (2017)"
+    ],
+    "트랜스퍼스": [
+        "예"
+    ]
+}

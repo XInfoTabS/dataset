@@ -1,0 +1,25 @@
+{
+    "Titel": [
+        "abc Vermutung"
+    ],
+    "Feld": [
+        "Zahlentheorie"
+    ],
+    "vermutet von": [
+        "Joseph Oesterlé, David Masser"
+    ],
+    "angenommen in": [
+        "1985"
+    ],
+    "äquivalent zu": [
+        "Modifizierte Szpiro-Konjektur"
+    ],
+    "Konsequenzen": [
+        "Beal-Vermutung",
+        "Faltings' Satz",
+        "Fermats letztes Theorem",
+        "Fermat-Catalan Vermutungen",
+        "Roths Satz",
+        "Tijdemans Satz"
+    ]
+}

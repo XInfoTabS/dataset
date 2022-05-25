@@ -1,0 +1,38 @@
+{
+    "Titel": [
+        "35 / 36 Metro-Linien"
+    ],
+    "System": [
+        "Agder Kollektiv Transport"
+    ],
+    "Betreiber": [
+        "Netzbusse"
+    ],
+    "Garage": [
+        "Mjåvann, Sørlandsparken"
+    ],
+    "Fahrzeug": [
+        "Mercedes-Benz Citaro"
+    ],
+    "Locale": [
+        "Kvadraturen - UiA - Rona - Tveit"
+    ],
+    "Start": [
+        "35: Kvadraturen, 36: Kvadraturen, 36: Ve"
+    ],
+    "Via": [
+        "UiA, Rona"
+    ],
+    "Ende": [
+        "35: Kjevik - Brattvollsheia, 36: Tveit - Grødum, 36: Grødum"
+    ],
+    "Betrieb": [
+        "17 Stunden (35), 05:15 - 00:15, 2 Stunden (36), 15:00 - 16:00, 10 Stunden (36), 07:40 - 22:40"
+    ],
+    "Transfers": [
+        "Ja"
+    ],
+    "Fahrplan": [
+        "35/36"
+    ]
+}

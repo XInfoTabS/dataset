@@ -1,0 +1,65 @@
+{
+    "타이틀": [
+        "REX Richmond Highway Express"
+    ],
+    "시스템": [
+        "Metrobus"
+    ],
+    "운영자": [
+        "Washington Metropolitan Area Transit Authority"
+    ],
+    "차고": [
+        "Cinder Bed"
+    ],
+    "차량": [
+        "새로운 플라이어 DE40LFA"
+    ],
+    "리버리": [
+        "Richmond Highway Express"
+    ],
+    "상태": [
+        "서비스 중"
+    ],
+    "서비스 시작": [
+        "2004년 9월 26일"
+    ],
+    "전임자": [
+        "Metrobus 9A"
+    ],
+    "로컬": [
+        "도시 알렉산드리아, 페어팩스 카운티"
+    ],
+    "지역 사회 서비스": [
+        "올드 타운 알렉산드리아, 헌팅턴, 버지니아, Groveton, 버지니아, Hybla Valley, 버지니아, Mount Vernon, 버지니아, Woodlawn, 버지니아"
+    ],
+    "지점 서비스": [
+        "킹 스트리트-올드 타운 역, 아이젠하워 아베뉴 역, 헌팅턴 역, 포트 벨보어"
+    ],
+    "출발": [
+        "King Street-Old Town 역"
+    ],
+    "Via": [
+        "Richmond Highway"
+    ],
+    "End": [
+        "Fort Belvoir"
+    ],
+    "길이": [
+        "15 마일 (24.14 km)"
+    ],
+    "레벨": [
+        "매일"
+    ],
+    "주파수": [
+        "10-25 분 (Rush Hour), 30 분 (Midday and Weekday Evening Service), 30 분 (Saturday), 60 분 (Sunday)"
+    ],
+    "수술": [
+        "5:00 AM - 11:39 PM (주일), 5:00 AM - 10:56 PM (수요일), 5:00 AM - 10:00 PM (주일)"
+    ],
+    "트랜스퍼스": [
+        "SmarTrip only"
+    ],
+    "타이밍": [
+        "Richmond Highway Express"
+    ]
+}

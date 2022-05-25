@@ -1,0 +1,59 @@
+{
+    "타이틀": [
+        "16G, 16H 콜롬비아 Pike-펜타곤 시티 라인"
+    ],
+    "시스템": [
+        "Metrobus"
+    ],
+    "운영자": [
+        "Washington Metropolitan Area Transit Authority"
+    ],
+    "차고": [
+        "Four Mile Run"
+    ],
+    "리": [
+        "로컬"
+    ],
+    "상태": [
+        "서비스 중"
+    ],
+    "서비스 시작": [
+        "2003년 9월 7일"
+    ],
+    "종료 서비스": [
+        "16K: 2018년 6월 24일"
+    ],
+    "로컬": [
+        "Fairfax County, Arlington County"
+    ],
+    "지역 사회 서비스": [
+        "Skyline City, Columbia Forest, Arlington Mill, Barcroft, Arlington Heights, Penrose, Pentagon City"
+    ],
+    "지점 서비스": [
+        "미국 공군 기념관, 펜타곤 시티 역"
+    ],
+    "출발": [
+        "Arlington Mill (16G), Skyline City (16H)"
+    ],
+    "Via": [
+        "Columbia Pike"
+    ],
+    "End": [
+        "Pentagon City Station"
+    ],
+    "레벨": [
+        "매일"
+    ],
+    "주파수": [
+        "10 ~ 15 분 (Rush Hour), 20 ~ 25 분 (Midday and Weekday Evening Service), 30 분 (Weekends)"
+    ],
+    "수술": [
+        "4:52 AM - 11:24 PM (주말), 5:35 AM - 11:22 PM (주말)"
+    ],
+    "트랜스퍼스": [
+        "SmarTrip only"
+    ],
+    "타이밍": [
+        "Columbia Pike-Pentagon City Line"
+    ]
+}

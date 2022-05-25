@@ -1,0 +1,38 @@
+{
+    "제목": [
+        "35 / 36 지하철 라인"
+    ],
+    "시스템": [
+        "아그더 콜렉티브 교통"
+    ],
+    "운영자": [
+        "Nettbuss"
+    ],
+    "차고": [
+        "Mjåvann, Sørlandsparken"
+    ],
+    "차량": [
+        "Mercedes-Benz Citaro"
+    ],
+    "로컬": [
+        "Kvadraturen - UiA - Rona - Tveit"
+    ],
+    "시작하기": [
+        "35 : Kvadraturen, 36 : Kvadraturen, 36 : Ve"
+    ],
+    "Via": [
+        "UiA, Rona"
+    ],
+    "마무리": [
+        "35 : Kjevik - Brattvollsheia, 36 : Tveit - Grødum, 36 : Grødum"
+    ],
+    "수술": [
+        "17 시간 (35), 05:15 - 00:15, 2 시간 (36), 15:00 - 16:00, 10 시간 (36), 07:40 - 22:40"
+    ],
+    "트랜스퍼스": [
+        "예"
+    ],
+    "타이밍": [
+        "35/36"
+    ]
+}

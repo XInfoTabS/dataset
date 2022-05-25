@@ -1,0 +1,1801 @@
+,annotater_id,table_id,hypothesis,label
+0,GW0,T12,Aksel V. Johannesen siège au gouvernement des îles Féroé.,E
+1,GW0,T12,Plus de gens dans les îles Féroé parlent danois que d'anglais.,N
+2,GW0,T12,Les îles Féroé n'ont qu'une seule langue officielle.,C
+3,GW1,T12,Les îles Féroé ont plus d'une langue officielle.,E
+4,GW1,T12,"Si le Haut-Commissaire meurt aux îles Féroé, le Premier Ministre assumera ce rôle.",N
+5,GW1,T12,Les îles Féroé ont plus d'une religion officielle.,C
+6,GW4,T12,Le monarque des îles Féroé est Margethe II.,E
+7,GW4,T12,Beaucoup de gens des îles Féroé parlent Fêroé.,N
+8,GW4,T12,Les îles Féroé sont dirigées par Lene Moyell Johnansen.,C
+9,GW0,T13,« Fearless » dure plus de 50 minutes.,E
+10,GW0,T13,Fearless est la deuxième sortie de Taylor Swift.,N
+11,GW0,T13,Scott Borchetta a produit le single Fearless.,C
+12,GW4,T13,L'album Fearless a été sorti en hiver 2008.,E
+13,GW4,T13,Scott Borchetta a travaillé directement sur Fearless.,N
+14,GW4,T13,L'album Fearless a une durée de plus d'une heure.,C
+15,GW1,T13,L'enregistrement de Fearless s'est écoulé pendant deux ans.,E
+16,GW1,T13,Taylor Swift a fait plus de choses sur le plan de la production que Nathan Chapman.,N
+17,GW1,T13,« Fearless » a été diffusé au printemps 2008.,C
+18,GW1,T14,Flatliners est assez proche de deux heures de longueur.,E
+19,GW1,T14,Rick Bieber a investi plus d'argent dans Flatliners que Michael Douglas.,N
+20,GW1,T14,Flatliners a fait 50 millions sur son budget au box office.,C
+21,GW4,T14,Flatliners était un film qui a réussi à gagner des recettes au box office.,E
+22,GW4,T14,Flatliners a été produit principalement par Michael Douglas.,N
+23,GW4,T14,Flatliners était un film de plus de deux heures.,C
+24,GW0,T14,Flatliners a fait plus du double de ce qu'il coûtait à fabriquer au box office.,E
+25,GW0,T14,Flatliners était le premier crédit écrit de Peter Filardi.,N
+26,GW0,T14,Flatliners a été diffusé en hiver 1990.,C
+27,GW1,T17,« Brice Dallas Howard » joue depuis environ 30 ans.,E
+28,GW1,T17,« Brice Dallas Howard » aime Cheryl Alley plus que Ron Howard.,N
+29,GW1,T17,Bryce Dallas Howard est né à l'automne 1981.,C
+30,GW4,T17,Bryce Dallas Howard est né sur la côte ouest des États-Unis.,E
+31,GW4,T17,Bryce Dallas Howard a vécu avec Ron Howard pendant longtemps.,N
+32,GW4,T17,« Brice Dallas Howard » travaille depuis 1981.,C
+33,GW2,T17,« Brice Dallas Howard » joue depuis plus de 20 ans.,E
+34,GW2,T17,Le premier emploi d'acteur de Bryce Dallas Howard a été dans une publicité sur les céréales.,N
+35,GW2,T17,Bryce Dallas Howard a trois fils.,C
+36,GW4,T20,Les rappers Flatbush Zombies ont commencé sur la côte est.,E
+37,GW4,T20,Les rappers Flatbush Zombies ont été signés par un grand label.,N
+38,GW4,T20,Les rappers Flatbush Zombies sont connus pour leurs concerts avec des groupes rock.,C
+39,GW0,T20,Flatbush Zombies ont fait de la musique depuis plus de cinq ans.,E
+40,GW0,T20,Flatbush Zombies ont travaillé avec des rappers à l'extérieur de New York.,N
+41,GW0,T20,Flatbush Zombies est signé à RCA Records.,C
+42,GW1,T20,"«Flatbush Zombies» sont nommés, en partie, en fonction de la ville d'où ils proviennent.",E
+43,GW1,T20,Flatbush Zombies préférait faire de la musique avec RecordsWarner plutôt que The Glorious Dead.,N
+44,GW1,T20,Flatbush Zombies sont actifs en tant que bande depuis plus de 10 ans.,C
+45,GW1,T29,Bullet for My Valentine était connu sous le nom de Jeff Killed John plus tôt dans le temps.,E
+46,GW1,T29,Jeff Killed John a fait le même genre de musique que Bullet for My Valentine.,N
+47,GW1,T29,Bullet for My Valentine est en activité depuis plus de 25 ans en tant que groupe.,C
+48,GW4,T29,Bullet for My Valentine est une bande qui joue depuis la fin des années 90.,E
+49,GW4,T29,La bande Bullet for My Valentine est la plus populaire au Royaume-Uni.,N
+50,GW4,T29,Le groupe Bullet for My Valentine est connu pour jouer de la musique pop.,C
+51,GW0,T29,Bullet for My Valentine est une bande d'Europe.,E
+52,GW0,T29,Bullet for My Valentine est une musique diffusée chaque année depuis 1998.,N
+53,GW0,T29,Bullet for My Valentine n'a publié qu'une musique pour RCA.,C
+54,GW0,T64,Le portrait de Charles I est situé en Angleterre.,E
+55,GW0,T64,Anthony van Dyck a pris plus d'un an pour terminer Le portrait d'équipage de Charles I.,N
+56,GW0,T64,Le « Portrait d'équipage de Charles I » est de moins de 100 pouces de largeur.,C
+57,GW1,T64,Le « Portrait d'équipage de Charles I » a été peint au XVIIe siècle.,E
+58,GW1,T64,Le « Portrait d'équipage de Charles I » est prêté à la National Gallery de Londres.,N
+59,GW1,T64,Le côté le plus long du « Portrait d'équipage de Charles I » mesure moins de 11 pieds de longueur.,C
+60,GW4,T64,Le « Portrait d'équipage de Charles I » a été réalisé par Anthony van Dyck.,E
+61,GW4,T64,Le « Portrait d'équipage de Charles I » a été peint à Londres.,N
+62,GW4,T64,Le « Portrait d'équipage de Charles I » est conservé dans un musée à Paris.,C
+63,GW4,T68,La bande Jet a été formée en Australie.,E
+64,GW4,T68,Les musiciens de Jet n'ont produit aucune musique entre 2012 et 2016.,N
+65,GW4,T68,"Après sa rupture en 2012, Jet ne se retrouvait jamais ensemble.",C
+66,GW0,T68,Jet a pris une interruption de quatre ans de son exécution.,E
+67,GW0,T68,Jet a publié son premier album en 2001.,N
+68,GW0,T68,Jet a cessé d'interpréter il y a plus de cinq ans.,C
+69,GW1,T68,Jet est une bande depuis plus de 10 ans.,E
+70,GW1,T68,Jet se considère comme un rock alternative plus que le rock indie.,N
+71,GW1,T68,Jet a fait de la musique pour 5 ou plus compagnies de disques.,C
+72,GW1,T74,Katharine McPhee est née sur la côte ouest.,E
+73,GW1,T74,Katharine McPhee aime écrire des chansons plus qu'elle ne les exécute.,N
+74,GW1,T74,Katharine McPhee est active depuis plus de 20 ans.,C
+75,GW0,T74,Katharine McPhee est de la côte ouest des États-Unis.,E
+76,GW0,T74,Katharine McPhee écrit toutes les chansons qu'elle exécute.,N
+77,GW0,T74,Katharine McPhee joue depuis plus de vingt ans.,C
+78,GW4,T74,Katharine McPhee est née sur la côte ouest des États-Unis.,E
+79,GW4,T74,Katharine McPhee est connue pour être une chanteuse de R&B.,N
+80,GW4,T74,Katharine McPhee a été avec plus de 7 maisons de disques.,C
+81,GW0,T104,Le « E Street Band » provient de la côte ouest des États-Unis.,E
+82,GW0,T104,La E Street Band compte tous ses membres originaux.,N
+83,GW0,T104,La bande E Street est de la capitale de New Jersey.,C
+84,GW1,T104,La bande de rue E a été formée sur la côte est.,E
+85,GW1,T104,La E Street Band continuera à jouer jusqu'à ce que ses membres meurent.,N
+86,GW1,T104,La bande E Street est active depuis plus de 50 ans.,C
+87,GW4,T104,La bande « E Street Band » a été formée sur la côte est des États-Unis.,E
+88,GW4,T104,Bruce Springsteen a beaucoup travaillé avec la « E Street Band ».,N
+89,GW4,T104,La bande « E Street Band » s'est dissoute en 1999.,C
+90,GW1,T137,Hawkwind est actif en tant que groupe depuis environ 50 ans.,E
+91,GW1,T137,Hawkwind a beaucoup changé de nom en raison de problèmes liés au droit d'auteur.,N
+92,GW1,T137,Hawkwind était toujours le nom de la bande.,C
+93,GW4,T137,La bande Hawkwind a commencé à faire des chansons en 1969.,E
+94,GW4,T137,Le groupe Hawkwind a tourné à l'extérieur de Londres en Angleterre.,N
+95,GW4,T137,La bande Hawkwind est connue pour ses concerts avec Motley Crue.,C
+96,GW0,T137,Hawkwind joue depuis plus de 40 ans.,E
+97,GW0,T137,Hawkwind était connu sous le nom de The Elves of Silbury Hill pendant la majeure partie de leur carrière.,N
+98,GW0,T137,Hawkwind est une bande nord-américaine.,C
+99,GW4,T146,Jeff Bridges est un interprète depuis qu'ils ont 2 ans.,E
+100,GW4,T146,Jeff Bridges a vécu toute sa vie en Californie.,N
+101,GW4,T146,Jeff Bridges a cinq enfants.,C
+102,GW1,T146,Jeff Bridges est né en hiver 1949.,E
+103,GW1,T146,Jeff Bridges préfère chanter plutôt que composer.,N
+104,GW1,T146,Jeff Bridges est actif dans sa carrière depuis moins de 60 ans.,C
+105,GW12,T146,Jeff Bridges est né en hiver 1949.,E
+106,GW12,T146,Jeff Bridges a un frère et une sœur.,N
+107,GW12,T146,La mère de Beau Bridges est Susan Geston.,C
+108,GW0,T152,Jane Austen a été enterrée dans son pays d'origine.,E
+109,GW0,T152,James Austen est le frère le plus âgé de Jane Austen.,N
+110,GW0,T152,Jane Austen n'a pas vécu à voir 40 ans.,C
+111,GW4,T152,Jane Austen est né en Angleterre.,E
+112,GW4,T152,Jane Austen finit par vivre toute sa vie en Angleterre.,N
+113,GW4,T152,Jane Austen est décédée à 45 ans.,C
+114,GW1,T152,Jane Austen est décédée au cours de l'été 1817.,E
+115,GW1,T152,Jane Austen a aimé James Austen plus que George Austen.,N
+116,GW1,T152,Jane Austen avait un diplôme collégial.,C
+117,GW1,T154,Charlie Sheen est né à l'automne 1965.,E
+118,GW1,T154,Charlie Sheen n'aime pas son nom de naissance original.,N
+119,GW1,T154,Charlie Sheen joue depuis plus de 50 ans.,C
+120,GW4,T154,Charlie Sheen a cinq enfants.,E
+121,GW4,T154,Charlie Sheen travaille depuis les années 70.,N
+122,GW4,T154,Charlie Sheen est encore mariée à Brooke Mueller.,C
+123,GW0,T154,Charlie Sheen n'utilise pas son nom de famille original.,E
+124,GW0,T154,Charlie Sheen est la plus âgée de la famille Estevez.,N
+125,GW0,T154,Charlie Sheen a divorcé quatre fois.,C
+126,GW4,T203,La capitale du Japon est située à Tokyo.,E
+127,GW4,T203,Le gouvernement japonais a une constitution.,N
+128,GW4,T203,La majorité des gens qui vivent au Japon sont d'origine coréenne.,C
+129,GW0,T203,La Chambre des conseillers du Japon est plus élevée que la Chambre des représentants.,E
+130,GW0,T203,Les Ainu sont le groupe ethnique le plus populaire du Japon.,N
+131,GW0,T203,Le judaïsme est la religion la plus populaire au Japon.,C
+132,GW1,T203,Plus de la moitié des Japonais pratiquent le Shinto populaire comme religion ou n'ont aucune religion.,E
+133,GW1,T203,"Si le Premier Ministre du Japon décède, le Vice-Premier Ministre prend immédiatement sa place.",N
+134,GW1,T203,Le Japon compte entre 90 et 95 % des Japonais.,C
+135,GW1,T207,« L'énergie brûlante » a été introduite relativement près du millénaire.,E
+136,GW1,T207,La variété Burn Lemon Ice est plus populaire que la variété Burn Blue.,N
+137,GW1,T207,Burn Energy présente plus de dix variétés ou saveurs.,C
+138,GW4,T207,Burn Energy a été fabriqué par la même compagnie qui fabrique Monster.,E
+139,GW4,T207,« Burn Energy » a réussi à augmenter l'énergie pour les gens qui l'ont consommée.,N
+140,GW4,T207,L'énergie brûlée a un goût de chocolat.,C
+141,GW0,T207,Burn Energy présente de nombreux goûts différents.,E
+142,GW0,T207,Burn Energy est la boisson d'énergie la plus vendue de Monster.,N
+143,GW0,T207,Toutes les boissons Burn Energy sont exemptes de sucre.,C
+144,GW28,T261,La capitale de la dynastie Jin s'est déplacée vers différentes villes.,E
+145,GW28,T261,La dynastie Jin était une monarchie avec deux empereurs durant cette période.,N
+146,GW28,T261,La réunification de la Chine précède l'établissement de la Jin.,C
+147,GW4,T261,Jin était une région en Chine depuis plus de 300 ans.,E
+148,GW4,T261,Jin avait généralement beaucoup de religion derrière leur approche de gouvernance.,N
+149,GW4,T261,Le Jin n'a jamais déménagé sa capitale.,C
+150,GW27,T261,Il y avait des monarques dans trois capitales différentes dans l'histoire de Jin.,E
+151,GW27,T261,L'empereur Wu était un bouddhiste.,N
+152,GW27,T261,Luoyang était la capitale au moment où le Jin de l'Est a commencé.,C
+153,GW2,T272,Gerry Mulligan est associé à Chesney Henry Baker.,E
+154,GW2,T272,Chesney Henry Baker a appris à jouer le piano avant l'âge de 10.,N
+155,GW2,T272,Chesney Henry Baker est né aux Pays-Bas.,C
+156,GW4,T272,Le musicien Chet Baker joue principalement de la musique jazz.,E
+157,GW4,T272,Le musicien Chet Baker déménage des États-Unis aux Pays-Bas.,N
+158,GW4,T272,Le musicien Chet Baker a commencé à jouer de la musique professionnelle à 10 ans.,C
+159,GW28,T272,Chet Baker était un musicien américain.,E
+160,GW28,T272,Chet Baker était également compétent en guitare.,N
+161,GW28,T272,Chet Baker est actif depuis ses adolescentes.,C
+162,GW28,T274,Fawad Khan est un entertainer pakistanais.,E
+163,GW28,T274,« Fawad Khan » a étudié pour devenir un programmeur avant de devenir un entertainer.,N
+164,GW28,T274,« Fawad Khan » est marié à son époux avant de devenir actif dans l'industrie du divertissement.,C
+165,GW21,T274,Fawad Khan est un modèle et un acteur très connus et non seulement un musicien.,E
+166,GW21,T274,"Fawad Khan a gagné de nombreux prix, dont un gramy aux États-Unis.",N
+167,GW21,T274,Fawad Khan a fait un album avec Jay Z qui était très populaire.,C
+168,GW0,T274,Fawad Khan a été signé à Lips Music quand il a marié Sadaf Khan.,E
+169,GW0,T274,Les enfants de Fawad Khan sont tous deux adolescents.,N
+170,GW0,T274,Fawad Khan fait de la musique depuis plus de vingt ans.,C
+171,GW28,T277,Charo est un artiste espagnol.,E
+172,GW28,T277,Charo est apparu dans de nombreux émissions de télévision.,N
+173,GW28,T277,La carrière de Charo s'est étendue à huit décennies.,C
+174,GW27,T277,Mar’a del Rosario Mercedes Pilar Mart’nez Molina Baeza débute une carrière active en 1963.,E
+175,GW27,T277,.Mar’a del Rosario Mercedes Pilar Mart’nez Molina Baeza gagne pour la première fois la réputation en acting.,N
+176,GW27,T277,Mar’a del Rosario Mercedes Pilar Mart’nez Molina Baeza est mariée avant de devenir « active » dans sa carrière.,C
+177,GW4,T277,Charo a été mariée deux fois dans sa vie.,E
+178,GW4,T277,Charo a commencé à interpréter quand elle était adolescente.,N
+179,GW4,T277,Charo n'a jamais eu d'enfants.,C
+180,GW4,T286,Fan Bingbing est le chef de leur propre label.,E
+181,GW4,T286,Fan Bingbing est avec Li Chen depuis des années.,N
+182,GW4,T286,Fan Bingbing commence à enregistrer de la musique à l'âge de douze ans.,C
+183,GW27,T286,Fˆn B_ngb_ng est né en 1981.,E
+184,GW27,T286,Fˆn B_ngb_ng est une actrice et membre du Parti communiste.,N
+185,GW27,T286,Fˆn B_ngb_ng est marié.,C
+186,GW28,T286,Fan Bingbing est un entertainer chinois.,E
+187,GW28,T286,Fan Bingbing est l'actrice la plus couronnée de succès en Chine.,N
+188,GW28,T286,La carrière de Fan Bingbing s'étend sur quatre décennies.,C
+189,GW28,T294,« Fast & Furious » est un film américain.,E
+190,GW28,T294,« Fast & Furious » est une course de rue avec des voitures modifiées.,N
+191,GW28,T294,« Fast & Furious » n'était pas un film rentable.,C
+192,GW27,T294,Universal Pictures a publié « Fast & Furious » en 2009.,E
+193,GW27,T294,Le directeur de « Fast & Furious » a été inspiré pour faire le film après avoir lu le livre de Gary Scott Thompson.,N
+194,GW27,T294,« Fast & Furious » a été écrit et dirigé par la même personne.,C
+195,GW4,T294,Le film « Fast & Furious » a fait plus de 250 millions de dollars au box office.,E
+196,GW4,T294,Vin Diesel a beaucoup à dire dans l'édition finale de Fast & Furious.,N
+197,GW4,T294,« Fast & Furious » a été diffusé au grand public aux États-Unis avant d'être montré à Universal CityWalk.,C
+198,GW0,T306,Europe est originaire d'un pays d'Europe du Nord.,E
+199,GW0,T306,Europe tourne le monde depuis quinze ans.,N
+200,GW0,T306,"Depuis quarante ans, l'Europe s'est activement employée sans interruption.",C
+201,GW30,T306,Europe a eu une longue carrière dans le domaine du Hard Rock.,E
+202,GW30,T306,« Europe » a plusieurs succès au premier rang des listes de publicité.,N
+203,GW30,T306,Europe est une bande pop française qui a enregistré avec Universal.,C
+204,GW28,T306,L'Europe est active depuis les années 70.,E
+205,GW28,T306,Les étiquettes pour Europe sont des grandes sociétés suédoises.,N
+206,GW28,T306,Europe a commencé en 1979 et fait de la musique sans interruption depuis.,C
+207,GW21,T308,« Kalman Tihanyi » était un très grand physique et a créé de nombreuses théories qui sont encore valides.,E
+208,GW21,T308,Il a été nommé pour un noble prix en physique.,N
+209,GW21,T308,Sa famille a été tuée par le gouvernement communiste.,C
+210,GW28,T308,K?lm?n Tihanyi était un Européen instruit.,E
+211,GW28,T308,K?lm?n Tihanyi a étudié les sciences à l'université.,N
+212,GW28,T308,K?lm?n Tihanyi était une personne ignorante.,C
+213,GW0,T308,K?lm?n Tihanyi vit dans plusieurs pays européens.,E
+214,GW0,T308,K?lm?n Tihanyi est responsable de l'invention de la caméra infrarouge.,N
+215,GW0,T308,K?lm?n Tihanyi a reçu sa scolarité en Italie.,C
+216,GW4,T310,Christchurch est située sur l'île sud de Nouvelle-Zélande.,E
+217,GW4,T310,La ville de Christchurch a été découverte par des gens du Royaume-Uni.,N
+218,GW4,T310,La ville de Christchurch n'a qu'une seule chambre principale.,C
+219,GW21,T310,Christ Church a été fondée par des groupes de colons anglais et de diffuseurs de mission.,E
+220,GW21,T310,L'Église de Christ compte un grand nombre de peuples autochtones pré colonisés.,N
+221,GW21,T310,Christ Church était la scène d'une grande bataille navale de la Deuxième Guerre mondiale.,C
+222,GW28,T310,Christchurch est constitué de quartiers et régi par un conseil.,E
+223,GW28,T310,Christchurch est une ville en Nouvelle-Zélande.,N
+224,GW28,T310,Christchurch est âgé de plus de 200 ans.,C
+225,GW2,T319,La République tchèque a plus de catholiques que les Moraviens.,E
+226,GW2,T319,Le président de la République tchèque parle polonais.,N
+227,GW2,T319,Le gouvernement dans la langue officielle de Prague est allemand.,C
+228,GW28,T319,La « République tchèque » est une nation multiethnique et multilingue.,E
+229,GW28,T319,La « République tchèque » est essentiellement une nation chrétienne.,N
+230,GW28,T319,La République tchèque est composée principalement de Slovaques et de musulmans.,C
+231,GW14,T319,Il y a plus de Moraviens que de Slovaques dans la République tchèque.,E
+232,GW14,T319,"Avant de devenir Premier Ministre, Andrej Babi_ était auparavant membre de la Chambre basse du Parlement tchèque.",N
+233,GW14,T319,La « République tchèque » n'a qu'une seule langue officielle.,C
+234,GW27,T323,La République tchèque est sortie de la Tchécoslovaquie.,E
+235,GW27,T323,Les Bohemians et les Tchèques sont les mêmes personnes.,N
+236,GW27,T323,La République tchèque faisait partie de l'Union européenne avant son indépendance.,C
+237,GW0,T323,La République tchèque s'est séparée de l'Empire autricho-hongrois il y a plus de 100 ans.,E
+238,GW0,T323,.La République tchèque est l’un des premiers pays à adhérer à l’Union européenne.,N
+239,GW0,T323,Le Royaume de Bohemia a été établi avant le Duché de Bohemia.,C
+240,GW28,T323,La République tchèque obtient son indépendance à la fin du XXe siècle.,E
+241,GW28,T323,La République tchèque s'est jointe à l'Union européenne pour se protéger contre la Russie.,N
+242,GW28,T323,La République tchèque a perdu son indépendance en 2004.,C
+243,GW35,T331,Bryan Adams est un chanteur pop canadien.,E
+244,GW35,T331,Bryan Adams est propriétaire de la maison de disques A&M.,N
+245,GW35,T331,"Bryan Adams est né à Hamilton, en Ontario.",C
+246,GW28,T331,Bryan Adams est un musicien canadien.,E
+247,GW28,T331,Bryan Adams a écrit et exécuté « Tout ce que je fais ».,N
+248,GW28,T331,Bryan Adams est actif depuis ses vingt-dix ans.,C
+249,GW4,T331,Bryan Adams est né au Canada en hiver 1959.,E
+250,GW4,T331,Le chanteur Bryan Adams a appris le piano avant de pouvoir chanter.,N
+251,GW4,T331,Le musicien Bryan Adams a passé la majeure partie de sa vie aux États-Unis.,C
+252,GW4,T332,Jay Park est un musicien depuis qu'ils ont 21 ans.,E
+253,GW4,T332,Jay Park s'est préformé sur scène avec Higher Brothers.,N
+254,GW4,T332,Jay Park a commencé sa carrière de rap à Oakland.,C
+255,GW27,T332,"Park Jae-beom est né à Edmonds, Washington.",E
+256,GW27,T332,Park Jae-beom a grandi à Seattle.,N
+257,GW27,T332,Park Jae-beom pratique plus de genres que le nombre d'étiquettes sur lesquelles il a travaillé.,C
+258,GW28,T332,Jay Park est un entertainer américain.,E
+259,GW28,T332,Jay Park est un rapper coréen-américain.,N
+260,GW28,T332,Jay Park a commencé sa carrière à l'adolescence.,C
+261,GW0,T340,Jennifer Love Hewitt réside dans un État différent de celui où elle est née.,E
+262,GW0,T340,Jennifer Love Hewitt a deux enfants avec Brian Hallisay.,N
+263,GW0,T340,Jennifer Love Hewitt chante professionnellement depuis qu'elle était petite.,C
+264,GW2,T340,Jennifer Love Hewitt est une actrice qui a connu une carrière de chant dans la musique pop.,E
+265,GW2,T340,Jennifer Love Hewitt était dans Party of Five en 1998.,N
+266,GW2,T340,Jennifer Love Hewitt a commencé à jouer dans Party of Five en 1989.,C
+267,GW28,T340,Jennifer Love Hewitt est un artiste américain.,E
+268,GW28,T340,Les deux enfants de Jennifer Love Hewitt sont des filles.,N
+269,GW28,T340,Jennifer Love Hewitt est actuellement une chantrice.,C
+270,GW0,T348,«Christina Aguilera» chante depuis plus de vingt ans.,E
+271,GW0,T348,«Christina Aguilera» a deux enfants avec Matthew Rutler.,N
+272,GW0,T348,Jordan Bratman divorce «Christina Aguilera» après deux ans ensemble.,C
+273,GW14,T348,Christina Aguilera a publié de la musique pop sous le label RCA.,E
+274,GW14,T348,Christina Aguilera a rencontré Matthew Rutler lors d'une fête de Hollywood.,N
+275,GW14,T348,Christina Aguilera a toujours vécu dans la ville où elle est née.,C
+276,GW45,T348,RCA Record lable est un album américain de la musique Sony.,E
+277,GW45,T348,Elle ne peut être qu'une chanteuse et une auteure de chansons.,N
+278,GW45,T348,Elle ne peut pas contribuer au genre pop et soul à la fois.,C
+279,GW4,T361,Joaquin Phoenix est marié à 42 ans.,E
+280,GW4,T361,« Joaquin Phoenix » était connu sous le nom de « Leaf Phoenix » dans certains premiers films.,N
+281,GW4,T361,Joaquin Phoenix est né aux États-Unis.,C
+282,GW27,T361,Joaquin Rafael Bottom est connu sous le nom de Leaf Phoenix.,E
+283,GW27,T361,Tous les frères et sœurs de Joaquin Rafael Bottom sont impliqués dans l'action comme lui.,N
+284,GW27,T361,Joaquin Rafael Bottom réside dans la ville où il est né.,C
+285,GW28,T361,Joaquin Phoenix est un artiste américain.,E
+286,GW28,T361,Joaquin Phoenix a un frère qui est décédé.,N
+287,GW28,T361,Joaquin Phoenix joue depuis qu'il était mineur.,C
+288,GW28,T370,Everclear est une bande rock américaine.,E
+289,GW28,T370,« Everclear » est composé de quatre membres.,N
+290,GW28,T370,« Everclear » a été dissout et réuni plusieurs fois.,C
+291,GW14,T370,Everclear est actif depuis plus d'un quart d'un siècle.,E
+292,GW14,T370,"Le label Cleopatra est situé à Portland, en Oregon.",N
+293,GW14,T370,La musique de Everclear ne peut être catégorisée que dans un genre unique.,C
+294,GW0,T370,« Everclear » proviennent de la région du Pacifique Nord-Ouest des États-Unis.,E
+295,GW0,T370,« Everclear » a été signé aux dossiers du Capitol tout au long des années 90.,N
+296,GW0,T370,Everclear joue de la musique grunge depuis plus de trente ans.,C
+297,GW27,T372,Florence Annie Bridgwood se suicide en 1938.,E
+298,GW27,T372,Florence Annie Bridgwood est enterrée près de son premier mari à Hollywood Forever Cemetery.,N
+299,GW27,T372,Le dernier mariage de Florence Annie Bridgwood a été mis fin par son suicide.,C
+300,GW0,T372,Florence Lawrence a divorcé la majorité de ses maris.,E
+301,GW0,T372,Florence Lawrence a joué dans des dizaines de films.,N
+302,GW0,T372,Florence Lawrence épouse Charles Woodring après avoir divorcé Henry Bolton.,C
+303,GW28,T372,Florence Lawrence était responsable de sa propre mort.,E
+304,GW28,T372,Florence Lawrence est décédée d'un coeur brisé.,N
+305,GW28,T372,Florence Lawrence est décédée avant son troisième mari.,C
+306,GW28,T382,Jeff Hardy est un artiste américain.,E
+307,GW28,T382,Jeff Hardy a été entraîné sans steroides.,N
+308,GW28,T382,Jeff Hardy est marié avant son début.,C
+309,GW4,T382,Jeff Hardy a commencé à wrestler professionnel quand il n'avait que 16 ans.,E
+310,GW4,T382,Jeff Hardy avait les deux enfants avec Beth Britt.,N
+311,GW4,T382,Jeff Hardy a commencé sa carrière musicale avant sa carrière de wrestling.,C
+312,GW2,T382,Jeff Hardy est un wrestler et un musicien.,E
+313,GW2,T382,Jeff Hardy a lancé trois groupes de metal différents et a été le chanteur principal de tous les trois.,N
+314,GW2,T382,Jeff Hardy s'est porté professionnel pour la première fois en 1990.,C
+315,GW4,T400,Jordan Peele a commencé à jouer un rôle professionnel à 23 ans.,E
+316,GW4,T400,Jordan Peele a eu son enfant avec sa femme Chelsea Peretti.,N
+317,GW4,T400,Jordan Peele n'a jamais fréquenté l'université.,C
+318,GW27,T400,Jordan Haworth Peele a étudié au Sarah Lawrence College.,E
+319,GW27,T400,Jordan Haworth Peele a commencé à jouer au Sarah Lawrence College.,N
+320,GW27,T400,Jordan Haworth Peele est marié avant de devenir « actif » dans le monde des spectacles.,C
+321,GW28,T400,Jordan Peele est un entertainer américain.,E
+322,GW28,T400,Jordan Peele est célèbre pour Get Out et Keanu.,N
+323,GW28,T400,Jordan Peele est actif depuis ses adolescents.,C
+324,GW28,T403,« John Harrison » est un orologiste anglais gagnant des prix.,E
+325,GW28,T403,John Harrison a conçu une montre imperméable.,N
+326,GW28,T403,« John Harrison » a reçu une médaille après sa mort.,C
+327,GW27,T403,John Harrison est né et décédé dans le même pays.,E
+328,GW27,T403,John Harrison a reçu la Médaille Copley pour son chronomètre marin.,N
+329,GW27,T403,John Harrison est né et décédé dans la même ville.,C
+330,GW0,T403,John Harrison est mort avant la signature de la Déclaration d'indépendance.,E
+331,GW0,T403,John Harrison est responsable de la popularisation des chronomètres sur les montres.,N
+332,GW0,T403,John Harrison est né dans la capitale de l'Angleterre.,C
+333,GW4,T405,La majorité des habitants de la République du Burundi sont Hindus.,E
+334,GW4,T405,Le prochain président de la République du Burundi sera Gaston Sindimwo.,N
+335,GW4,T405,La République du Burundi compte plus d'Asie du Sud que d'Europe.,C
+336,GW28,T405,La République du Burundi est un pays multilingue et multiethnique.,E
+337,GW28,T405,Les Hutus sont composés de 100 % de Hutus sans que la moitié ou les enfants intermixés ne figurent dans la statistique.,N
+338,GW28,T405,La République du Burundi est située au nord de l'Equateur.,C
+339,GW0,T405,La capitale de la République du Burundi n'est pas la plus grande ville du pays.,E
+340,GW0,T405,Pierre Nkurunziza a été vice-président avant de devenir président.,N
+341,GW0,T405,Il y a plus de Tutsis que de Hutus vivant au Burundi.,C
+342,GW0,T408,Karen Gilan a fréquenté une école d'art de la scène.,E
+343,GW0,T408,Caitlin Blackwood et Karen Gilan ont les mêmes grands-parents frères.,N
+344,GW0,T408,Karen Gilan joue depuis qu'elle a cinq ans.,C
+345,GW32,T408,Karen Gillan est né en 1987.,E
+346,GW32,T408,Karen Gillan vit maintenant au Royaume-Uni.,N
+347,GW32,T408,« Karen Gillan » est la tante de Caitlin Blackwood.,C
+348,GW28,T408,Karen Gillan travaille devant et derrière l'écran dans l'industrie du divertissement.,E
+349,GW28,T408,Karen Gillan est multilingue en anglais et en italien.,N
+350,GW28,T408,Karen Gillan est une actrice depuis sa petite enfance.,C
+351,GW27,T413,Justus von Liebig est né en 1803 et est mort à 69 ans.,E
+352,GW27,T413,Justus von Liebig a élaboré la loi du minimum à l'Université de Bonn.,N
+353,GW27,T413,Justus von Liebig a reçu la Médaille Albert posthumement.,C
+354,GW4,T413,Justus von Liebig a étudié et enseigné la chimie dans sa vie.,E
+355,GW4,T413,Justus von Liebig a aidé à enseigner aux élèves qui ont suivi pour fabriquer des roquettes.,N
+356,GW4,T413,Justus von Liebig n'a jamais obtenu de prix pour ses œuvres.,C
+357,GW28,T413,Justus von Liebig était un scientifique européen.,E
+358,GW28,T413,Justus von Liebig était un homme marié avec des enfants.,N
+359,GW28,T413,Justus von Liebig a reçu la Médaille Albert posthumement.,C
+360,GW34,T416,Johnny Depp a été marié deux fois.,E
+361,GW34,T416,"Johnny Depp a encore une maison d'enfance à Owensboro, Kentucky.",N
+362,GW34,T416,"Johnny Depp est un acteur, producteur, musicien et mécanicien automobile.",C
+363,GW30,T416,Johnny Depp est un acteur américain né au Kentucky qui vit à Los Angeles.,E
+364,GW30,T416,Johnny Depp a remporté plusieurs prix pour sa participation à des films de Hollywood.,N
+365,GW30,T416,Johnny Depp est décédé dans un accident de voiture au début de 2015.,C
+366,GW4,T416,L'acteur Johnny Depp commence à jouer à l'âge de 21 ans.,E
+367,GW4,T416,L'acteur Johnny Depp avait deux enfants avec Amber Heard.,N
+368,GW4,T416,L'acteur Johnny Depp a eu trois épouses.,C
+369,GW28,T422,Jerry Lee Lewis est un artiste américain.,E
+370,GW28,T422,Jerry Lee Lewis a passé toute sa carrière en Louisiana.,N
+371,GW28,T422,Jerry Lee Lewis est mort en jouant le piano.,C
+372,GW27,T422,Jerry Lee Lewis est une chanson rock et roll de Louisiana.,E
+373,GW27,T422,Jerry Lee Lewis était sur Sun Records en même temps que son premier acteur associé Johnny Cash.,N
+374,GW27,T422,Jerry Lee Lewis a fait un plus grand nombre de genres que les pièces associées.,C
+375,GW0,T422,Jerry Lee Lewis fait de la musique depuis plus de cinquante ans.,E
+376,GW0,T422,Jerry Lee Lewis joue au piano à côté de Johnny Cash.,N
+377,GW0,T422,Jerry Lee Lewis est de la région du Pacifique Nord-Ouest des États-Unis.,C
+378,GW4,T433,Le film Concussion a été écrit et dirigé par la même personne.,E
+379,GW4,T433,Le film Concussion est basé sur un livre populaire.,N
+380,GW4,T433,Concussion est sorti aux États-Unis avant d'être montré au festival AFI.,C
+381,GW28,T433,« Concussion » est un film américain.,E
+382,GW28,T433,« Concussion » est le traitement des traumatismes du cerveau de leurs joueurs par l'NFL.,N
+383,GW28,T433,Concussion a fait plus au cinéma que son budget.,C
+384,GW27,T433,« Concussion » a été écrit et dirigé par Peter Landesman.,E
+385,GW27,T433,Columbia Pictures a distribué Concussion au AFI Fest pour gagner la notoriété.,N
+386,GW27,T433,Le bureau de production de « Concussion » était supérieur à son budget le plus élevé.,C
+387,GW0,T435,Children of Bodom a connu un autre nom au cours des quatre premières années de son exécution.,E
+388,GW0,T435,"Children of Bodom joue surtout dans leur pays d'origine, la Finlande.",N
+389,GW0,T435,Les « enfants de Bodom » proviennent de l'Europe du Sud.,C
+390,GW27,T435,Le groupe Inearthed vient de Finlande.,E
+391,GW27,T435,Les membres d'Inearthed sont nés en Finlande.,N
+392,GW27,T435,"La bande, anciennement connue sous le nom d'Inearthed, fait partie de quatre maisons de disques.",C
+393,GW28,T435,Les enfants de Bodom jouent depuis les années 90.,E
+394,GW28,T435,Les « enfants de Bodom » ont été généreusement rémunérés pendant leur travail.,N
+395,GW28,T435,Children of Bodom a une courte histoire de musique.,C
+396,GW4,T440,La République du Chili compte principalement des Blancs.,E
+397,GW4,T440,La République du Chili a des élections pour son président.,N
+398,GW4,T440,La République du Chili parle l'anglais comme langue maternelle.,C
+399,GW28,T440,Le pouvoir législatif de la République du Chili est composé de deux chambres.,E
+400,GW28,T440,La République du Chili est une ancienne colonie espagnole.,N
+401,GW28,T440,La Présidente de la République du Chili est une femme.,C
+402,GW14,T440,L'espagnol est la langue nationale de Santiago.,E
+403,GW14,T440,Maya Fernandez et Carlos Montes Cisternas ont eaten lunch together.,N
+404,GW14,T440,Sebasti‡n Pi–era est sous-ordonnée à Maya Fern‡ndez.,C
+405,GW27,T447,La Chine a connu deux périodes républiques.,E
+406,GW27,T447,La République populaire de Chine est venue en raison des faillites du gouvernement en place depuis 1912.,N
+407,GW27,T447,La Constitution chinoise a été adoptée avant la proclamation de la République populaire.,C
+408,GW4,T447,La Constitution actuelle de la République populaire de Chine a été écrite dans les années 1980.,E
+409,GW4,T447,La République populaire de Chine a eu des politiques politiques similaires depuis 1949.,N
+410,GW4,T447,La République populaire de Chine a eu les mêmes familles au pouvoir depuis plus de 1000 ans.,C
+411,GW28,T447,La République populaire de Chine a été déclarée avant la Proclamation.,E
+412,GW28,T447,La Constitution actuelle n'a pas changé depuis sa création.,N
+413,GW28,T447,La proclamation de la République populaire précède la déclaration de la République populaire.,C
+414,GW28,T458,Le pont de contrat est un jeu de cartes à plusieurs joueurs.,E
+415,GW28,T458,Le bridge de contrat est limité à 4 joueurs seulement.,N
+416,GW28,T458,Le pont de contrat est purement fondé sur la chance.,C
+417,GW4,T458,Le jeu de pont contractuel est souvent joué dans un groupe de personnes.,E
+418,GW4,T458,Le jeu Contract bridge a été joué sur le plan professionnel.,N
+419,GW4,T458,Le jeu Bridge contract utilise la carte de joker.,C
+420,GW27,T458,Le pont est un jeu de tir de trucs.,E
+421,GW27,T458,4 joueurs partagent entre eux le paquet de 52.,N
+422,GW27,T458,Chacun des quatre joueurs utilise une compétence différente.,C
+423,GW28,T491,« Cory Monteith » était un interprète canadien qui est décédé il y a moins d'une décennie.,E
+424,GW28,T491,« Cory Monteith » faisait partie d'une série télévisée populaire avant sa mort.,N
+425,GW28,T491,« Cory Monteith » a commencé comme acteur adolescent.,C
+426,GW0,T491,« Cory Monteith » est mort dans l'Ouest du Canada.,E
+427,GW0,T491,Cory Monteith a subi une surdose d'héroïne.,N
+428,GW0,T491,Cory Monteith est décédé neuf mois après son 31e anniversaire.,C
+429,GW33,T491,Cory Monteith est né le 11 mai 1982,E
+430,GW33,T491,Cory Monteith est toxicomane,N
+431,GW33,T491,Cory Monteith a commencé sa carrière en 2013,C
+432,GW45,T534,Le blé rouge et le couconu sont les variétés de vodka.,E
+433,GW45,T534,CIROC VODKA MAY BE A BRAND NAME OR PRODUCT TITLE OF VODKA,N
+434,GW45,T534,CIRCO avait plus de vingt-cinq variétés,C
+435,GW0,T534,C?OC est sur le marché depuis plus de quinze ans.,E
+436,GW0,T534,Le C?OC est surtout consommé dans son pays d'origine.,N
+437,GW0,T534,Le C?OC est vendu en moins d'une douzaine de goûts.,C
+438,GW28,T534,C?OC est une vodka française qui présente divers goûts.,E
+439,GW28,T534,Le C?OC est un alcool à prix raisonnable pour les consommateurs qui sont conscients des prix.,N
+440,GW28,T534,C?OC est une marque de deux décennies.,C
+441,GW0,T535,Le premier numéro de Crisis on Infinite Earths a été publié au printemps 1985.,E
+442,GW0,T535,DC Comics a mis fin à Crisis on Infinite Earths en raison de mauvaises ventes.,N
+443,GW0,T535,« Crisis on Infinite Earths » est un roman publié en hiver 1985.,C
+444,GW51,T535,Crisis on Infinite Earth était un comique de DC qui était diffusé mensuellement pendant environ un an dans les années 80.,E
+445,GW51,T535,« Crisis on Infinite Earths » est le premier volet de George R.R. Martin dans le domaine de la création de fantasmes.,N
+446,GW51,T535,"Le personnage principal de Crisis on Infinite Earth est Batman, qui est tué par Dumbledore dans le dernier numéro.",C
+447,GW28,T535,« Crisis on Infinite Earths » est une série de livres comiques américains des années 80.,E
+448,GW28,T535,Crisis on Infinite Earths contenait de nombreux apparitions de cameo d'autres superhéroes DC bien connus.,N
+449,GW28,T535,Crisis on Infinite Earths célèbre son 35e anniversaire depuis sa publication.,C
+450,GW51,T536,"Denver est une ville au Colorado, aux États-Unis, dénommée pour James Denver.",E
+451,GW51,T536,"À Denver, le premier Bronco a été observé en Amérique, c'est pourquoi l'équipe de football locale est dénommée Broncos.",N
+452,GW51,T536,Denver a été fondé par un groupe local de mineurs en 1848.,C
+453,GW28,T536,"« Denver, Colorado » est une ville américaine fondée au XIXe siècle.",E
+454,GW28,T536,"« Denver, Colorado » est situé près de la chaîne des Rocheuses.",N
+455,GW28,T536,"« Denver, Colorado » a été fondé et incorporé au cours d’une décennie",C
+456,GW0,T536,La ville et le comté de Denver ont été consolidés quelques années après le tournant du XXe siècle.,E
+457,GW0,T536,Denver a été fondé par James W. Denver.,N
+458,GW0,T536,La ville de Denver est située dans la région méridionale profonde des États-Unis.,C
+459,GW27,T543,Le match le plus important de l'Inde a attiré 465 000 joueurs sur cinq jours.,E
+460,GW27,T543,"26,528 étaient le plus grand nombre d'spectateurs par match jamais enregistrés en Inde.",N
+461,GW27,T543,L'Inde contre le Pakistan à Eden Gardens en 1999 a attiré plus que la saison totale de l'Inde en 2017.,C
+462,GW51,T543,L'Inde s'est battue contre le Pakistan dans un match de cinq jours en 1999.,E
+463,GW51,T543,465 000 personnes uniques ont assisté au match cricket entre l'Inde et le Pakistan.,N
+464,GW51,T543,Près d'un million de personnes ont assisté au cricket en Inde pour la saison 2017.,C
+465,GW28,T543,L'Inde participe au cricket et elle a la Premier League indienne.,E
+466,GW28,T543,L'Inde et le Pakistan ont une rivalité dans les matchs sportifs.,N
+467,GW28,T543,Le cricket est un sport peu populaire en Inde.,C
+468,GW51,T544,« Despicable Me 3 » est un film animé distribué par Universal Pictures en 2017.,E
+469,GW51,T544,"« Despicable Me 3 » est en fait le quatrième film de la franchise Despicable Me, malgré les trois dans le titre.",N
+470,GW51,T544,« Despicable Me 3 » a fait sa première sortie de box-offie avec des stars en été 2016.,C
+471,GW28,T544,« Despicable Me 3 » est un film de Hollywood.,E
+472,GW28,T544,« Despicable Me 3 » est un film animé.,N
+473,GW28,T544,« Despicable Me 3 » a été une déception au box office.,C
+474,GW0,T544,« Despicable Me 3 » a été montré à Annecy deux semaines avant sa sortie à l'échelle nationale.,E
+475,GW0,T544,« Despicable Me 3 » a le même cast que les deux premiers films du même titre.,N
+476,GW0,T544,« Despicable Me 3 » n'a pas été un succès de box office par rapport à son budget initial.,C
+477,GW28,T554,« Danehill » était un chevaucheur de course américain.,E
+478,GW28,T554,Danehill a été mis à l'essai après avoir terminé ses journées de course.,N
+479,GW28,T554,Danehill est né dans la nature avec un parent inconnu.,C
+480,GW27,T554,Le fils de Danehill était Danzig et son grand-père Northern Dancer.,E
+481,GW27,T554,« Danehill » a été élevé par Juddmonte Farms pour le prince Khalid Abdullah.,N
+482,GW27,T554,Le propriétaire et l'entraîneur de Danehill étaient les mêmes hommes.,C
+483,GW51,T554,Danehill est un célèbre chevaucheur de course des États-Unis.,E
+484,GW51,T554,Juddmonte Farms est l'un des éleveurs les plus couronnés des États-Unis.,N
+485,GW51,T554,Danehill n'a jamais perdu de course à cheval dans toute sa carrière.,C
+486,GW51,T557,Le Club est un boissons gazeuses irlandaises.,E
+487,GW51,T557,"Le club est offert dans de nombreux goûts différents, comme l'orange et le raisin.",N
+488,GW51,T557,Le Club est la boisson douce la plus populaire du monde.,C
+489,GW33,T557,Club is a Carbonated soft drink Manufactured by Britvic Ireland,E
+490,GW33,T557,Club est fabriqué uniquement en Irlande,N
+491,GW33,T557,Le club est un jus d'orange,C
+492,GW28,T557,Le Club est une boisson irlandaise.,E
+493,GW28,T557,Le club est une boisson sucrée douce.,N
+494,GW28,T557,Le club n'a jamais changé sa recette pour la boisson.,C
+495,GW28,T578,Close Encounters of the Third Kind est un film hollywoodien écrit et dirigé par un célèbre réalisateur.,E
+496,GW28,T578,« Close Encounters of the Third Kind » était un film de science-fiction.,N
+497,GW28,T578,« Close Encounters of the Third Kind » a été un échec au box office.,C
+498,GW51,T578,« Close Encounters of the Third Kind » est un film de science fiction réalisé par Stephen Spielberg.,E
+499,GW51,T578,"« Close Encounters of the Third Kind » a inspiré de nombreux futurs films et émissions télévisées, notamment la série Stranger Things.",N
+500,GW51,T578,"« Close Encounters of the Third Kind » a été inspiré par un autre film de Spielberg, E.T., qui a été diffusé avant « Close Encounters of the Third Kind » en 1982.",C
+501,GW0,T578,Close Encounters of the Third Kind a gagné plus d'un quart de milliard de dollars au box office sur son budget.,E
+502,GW0,T578,Un duo marié-épouse a produit « Close Encounters of the Third Kind ».,N
+503,GW0,T578,« Close Encounters of the Third Kind » a été produit et distribué par la même entreprise.,C
+504,GW54,T581,Polmos Krak—w est le fabricant Cracovia,E
+505,GW54,T581,Cracovia a été introduite en 1995,N
+506,GW54,T581,Cracovia est disponible seulement en Pologne,C
+507,GW28,T581,Cracovia est un alcool polonais.,E
+508,GW28,T581,Cracovia est la vodka la plus vendue en Pologne.,N
+509,GW28,T581,Cracovia est une boisson alcoolique faible,C
+510,GW51,T581,Cracovia est un type de vodka polonais.,E
+511,GW51,T581,Cracovia est désignée en fonction d'une région du pays de Pologne.,N
+512,GW51,T581,Cracovia était initialement une bière et transformée en 40 Proof Vodka.,C
+513,GW51,T596,Ciara est une chantrice et danseuse américaine de R&B.,E
+514,GW51,T596,Le premier hit de Ciara a été Goodies avec Petey Pablo.,N
+515,GW51,T596,« Ciara » est un professionnel de la R-B depuis 1971.,C
+516,GW28,T596,« Ciara » est un artiste américain marié à un athlète.,E
+517,GW28,T596,Ciara est un seul enfant.,N
+518,GW28,T596,Ciara est active depuis ses vingt ans.,C
+519,GW33,T596,"« Ciara » Princess Harris né le 25 octobre 1985 à Austin, Texas, États-Unis.",E
+520,GW33,T596,diriger sa carrière musicale avec Nayvadious Wilburn,N
+521,GW33,T596,« Ciara » Princess Harris marie Nayvadious Wilburn,C
+522,GW28,T662,"«Detroit, Michigan» est bien au-dessus du niveau de la mer.",E
+523,GW28,T662,"La région métropolitaine de Detroit, Michigan, est plus grande que la plupart des autres régions métropolitaines américaines.",N
+524,GW28,T662,La ville de Detroit (Michigan) compte moins d'un dixième de la superficie urbaine.,C
+525,GW0,T662,La ville de Detroit est plus grande que l'espace terrestre qu'elle occupe.,E
+526,GW0,T662,La partie la plus élevée de Detroit se trouve dans le centre-ville.,N
+527,GW0,T662,La zone urbaine de Detroit est plus grande que la zone métropolitaine.,C
+528,GW51,T662,Detriot est une grande ville située au Michigan.,E
+529,GW51,T662,Detriot est la plus grande ville aux États-Unis.,N
+530,GW51,T662,Le Détriot est situé au-dessous du niveau de la mer.,C
+531,GW51,T667,"Crimson Peak a réalisé un profit de 19,7 millions de dollars après la fin de son tournée de box office.",E
+532,GW51,T667,Guilllermo Del Toro et Universal Pictures sont depuis longtemps des partenaires.,N
+533,GW51,T667,Crimson Peak a été diffusé sur Blu-Ray en 2014.,C
+534,GW0,T667,Crimson Peak est légèrement inférieur à deux heures de longueur.,E
+535,GW0,T667,« Crimson Peak » est la première fois que Guillermo del Toro n'a pas écrit seul le scénario de son film.,N
+536,GW0,T667,« Crimson Peak » a été inauguré en hiver 2015.,C
+537,GW28,T667,Crimson Peak est un film indépendant américain du XXIe siècle.,E
+538,GW28,T667,Crimson Peak a reçu beaucoup de la haine des critiques et des réalisateurs de films.,N
+539,GW28,T667,Crimson Peak a réalisé un profit important au box office.,C
+540,GW51,T680,Camp Kill Yourself est une bande de rock grunge qui est active depuis plus de 30 ans dans l'industrie de la musique.,E
+541,GW51,T680,Camp Kill Yourself est parfois connu sous le nom de « CKY » afin de ne pas offenser certains critiques et écouteurs de leur musique.,N
+542,GW51,T680,Camp Kill Yourself a été signé à Universal et Paramount.,C
+543,GW28,T680,CKY est une bande rock américaine qui joue encore aujourd'hui.,E
+544,GW28,T680,CKY a gagné de nombreux prix pour sa musique.,N
+545,GW28,T680,« CKY » a travaillé avec quelques maisons de disques tout au long de sa carrière.,C
+546,GW27,T680,"Camp Kill Yourself est de West Chester, en Pennsylvanie.",E
+547,GW27,T680,Camp Kill Yourself fait partie du label Entertainment One depuis 1998.,N
+548,GW27,T680,Camp Kill Yourself a été sur plus d'étiquettes qu'ils n'ont des actes associés.,C
+549,GW0,T688,La femme de Dennis Gabor l'a survécu de deux ans.,E
+550,GW0,T688,Dennis Gabor a reçu le prix Nobel pour son travail en holographie.,N
+551,GW0,T688,Dennis Gabor a reçu son éducation à l'extérieur de son pays d'origine.,C
+552,GW28,T688,Dennis Gabor était un médecin du XXe siècle qui a remporté le prix Nobel.,E
+553,GW28,T688,Dennis Gabor enseigne au Imperial College à Londres.,N
+554,GW28,T688,Dennis Gabor a remporté ses prix en années successives à partir de 1967.,C
+555,GW51,T688,Dennis Gabor est un célèbre scientifique hongrois-britannique.,E
+556,GW51,T688,Dennis Gabor est devenu le plus célèbre alors qu'il étudie au Imperial College de Londres lorsqu'il reçoit le prix Nobel en physique.,N
+557,GW51,T688,Dennis Gabor a reçu le prix Nobel de la paix pendant son travail à Oxford en 1982.,C
+558,GW51,T702,La « ville de Londres » est une grande ville du Royaume-Uni qui existe depuis près de 2000 ans.,E
+559,GW51,T702,La ville a subi la réforme de Wessex après la chute de l'empire romain.,N
+560,GW51,T702,La « ville de Londres » compte 27 quartiers distincts après la réinstallation de Wessex.,C
+561,GW0,T702,Il y a plus de douze quartiers dans la ville de Londres.,E
+562,GW0,T702,Londres est la ville la plus peuplée du Royaume-Uni.,N
+563,GW0,T702,Les Roms se sont installés à Londres quelques années après les Wessex.,C
+564,GW28,T702,La ville de Londres est une région unique de l'Angleterre.,E
+565,GW28,T702,La « ville de Londres » a sa propre force de police séparée des autres juridictions.,N
+566,GW28,T702,La « ville de Londres » est une terre romaine.,C
+567,GW28,T709,Crack-Up est un album de musique enregistré et diffusé sur une période de deux ans.,E
+568,GW28,T709,Crack-Up est un album studio de la bande Fleet Foxes.,N
+569,GW28,T709,Crack-Up a été principalement enregistré dans l'État de Washington.,C
+570,GW51,T709,Crack-Up est un album de rock indie sorti en 2017.,E
+571,GW51,T709,Crack-Up a été inspiré initialement par la revue Cracked.,N
+572,GW51,T709,Crack-Up a été produit par Barry Gordy et enregistré en 2003.,C
+573,GW0,T709,Crack-Up a pris environ une demi-année pour terminer l'enregistrement.,E
+574,GW0,T709,Robin Pecknold ne produit de musique que dans les studios Electric Lady.,N
+575,GW0,T709,Crack-Up a été enregistré dans plusieurs studios seulement sur la côte est.,C
+576,GW51,T719,Cristiano Ronaldo est un fameux forward dans ses trente ans.,E
+577,GW51,T719,Cristiano Ronaldo est un footballeur célèbre pour Juventus.,N
+578,GW51,T719,Ronaldo est plus de six pieds et demi de haut.,C
+579,GW4,T719,Cristiano Ronaldo joue une position offensive plutôt que défensive.,E
+580,GW4,T719,Cristiano Ronaldo a toujours vécu au Portugal.,N
+581,GW4,T719,Cristiano Ronaldo est plus court que 6 pieds de hauteur.,C
+582,GW28,T719,Cristiano Ronaldo est un sportif européen..,E
+583,GW28,T719,Cristiano Ronaldo joue dans la Liga espagnole.,N
+584,GW28,T719,Cristiano Ronaldo est un Millenial britannique.,C
+585,GW14,T720,L'album intitulé David Bowie a été enregistré pendant deux années différentes.,E
+586,GW14,T720,Mike Vernon est citoyen du Royaume-Uni.,N
+587,GW14,T720,L'album intitulé David Bowie est sorti plus d'un an après son enregistrement.,C
+588,GW51,T720,David Bowie est un album enregistré à Londres.,E
+589,GW51,T720,« David Bowie » est l'un des nombreux albums de David Bowie.,N
+590,GW51,T720,« David Bowie » a été enregistré en une semaine seulement en janvier 1967.,C
+591,GW4,T720,L'album David Bowie a été enregistré au Royaume-Uni.,E
+592,GW4,T720,L'album David Bowie a été rédigé par David Bowie.,N
+593,GW4,T720,L'album David Bowie a une durée de plus d'une heure.,C
+594,GW14,T727,L'initial moyen de Dick Van Dyke se trouve près de la fin de l'alphabet anglais.,E
+595,GW14,T727,« Dick Van Dyke » a été déployé à l'étranger pendant la Deuxième Guerre mondiale.,N
+596,GW14,T727,Dick Van Dyke n'est pas encore grand-père.,C
+597,GW6,T727,Le mari d'Arlene Silver est né dans les vingt-dix.,E
+598,GW6,T727,Dick Van Dyke était un père pendant la Deuxième Guerre mondiale.,N
+599,GW6,T727,Shane Van Dyke n'a pas de grands-uncles.,C
+600,GW51,T727,Dick Van Dyke est un acteur et comédien de Malibu.,E
+601,GW51,T727,Dick Van Dyke avait son propre spectacle intitulé The Dick Van Dyke Show.,N
+602,GW51,T727,Van Dyke a servi dans l'armée pendant plus de quatre ans pendant la Deuxième Guerre mondiale.,C
+603,GW4,T729,« David Byrne » déménage aux États-Unis.,E
+604,GW4,T729,David Byrne a joué en direct avec les Talking Heads.,N
+605,GW4,T729,David Byrne vit au Royaume-Uni lorsqu'ils sont devenus musiciens pour la première fois.,C
+606,GW28,T729,David Byrne est un musicien écossais-américain.,E
+607,GW28,T729,"David Byrne était chanteur, écrivain et guitariste pour les Talking Heads.",N
+608,GW28,T729,David Byrne a commencé sa carrière musicale à la mi-vingt-deux.,C
+609,GW51,T729,David Byrne est un musicien écossais de Dunbartonshire.,E
+610,GW51,T729,Byrne a d'abord commencé comme chanteur principal pour les Talking Heads.,N
+611,GW51,T729,Byrne prend sa retraite de la musique en 1989 pour travailler à sa ferme.,C
+612,GW51,T733,La Coca-Cola with Lime est une boissons gazeuses produites par Coca-Cola et fabriquées au Royaume-Uni et aux États-Unis.,E
+613,GW51,T733,"Coca-Cola Lime a été créée par accident lorsqu'un gestionnaire a mis Lime, Tequila et Coca-Cola ensemble.",N
+614,GW51,T733,La Coca-Cola avec Lime a été introduite en Irlande du Nord avant d'être fabriquée au Royaume-Uni.,C
+615,GW28,T733,Coca-Cola with Lime/Diet Coke with Citrus Zest est une boisson britannique-américaine.,E
+616,GW28,T733,« Coca-Cola with Lime/Diet Coke with Citrus Zest » est un bestseller au Royaume-Uni.,N
+617,GW28,T733,La Coca-Cola with Lime/Diet Coke with Citrus Zest contenait une véritable poussée de limon.,C
+618,GW4,T733,La Coca-Cola with Lime/Diet Coke with Citrus Zest a été introduite plus d'une fois.,E
+619,GW4,T733,Coca-Cola with Lime/Diet Coke with Citrus Zest vient après Coca-Cola with Lemon.,N
+620,GW4,T733,La Coca-Cola with Lime/Diet Coke with Citrus Zest n'est fabriquée qu'aux États-Unis.,C
+621,GW6,T734,« David Cook » a au moins deux membres immédiats de sa famille.,E
+622,GW6,T734,David Cook crée des jeux au Michigan.,N
+623,GW6,T734,« David Cook » est un célibataire à vie.,C
+624,GW4,T734,« David Cook » est connu pour faire des jeux vidéo.,E
+625,GW4,T734,« David Cook » a toujours vécu au Michigan.,N
+626,GW4,T734,« David Cook » a plus d'un enfant.,C
+627,GW51,T734,David Cook est un concepteur américain de jeux.,E
+628,GW51,T734,« David Cook » est célèbre pour avoir créé la série Mass Effect.,N
+629,GW51,T734,« David Cook » n'a jamais eu d'enfant avec sa femme Helen.,C
+630,GW14,T738,L'oeuf de Cockerel FabergŽ est composé de plusieurs précieux bijoux différents.,E
+631,GW14,T738,L'oiseau de l'oeuf du Cockerel FabergŽ bat ses ailes.,N
+632,GW14,T738,La personne qui a fait l'oeuf de Cockerel FabergŽ est capable de donner naissance.,C
+633,GW4,T738,L'oeuf de Cockerel FabergŽ contient un oiseau.,E
+634,GW4,T738,L'oeuf de Cockerel FabergŽ est très précieux.,N
+635,GW4,T738,L'oeuf de Cockerel FabergŽ est de plus d'un pied de hauteur.,C
+636,GW51,T738,L'oeuf de Cockerel FabergŽ est un objet infusé d'or et de diamant d'une hauteur d'environ deux mètres.,E
+637,GW51,T738,L'oeuf de Cockerel FabergŽ est le premier oeuf Faberge créé par Perkhin.,N
+638,GW51,T738,L'oeuf Cockerel FabergŽ présente plus de 10 matériaux différents utilisés.,C
+639,GW51,T741,« David Duchovny » était une fois marié à Tea Leona pendant plus de 15 ans.,E
+640,GW51,T741,Duchovny est bien connu pour son rôle dans The X-Files à titre de Fox Mulder.,N
+641,GW51,T741,Duchovny agit depuis environ dix ans.,C
+642,GW4,T741,David Duchovny est allé à l'université aux États-Unis.,E
+643,GW4,T741,David Duchovny avait ses deux enfants avec TŽa Leoni.,N
+644,GW4,T741,« David Duchovny » joue depuis les années 1960.,C
+645,GW2,T741,« David Duchovny » vit dans l'ouest des États-Unis.,E
+646,GW2,T741,David Duchovny a étudié l'anglais à Princeton.,N
+647,GW2,T741,« David Duchovny » a fait son grand début à l'écran à l'âge de 24 ans.,C
+648,GW28,T745,Le 50 km de freestyle masculin aux XXII Jeux Olympiques d'hiver a été un événement athlétique.,E
+649,GW28,T745,Le 50 km de freestyle masculin aux XXII Jeux Olympiques d'hiver a été un épreuve de ski de fond dominée par les Russes.,N
+650,GW28,T745,Les Jeux Olympiques d'hiver de XXII ont eu lieu en Amérique.,C
+651,GW4,T745,Les 50 km de freestyle masculins aux XXII Jeux Olympiques d'hiver ont eu plus de 50 participants.,E
+652,GW4,T745,Le 50 km de freestyle masculin aux XXII Jeux Olympiques d'hiver a été très froid.,N
+653,GW4,T745,Le 50 km de freestyle masculin aux XXII Jeux Olympiques d'hiver s'est terminé en moins d'une heure.,C
+654,GW51,T745,Le « 50 km librestyle masculin aux XXII Jeux Olympiques d'hiver » s'est déroulé pendant un jour en février.,E
+655,GW51,T745,Le 50 km de freestyle masculin a été le premier épreuve au cours de laquelle Michael Phelps a remporté une médaille d'or.,N
+656,GW51,T745,Le gagnant du 50 km de freestyle masculin aux XXII Jeux Olympiques d'hiver s'est terminé avec un temps de deux minutes seulement.,C
+657,GW0,T746,Certaines nations envoient plusieurs athlètes pour participer au ski de fond aux Jeux Olympiques.,E
+658,GW0,T746,L'année 2018 a été la première année où le ski de fond s'est déroulé au centre de ski de fond Alpensia.,N
+659,GW0,T746,Il y a plus d'épreuves de ski de fond masculines que d'épreuves de ski de fond féminines aux Jeux Olympiques.,C
+660,GW4,T746,Les Jeux olympiques d'hiver de l'hiver de l'hiver de l'hiver de l'hiver de l'hiver de l'hiver de l'hiver de l'hiver de l'hiver de l'hiver de l'hiver de l'hiver de l'hiver de l'hiver de l'hiver de l'hiver de l'hiver de l'hiver de l'hiver de l'hiver de l'hiver de l'hiver de l'hiver de l'hiver de l'hiver de l'hiver de l'hiver de l'hiver de l'hiver de l'hiver.,E
+661,GW4,T746,Les Jeux Olympiques d’hiver de l’hiver XXIII ont eu lieu tous les jours pendant deux semaines.,N
+662,GW4,T746,Plus de 500 personnes ont participé aux « Jeux olympiques d’hiver de ski sur les terrains croisés ».,C
+663,GW51,T746,L'épreuve de ski de fond des XXIII Olympiades s'est déroulée au Centre de ski de fond d'Alpensia.,E
+664,GW51,T746,L'épreuve de ski de fond de la XXIIIe Olympiade s'est déroulée en 2018.,N
+665,GW51,T746,L'épreuve de ski de fond de la XXIIIe Olympiade s'est déroulée pendant plus de 3 semaines et a réuni des centaines de participants de plus de 70 pays.,C
+666,GW51,T749,Crossed est une série limitée publiée pendant environ deux ans et demi par Avatar Press.,E
+667,GW51,T749,Crossed est la série la plus vendue du catalogue Avatar Press.,N
+668,GW51,T749,Crossed est publié à intervalles réguliers et est toujours une série en cours.,C
+669,GW14,T749,Crossed est une série post-apocalyptique publiée après le tournant du siècle.,E
+670,GW14,T749,Le numéro 100 (Badlands) est le numéro le plus populaire de la série «Crossed».,N
+671,GW14,T749,Le prochain numéro de la série Crossed sera publié en juin 2019.,C
+672,GW4,T749,Le comique Crossed a été publié pendant moins de deux ans.,E
+673,GW4,T749,Le comique Crossed a été diffusé sous différents noms.,N
+674,GW4,T749,Le comique Crossed était un comique super héros.,C
+675,GW28,T758,Code Blue est un bull américain.,E
+676,GW28,T758,« Code Blue » est un bull Bucking utilisé dans les rodeos américains.,N
+677,GW28,T758,« Code Blue » pèse une tonne.,C
+678,GW4,T758,Le bull « Code Blue » pesait moins d'une tonne.,E
+679,GW4,T758,Le bull « Code Blue » est encore vivant aujourd'hui.,N
+680,GW4,T758,Le bull « Code Blue » est originaire du Royaume-Uni.,C
+681,GW6,T758,Kish's #624 Wolfman a au moins deux générations de descendants.,E
+682,GW6,T758,Code Blue n'a été utilisé qu'une seule personne.,N
+683,GW6,T758,Le Bucking Bull américain de marque 644 a surtout du fourrure foncé.,C
+684,GW51,T761,Code Orange est un groupe punk et metalcore américain.,E
+685,GW51,T761,Le groupe s'est rencontré à une mosh pit à Philadelphie avant de commencer leur groupe.,N
+686,GW51,T761,« Code Orange » a été interprétée depuis plus de 15 ans dans le cadre de l'enregistrement Death Row.,C
+687,GW2,T761,« Code Orange » a commencé au XXIe siècle.,E
+688,GW2,T761,David Cross a effectué deux tournées mondiales en 2009 et 2010.,N
+689,GW2,T761,David Cross est un groupe pop de Pennsylvanie.,C
+690,GW28,T761,Code Orange est un groupe punk américain.,E
+691,GW28,T761,Code Orange a remporté de nombreux prix pour sa musique.,N
+692,GW28,T761,« Code Orange » est en activité depuis une décennie.,C
+693,GW28,T777,« David Packouz » est un délinquant reconnu coupable en Amérique.,E
+694,GW28,T777,« David Packouz » a été l'inspiration d'un film hollywoodien.,N
+695,GW28,T777,« David Packouz » n'avait jamais d'entreprise.,C
+696,GW4,T777,« David Packouz » est en difficulté juridique.,E
+697,GW4,T777,« David Packouz » vendait des armes illégales.,N
+698,GW4,T777,David Packouz a dû se rendre en prison.,C
+699,GW51,T777,« David Packouz » est un ancien marchand d'armes qui a été condamné à une arrestation domiciliaire aux États-Unis.,E
+700,GW51,T777,Packouz est connu pour l'armement des Iraniens lors du scandale contral iranien des années 80.,N
+701,GW51,T777,Packous a fait l'objet d'une arrestation domiciliaire le jour suivant son 40e anniversaire.,C
+702,GW2,T778,La Crystal Head Vodka est originaire du nord des États-Unis.,E
+703,GW2,T778,Crystal Head Vodka a une étiquette bleue et d'or.,N
+704,GW2,T778,Crystal Head Vodka est plus de la moitié de l'alcool par volume.,C
+705,GW6,T778,La Crystal Head Vodka a été introduite dans un pays différent de son origine.,E
+706,GW6,T778,La « Vodka Crystal Head » a été développée au Canada pendant des années avant 2008.,N
+707,GW6,T778,Crystal Head Vodka n'est pas visible.,C
+708,GW4,T778,Crystal Head Vodka est sorti aux États-Unis.,E
+709,GW4,T778,La « Vodka Crystal Head » est vendue au Canada.,N
+710,GW4,T778,La Crystal Head Vodka est connue pour avoir une couleur rose.,C
+711,GW4,T785,L'album Ctrl a pris trois ans pour être enregistré.,E
+712,GW4,T785,L'album Ctrl a beaucoup de gens chantant sur lui.,N
+713,GW4,T785,L'album Ctrl dure plus d'une heure.,C
+714,GW6,T785,« Ctrl » a commencé à enregistrer trois ans avant sa sortie.,E
+715,GW6,T785,Ctrl est à la moitié R&B alternative et à la moitié soul néo.,N
+716,GW6,T785,« Ctrl » n'a pas été produit par personne ayant son propre studio.,C
+717,GW51,T785,Ctrl est un album R&B distribué par Top Dawg Entermtainment en 2017.,E
+718,GW51,T785,Ctrl est le premier album studio de SZA.,N
+719,GW51,T785,« Ctrl » a fallu quelques semaines pour être enregistré en 2016.,C
+720,GW28,T787,La République de Cuba est une nation multiethnique et monolingue.,E
+721,GW28,T787,"La République de Cuba est dirigée par Raul Castro, frère du fondateur, Fidel Castro.",N
+722,GW28,T787,La République de Cuba est située dans le golfe du Mexique.,C
+723,GW4,T787,La République de Cuba n'a qu'une seule langue officielle.,E
+724,GW4,T787,La République de Cuba organise des élections présidentielles.,N
+725,GW4,T787,La République de Cuba pratique un système capitaliste.,C
+726,GW51,T787,La République de Cuba est un pays situé dans l'hémisphère nord.,E
+727,GW51,T787,La capitale cubaine a été transférée à La Havane après la Deuxième Guerre mondiale.,N
+728,GW51,T787,Cuba est surtout noire et les Blancs constituent le deuxième groupe ethnique le plus important.,C
+729,GW14,T790,La guerre d'indépendance de Cuba a eu lieu près de trois décennies après sa Déclaration d'indépendance.,E
+730,GW14,T790,Environ 30 % de la population cubaine est multilingue.,N
+731,GW14,T790,La révolution cubaine a duré moins de cinq ans.,C
+732,GW51,T790,La République de Cuba était une ancienne colonie espagnole et américaine avant 1900.,E
+733,GW51,T790,Cuba est gouvernée par la famille Castro depuis plus de 50 ans.,N
+734,GW51,T790,La révolution cubaine a duré quelques années avant de se terminer enfin pacifiquement.,C
+735,GW4,T790,Il a fallu 30 ans pour que la République de Cuba soit reconnue comme indépendante.,E
+736,GW4,T790,La République de Cuba a lutté pour devenir indépendante.,N
+737,GW4,T790,La République de Cuba a sa constitution actuelle depuis 20 ans.,C
+738,GW28,T791,L'incendie du club de nuit Colectiv a été un incendie négligeable en Europe qui a causé de nombreuses morts.,E
+739,GW28,T791,Le feu du club de nuit Colectiv s'est produit dans un club hip-hop.,N
+740,GW28,T791,L'incendie du club de nuit Colectiv s'est étendu pendant des heures et a détruit d'autres entreprises.,C
+741,GW4,T791,Plus de 50 personnes sont mortes lors du feu du club de nuit Colectiv.,E
+742,GW4,T791,Le « feu du club de nuit de Colectiv » a été causé par une mousse qui a pris feu.,N
+743,GW4,T791,Le « feu du club de nuit Colectiv » n'a pas fait l'objet d'un procès pénal.,C
+744,GW61,T791,La liste des suspects du feu au Club Colectiv contient au moins un politicien.,E
+745,GW61,T791,Les suspects du feu du Club Colectiv ont des liens familiaux.,N
+746,GW61,T791,Les suspects du Club Colectiv travaillent tous dans le secteur privé.,C
+747,GW12,T792,David Ronald de Mey Warren est né au printemps 1925.,E
+748,GW12,T792,L'Université de Sydney est l'un des nombreux collèges auxquels David Ronald de Mey Warren a fréquenté.,N
+749,GW12,T792,David Ronald de Mey Warren est un réalisateur de vols depuis le début des années 1920.,C
+750,GW4,T792,David Ronald de Mey Warren a construit une machine qui fonctionne dans les avions.,E
+751,GW4,T792,David Ronald de Mey Warren a vécu toute sa vie en Australie.,N
+752,GW4,T792,David Ronald de Mey Warren n'a jamais pris un avion dans sa vie.,C
+753,GW51,T792,David Ronald de Mey Warren est un scientifique australien de Melbourne.,E
+754,GW51,T792,David Ronald de Mey Warren est connu pour avoir inventé la « boîte noire » qui se trouve maintenant dans tous les grands avions commerciaux.,N
+755,GW51,T792,David Ronald de Mey Warren a vécu en Australie pendant plus de 90 ans avant de disparaître.,C
+756,GW4,T793,Colin Farrell commence à chanter à 21 ans.,E
+757,GW4,T793,Colin Farrell déménage aux États-Unis à l'enfance.,N
+758,GW4,T793,Colin Farrell a un oncle ayant le même nom de famille que lui.,C
+759,GW6,T793,Colin James Farrell déménage dans un autre pays.,E
+760,GW6,T793,Les enfants de Colin Farrell sont nés aux États-Unis.,N
+761,GW6,T793,Tommy Farrell n'a pas de petits-enfants.,C
+762,GW51,T793,Colin Farrell est un acteur et chanteur irlandais ayant plusieurs enfants.,E
+763,GW51,T793,Farrell joue le rôle opposé de Brendan Gleeson dans le film In Brudges.,N
+764,GW51,T793,Farrell a un frère nommé Tommy.,C
+765,GW51,T794,« David with the Head of Goliath » est un tableau d'huile de l'artiste Caravaggio.,E
+766,GW51,T794,La Galleria Borghese contient également les Mons Venus et la Mona Lisa.,N
+767,GW51,T794,"« David with the Head of Goliath » est une petite peinture, d'un pied de hauteur et d'un pied de largeur.",C
+768,GW4,T794,« David avec le chef de Goliath » a été peint au XVIIe siècle.,E
+769,GW4,T794,« David with the Head of Goliath » a fallu plusieurs années pour être réalisé.,N
+770,GW4,T794,« David with the Head of Goliath » est situé en Espagne.,C
+771,GW14,T794,« David with the Head of Goliath » a été réalisé au XVIIe siècle.,E
+772,GW14,T794,« David with the Head of Goliath » a été peint en Italie.,N
+773,GW14,T794,« David with the Head of Goliath » est la taille d'un timbre postal.,C
+774,GW28,T797,« Cue Card » est un cheval de course britannique castraté.,E
+775,GW28,T797,« Cue Card » est un chevaucheur de course qui a participé à des compétitions partout dans le monde.,N
+776,GW28,T797,Cue Card est retiré pour étudier ses années restantes.,C
+777,GW4,T797,Le cheval « Cue Card » a gagné plus d'un million de livres lors de courses.,E
+778,GW4,T797,Le cheval « Cue Card » a remporté la majorité de leurs courses.,N
+779,GW4,T797,Le cheval « Cue Card » provenait des États-Unis.,C
+780,GW51,T797,« Cue Card » est un cheval de course battu en Grande-Bretagne.,E
+781,GW51,T797,Le nom Cue Card a été inspiré des cartes que son entraîneur avait utilisées dans sa classe d'improvisation.,N
+782,GW51,T797,« Cue Card » a gagné moins de 1 000 000 livres au cours de sa carrière de course à chevaux.,C
+783,GW4,T799,Colin Kaepernick a parcouru plus de 2000 yards.,E
+784,GW4,T799,Colin Kaepernick a remporté de nombreux matchs dans lesquels il a joué.,N
+785,GW4,T799,Colin Kaepernick joue actuellement pour une équipe.,C
+786,GW6,T799,Colin Kaepernick a plus de yards que de touchdowns.,E
+787,GW6,T799,Colin Kaepernick a toujours eu un rapport TD-Int supérieur à 2.,N
+788,GW6,T799,Toute personne ayant plus de 12 000 yards de passage est contractée à une équipe donnée.,C
+789,GW51,T799,Colin Kaepernick est un joueur de football de l'NFL qui a passé plus de 10 000 yards.,E
+790,GW51,T799,Kaepernick n'a pas été signé par une équipe de l'NFL en raison de son éloquence au sujet de la justice sociale et pénale.,N
+791,GW51,T799,Kaepernick a enregistré 74 touchdowns au total dans sa carrière de l'NFL.,C
+792,GW6,T805,Culture est sorti plus de trois semaines après son enregistrement.,E
+793,GW6,T805,Vingt producteurs ont tous travaillé ensemble sur Culture.,N
+794,GW6,T805,Il faudrait plus d'une heure pour écouter l'intégralité de tout album publié en janvier 2017.,C
+795,GW51,T805,Culture est un album hip-hop qui a été sorti en 2017.,E
+796,GW51,T805,Culture est sans doute la sortie la plus réussie de l'album de Migos en termes de succès commercial.,N
+797,GW51,T805,"Culture a été la culmination d'une collaboration de production entre les Migos et 808God, qui ont produit toutes les chansons de l'album.",C
+798,GW0,T805,"L'album, Culture n'a qu'une heure.",E
+799,GW0,T805,808Godz a réalisé la majeure partie de la production sur Culture.,N
+800,GW0,T805,Culture a été diffusé dans la même année où l'enregistrement a commencé sur l'album.,C
+801,GW27,T811,'Collision Course' a été enregistré et diffusé dans la même année.,E
+802,GW27,T811,Le DVD de 'Collision Course' est plus long en raison des caractéristiques spéciales.,N
+803,GW27,T811,'Collision Course' est disponible sur plus d'étiquettes que le nombre de genres qu'il a échantillonné.,C
+804,GW51,T811,Collision Course est un multidisc rap/rock mash up publié en 2004.,E
+805,GW51,T811,Collision Course est le résultat d'une collaboration entre le rapper Jay-Z et le groupe rock Linkin Park.,N
+806,GW51,T811,Collision Course a fallu trois mois pour être enregistré avant d'être diffusé au début de 2004.,C
+807,GW28,T811,Collision Course a été enregistré et diffusé tous au cours de la même année.,E
+808,GW28,T811,"Collision Course est un album multi genre, avec plusieurs artistes invités.",N
+809,GW28,T811,Collision Course est un album de musique du XXe siècle.,C
+810,GW6,T816,Les XXIII Jeux Olympiques d'hiver ont eu lieu en 2018.,E
+811,GW6,T816,Certaines nations n'ont contribué que les femmes au curling lors des XXIII Jeux Olympiques d'hiver.,N
+812,GW6,T816,"Au cours des Jeux Olympiques, le curling au Gymnasium de Gangneug n'a pas eu d'épreuves féminines.",C
+813,GW4,T816,Le Curling aux XXIII Jeux Olympiques d'hiver s'est déroulé en février.,E
+814,GW4,T816,Les hommes et les femmes ont participé ensemble au curling lors des XXIII Jeux Olympiques d'hiver.,N
+815,GW4,T816,Plus de 150 pays étaient impliqués.,C
+816,GW51,T816,Le curling aux XXIII Jeux Olympiques d'hiver s'est déroulé sur deux semaines avec trois épreuves principales.,E
+817,GW51,T816,Le curling est un sport originaire de la Suède.,N
+818,GW51,T816,"Au cours des Jeux Olympiques d'hiver de 2018, le curling a permis à moins de 100 hommes et de femmes de participer pendant quatre semaines.",C
+819,GW0,T822,"Columbus, Georgia a été nommé en fonction d'un explorateur.",E
+820,GW0,T822,Colomb est la capitale de la Géorgie.,N
+821,GW0,T822,"« Columbus, Georgia » a été fondé dans la seconde moitié du XIXe siècle.",C
+822,GW51,T822,Colomb est une ville en Géorgie désignée en l'honneur de Christopher Columbus.,E
+823,GW51,T822,La ville de Colomb est l'une des 72 villes des États-Unis désignées en l'honneur de Christopher Columbus.,N
+824,GW51,T822,"La ville de Colomb, en Géorgie, a été fondée peu après le début de la guerre civile.",C
+825,GW4,T822,"« Columbus, Georgia » a été fondé au XIXe siècle.",E
+826,GW4,T822,"« Columbus, Georgia » est plus petit que le comté de Muscogee.",N
+827,GW4,T822,"Columbus, Georgia n'a pas été nommé pour Christopher.",C
+828,GW4,T828,Le musicien Common est né sous le nom de Lonnie.,E
+829,GW4,T828,Le musicien Common sait jouer les instruments.,N
+830,GW4,T828,Le musicien Common joue depuis 30 ans.,C
+831,GW61,T828,Lonnie Corant Jaman Shuka a collaboré avec au moins un rapper connu.,E
+832,GW61,T828,Lonnie Corant Jaman Shuka joue bien avec les instruments musicaux.,N
+833,GW61,T828,Lonnie Corant Jaman Shuka n'a jamais travaillé avec des artistes R'n'B.,C
+834,GW51,T828,Common est un musicien hip hop de Chicago.,E
+835,GW51,T828,Le plus grand succès commercial de Common est la chanson Go.,N
+836,GW51,T828,Common fait de la musique hip hop depuis la fin des années 90.,C
+837,GW51,T829,Le Commonwealth des Phiippines est un territoire des États-Unis dont la capitale est Manille.,E
+838,GW51,T829,Le Commonwealth des Philippines a été créé en tant que territoire américain après la Deuxième Guerre mondiale.,N
+839,GW51,T829,Les Philippines ont eu un gouvernement d'assemblée nationale tout au long de leur histoire.,C
+840,GW28,T829,Le Commonwealth des Philippines était contrôlé par les États-Unis.,E
+841,GW28,T829,Le Commonwealth des Philippines était une colonie des États-Unis.,N
+842,GW28,T829,Le Commonwealth des Philippines était une nation souveraine indépendante.,C
+843,GW14,T829,La loi Tydings?cDuffie a été promulguée plus d'une décennie avant le traité de Manila.,E
+844,GW14,T829,Paul V. McNutt a été réélu pour le poste de haut-commissaire en 1939?2.,N
+845,GW14,T829,Sergio Osme?a n'a jamais occupé plus d'un poste élu.,C
+846,GW51,T831,Union des Comores est un territoire découvert par les Portugais dans les années 1500.,E
+847,GW51,T831,L'Union des Comores est l'endroit où le président français actuel a été élevé à l'enfance.,N
+848,GW51,T831,L'Union des Comores est passée sous l'autorité française au début des années 1800.,C
+849,GW4,T831,L'Union des Comores a adopté une constitution en 2009.,E
+850,GW4,T831,L'Union des Comores a passé beaucoup de temps sous l'autorité française.,N
+851,GW4,T831,L'Union des Comores a été dissoute en 2009.,C
+852,GW28,T831,"L'Union des Comores était autrefois l'État des Comores, et avant cela le Protègeur des Comores.",E
+853,GW28,T831,L'Union des Comores était également influencée par les Portugais et les Français.,N
+854,GW28,T831,L'Union des Comores est indépendante depuis 50 ans.,C
+855,GW51,T839,DC Comics presents était une série de dessins animés en cours qui comptait plus de 100 numéros pendant qu'elle était active.,E
+856,GW51,T839,DC Comics a présenté le Joker et le Riddler comme les archrivals de Batman.,N
+857,GW51,T839,DC Comics presents a été actif pendant plus de 20 ans avant de publier son dernier numéro.,C
+858,GW4,T839,« DC Comics Presents » a duré plus de huit ans.,E
+859,GW4,T839,Il y a eu beaucoup de super héros dans DC Comics Presents.,N
+860,GW4,T839,Les DC Comics Presents n'ont été publiés que tous les ans.,C
+861,GW28,T839,« DC Comics Presents » est une série de livres comiques américains.,E
+862,GW28,T839,"« DC Comics Presents » présentait de nombreux superhéros DC tels que Green Lantern et Wonder Woman, The Flash, etc.",N
+863,GW28,T839,« DC Comics Presents » est une série en cours qui est publiée continuellement depuis 1978.,C
+864,GW28,T840,Dead Can Dance est un groupe musical australien.,E
+865,GW28,T840,« Dead Can Dance » est un groupe multimembre qui a donné des concerts à l'échelle internationale.,N
+866,GW28,T840,« Dead Can Dance » est une bande défunte du XIXe siècle.,C
+867,GW4,T840,« Dead Can Dance » s'est rompu dans le passé.,E
+868,GW4,T840,Dead Can Dance a préformé en direct avec The Scavengers.,N
+869,GW4,T840,La musique Dead Can Dance n'a fait l'objet que de labels d'enregistrement australiens.,C
+870,GW6,T840,deadcandance.com est le site Web d'une bande Antipodean.,E
+871,GW6,T840,Dead Can Dance est signé à cinq maisons de disques à la fois.,N
+872,GW6,T840,Une bande du sud de l'hémisphère n'a jamais travaillé dans le genre du rock gothique.,C
+873,GW51,T845,Dean Kamen est un inventeur américain de New Hampshire.,E
+874,GW51,T845,Kamen est le plus connu pour avoir inventé le vide Dyson.,N
+875,GW51,T845,Dean a remporté la médaille Hoover pour son travail sur la Segway au milieu des années 2000.,C
+876,GW4,T845,« Dean Kamen » a remporté plus de cinq grands prix.,E
+877,GW4,T845,« Dean Kamen » a un diplôme en génie.,N
+878,GW4,T845,« Dean Kamen » a fini par travailler pour une grande entreprise.,C
+879,GW6,T845,« Dean Kamen » a vécu dans au moins deux villes de la côte est.,E
+880,GW6,T845,Dean Kamen a remporté un prix pour l'invention de la fauteuil roulant iBot.,N
+881,GW6,T845,Le Segway n'a pas été inventé par quelqu'un né en Amérique.,C
+882,GW51,T846,« Dean Martin » est un musicien d'Ohio connu pour son chant et son interprétation.,E
+883,GW51,T846,Dean Martin faisait partie du fameux Pack de rats avec Frank Sinatra.,N
+884,GW51,T846,Dean Martin est actif dans l'industrie de la musique depuis plus de 60 ans.,C
+885,GW6,T846,Le nephew de Leonard Barr est actif depuis plus d'un demi-siècle.,E
+886,GW6,T846,Catherine Hawn n'a aucun enfant.,N
+887,GW6,T846,« Dean Martin » était mute toute sa vie.,C
+888,GW4,T846,« Dean Martin » était un nom de scène utilisé par Dean Paul Crocetti.,E
+889,GW4,T846,« Dean Martin » a enregistré de la musique pendant plus de cinquante ans.,N
+890,GW4,T846,"« Dean Martin » avait huit enfants, tous avec une femme.",C
+891,GW4,T848,« Dear White People » a été écrit et dirigé par la même personne.,E
+892,GW4,T848,« Dear White People » a pris plusieurs années pour être filmé.,N
+893,GW4,T848,Dear White People a fini par perdre de l'argent au box office.,C
+894,GW6,T848,Le rédacteur de « Dear White People » était également l'un de ses producteurs.,E
+895,GW6,T848,"« Dear White People » a gagné 5,4 millions de dollars en 2014.",N
+896,GW6,T848,« Dear White People » a eu sa première dans Sundance après sa première aux États-Unis.,C
+897,GW51,T848,« Dear White People » est un spectacle télévisé dirigé et écrit par Justin Simien.,E
+898,GW51,T848,« Dear White People » est un émission très populaire diffusée sur Netflix depuis qu'elle a été présentée au Sundance Film Festival.,N
+899,GW51,T848,« Dear White People » est devenu célèbre après la sortie de Dreamworks du spectacle devant être présenté au Festival de Cannes.,C
+900,GW51,T885,Caracas est une capitale située à quelques milliers de pieds au-dessus du niveau de la mer.,E
+901,GW51,T885,Caracas est la capitale du Venezuela.,N
+902,GW51,T885,Le point le plus bas des Caracas est au-dessous du niveau de la mer.,C
+903,GW27,T885,La zone métropolitaine de Caracas est plus de dix fois plus grande que celle de la ville.,E
+904,GW27,T885,Caracas a beaucoup de collines élevées dans ses limites.,N
+905,GW27,T885,La ville de Caracas est au niveau de la mer.,C
+906,GW28,T885,Caracas est une ville bien au-dessus du niveau de la mer.,E
+907,GW28,T885,Caracas est la capitale du Venezuela.,N
+908,GW28,T885,Caracas à son point le plus élevé est une mi au-dessus du niveau de la mer.,C
+909,GW51,T899,Chengdu est une ville provinciale qui se trouve à environ 1 600 pieds dans l'air.,E
+910,GW51,T899,Chengdu est la capitale de la province de Sichuan.,N
+911,GW51,T899,Chengdu est la seule ville en Chine qui se situe sous le niveau de la mer.,C
+912,GW28,T899,Chengdu est une grande région avec de nombreuses classifications différentes.,E
+913,GW28,T899,La plus grande zone de Chengdu est presque 10 fois plus grande que sa plus petite.,N
+914,GW28,T899,Le centre-ville et les zones urbaines de Chengdu sont plus grandes que les zones métropolitaines.,C
+915,GW0,T899,L'altitude la plus élevée de Chengdu est de plus de 5 000 mètres.,E
+916,GW0,T899,La région du centre-ville de Chengdu présente la plus basse altitude.,N
+917,GW0,T899,La plus basse altitude de Chengdu est le niveau de mer.,C
+918,GW1,T910,La sainte patronne de Catania est une femme.,E
+919,GW1,T910,Catania a plus d'un site Web officiel.,N
+920,GW1,T910,« Catania » compte plus de 335 000 personnes.,C
+921,GW51,T910,Catania est une ville de plusieurs centaines de milliers de personnes.,E
+922,GW51,T910,Catania est également son propre pays.,N
+923,GW51,T910,Catania est située à l'ouest du méridien principal et ne reconnaît pas le temps d'épargne quotidien.,C
+924,GW28,T910,« Catania » est une petite ville chrétienne.,E
+925,GW28,T910,Catania est une ville côtière italienne.,N
+926,GW28,T910,Catania ne fait pas de marketing à des visiteurs potentiels.,C
+927,GW11,T928,« Charlie and the Chocolate Factory » est une adaptation cinématographique d'un roman.,E
+928,GW11,T928,Charlie and the Chocolate Factory gagne la majorité de son argent aux États-Unis.,N
+929,GW11,T928,Charlie and the Chocolate Factory a été diffusé dans quatre pays.,C
+930,GW14,T928,Charlie and the Chocolate Factory a gagné plus du triple de son budget au box office.,E
+931,GW14,T928,Plusieurs des acteurs de Charlie and the Chocolate Factory étaient d'Australie.,N
+932,GW14,T928,Le narrateur et l'éditeur de Charlie and the Chocolate Factory ont le même nom.,C
+933,GW19,T928,L'adaptation de Charlie and the Chocolate Factory par Tim Burton a connu un succès commercial.,E
+934,GW19,T928,« Charlie and the Chocolate Factory » est le roman le plus populaire de Roald Dahl.,N
+935,GW19,T928,L'adaptation de Charlie and the Chocolate Factory de Tim Burton n'a pas été diffusée aux États-Unis jusqu'à ce qu'elle ait déjà connu un succès commercial au Royaume-Uni.,C
+936,GW27,T940,Bruges a quatre codes postaux.,E
+937,GW27,T940,Bruges est l'une des villes les plus denses de Belgique.,N
+938,GW27,T940,Bruges a plus de codes régionaux que de codes postaux.,C
+939,GW51,T940,Bruges est une ville de plus de 100 000 habitants.,E
+940,GW51,T940,Bruges est une grande ville de Belgique.,N
+941,GW51,T940,Bruges dispose d'un code postal unique représentant l'ensemble de la ville.,C
+942,GW28,T940,"Bruges est une petite région géographique de Belgique, mais assez grande pour quatre codes postaux.",E
+943,GW28,T940,Bruges est une région peu peuplée et peu riche en eau.,N
+944,GW28,T940,Bruges est une région xénophobe qui ne souhaite pas de visiteurs extérieurs.,C
+945,GW12,T947,"La République du Botswana, dirigée par un parlement unifié, a un président et un vice-président.",E
+946,GW12,T947,"L'anglais est la seule langue de Gaborone, capitale de la République du Botswana.",N
+947,GW12,T947,Il y a plus de personnes qui pratiquent la religion traditionnelle africaine que la religion chrétienne en République du Botswana.,C
+948,GW0,T947,Les Tswanais sont le groupe ethnique le plus important du Botswana.,E
+949,GW0,T947,Mokgweetsi Masisi est président du Botswana depuis plus d'une décennie.,N
+950,GW0,T947,Les chrétiens constituent le groupe religieux le plus petit du Botswana.,C
+951,GW51,T947,La République du Botswana est un pays chrétien majoritaire.,E
+952,GW51,T947,La capitale de la République du Botswana est Gaborone.,N
+953,GW51,T947,La République du Botswana est située au nord de l'équateur.,C
+954,GW28,T974,"Chicago, Illinois est une ville qui dispose de minuscules ressources en eau, par rapport à sa masse terrestre.",E
+955,GW28,T974,"Chicago, Illinois est près des Grands Lacs.",N
+956,GW28,T974,"« Chicago, Illinois » représente 10 % de la zone métropolitaine.",C
+957,GW14,T974,Il y a au moins un lac à Chicago nommé en fonction d'un État américain.,E
+958,GW14,T974,Il y a très peu de lacs à Chicago.,N
+959,GW14,T974,L'altitude la plus basse de Chicago et l'altitude moyenne diffèrent de plus de 16 pieds.,C
+960,GW12,T974,Le kilomètre carré de la ville de Chicago est plus grand que le kilomètre carré de terre.,E
+961,GW12,T974,"La plus haute altitude de Chicago est de 672 pieds, près du lac Michigan.",N
+962,GW12,T974,La distance carrée urbaine de Chicago est plus grande que la distance carrée métropolitaine.,C
+963,GW28,T982,La République du Chili se trouve sur la côte ouest de l'Amérique du Sud.,E
+964,GW28,T982,La République du Chili est une société multiethnique dont les Européens blancs sont le groupe le plus important.,N
+965,GW28,T982,La République du Chili est une dictature militaire avec un parlement représentatif.,C
+966,GW51,T982,La République du Chili est un pays de langue espagnole dont la capitale est Santiago.,E
+967,GW51,T982,La République du Chili a été le lieu des dernières Jeux Olympiques d'été.,N
+968,GW51,T982,La République du Chili est située au nord de l'équateur.,C
+969,GW27,T982,La capitale et la plus grande ville du Chili sont les mêmes.,E
+970,GW27,T982,Le président Sebasti?n Pi?era est blanc.,N
+971,GW27,T982,La République du Chili dispose de trois chambres au sein de sa législature.,C
+972,GW12,T983,« Camilla » Rosemary Shand épouse le Prince Charles après son divorce de Andrew Parker Bowles.,E
+973,GW12,T983,Tom Parker Bowles est un frère de Laura Lopes.,N
+974,GW12,T983,"Rosalind Cubitt est la mère de Charles, Prince de Galles.",C
+975,GW28,T983,« Camilla » fait partie de la famille royale britannique.,E
+976,GW28,T983,"« Camilla » était sans enfant et divorcée lorsqu'elle s'est mariée à Charles, Prince de Galles.",N
+977,GW28,T983,"« Camilla » s'est engagée à la polygamie lorsqu'elle a marié Charles, prince de Galles.",C
+978,GW27,T983,« Camilla » Rosemary Shand a été mariée deux fois.,E
+979,GW27,T983,Les deux enfants de Camilla Rosemary Shand étaient avec Andrew Parker Bowles.,N
+980,GW27,T983,« Camilla » Rosemary Shand a eu plus de mariages que de enfants.,C
+981,GW51,T1002,La Catalogne est une monarchie constitutionnelle composée de députés et de sénateurs.,E
+982,GW51,T1002,La Catalogne est une région est l'Espagne qui essaie de se séparer de l'Espagne.,N
+983,GW51,T1002,La Catalogne est essentiellement communiste et n'a pas de représentation république.,C
+984,GW6,T1002,"La Catalogne compte 16,5 % des sénateurs.",E
+985,GW6,T1002,Quim Torra a été élu par le grand public.,N
+986,GW6,T1002,La Catalogne compte 50 % des députés au Congrès des députés.,C
+987,GW28,T1002,La Catalogne est gouvernée par des fonctionnaires élus et supervisée par une monarchie.,E
+988,GW28,T1002,La Catalogne est une région espagnole connue pour ses orientations séparatistes.,N
+989,GW28,T1002,La Catalogne n'a pas de gouvernance de voix ou de représentation en place.,C
+990,GW66,T1010,Caravaggio a créé au moins un morceau d'huile sur canvas.,E
+991,GW66,T1010,La pièce Caravaggio Boy Peeling Fruit est vendue pour un million de dollars.,N
+992,GW66,T1010,Caravaggio peint Boy Peeling Fruit pour célébrer la découverte de l'électricité.,C
+993,GW28,T1010,Boy Peeling Fruit est une œuvre d'art européenne du XVIe siècle.,E
+994,GW28,T1010,Boy Peeling Fruit est le dernier oeuvre d'art de Caravaggio.,N
+995,GW28,T1010,Boy Peeling Fruit est un mural peint sur le plafond d'une église.,C
+996,GW0,T1010,Caravaggio peint Boy Peeling Fruit vers la fin du XVIe siècle.,E
+997,GW0,T1010,Caravaggio a vendu Boy Peeling Fruit au gouvernement italien.,N
+998,GW0,T1010,Caravaggio's Boy Peeling Fruit est plus de trois pieds de largeur.,C
+999,GW28,T1017,« Casablanca » est un film hollywoodien classique.,E
+1000,GW28,T1017,« Casablanca » a remporté un Oscar pour la meilleure pièce.,N
+1001,GW28,T1017,« Casablanca » est une histoire originale et un scénario.,C
+1002,GW0,T1017,« Casablanca » est sorti aux États-Unis deux mois après son arrivée au théâtre de Hollywood.,E
+1003,GW0,T1017,« Casablanca » est le premier rôle de Peter Lorre.,N
+1004,GW0,T1017,« Casablanca » a été produit et dirigé par la même personne.,C
+1005,GW51,T1017,« Casablanca » a été dirigé par Michael Curtiz et produit par plusieurs personnes.,E
+1006,GW51,T1017,« Casablanca » a été le film le plus grossissant des années 1942-1943.,N
+1007,GW51,T1017,« Casablanca » a été rédigé et rédigé par Humphrey Bogart.,C
+1008,GW51,T1031,« Case Closed » est un manga développé par Weekly Shonen Sunday.,E
+1009,GW51,T1031,« Case Closed » a fait l'objet d'un anime intitulé Detective Conan.,N
+1010,GW51,T1031,« Case Closed » s'est déroulé pendant six mois avant la fin de la publication.,C
+1011,GW27,T1031,« Case Closed » a été écrit par Takahiro Arai et publié par Shogakukan.,E
+1012,GW27,T1031,« Semaine Sh_nen Sunday » a été adapté à la population Sh_nen.,N
+1013,GW27,T1031,Le même éditeur de 'Case Closed' a également fourni la traduction en anglais.,C
+1014,GW28,T1031,« Case Closed » est une série de comics japonaise.,E
+1015,GW28,T1031,« Case Closed » est un manga japonais populaire qui a été exporté à l'étranger.,N
+1016,GW28,T1031,« Case Closed » était une série de comédies japonaise de longue durée.,C
+1017,GW28,T1047,Changsha est une ville en Chine.,E
+1018,GW28,T1047,Changsha est le lieu de naissance de Mao Zedong.,N
+1019,GW28,T1047,Changsha est à la fois une ville et une préfecture.,C
+1020,GW27,T1047,La densité de la préfecture de Changsha est inférieure à la densité urbaine.,E
+1021,GW27,T1047,Le rang de la population de Changsha en Chine a beaucoup augmenté.,N
+1022,GW27,T1047,Changsha a plus de gens dans sa zone urbaine que dans sa zone métropolitaine.,C
+1023,GW0,T1047,Changsha est dans les vingt villes les plus grandes en Chine.,E
+1024,GW0,T1047,Plus de gens vivent à Changsha aujourd'hui qu'il y a dix ans.,N
+1025,GW0,T1047,La zone métropolitaine de Changsha compte un million de personnes plus que la population urbaine.,C
+1026,GW27,T1131,L'Université George Mason est une université publique créée en 1949.,E
+1027,GW27,T1131,L'Université George Mason a son siège à Arlington (V.A.).,N
+1028,GW27,T1131,L'Université George Mason compte plus de diplômés que de diplômés.,C
+1029,GW35,T1131,L'Université George Mason fonctionne depuis 68 ans.,E
+1030,GW35,T1131,L'APLU est affiliée uniquement à l'Université George Mason.,N
+1031,GW35,T1131,Les couleurs dominantes de l'Université George Mason sont rouge et violette.,C
+1032,GW17,T1131,L'Université George Mason compte plus de 35 000 étudiants.,E
+1033,GW17,T1131,L'Université George Mason compte plus d'étudiants masculins que d'étudiantes féminines.,N
+1034,GW17,T1131,Le mascot de l'Université George Mason est la baleine.,C
+1035,GW27,T1134,Caravan Palace est une bande d'électro swing de France.,E
+1036,GW27,T1134,Caravan Palace est la plus grande bande d'électro swing de France.,N
+1037,GW27,T1134,Caravan Palace a été sur un autre label pour chaque année qu'ils ont été actifs.,C
+1038,GW28,T1134,Caravan Palace est un groupe musical français.,E
+1039,GW28,T1134,Caravan Palace est une bande composée de quatre membres.,N
+1040,GW28,T1134,Caravan Palace ne fait pas de marketing et a gagné la réputation principalement par le biais du mot-of-mouth.,C
+1041,GW22,T1134,"Caravan Palace est situé à Paris, en France et est actif depuis 2008.",E
+1042,GW22,T1134,"Caravan Palace est associé à Wagram, MVKA et Le Plan Recordings seulement.",N
+1043,GW22,T1134,www.caravanpalace.com n'est pas le site officiel de Caravan Palace.,C
+1044,GW12,T1148,Britney Spears a épousé Kevin Federline le même année qu'elle a divorcé Jason Alexander.,E
+1045,GW12,T1148,Britney Spears est associé aux labels de musique Jive et RCA.,N
+1046,GW12,T1148,Jamie Lynn Spears est la fille de Britney Spears.,C
+1047,GW1,T1148,Britney Spears est né dans le sud des États-Unis.,E
+1048,GW1,T1148,Les deux enfants de Britney Spears étaient avec Jason Allen Alexander.,N
+1049,GW1,T1148,Britney Spears est actif depuis plus de 30 ans.,C
+1050,GW28,T1148,Britney Spears est une chanteuse américaine.,E
+1051,GW28,T1148,Britney Spears est divorcée avec une fille et un fils.,N
+1052,GW28,T1148,Britney Spears est né et élevé dans le Midwest.,C
+1053,GW17,T1164,Le premier prix Romanian Footballer of the Year a été décerné en 1966.,E
+1054,GW17,T1164,Il y a eu cinq récipiendaires du Prix du football roumain de l'année.,N
+1055,GW17,T1164,Le footballeur roumain de l'année n'a jamais eu un nouveau gagnant.,C
+1056,GW0,T1164,Le prix du footballeur roumain de l'année a été décerné plus de cinquante fois.,E
+1057,GW0,T1164,Gheorghe Hagi a remporté le prix de footballeur de l'année en Roumanie au cours de sa première année.,N
+1058,GW0,T1164,Le prix du football roumain de l'année n'a que vingt ans.,C
+1059,GW28,T1164,Le footballeur roumain de l'année est décerné chaque année depuis 1966.,E
+1060,GW28,T1164,Le footballeur roumain de l'année est décerné un prix monétaire.,N
+1061,GW28,T1164,Le prix du footballeur roumain de l'année est décerné chaque année à un nouveau footballeur.,C
+1062,GW68,T1177,"L'aéroport de JFK possède des pistes de béton et d'asphalte, ainsi que quelques hélicoptères.",E
+1063,GW68,T1177,Le premier hélicoptère est arrivé à l'aéroport de JFK en 1951.,N
+1064,GW68,T1177,La différence entre la piste la plus longue et la plus courte est de 1252 mètres.,C
+1065,GW28,T1177,L'aéroport international John F. Kennedy dessert des dizaines de millions de passagers chaque année.,E
+1066,GW28,T1177,L'aéroport international John F. Kennedy est l'aéroport le plus fréquent en Amérique.,N
+1067,GW28,T1177,L'aéroport international John F. Kennedy est utilisé uniquement pour les avions.,C
+1068,GW0,T1177,"Le Norwegian Air Shuttle est concentré à l'extérieur de Queens, New York.",E
+1069,GW0,T1177,JFK est le plus grand aéroport de New York.,N
+1070,GW0,T1177,Les pistes de JFK ne sont constituées que d'une seule surface.,C
+1071,GW22,T1179,"«Brigadier Gerard» est un chevaucheur de course et un frère britannique, qui a fait la chasse en 1968.",E
+1072,GW22,T1179,John L. Hislop n'a reproduit que « Brigadier Gerard ».,N
+1073,GW22,T1179,Le formateur de Brigadier Gerard est M. et Mme John L. Hislop.,C
+1074,GW28,T1179,« Brigadier Gerard » est un chevaucheur de course britannique.,E
+1075,GW28,T1179,Le Brigadier Gerard a été élevé à la course sur le circuit international de courses de chevaux.,N
+1076,GW28,T1179,Brigadier Gerard a un record de victoires et de pertes de carrière parfait,C
+1077,GW1,T1179,Il n'y a eu qu'une seule course que le Brigadier Gerard a mené qui n'a pas été remportée par le cheval.,E
+1078,GW1,T1179,La Grande-Bretagne est le seul pays auquel le Brigadier Gerard a participé.,N
+1079,GW1,T1179,Le Brigadier Gerard a fait l'objet d'une attaque au début du XXe siècle.,C
+1080,GW4,T1182,Bradley Cooper est marié pendant un an.,E
+1081,GW4,T1182,Bradley Cooper vit avec Irina Shayk.,N
+1082,GW4,T1182,Bradley Cooper a vécu au Royaume-Uni.,C
+1083,GW28,T1182,Bradley Cooper est un acteur américain gagnant des prix.,E
+1084,GW28,T1182,« Bradley Cooper » a une fille.,N
+1085,GW28,T1182,Bradley Cooper est actif depuis ses adolescents.,C
+1086,GW12,T1182,"L'hiver 1975 a été le moment où « Bradley Cooper », l'acteur, est né.",E
+1087,GW12,T1182,Bradley Cooper vit à Philadelphia depuis 1975.,N
+1088,GW12,T1182,Jennifer Esposito et Irina Shayk ont tous deux été mariées à Bradley Cooper.,C
+1089,GW28,T1212,Le parc national Glacier est âgé de plus d'un million d'hectares et de plus d'un siècle.,E
+1090,GW28,T1212,Le Glacier National Park est un parc américain qui contient de nombreux animaux sauvages.,N
+1091,GW28,T1212,Le « parc national Glacier » a été désigné un parc il y a moins d'un siècle.,C
+1092,GW27,T1212,Le parc national Glacier se trouve dans deux comtés près des chutes Columbia.,E
+1093,GW27,T1212,Le parc national Glacier fait partie du premier parc international de paix au monde.,N
+1094,GW27,T1212,Le parc national Glacier compte plus d'acres de visiteurs que celui de 2018.,C
+1095,GW12,T1212,Le parc national Glacier a reçu plus de 2 millions de visiteurs en 2018.,E
+1096,GW12,T1212,"Le parc national Glacier, qui fait partie du parc international de paix Waterton-Glacier, a été créé au printemps 1910.",N
+1097,GW12,T1212,"Le parc national Glacier comprend un comté, le comté Flathead, au Montana.",C
+1098,GW28,T1241,Atari 2600 est une console de jeux vidéo américaine.,E
+1099,GW28,T1241,L'Atari 2600 était équipé d'entrées multiples de contrôleur.,N
+1100,GW28,T1241,L'Atari 2600 n'a été vendu qu'au pays.,C
+1101,GW22,T1241,"« Atari 2600 » également connu sous le nom de Atari VCS est fabriqué Atari, Inc. est une console de jeux vidéo de deuxième génération.",E
+1102,GW22,T1241,Le prix d'introduction de l'Atari 2600 était de 199 $US en 1977 et il était la console de jeux vidéo la plus chère de l'époque.,N
+1103,GW22,T1241,"Atary 2600 était doté d'un RAM de 64 octets et d'une technologie MOS de 16 bits 6507 à 1,19 MHz.",C
+1104,GW6,T1241,L'Atari 2600 a été abandonné 14 ans après sa sortie en Europe.,E
+1105,GW6,T1241,L'Atari 2600 a coûté 199 $ lorsqu'il a été abandonné.,N
+1106,GW6,T1241,Les consoles avec 128 octets de RAM ne sont pas compatibles avec les joysticks.,C
+1107,GW28,T1265,Brian May est un musicien britannique de rock,E
+1108,GW28,T1265,"Brian May a trois enfants, un garçon et deux filles.",N
+1109,GW28,T1265,Les réalisations scientifiques de Brian May l'ont rendu célèbre.,C
+1110,GW35,T1265,Brian May épouse Anita Dobson à l'âge de 53 ans.,E
+1111,GW35,T1265,Anita Dobson a trois enfants.,N
+1112,GW35,T1265,Brian May n'a pas remporté de prix en 2005.,C
+1113,GW1,T1265,Brian May est actif depuis plus de 50 ans.,E
+1114,GW1,T1265,Les trois enfants de Brian May étaient avec Christine Mullen.,N
+1115,GW1,T1265,Brian May est né en hiver 1947.,C
+1116,GW28,T1267,Brandon Richard Flowers est un musicien américain.,E
+1117,GW28,T1267,Brandon Richard Flowers est un musicien réciproque.,N
+1118,GW28,T1267,Brandon Richard Flowers est actif depuis ses adolescents.,C
+1119,GW27,T1267,Brandon Richard Flowers est né au Nevada.,E
+1120,GW27,T1267,Brandon Richard Flowers est le plus connu pour son rock alternatif.,N
+1121,GW27,T1267,Brandon Richard Flowers a plus d'acts associés que d'étiquettes qu'il a été sur.,C
+1122,GW22,T1267,Le nom de naissance de Brandon Flowers est Brandon Richard Flowers et il est né le 21 juin 1981.,E
+1123,GW22,T1267,Les professions de « Brandon Flowers » incluent uniquement le chanteur-songwriter et le musicien.,N
+1124,GW22,T1267,Brandon Flowers ne peut jouer aucun instrument et est associé à l'étiquette Vertigo seulement.,C
+1125,GW2,T1287,L'American Automobile Association fournit de l'assistance routière et vend des cartes.,E
+1126,GW2,T1287,L'American Automobile Association fournit des cartes pour plus de 1000 destinations dans le monde entier.,N
+1127,GW2,T1287,L'American Automobile Association a son siège à Chicago.,C
+1128,GW28,T1287,« American Automobile Association » est un organisme sans but lucratif d'une centaine d'années qui s'est engagé dans la sécurité automobile.,E
+1129,GW28,T1287,L'American Automobile Association est l'organisation la plus ancienne en Amérique qui s'est engagée à aider les conducteurs d'automobiles.,N
+1130,GW28,T1287,L'American Automobile Association est une entité publique financée par le gouvernement.,C
+1131,GW12,T1287,L'American Automobile Association est une organisation sans but lucratif spécialisée dans l'assistance routière.,E
+1132,GW12,T1287,"Heathrow, en Floride, est le siège de l'American Automobile Association.",N
+1133,GW12,T1287,"Les seuls services offerts par l'American Automobile Association comprennent des cartes, des guides de voyage et des batteries automobiles.",C
+1134,GW22,T1311,La Royal Society of Edinburgh compte plus de 1600 membres.,E
+1135,GW22,T1311,La professeure Dame Anne Glover est la seule présidente de la Royal Society of Edinburgh.,N
+1136,GW22,T1311,La Royal Society of Edinburgh se concentre uniquement sur la science et la technologie.,C
+1137,GW28,T1311,La Royal Society of Edinburgh est une organisation de bienfaisance britannique.,E
+1138,GW28,T1311,La Royal Society of Edinburgh compte sur des centaines de bénévoles.,N
+1139,GW28,T1311,La Royal Society of Edinburgh a été créée pour promouvoir la royalité britannique.,C
+1140,GW27,T1311,La Royal Society of Edinburgh a ses origines en 1737 et se trouve en Écosse.,E
+1141,GW27,T1311,Le motto de la Société royale d'Édimbourg est en latin.,N
+1142,GW27,T1311,La Royal Society of Edinburgh compte plus de fondateurs que de cibles.,C
+1143,GW17,T1369,Le mascot de la FSU est le Seminole.,E
+1144,GW17,T1369,L'USF a le plus grand budget de tous les collèges en Amérique.,N
+1145,GW17,T1369,La FSU est située en Géorgie.,C
+1146,GW22,T1369,L'Université d'État de Floride a été créée en 1851 et son président est John E. Thrasher.,E
+1147,GW22,T1369,L'Université d'État est le type de l'Université d'État de Floride.,N
+1148,GW22,T1369,L'Université d'État de Floride compte plus de diplômés postuniversitaires que de diplômés en automne 2017.,C
+1149,GW28,T1369,L'Université de l'État de Floride est une institution éducative américaine.,E
+1150,GW28,T1369,L'appellation « Université de l'État de Floride » provient d'une tribu autochtone américaine.,N
+1151,GW28,T1369,L'Université de l'État de Floride a été fondée au XXe siècle.,C
+1152,GW12,T1390,Cape Cross est un trèfle qui partage une histoire avec Ahonoora et le Desert vert.,E
+1153,GW12,T1390,L'Irlande est le pays où le Cape Cross a été fouillé en 1994.,N
+1154,GW12,T1390,Godolphin Racing est propriétaire du « Cape Cross » depuis 1994.,C
+1155,GW4,T1390,Le cheval « Cape Cross » était un cheval mâle.,E
+1156,GW4,T1390,Le cheval «Cape Cross» a remporté la plupart de leurs courses.,N
+1157,GW4,T1390,Le cheval Cape Cross a gagné plus d'un million de dollars.,C
+1158,GW27,T1390,Le fils de «Cape Cross» était Green Desert et son grand-père Danzig.,E
+1159,GW27,T1390,«Cape Cross» a été cultivé pour Godolphin Racing.,N
+1160,GW27,T1390,La couleur de « Cape Cross » est la même que celle du nom de son père.,C
+1161,GW4,T1395,Le chemin de fer national a commencé à Liverpool en Angleterre.,E
+1162,GW4,T1395,Le chemin de fer national fonctionne quotidiennement depuis plus de 170 ans.,N
+1163,GW4,T1395,Le chemin de fer national n'a jamais été regroupé avec d'autres chemins de fer.,C
+1164,GW0,T1395,La station Broadgreen est ouverte à l'automne 1830.,E
+1165,GW0,T1395,Broadgreen est la station la plus fréquentée de Liverpool.,N
+1166,GW0,T1395,Le prégroupement et le postgroupement de Broadgreen sont demeurés les mêmes.,C
+1167,GW72,T1395,Code de station BGE est géré par Northern,E
+1168,GW72,T1395,La station a toujours exploité 2 stations,N
+1169,GW72,T1395,Broadgreen a été fondé après 1830.,C
+1170,GW1,T1404,La dernière décennie du XXe siècle est la naissance de Kaya Scodelario.,E
+1171,GW1,T1404,Kaya Scodelario a toujours vécu en Angleterre.,N
+1172,GW1,T1404,La carrière de Kaya Scodelario s'est étendue à plus d'une décennie et demi.,C
+1173,GW84,T1404,Kaya Scodelario est né avec un autre nom de famille.,E
+1174,GW84,T1404,Kaya Scodelario a commencé à jouer pendant sa vie à Londres.,N
+1175,GW84,T1404,Kaya Scodelario joue depuis plus de dix ans.,C
+1176,GW4,T1404,Kaya Scodelario a commencé à jouer à 15 ans.,E
+1177,GW4,T1404,Kaya Scodelario a toujours vécu en Angleterre.,N
+1178,GW4,T1404,Kaya Scodelario n'a aucun enfant.,C
+1179,GW4,T1406,Le « Khanat de Kazakhstan » a déplacé la capitale plusieurs fois.,E
+1180,GW4,T1406,Le « Khanat de Kazakhstan » pratiquait uniquement l'islam.,N
+1181,GW4,T1406,Le « Khanat de Kazakhstan » a duré plus de 500 ans.,C
+1182,GW28,T1406,Le « Khanat de Kazakhstan » était un territoire dirigé par un monarque.,E
+1183,GW28,T1406,Le « Khanat de Kazakhstan » était un territoire islamique multiethnique.,N
+1184,GW28,T1406,Le « Khanat de Kazakhstan » a été établi au XIVe siècle.,C
+1185,GW1,T1406,Le « Khanat de Kazakhstan » a été aboli à la fin du XIXe siècle.,E
+1186,GW1,T1406,Le « Khanat de Kazakhstan » a toujours eu une monarchie comme gouvernement.,N
+1187,GW1,T1406,Le « Khanat de Kazakhstan » a plus de six capitales différentes.,C
+1188,GW14,T1412,Slave Labor Graphics publie au moins une série mensuelle.,E
+1189,GW14,T1412,Chaque numéro de « Johnny the Homicidal Maniac » a vendu plus que l'édition précédente.,N
+1190,GW14,T1412,Vous pouvez recevoir un nouveau numéro de Johnny the Homicidal Maniac le mois prochain.,C
+1191,GW84,T1412,« Johnny the Homicidal Maniac » est sorti une fois par mois.,E
+1192,GW84,T1412,« Johnny the Homicidal Maniac » a pris fin lorsque Johnny C. est décédé.,N
+1193,GW84,T1412,Johnny the Homicidal Maniac est un comique d'action.,C
+1194,GW4,T1412,« Johnny the Homicidal Maniac » a été produit dans les années 90.,E
+1195,GW4,T1412,« Johnny the Homicidal Maniac » est basé sur un autre comique.,N
+1196,GW4,T1412,« Johnny the Homicidal Maniac » est sorti chaque semaine lors de sa production.,C
+1197,GW14,T1435,Kapil Sharma a été marié au XXIe siècle.,E
+1198,GW14,T1435,"Kapil Sharma a rencontré sa femme dans sa ville d'origine, Amritsar.",N
+1199,GW14,T1435,Kapil Sharma est assez âgé pour percevoir la sécurité sociale.,C
+1200,GW28,T1435,Kapil Sharma est un artiste du XXIe siècle.,E
+1201,GW28,T1435,Kapil Sharma est un entertainer anglophone de l'Inde.,N
+1202,GW28,T1435,Kapil Sharma est actif depuis ses adolescents.,C
+1203,GW84,T1435,Kapil Sharma est une nouvelle mariée.,E
+1204,GW84,T1435,Kapil Sharma a vécu en Inde toute sa vie.,N
+1205,GW84,T1435,Kapil Sharma est mariée depuis plusieurs années.,C
+1206,GW1,T1436,L'anniversaire de Kate Micucci tombe le dernier jour du mois.,E
+1207,GW1,T1436,Kate Micucci était une comédienne avant de devenir chanteuse-compositrice.,N
+1208,GW1,T1436,Kate Micucci a une carrière de plus de deux décennies.,C
+1209,GW84,T1436,Kate Micucci s'est mariée alors qu'elle avait 30 ans.,E
+1210,GW84,T1436,Kate Micucci a vécu sur la côte est toute sa vie.,N
+1211,GW84,T1436,Kate Micucci joue depuis qu'elle était mineure.,C
+1212,GW4,T1436,Kate Micucci s'est mariée à 38 ans.,E
+1213,GW4,T1436,Kate Micucci commence à chanter avant de devenir comédien.,N
+1214,GW4,T1436,Kate Micucci a fréquenté l'université dans le même État où ils étaient nés.,C
+1215,GW1,T1440,Keeping Up with the Joneses a perdu de l'argent au box office par rapport à son budget.,E
+1216,GW1,T1440,«Keeping Up with the Joneses» a été entièrement filmé en 2016.,N
+1217,GW1,T1440,Keeping Up with the Joneses prend plus de deux heures à regarder.,C
+1218,GW84,T1440,«Keeping Up with the Joneses» dure moins de deux heures.,E
+1219,GW84,T1440,«Keeping Up with the Joneses» est le premier film de Greg Mottola.,N
+1220,GW84,T1440,Keeping Up with the Joneses a fait deux fois plus d'argent au box office qu'il ne l'avait prévu.,C
+1221,GW28,T1440,Keeping Up with the Joneses a pris moins d'argent qu'il ne l'a coûté de produire.,E
+1222,GW28,T1440,"«Keeping Up with the Joneses» a été bien reçu par les critiques, mais pas par les auditoires.",N
+1223,GW28,T1440,Keeping Up with the Joneses était un film indépendant à faible budget.,C
+1224,GW1,T1443,Karachi compte une demi-douzaine de districts.,E
+1225,GW1,T1443,Karachi a toujours été situé dans ce qu'on appelle le Pakistan.,N
+1226,GW1,T1443,La deuxième décennie du XXIe siècle est celle où « Karachi » est devenu une société métropolitaine.,C
+1227,GW28,T1443,« Karachi » est une ville composée de plusieurs districts.,E
+1228,GW28,T1443,Karachi est la capitale ainsi que la plus grande ville du Pakistan.,N
+1229,GW28,T1443,« Karachi » est un petit village dirigé par les anciens villageois.,C
+1230,GW85,T1443,Karachi est au Pakistan.,E
+1231,GW85,T1443,Il n'y a que six districts dans Karachi.,N
+1232,GW85,T1443,Karachi n'est pas une région métropolitaine.,C
+1233,GW84,T1444,Kasabian joue depuis plus de vingt ans.,E
+1234,GW84,T1444,Kasabian a été signé pour la première fois à RCA.,N
+1235,GW84,T1444,Kasabian est une bande américaine.,C
+1236,GW28,T1444,Kasabian est un groupe rock anglais.,E
+1237,GW28,T1444,Kasabian a remporté de nombreux prix pour sa musique.,N
+1238,GW28,T1444,Kasabian n'a travaillé qu'avec des labels indépendants plus petits.,C
+1239,GW4,T1444,Kasabian joue depuis plus de 20 ans.,E
+1240,GW4,T1444,Kasabian a enregistré un album avec Oasis.,N
+1241,GW4,T1444,Kasabian est connu pour jouer de la musique jazz.,C
+1242,GW28,T1446,Jennifer Aniston a fréquenté une école à New York.,E
+1243,GW28,T1446,Jennifer Aniston possède plusieurs entreprises.,N
+1244,GW28,T1446,Jennifer Aniston est active depuis ses débuts de vingt ans.,C
+1245,GW74,T1446,Jennifer Aniston avait au moins 17 ans lorsqu'elle a commencé sa carrière professionnelle.,E
+1246,GW74,T1446,Jennifer Aniston épouse Brad Pitt après son 31e anniversaire.,N
+1247,GW74,T1446,Jennifer Aniston réside dans un État différent de celui où elle est née.,C
+1248,GW1,T1446,La carrière de Jennifer Aniston s'est étendue jusqu'à présent à plus de trois décennies.,E
+1249,GW1,T1446,« Jennifer Aniston » a toujours vécu en Californie.,N
+1250,GW1,T1446,L'automne 1969 est le moment où Jennifer Aniston est né.,C
+1251,GW84,T1449,Kareem Abdul-Jabbar est allé à l'université dans les années 1960.,E
+1252,GW84,T1449,Kareem Abdul-Jabbar a remporté des prix pour sa première année dans l'NBA.,N
+1253,GW84,T1449,Kareem Abdul-Jabbar a joué au basketball pendant plus de quatre décennies.,C
+1254,GW4,T1449,Kareem Abdul-Jabbar était un premier tirage de tour pour le basketball.,E
+1255,GW4,T1449,Kareem Abdul-Jabbar a remporté la majorité des matchs où il a participé.,N
+1256,GW4,T1449,Kareem Abdul-Jabbar joue de basketball professionnel dans le même État où il fréquente l'école secondaire.,C
+1257,GW28,T1449,Kareem Abdul-Jabbar a joué comme centre pendant trente ans.,E
+1258,GW28,T1449,Kareem Abdul-Jabbar a remporté les championnats avec les Los Angeles Lakers.,N
+1259,GW28,T1449,Kareem Abdul-Jabbar a été rédigé au cours de sa première année d'études.,C
+1260,GW4,T1456,Jupiter prend plus de 10 ans pour circuler autour du Soleil.,E
+1261,GW4,T1456,Jupiter est le plus grand planète du système solaire.,N
+1262,GW4,T1456,Jupiter a une excentricité très élevée.,C
+1263,GW84,T1456,Jupiter a plus d'une douzaine de satellites connus.,E
+1264,GW84,T1456,Les scientifiques étudient encore la possibilité de trouver des satellites de Jupiter.,N
+1265,GW84,T1456,La vitesse orbitale de Jupiter est inférieure à 5 km/s.,C
+1266,GW1,T1456,L'inclination de Jupiter vers l'équateur du Soleil est supérieure à une demi-douzaine de degrés.,E
+1267,GW1,T1456,Plus de satellites ont été trouvés en orbite de Jupiter depuis 2018.,N
+1268,GW1,T1456,La période orbitale de Jupiter est plus de 12 fois plus longue que celle de la Terre.,C
+1269,GW0,T1457,Jimmy Fallon joue depuis plus de vingt ans.,E
+1270,GW0,T1457,Jimmy Falon a écrit son premier livre en 1998.,N
+1271,GW0,T1457,Jimmy Fallon n'a jamais été marié.,C
+1272,GW84,T1457,Jimmy Fallon fréquente le collège.,E
+1273,GW84,T1457,Jimmy Fallon a fréquenté le collège dans les années 90.,N
+1274,GW84,T1457,Jimmy Fallon est mariée depuis plus de vingt ans.,C
+1275,GW1,T1457,La carrière de Jimmy Fallon dure depuis plus de deux décennies.,E
+1276,GW1,T1457,La mère des deux enfants de Jimmy Fallon est Nancy Juvonen.,N
+1277,GW1,T1457,Jimmy Fallon est né en été 1974.,C
+1278,GW84,T1464,John James Rickard Macleod était âgé de cinquante ans à son décès.,E
+1279,GW84,T1464,John James Rickard Macleod était au premier rang de sa classe lorsqu'il fréquentait l'Université d'Aberdeen.,N
+1280,GW84,T1464,John James Rickard Macleod est mort dans un pays à l'extérieur de son pays de naissance.,C
+1281,GW1,T1464,"« John James Rickard Macleod, FRS » est mort au printemps 1935.",E
+1282,GW1,T1464,"« John James Rickard Macleod, FRS » a partagé le prix Nobel en physiologie ou en médecine avec les autres co-détecteurs de l'insuline.",N
+1283,GW1,T1464,"« John James Rickard Macleod, FRS » est né au début du XIXe siècle.",C
+1284,GW28,T1464,"« John James Rickard Macleod, FRS » est un récipiendaire britannique du Prix Nobel.",E
+1285,GW28,T1464,"« John James Rickard Macleod, FRS » a découvert l'insuline alors qu'il était encore à l'université.",N
+1286,GW28,T1464,"Le prix Nobel a été décerné à John James Rickard Macleod, FRS, alors qu'il était âgé de vingt ans.",C
+1287,GW28,T1473,Jimson Weed est un oeuvre d'art créée par une femme.,E
+1288,GW28,T1473,« Jimson Weed » est le plus célèbre oeuvre d'art de Georgia O'keeffe.,N
+1289,GW28,T1473,Jimson Weed est un oeuvre d'art du XIXe siècle.,C
+1290,GW68,T1473,Jimson Weed est réalisée par une artiste de sexe féminin et présentement en Indiana.,E
+1291,GW68,T1473,Jimson Weed a été vendu au Musée d'art d'Indianpolis pour deux millions de dollars.,N
+1292,GW68,T1473,La pièce d'art Jimson Weed a été réalisée deux ans après la mort de Georgia O'Keeffe.,C
+1293,GW0,T1473,Jimson Weed est situé dans la capitale de l'Inde.,E
+1294,GW0,T1473,« Jimson Weed » était la première peinture vendue par Georgia O'Keefe.,N
+1295,GW0,T1473,Jimson Weed est plus large que sa hauteur.,C
+1296,GW1,T1477,L'été 1977 est le moment où Kanye West est né.,E
+1297,GW1,T1477,Tous les enfants de Kanye West ont été conçus avec Kim Kardashian.,N
+1298,GW1,T1477,« Kanye West » vaut plus d'un tiers d'un milliard de dollars.,C
+1299,GW84,T1477,« Kanye West » a remporté plusieurs prix.,E
+1300,GW84,T1477,"Tous les enfants de Kanye West sont pour sa femme, Kim.",N
+1301,GW84,T1477,« Kanye West » est né dans le même État où il vit maintenant.,C
+1302,GW4,T1477,« Kanye West » est en activité depuis 23 ans.,E
+1303,GW4,T1477,Kanye West avait tous ses trois enfants avec Kim Kardashian.,N
+1304,GW4,T1477,« Kanye West » est de New York.,C
+1305,GW1,T1491,Judith and the Head of Holofernes est moins d'un pied et demi de large à son point plus étroit.,E
+1306,GW1,T1491,La...sterreichische Galerie a Judith and the Head of Holofernes parce qu'elle est prêtée.,N
+1307,GW1,T1491,Judith and the Head of Holofernes a été peint à la fin du XIXe siècle.,C
+1308,GW84,T1491,Judith and the Head of Holofernes a été peint dans les années 1900.,E
+1309,GW84,T1491,Le peintre de Judith and the Head of Holofernes est venu de Vienne.,N
+1310,GW84,T1491,Judith and the Head of Holofernes est réalisé en charbon.,C
+1311,GW28,T1491,Judith and the Head of Holofernes est une œuvre d'art du XXe siècle.,E
+1312,GW28,T1491,La peinture préférée de Gustav Klimt est «Judith and the Head of Holofernes» (Judith et le chef des Holofernes).,N
+1313,GW28,T1491,Judith and the Head of Holofernes a été peint sur une toile massive.,C
+1314,GW1,T1500,La naissance de John Napier s'est produite juste au milieu du XVIe siècle.,E
+1315,GW1,T1500,« John Napier » a vécu en Écosse toute sa vie.,N
+1316,GW1,T1500,L'été 1617 a été le moment où « John Napier » est décédé.,C
+1317,GW84,T1500,John Napier est né et décédé dans le même pays.,E
+1318,GW84,T1500,John Napier a rencontré Henry Briggs.,N
+1319,GW84,T1500,John Napier n'a pas fréquenté l'université.,C
+1320,GW4,T1500,John Napier a aidé à élaborer des concepts mathématiques.,E
+1321,GW4,T1500,John Napier a vécu toute sa vie en Écosse.,N
+1322,GW4,T1500,John Napier est décédé alors qu'ils avaient 50 ans.,C
+1323,GW1,T1502,Les mois d'été de 1850 sont le moment où Karl Ferdinand Braun est né.,E
+1324,GW1,T1502,Le prix Nobel de physique de Karl Ferdinand Braun est attribué à son travail relatif au tube de rayonnement cathode.,N
+1325,GW1,T1502,Karl Ferdinand Braun est décédé dans le même siècle où il est né.,C
+1326,GW84,T1502,Karl Ferdinand Braun a fréquenté plus d'une université.,E
+1327,GW84,T1502,Karl Ferdinand Braun n'a remporté qu'un prix.,N
+1328,GW84,T1502,Karl Ferdinand Braun est né et décédé dans le même pays.,C
+1329,GW4,T1502,Karl Ferdinand Braun a finalement remporté un prix pour ses inventions.,E
+1330,GW4,T1502,Karl Ferdinand Braun n'a jamais pu voir la télévision.,N
+1331,GW4,T1502,Karl Ferdinand Braun a aimé toute sa vie en Allemagne.,C
+1332,GW4,T1503,Jim Belushi a trois épouses.,E
+1333,GW4,T1503,Jim Belushi a tous les trois enfants avec Jennifer Sloan.,N
+1334,GW4,T1503,Jim Belushi a commencé à jouer à l'âge de 10 ans.,C
+1335,GW28,T1503,Jim Belushi est un entertainer.,E
+1336,GW28,T1503,Jim Belushi est un père deux fois divorcé de trois filles.,N
+1337,GW28,T1503,Jim Belushi a commencé sa carrière à l'adolescence.,C
+1338,GW86,T1503,Jim Belushi a travaillé comme entertainer.,E
+1339,GW86,T1503,Jim Belushi a un fils.,N
+1340,GW86,T1503,« Jim Belushi » était actif dans ses professions énumérées au début des années 1970.,C
+1341,GW0,T1508,Josta a duré moins de cinq ans avant d'être abandonné.,E
+1342,GW0,T1508,« Josta » était la boisson douce la moins vendue de PepsiCo au cours des années 90.,N
+1343,GW0,T1508,PepsiCo n'a jamais essayé de faire une boissons gazeuses à l'énergie.,C
+1344,GW1,T1508,Josta a été créé pour la première fois au cours des 10 dernières années du XXe siècle.,E
+1345,GW1,T1508,Josta ressemble plus à Jolt qu'à Surge.,N
+1346,GW1,T1508,Josta était encore fabriqué au XXIe siècle.,C
+1347,GW84,T1508,Josta est une boisson qui était populaire dans les années 90.,E
+1348,GW84,T1508,Les gens ont commencé à interdire Josta en 1998.,N
+1349,GW84,T1508,Personne n'a pu boire Josta depuis 1997.,C
+1350,GW4,T1512,John McCain a connu sa première victoire politique dans les années 90.,E
+1351,GW4,T1512,« John McCain » était en poste quelques fois séparément.,N
+1352,GW4,T1512,« John McCain » n'est jamais retourné au poste après 2005.,C
+1353,GW28,T1512,« John McCain » a occupé plusieurs postes au bureau.,E
+1354,GW28,T1512,John McCain était un politicien américain.,N
+1355,GW28,T1512,« John McCain » a occupé plusieurs postes au cours du XXe siècle.,C
+1356,GW40,T1512,« John McCain » a passé deux années complètes au poste.,E
+1357,GW40,T1512,"John McCain a été précédé et succédé par la même personne, Ben Nighthorse Campbell.",N
+1358,GW40,T1512,"« John McCain » a passé des années consécutives au poste, débutant en 1995 et se terminant en 2007.",C
+1359,GW84,T1516,« Justice League Dark » dure plus d'une heure.,E
+1360,GW84,T1516,Justice League Dark est la seule production dirigée par Jay Oliva.,N
+1361,GW84,T1516,« Justice League Dark » a été diffusé dans les années 90.,C
+1362,GW1,T1516,"« Justice League Dark » a une durée d'exécution inférieure à 1,5 heure.",E
+1363,GW1,T1516,Ernie Altbacker a rédigé l'histoire de « Justice League Dark » avant que J. M. DeMatteis ne l'aide.,N
+1364,GW1,T1516,« Justice League Dark » a été diffusé pour la première fois en été 2017.,C
+1365,GW4,T1516,« Justice League Dark » avait une histoire et un scénario de la même personne.,E
+1366,GW4,T1516,Justice League Dark a réalisé un profit au box office.,N
+1367,GW4,T1516,Justice League Dark a eu une équipe qui a écrit la musique.,C
+1368,GW1,T1518,L'été 1993 est le moment où Jurassic Park a fait sa première sortie.,E
+1369,GW1,T1518,Sam Neill n'était pas initialement censé star dans Jurassic Park.,N
+1370,GW1,T1518,Le temps d'exécution de Jurassic Park est inférieur à deux heures.,C
+1371,GW84,T1518,Jurassic Park est basé sur un livre.,E
+1372,GW84,T1518,Jurassic Park a été diffusé dans d'autres pays que les États-Unis au cours de la même année.,N
+1373,GW84,T1518,Jurassic Park dure moins de deux heures.,C
+1374,GW28,T1518,Jurassic Park était un roman transformé en film hollywoodien.,E
+1375,GW28,T1518,« Jurassic Park » est le film qui a connu le plus de recettes en 1993.,N
+1376,GW28,T1518,Jurassic Park n'était pas rentable pour le studio de cinéma.,C
+1377,GW4,T1534,Joe Rogan s'est marié alors qu'il était dans ses 40 ans.,E
+1378,GW4,T1534,Joe Rogan avait ses deux enfants avec Jessica Ditzel.,N
+1379,GW4,T1534,Joe Rogan a commencé à faire de la stand up quand il avait 16 ans.,C
+1380,GW0,T1534,Joe Rogan joue la comédie depuis plus de trente ans.,E
+1381,GW0,T1534,Les deux filles de Joe Rogan sont désignées en son nom de femme.,N
+1382,GW0,T1534,Joe Rogan est allé à l'université sur la côte ouest.,C
+1383,GW1,T1534,La carrière de Joe Rogan est forte depuis plus de 30 ans.,E
+1384,GW1,T1534,La mère des deux enfants de Joe Rogan est Jessica Ditzel.,N
+1385,GW1,T1534,Joe Rogan est marié depuis près de 15 ans.,C
+1386,GW4,T1544,« Johnny Cash » avait deux épouses.,E
+1387,GW4,T1544,Johnny Cash avait tous ses enfants avec June Carter.,N
+1388,GW4,T1544,Johnny Cash utilise le même nom avec lequel il est né.,C
+1389,GW84,T1544,Johnny Cash était âgé de soixante-dix ans lorsqu'il est décédé.,E
+1390,GW84,T1544,Johnny Cash était chez Sun Records avant qu'il ne soit chez Mercury.,N
+1391,GW84,T1544,« Johnny Cash » était un seul enfant.,C
+1392,GW1,T1544,Johnny Cash était vivant pendant deux siècles différents.,E
+1393,GW1,T1544,Tous les enfants de Johnny Cash avaient la même mère biologique.,N
+1394,GW1,T1544,Johnny Cash a eu une carrière qui s'est étendue sur plus de cinq décennies.,C
+1395,GW28,T1545,Jim Mattis a servi dans l'armée pendant 44 ans.,E
+1396,GW28,T1545,« Jim Mattis » a conduit plusieurs commandements de marines américains à la victoire au Moyen-Orient.,N
+1397,GW28,T1545,« Jim Mattis » était le chef des chefs d'état-major conjoints.,C
+1398,GW84,T1545,Jim Mattis était dans l'armée américaine.,E
+1399,GW84,T1545,« Jim Mattis » était mieux connu sous le nom de « Mad Dog ».,N
+1400,GW84,T1545,Jim Mattis a servi plus de cinquante ans dans l'armée.,C
+1401,GW0,T1545,Jim Mattis a servi dans l'armée pendant plus de quarante ans.,E
+1402,GW0,T1545,« Jim Mattis » dirige la 1re Division maritime pendant la guerre en Iraq.,N
+1403,GW0,T1545,« Jim Mattis » est encore actif au sein du Corps maritime.,C
+1404,GW4,T1550,J?rgen Skafte Rasmussen avait quatre enfants.,E
+1405,GW4,T1550,J?rgen Skafte Rasmussen a toujours vécu au Danemark.,N
+1406,GW4,T1550,J?rgen Skafte Rasmussen était connu pour ses compétences en affaires.,C
+1407,GW84,T1550,J?rgen Skafte Rasmussen est né et décédé dans le même pays.,E
+1408,GW84,T1550,Les enfants de J?rgen Skafte Rasmussen étaient tous pour sa femme Theresie.,N
+1409,GW84,T1550,J?rgen Skafte Rasmussen n'a travaillé que comme ingénieur.,C
+1410,GW1,T1550,J?rgen Skafte Rasmussen avait la même nationalité de l'endroit où il est né.,E
+1411,GW1,T1550,J?rgen Skafte Rasmussen a toujours vécu au Danemark.,N
+1412,GW1,T1550,J?rgen Skafte Rasmussen est marié à Theresie Liebe.,C
+1413,GW1,T1557,La division Est-Ouest de « Jérusalem » a eu lieu à « Jérusalem » près du tournant du XXe siècle.,E
+1414,GW1,T1557,Plus de gens parlent l'hébreu que l'arabe dans Jerusalem.,N
+1415,GW1,T1557,L'établissement de Gihon Spring (Jerusalem) a duré plus de 225 ans.,C
+1416,GW4,T1557,« Jérusalem » a été divisée dans les années 1900.,E
+1417,GW4,T1557,« Jérusalem » est une ville depuis plus de 5000 ans.,N
+1418,GW4,T1557,« Jérusalem » a une langue principale.,C
+1419,GW14,T1557,L'Est et l'Ouest « Jérusalem » sont revenues ensemble moins d'un quart de siècle après leur séparation.,E
+1420,GW14,T1557,De nombreux ancêtres de la colonie de Gihon Spring ont migré vers la ville de David.,N
+1421,GW14,T1557,Les murs de l'ancienne ville de « Jérusalem » ont été construits après sa réunification.,C
+1422,GW84,T1562,Jun-ichi Nishizawa a travaillé à diverses universités.,E
+1423,GW84,T1562,Jun-ichi Nishizawa était à l'Université de Tohoku plus longtemps que l'Université Sophia.,N
+1424,GW84,T1562,Jun-ichi Nishizawa a reçu la médaille Edison posthumement après sa mort.,C
+1425,GW28,T1562,La médaille Edison de l'EEE a été décernée à Jun-ichi Nishizawa dans ses 70 ans.,E
+1426,GW28,T1562,Jun-ichi Nishizawa était un homme scientifique japonais.,N
+1427,GW28,T1562,Jun-ichi Nishizawa est diplômé de plusieurs universités.,C
+1428,GW1,T1562,Jun-ichi Nishizawa avait une carrière à la même université où il allait à l'école.,E
+1429,GW1,T1562,Les deux prix de Jun-ichi Nishizawa lui ont été décernés au XXIe siècle.,N
+1430,GW1,T1562,L'été 2018 est le moment où Jun-ichi Nishizawa est décédé.,C
+1431,GW1,T1580,Le printemps 1979 a été le moment de la naissance de Kate Hudson.,E
+1432,GW1,T1580,Kate Hudson avait tous ses trois enfants avec Chris Robinson.,N
+1433,GW1,T1580,Le mariage de Kate Hudson a duré plus d'une décennie.,C
+1434,GW84,T1580,Kate Hudson est en trente ans.,E
+1435,GW84,T1580,Le seul frère complet de Kate Hudson est Oliver.,N
+1436,GW84,T1580,« Kate Hudson » est récemment mariée à Matthew.,C
+1437,GW4,T1580,Kate Hudson joue depuis sa 17e année,E
+1438,GW4,T1580,"Kate Hudson a trois enfants, tous avec Matthew Bellamy.",N
+1439,GW4,T1580,Kate Hudson n'a pas de parents célèbres.,C
+1440,GW1,T1586,La distance à Kappa Coronae Borealis b est de plus de 100 années lumineuses.,E
+1441,GW1,T1586,« Kappa Coronae Borealis b » a toujours été considéré comme faisant partie de la constellation Coronae Borealis.,N
+1442,GW1,T1586,« Kappa Coronae Borealis b » a une magnitude apparente supérieure à 5.,C
+1443,GW28,T1586,Kappa Coronae Borealis b est un objet céleste.,E
+1444,GW28,T1586,« Kappa Coronae Borealis b » a été découvert par un astronome grec.,N
+1445,GW28,T1586,« Kappa Coronae Borealis b » se trouve à quelques années lumineuses de la Terre.,C
+1446,GW4,T1586,Kappa Coronae Borealis b est à plus de 100 ans de lumière.,E
+1447,GW4,T1586,Kappa Coronae Borealis b est plus grand que le soleil.,N
+1448,GW4,T1586,« Kappa Coronae Borealis b » fait partie de la constellation Little Dipper.,C
+1449,GW4,T1592,Joy a été en mesure de réaliser un profit au cinéma.,E
+1450,GW4,T1592,David O. Russell a participé à tous les aspects du film Joy.,N
+1451,GW4,T1592,Le film Joy a été diffusé par Disney.,C
+1452,GW40,T1592,"Joy a été produit par John Davis, Megan Ellison, Jonathan Gordon, Ken Mok et David O. Russell.",E
+1453,GW40,T1592,"Le scénario de Joy a été rédigé par David O. Russell, qui est également producteur.",N
+1454,GW40,T1592,Joy est un film qui ne comporte aucune musique.,C
+1455,GW28,T1592,Joy est un film américain joué par des acteurs américains bien connus.,E
+1456,GW28,T1592,Joy a été diffusé en décembre pour être admissible à l'Oscar en 2015.,N
+1457,GW28,T1592,Le film n'était pas rentable pour 20th Century Fox.,C
+1458,GW28,T1598,« Judy » était un chien et un mascot de la Marine royale.,E
+1459,GW28,T1598,« Judy » a visité plusieurs pays pendant son service dans la Marine royale.,N
+1460,GW28,T1598,« Judy » était un officier commandé pendant son service dans la Marine royale.,C
+1461,GW1,T1598,Judy a été active comme mascot d'un navire pendant plus de douzaine d'années.,E
+1462,GW1,T1598,Judy a obtenu la médaille Dickin près de la mort du chien.,N
+1463,GW1,T1598,Judy est décédé à l'automne 1950.,C
+1464,GW40,T1598,« Judy » était un chien pointeur qui était également un mascot de la Marine royale.,E
+1465,GW40,T1598,« Judy » a reçu un prix pour avoir été membre de la Marine royale.,N
+1466,GW40,T1598,Judy était connu comme un prisonnier de guerre chinois.,C
+1467,GW28,T1600,K?roly Zipernowsky est né à Vienne au XIXe siècle.,E
+1468,GW28,T1600,K?roly Zipernowsky étudie l'ingénierie électrique à l'Université.,N
+1469,GW28,T1600,K?roly Zipernowsky est mort là où il est né.,C
+1470,GW40,T1600,K?roly Zipernowsky est né sous le nom de Carl Zipernowsky en 1853.,E
+1471,GW40,T1600,La nationalité de K?roly Zipernowsky est hongroise et autrichienne.,N
+1472,GW40,T1600,K?roly Zipernowsky n'a pas fréquenté l'école pour devenir ingénieur.,C
+1473,GW84,T1600,K?roly Zipernowsky était connu sous un autre nom.,E
+1474,GW84,T1600,K?roly Zipernowsky était le chef de sa classe à l'Université technique de Budapest.,N
+1475,GW84,T1600,K?roly Zipernowsky était âgé de plus de cent ans à son décès.,C
+1476,GW4,T1601,Jimmy Eat World est de l'État d'Arizona.,E
+1477,GW4,T1601,Le groupe Jimmy Eat World a continué de tourner jusqu'à ce jour.,N
+1478,GW4,T1601,Le groupe Jimmy Eat World n'a été que sur 2 étiquettes au cours de leur carrière musicale.,C
+1479,GW28,T1601,"Emo pop group, Jimmy Eat World est du sud-ouest des États-Unis.",E
+1480,GW28,T1601,Ils ont gagné de nombreux prix au cours de leur longue carrière.,N
+1481,GW28,T1601,Jimmy Eat World a été en grande partie fidèle à son étiquette originale.,C
+1482,GW1,T1601,Jimmy Eat World fait de la musique depuis plus de 25 ans.,E
+1483,GW1,T1601,Jimmy Eat World a fait plus de musique sur le label Capitol que Dreamworks.,N
+1484,GW1,T1601,Jimmy Eat World a été lancé dans la partie sud-est des États-Unis.,C
+1485,GW1,T1612,Johann Nikolaus von Dreyse est né au cours des dernières décennies du XVIIIe siècle.,E
+1486,GW1,T1612,Johann Nikolaus von Dreyse était un entrepreneur avant d'être inventeur.,N
+1487,GW1,T1612,Johann Nikolaus von Dreyse est décédé en été de 1867.,C
+1488,GW14,T1612,Johann Nikolaus von Dreyse est mort dans sa ville de naissance.,E
+1489,GW14,T1612,Johann Nikolaus von Dreyse a inventé plus d'un objet.,N
+1490,GW14,T1612,Johann Nikolaus von Dreyse n'a jamais été sur le continent européen.,C
+1491,GW84,T1612,Johann Nikolaus von Dreyse est né et décédé dans la même ville.,E
+1492,GW84,T1612,La seule invention de Johann Nikolaus von Dreyse était la pistole à aiguilles.,N
+1493,GW84,T1612,Johann Nikolaus von Dreyse était prussien.,C
+1494,GW84,T1614,« John Paul Getty III » était connu pour avoir été retiré de sa famille.,E
+1495,GW84,T1614,« John Paul Getty III » a été enlevé en jouant dans un parc.,N
+1496,GW84,T1614,« John Paul Getty III » est né au début des années 1900.,C
+1497,GW28,T1614,« John Paul Getty III » a été enlevé pendant sa vie.,E
+1498,GW28,T1614,Il a été nommé en fonction de son grand-père paternal.,N
+1499,GW28,T1614,« John Paul Getty III » est marié dans ses vingt-dix ans.,C
+1500,GW14,T1614,Il y a trois mâles de même nom dans la famille de John Paul Getty.,E
+1501,GW14,T1614,Balthazar Getty est né au Royaume-Uni.,N
+1502,GW14,T1614,« John Paul Getty III » est décédé à moins de 100 milles de son lieu de naissance.,C
+1503,GW28,T1618,Jupiter et Io est une œuvre d'art du XVIe siècle.,E
+1504,GW28,T1618,Jupiter and Io est l'œuvre finale d'Antonio da Correggio.,N
+1505,GW28,T1618,Jupiter et Io est placé dans une collection privée.,C
+1506,GW79,T1618,"Jupiter et lo, une peinture d'huile au Musée d'art historique, est une œuvre du XVIe siècle.",E
+1507,GW79,T1618,"La peinture, Jupiter et lo, est exposée au Musée d'art historique.",N
+1508,GW79,T1618,"Le tableau, Jupiter et lo, est un bon exemple de couleurs d'eau.",C
+1509,GW1,T1618,"À son point le plus large, Jupiter et Io était plus de cinq pieds long.",E
+1510,GW1,T1618,Jupiter et Io est prêté au Musée d'histoire de l'art.,N
+1511,GW1,T1618,Il a fallu une demi-décade pour peindre Jupiter et Io.,C
+1512,GW40,T1626,"Jim Croce, également connu sous le nom de James Joseph Croce, est un chanteur et écrivain.",E
+1513,GW40,T1626,"« Jim Croce » a grandi à South Philadelphia, en Pennsylvanie, aux États-Unis.",N
+1514,GW40,T1626,Jim Croce est encore fort en 2019 et n'a pas renoncé à son amour de la musique.,C
+1515,GW85,T1626,Jim Croce est un chanteur qui a vécu une très courte vie.,E
+1516,GW85,T1626,Jim Croce est de PA et a été né et élevé là-bas.,N
+1517,GW85,T1626,Jim Croce a 56 ans lorsqu'il est mort.,C
+1518,GW1,T1626,Jim Croce n'a vécu que trois décennies.,E
+1519,GW1,T1626,Jim Croce a fait plus de musique sur le label ABC que sur Saja/Atlantique.,N
+1520,GW1,T1626,Jim Croce est né en été 1943.,C
+1521,GW1,T1635,Kauto Star a remporté plus de la moitié des courses qu'elle a menées.,E
+1522,GW1,T1635,Kauto Star n'a jamais participé à des courses en France.,N
+1523,GW1,T1635,Le printemps de 2015 est le moment où « Auto Star » est décédé.,C
+1524,GW4,T1635,« Auto Star » a remporté la majorité de leurs courses.,E
+1525,GW4,T1635,Kauto Star a pu tirer profit pour ses propriétaires.,N
+1526,GW4,T1635,Kauto Star est décédé à l'âge de dix ans.,C
+1527,GW28,T1635,Kauto Star était un chevaucheur de course français.,E
+1528,GW28,T1635,Kauto Star est décédé à cause de la vieillesse.,N
+1529,GW28,T1635,Kauto Star nourrit les descendants de l'homme après sa retraite.,C
+1530,GW84,T1656,Karen Gillan est en activité depuis plus de dix ans.,E
+1531,GW84,T1656,Karen Gillan est diplômé avec distinction de l'Académie des arts du théâtre Italia Conti.,N
+1532,GW84,T1656,Karen Gillan est une interprète dans ses 30 dernières années.,C
+1533,GW28,T1656,Karen Gillan est une actrice britannique.,E
+1534,GW28,T1656,Karen Gillan parle anglais et italien.,N
+1535,GW28,T1656,Karen Gillan est active depuis ses vingt-dix ans.,C
+1536,GW31,T1656,Karen Gillan a étudié l'acteur à l'Académie italienne des arts du théâtre Italia Conti et il joue depuis 2006.,E
+1537,GW31,T1656,« Karen Gillan » a dirigé et rédigé de nombreux films dans lesquels elle est apparue depuis 2006.,N
+1538,GW31,T1656,« Karen Gillan » joue depuis cinquante ans et écrit des pièces depuis vingt ans.,C
+1539,GW1,T1659,La sortie australienne de Jungle a pris fin en 2017.,E
+1540,GW1,T1659,Jungle a gagné plus d'argent en Colombie que en Australie.,N
+1541,GW1,T1659,Le film Jungle a une durée de deux heures.,C
+1542,GW4,T1659,Le film Jungle avait une musique écrite par une personne.,E
+1543,GW4,T1659,Le film Jungle a profité aux urnes.,N
+1544,GW4,T1659,Le film Jungle avait le même scénariste et directeur.,C
+1545,GW14,T1659,Jungle a été filmé sur deux continents.,E
+1546,GW14,T1659,Jungle a été suivi par plus d'Australiens que de Colombiens.,N
+1547,GW14,T1659,Jungle a eu deux premières dans différents endroits au cours de la même semaine.,C
+1548,GW84,T1664,Jessie J joue depuis plus de dix ans.,E
+1549,GW84,T1664,Jessie J a été signé par Island avant d'être signé avec Gut.,N
+1550,GW84,T1664,Jessie J n'interprète que la musique pop.,C
+1551,GW1,T1664,Jessie J a une carrière active depuis plus d'une décennie.,E
+1552,GW1,T1664,Jessie J était un chanteur avant d'être un chanteur professionnel.,N
+1553,GW1,T1664,Jessie J est née en été de 1988.,C
+1554,GW28,T1664,Jessie J est une chantrice anglaise.,E
+1555,GW28,T1664,Jessie J a gagné de nombreux prix pour sa musique.,N
+1556,GW28,T1664,Jessie J a commencé sa carrière dans ses soixante-dix ans.,C
+1557,GW1,T1665,Julian Assange est marié pendant plus d'une décennie dans son premier mariage.,E
+1558,GW1,T1665,Tous les enfants de Julian Assange ont la même femme que leur mère biologique.,N
+1559,GW1,T1665,La carrière de Julian Assange dure depuis plus de trois décennies.,C
+1560,GW0,T1665,Julian Assange a fréquenté trois universités dans son pays d'origine.,E
+1561,GW0,T1665,"Julian Assange a quatre enfants avec son ex-épouse, Teresa Doe.",N
+1562,GW0,T1665,Julian Assange réside dans un pays dont il est citoyen.,C
+1563,GW84,T1665,Julian Assange a remporté plus de prix en 2015 qu'en 2008.,E
+1564,GW84,T1665,Julian Assange a vécu en Australie toute sa vie.,N
+1565,GW84,T1665,Julian Assange est devenu actif après son mariage.,C
+1566,GW1,T1668,« Jérusalem » compte près des deux tiers de la population juive.,E
+1567,GW1,T1668,Jerusalem a observé le temps d'épargne du jour depuis qu'il est devenu une chose.,N
+1568,GW1,T1668,"Pour ce qui est de la population, elle est composée d'environ la moitié des Arabes.",C
+1569,GW28,T1668,« Jérusalem » est composée principalement de gens juifs.,E
+1570,GW28,T1668,"« Jérusalem » est un pays multiethnique, multiconfessionnel.",N
+1571,GW28,T1668,Les chrétiens constituent une grande partie de la population de « Jérusalem ».,C
+1572,GW86,T1668,La majorité de la population de « Jérusalem » est constituée de Juifs.,E
+1573,GW86,T1668,La langue la plus couramment parlée dans « Jérusalem » est l’hébreu.,N
+1574,GW86,T1668,La moitié de la population de « Jérusalem » est arabe.,C
+1575,GW4,T1677,Johannes Gutenberg a facilité l'imprimerie pour les gens.,E
+1576,GW4,T1677,Johannes Gutenberg a vécu toute sa vie dans l'Empire romain saint.,N
+1577,GW4,T1677,Johannes Gutenberg a été puni pour le travail qu'il a accompli.,C
+1578,GW28,T1677,Johannes Gutenberg vivait pendant la rÃ©gion de l'Empire romain saint.,E
+1579,GW28,T1677,Johannes Gutenberg est devenu riche de ses inventions.,N
+1580,GW28,T1677,Johannes Gutenberg vit au XIVe siècle.,C
+1581,GW1,T1677,Johannes Gutenberg est né vers la fin du XVe siècle.,E
+1582,GW1,T1677,Johannes Gutenberg était une imprimante avant d'être inventeur.,N
+1583,GW1,T1677,Johannes Gutenberg est décédé à l'automne 1468.,C
+1584,GW4,T1688,John Cyril Porte a servi plus d'une fois dans l'armée.,E
+1585,GW4,T1688,John Cyril Porte a pu traverser l'océan Atlantique plus d'une fois.,N
+1586,GW4,T1688,John Cyril Porte a vécu toute sa vie en Irlande.,C
+1587,GW6,T1688,« John Cyril Porte » est mort dans un pays différent de celui où il est né.,E
+1588,GW6,T1688,John Cyril Porte est mort alors qu'il était encore actif dans l'armée.,N
+1589,GW6,T1688,John Cyril Porte a servi pendant deux guerres mondiales.,C
+1590,GW1,T1688,John Cyril Porte a vécu deux siècles différents.,E
+1591,GW1,T1688,« John Cyril Porte » a reçu l'Ordre de St Michael et St George Navy Distinguished Service Medal posthumement.,N
+1592,GW1,T1688,« John Cyril Porte » a servi plus de deux décennies dans l'armée.,C
+1593,GW0,T1690,Jinder Mahal joue depuis plus de quinze ans.,E
+1594,GW0,T1690,Jinder Mahal a changé son nom de ring de Tiger Raj Singh au début de sa carrière.,N
+1595,GW0,T1690,Jinder Mahal pèse plus de kilos que sa hauteur totale en centimètres.,C
+1596,GW28,T1690,Jinder Mahal est supérieur à la moyenne en hauteur et en poids pour la plupart des êtres humains.,E
+1597,GW28,T1690,Jinder Mahal est un chasseur professionnel indien.,N
+1598,GW28,T1690,Jinder Mahal est un néophyte dans le cercle.,C
+1599,GW86,T1690,« Jinder Mahal » est connu sous plusieurs noms d'arrondissement.,E
+1600,GW86,T1690,"Jinder Mahal vit au Punjab, en Inde.",N
+1601,GW86,T1690,Jinder Mahal a fait son début dans les années 90.,C
+1602,GW4,T1692,John Wayne Gacy a été tué par l'État.,E
+1603,GW4,T1692,John Wayne Gacy a eu des enfants avec sa première femme.,N
+1604,GW4,T1692,John Wayne Gacy est mort à 40 ans.,C
+1605,GW68,T1692,John Wayne Gacy n'était pas marié à l'âge de 29 ans.,E
+1606,GW68,T1692,John Wayne Gacy a deux enfants avec Marlynn Myers.,N
+1607,GW68,T1692,Il a divorcé après avoir été reconnu coupable.,C
+1608,GW84,T1692,« John Wayne Gacy » est mort plus de dix ans après avoir été condamné.,E
+1609,GW84,T1692,« John Wayne Gacy » a tenté d'appeler ses condamnations.,N
+1610,GW84,T1692,« John Wayne Gacy » est décédé par des causes naturelles.,C
+1611,GW0,T1696,« Jethro Tull » a pris une pause de cinq ans durant les années 2010.,E
+1612,GW0,T1696,« Jethro Tull » a joué de nombreux concerts de tournée avec Wild Turkey dans les années 1970.,N
+1613,GW0,T1696,Jethro Tull a été fondée en Amérique du Nord il y a vingt ans.,C
+1614,GW1,T1696,Jethro Tull est un groupe britannique.,E
+1615,GW1,T1696,Jethro Tull a fait de la musique sur le label Eagle avant de jamais faire de la musique avec EMI.,N
+1616,GW1,T1696,Jethro Tull a fait de la musique en six décennies différentes.,C
+1617,GW4,T1696,Jethro Tull prend une pause dans sa carrière.,E
+1618,GW4,T1696,Jethro Tull joue du rock hard avant d'entrer dans le rock populaire.,N
+1619,GW4,T1696,Jethro Tull n'a été que sur un seul étiquette.,C
+1620,GW4,T1702,« Kas » a été créé en Europe.,E
+1621,GW4,T1702,Kas est offert dans de nombreux goûts classiques de soda.,N
+1622,GW4,T1702,« Kas » est sorti il y a plus de 60 ans.,C
+1623,GW1,T1702,« Kas » a été introduit dans les dix ans suivant le tournant du XXe siècle.,E
+1624,GW1,T1702,Kas n'a été vendu qu'en Espagne.,N
+1625,GW1,T1702,« Kas » a été présenté dans plus de dix saveurs.,C
+1626,GW28,T1702,« Kas » est une boisson douce espagnole.,E
+1627,GW28,T1702,Kas est le plus grand vendeur de PepsiCo en Espagne.,N
+1628,GW28,T1702,PepsiCo s'est fixé à sa formule originale pour Kas sans changement.,C
+1629,GW1,T1706,Jeff Lynne est un musicien actif depuis plus d'un siècle.,E
+1630,GW1,T1706,Jeff Lynne produisait des disques avant de devenir un musicien lui-même.,N
+1631,GW1,T1706,L'anniversaire de Jeff Lynne tombe en été.,C
+1632,GW4,T1706,Jeff Lynne a plus d'un nom de scène.,E
+1633,GW4,T1706,Jeff Lynne a enregistré un album avec les Beatles.,N
+1634,GW4,T1706,Jeff Lynne est resté avec Sony BMG toute sa carrière.,C
+1635,GW84,T1706,Jeff Lynne a été appelé par plusieurs noms différents.,E
+1636,GW84,T1706,Jeff Lynne était avec Harvest records avant qu'il ne soit avec Epic.,N
+1637,GW84,T1706,Jeff Lynne est un musicien de ses quatre-vingt-dix.,C
+1638,GW1,T1713,« John Cho » est né en été 1972.,E
+1639,GW1,T1713,La mère des deux enfants de John Cho est Kerri Higuchi.,N
+1640,GW1,T1713,« John Cho » joue depuis plus de deux décennies et demi.,C
+1641,GW28,T1713,John Cho est né au XXe siècle.,E
+1642,GW28,T1713,John Cho est marié avec deux filles.,N
+1643,GW28,T1713,John Cho est actif depuis ses adolescents.,C
+1644,GW84,T1713,John Cho est marié depuis plus de dix ans.,E
+1645,GW84,T1713,John Cho est diplômé à la UC Berkley dans les années 90.,N
+1646,GW84,T1713,"« John Cho » a commencé sa carrière à l'école secondaire, en sortant de l'université.",C
+1647,GW28,T1728,Kaput and Zšsky: The Ultimate Obliterators est une production de divertissement.,E
+1648,GW28,T1728,Kaput and Zšsky: The Ultimate Obliterators est une caricature pour enfants.,N
+1649,GW28,T1728,Kaput and Zšsky: The Ultimate Obliterators est produit et distribué par la même entreprise.,C
+1650,GW1,T1728,Kaput and Zšsky: The Ultimate Obliterators : Il faut environ une demi-heure pour regarder.,E
+1651,GW1,T1728,Paul Cabieux a réalisé plus de productions sur Kaput et Zšsky: The Ultimate Obliterators que Philippe Delarue.,N
+1652,GW1,T1728,Kaput et Zšsky: The Ultimate Obliterators avait quelques distributeurs.,C
+1653,GW4,T1728,Kaput et Zšsky: The Ultimate Obliterators a été produit par deux personnes.,E
+1654,GW4,T1728,Kaput and Zšsky: The Ultimate Obliterators fonctionne sur câble de base.,N
+1655,GW4,T1728,Kaput and Zšsky: The Ultimate Obliterators n'avait qu'une seule société de production.,C
+1656,GW0,T1730,Jon Hamm est diplômé de l'Université de son État d'origine.,E
+1657,GW0,T1730,Jon Hamm a obtenu un baccalauréat en affaires.,N
+1658,GW0,T1730,Jon Hamm et Jennifer Westfeldt se marient avant que Hamm ne commence à jouer.,C
+1659,GW1,T1730,Jon Hamm est diplômé de l'université.,E
+1660,GW1,T1730,Jon Hamm était un producteur avant d'être un acteur.,N
+1661,GW1,T1730,Jon Hamm est actif depuis plus de 25 ans.,C
+1662,GW28,T1730,Jon Hamm est un acteur de moyenne âge.,E
+1663,GW28,T1730,Jon Hamm a remporté des prix pour ses rôles d'acteur.,N
+1664,GW28,T1730,Jon Hamm est actif depuis ses adolescents.,C
+1665,GW86,T1768,Le style de Iced Earth a été caractérisé par plus d'un genre.,E
+1666,GW86,T1768,"« Ice Earth » est actuellement basé à Tampa, en Floride.",N
+1667,GW86,T1768,Iced Earth a été signé avec leur label actuel depuis plus d'une décennie.,C
+1668,GW84,T1768,« Ice Earth » a également deux autres noms.,E
+1669,GW84,T1768,« Ice Earth » était plus populaire dans les années 80.,N
+1670,GW84,T1768,« Ice Earth » a cessé d'intervenir dans les années 90.,C
+1671,GW85,T1768,Iced Earth est une bande de power metal.,E
+1672,GW85,T1768,La « Terre glacée » existe depuis les années 80.,N
+1673,GW85,T1768,Iced Earth n'est pas joué maintenant,C
+1674,GW84,T1784,Interior est actuellement dans un musée américain.,E
+1675,GW84,T1784,Interior est à Philadelphie depuis plus de vingt ans.,N
+1676,GW84,T1784,Interior a été peint au cours des cinquante dernières années.,C
+1677,GW28,T1784,Interior est une œuvre d'art du XIXe siècle.,E
+1678,GW28,T1784,« Interior » est l'oeuvre finale d'Edgar Degas.,N
+1679,GW28,T1784,Interior est un mural peint.,C
+1680,GW86,T1784,Interior a été achevé au XVIIIe siècle.,E
+1681,GW86,T1784,Il a fallu à Degas 12 mois pour terminer Interior.,N
+1682,GW86,T1784,Interior est un tableau d'eau.,C
+1683,GW28,T1788,« Issa Album » était un effort de collaboration entre plusieurs producteurs hip-hop.,E
+1684,GW28,T1788,Issa Album a remporté de nombreux prix pour sa musique.,N
+1685,GW28,T1788,Issa Album a été produit uniquement par Wheezy.,C
+1686,GW84,T1788,Issa Album a été sorti il y a moins de trois ans.,E
+1687,GW84,T1788,Issa Album a été signé pour la première fois à Epic.,N
+1688,GW84,T1788,Issa Album dure plus d'une heure.,C
+1689,GW86,T1788,« Issa Album » a été sorti en été 2017.,E
+1690,GW86,T1788,« Issa Album » présente des chansons de plusieurs artistes musicaux.,N
+1691,GW86,T1788,Issa Album dure plus d'une heure.,C
+1692,GW4,T1791,Huddersfield Ben était vivant pendant six ans.,E
+1693,GW4,T1791,«Huddersfield Ben» a été élevé par son propriétaire.,N
+1694,GW4,T1791,«Huddersfield Ben» était un rétracteur de Labrador.,C
+1695,GW93,T1791,Huddersfield Ben était un Terrier de Yorkshire.,E
+1696,GW93,T1791,«Huddersfield Ben» a remporté le plus grand nombre de prix pour un Terrier de Yorkshire.,N
+1697,GW93,T1791,Huddersfield Ben est né au XVIIIe siècle.,C
+1698,GW85,T1791,«Huddersfield Ben» est un type de terrier.,E
+1699,GW85,T1791,Huddersfield Ben est une espèce de spectacle très populaire,N
+1700,GW85,T1791,Huddersfield Ben est le nom d'un mut.,C
+1701,GW28,T1819,Hugo est un film multinational avec des acteurs hollywoodiens bien connus.,E
+1702,GW28,T1819,Hugo a reçu des félicitations des critiques et des fans.,N
+1703,GW28,T1819,Hugo joue un rôle largement inconnu.,C
+1704,GW85,T1819,Hugo est basé sur l'invention de Hugo Cabret,E
+1705,GW85,T1819,Hugo est un film anglais.,N
+1706,GW85,T1819,Hugo a été un grand flop,C
+1707,GW93,T1819,Hugo a une durée de 126 minutes.,E
+1708,GW93,T1819,Hugo a été le plus grand succès de box office en novembre 2011.,N
+1709,GW93,T1819,Hugo était initialement en français.,C
+1710,GW28,T1847,« Jack Antonoff » est actif depuis ses adolescents.,E
+1711,GW28,T1847,Jack Antonoff est un guitariste et un pianiste autotraité.,N
+1712,GW28,T1847,« Jack Antonoff » a joué avec des pièces plus petites.,C
+1713,GW84,T1847,« Jack Antonoff » est né au printemps.,E
+1714,GW84,T1847,« Jack Antonoff » a appris à jouer la guitare avant les tambours.,N
+1715,GW84,T1847,« Jack Antonoff » joue depuis plus de vingt ans.,C
+1716,GW85,T1847,Jack Antonoff est né à New Jersey,E
+1717,GW85,T1847,« Jack Antonoff » est impliqué dans la musique.,N
+1718,GW85,T1847,« Jack Antonoff » n'est pas quelqu'un spécial.,C
+1719,GW84,T1861,Iceland a été établi il y a plus d'un millier d'années.,E
+1720,GW84,T1861,La constitution de Islande a été écrite il y a plus de cent ans.,N
+1721,GW84,T1861,« L'Islande » est devenue une république il y a plus de cent ans.,C
+1722,GW93,T1861,« L'Islande » a acquis sa souveraineté en 1904.,E
+1723,GW93,T1861,« L'Islande » est plus dense que le Groenland.,N
+1724,GW93,T1861,« L'Islande » est devenue une république en 1954.,C
+1725,GW28,T1861,Islande est habitée depuis plus d'un millier d'années.,E
+1726,GW28,T1861,Islande n'a pas été impliquée dans le conflit.,N
+1727,GW28,T1861,Islande est une monarchie constitutionnelle.,C
+1728,GW4,T1875,La « Crise de l'identité » n'a été lancée qu'en un an.,E
+1729,GW4,T1875,Identity Crisis est une série qui a remporté des prix.,N
+1730,GW4,T1875,Identity Crisis a été publié par Marvel Comics.,C
+1731,GW28,T1875,« Identity Crisis » était une publication mensuelle de DC Comics.,E
+1732,GW28,T1875,Identity Crisis est devenu un objet de collection.,N
+1733,GW28,T1875,Identity Crisis est une série mensuelle avec une durée indéterminée.,C
+1734,GW93,T1875,« Identity Crisis » a été publié par DC Comics.,E
+1735,GW93,T1875,Green Arrow apparaît plus que Batman dans Identity Crisis.,N
+1736,GW93,T1875,Il n'y avait qu'une seule question de « Crise de l'identité ».,C
+1737,GW28,T1882,« Jack of Fables » était une série de livres comiques mensuels.,E
+1738,GW28,T1882,« Jack of Fables » est devenu un objet de collection.,N
+1739,GW28,T1882,« Jack of Fables » publié hebdomadairement pendant six ans.,C
+1740,GW85,T1882,« Jack of Fables » est une série de comics.,E
+1741,GW85,T1882,Il contient 50 numéros.,N
+1742,GW85,T1882,Il est encore produit aujourd'hui.,C
+1743,GW93,T1882,« Jack of Fables » est publié sur un calendrier mensuel.,E
+1744,GW93,T1882,« Jack of Fables » a gagné en popularité avec sa dixième édition.,N
+1745,GW93,T1882,« Jack of Fables » est une série limitée.,C
+1746,GW93,T1888,"Robin Estanislau est le commis de la ville de Huntington Beach, en Californie.",E
+1747,GW93,T1888,"Patrick Brenden est le deuxième commandant de Huntington Beach, Californie.",N
+1748,GW93,T1888,"Huntington Beach, Californie n'a pas de gestionnaire de ville.",C
+1749,GW85,T1888,"Le commis de la ville de Huntington Beach, California est Robin Estanislau",E
+1750,GW85,T1888,"Huntington Beach, Californie a son propre conseil.",N
+1751,GW85,T1888,"Huntington Beach, California n'est pas assez grand pour un procureur de la ville",C
+1752,GW69,T1888,Le conseil de Huntinyon Beach compte sept membres.,E
+1753,GW69,T1888,L'avocat de la ville de Huntington Beach est un poste élu alors que le trésor de la ville de Huntington Beach est un poste nommé.,N
+1754,GW69,T1888,Le conseil municipal de Huntington Beach (Californie) comprend un avocat de la ville et un trésorier de la ville.,C
+1755,GW85,T1917,République d'Iraq est en République parlementaire fédérale,E
+1756,GW85,T1917,Mohamed al-Halbousi est président du Conseil des représentants de la République d'Iraq,N
+1757,GW85,T1917,République d'Iraq est un territoire américain,C
+1758,GW84,T1917,Les gens parlent deux langues principales dans la République d'Iraq.,E
+1759,GW84,T1917,Le président de la République d'Iraq est en fonction depuis cinq ans.,N
+1760,GW84,T1917,L'orateur et le juge en chef de la République d'Iraq sont la même personne.,C
+1761,GW28,T1917,Bagdad est situé dans la République d'Iraq.,E
+1762,GW28,T1917,La République d'Iraq compte une minorité chrétienne.,N
+1763,GW28,T1917,Le Président et le Premier Ministre de la République d'Iraq sont la même personne.,C
+1764,GW84,T1918,Hypatia est décédée au printemps.,E
+1765,GW84,T1918,Hypatia était plus connue pour la mathématique que pour l'astronomie.,N
+1766,GW84,T1918,Hypatia n'a eu aucun impact sur d'autres personnes.,C
+1767,GW85,T1918,Hypatia est dans Eygpt.,E
+1768,GW85,T1918,Hypatia est influencée par l'espace.,N
+1769,GW85,T1918,Hypatia est nouveau.,C
+1770,GW28,T1918,Hypatia a étudié les enseignements des célèbres philosophes.,E
+1771,GW28,T1918,Hypatia était un philosophe multilingue.,N
+1772,GW28,T1918,Hypatia est né et mort en Europe.,C
+1773,GW28,T1942,Jacques Charles était un homme européen de la science.,E
+1774,GW28,T1942,Jacques Charles est décédé de causes naturelles.,N
+1775,GW28,T1942,Jacques Charles était un paysan ignorant.,C
+1776,GW84,T1942,« Jacques Charles » est connu pour son travail scientifique.,E
+1777,GW84,T1942,Jacques Charles était connu pour plus de physique que de mathématiques.,N
+1778,GW84,T1942,Jacques Charles est né et mort dans différents pays.,C
+1779,GW77,T1942,Jacques Charles était un physicien connu principalement pour sa loi fondamentale de Charles,E
+1780,GW77,T1942,Charles a fait tout son enseignement et sa recherche en France à l'Académie des sciences.,N
+1781,GW77,T1942,Jacques Charles était un pilote de premier plan des blimps et les pilotait fréquemment en Angleterre.,C
+1782,GW28,T2028,Hot Fuzz était une production multinationale de films,E
+1783,GW28,T2028,Hot Fuzz était une comédie d'action.,N
+1784,GW28,T2028,"Simon Pegg a écrit, dirigé et joué dans « Hot Fuzz ».",C
+1785,GW84,T2028,« Hot Fuzz » a été diffusé dans trois pays différents au cours de la même année.,E
+1786,GW84,T2028,Hot Fuzz a fait la majeure partie de son argent aux États-Unis.,N
+1787,GW84,T2028,Hot Fuzz fonctionne pendant moins de deux ans.,C
+1788,GW94,T2028,Working Title Films a été diffusé au Royaume-Uni avant d'ailleurs.,E
+1789,GW94,T2028,Le producteur responsable de Hot Fuzz était Working Title Films.,N
+1790,GW94,T2028,Working Title Films a été réalisé en allemand.,C
+1791,GW28,T2032,La République d'Indonésie est un pays multiethnique et multilingue.,E
+1792,GW28,T2032,Joko Widodo est le 20e président de la République d'Indonésie.,N
+1793,GW28,T2032,La République d'Indonésie est une monarchie constitutionnelle.,C
+1794,GW93,T2032,Joko Widodo est le président de la République d'Indonésie.,E
+1795,GW93,T2032,Jakarta est la cinquième plus grande capitale du monde.,N
+1796,GW93,T2032,Il y a dix langues parlées en République d'Indonésie.,C
+1797,GW84,T2032,Jakarta est le lieu où se trouve le gouvernement de la République d'Indonésie.,E
+1798,GW84,T2032,Jakarta est la plus grande ville de la République d'Indonésie.,N
+1799,GW84,T2032,La Chambre supérieure et la Chambre inférieure de la République d'Indonésie appartiennent au même parti.,C

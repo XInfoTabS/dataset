@@ -1,0 +1,106 @@
+{
+    "T\u00edtulo": [
+        "\u201cBromina\u201d"
+    ],
+    "Pronunciaci\u00f3n de": [
+        "/\u02c8bro\u028ami\u02d0n, -m\u026an, -ma\u026an/ ( BROH-meen, -\u2060min, -\u2060myn )"
+    ],
+    "Apariencia": [
+        "color rojo"
+    ],
+    "Peso at\u00f3mico est\u00e1ndar Ar, std(Br)": [
+        "[79.901, 79.907] convencional: 79.904"
+    ],
+    "N\u00famero at\u00f3mico (Z)": [
+        "35"
+    ],
+    "Grupo": [
+        "Grupo 17 (hal\u00f3genos)"
+    ],
+    "Per\u00edodo": [
+        "Per\u00edodo 4"
+    ],
+    "bloque": [
+        "p-bloque"
+    ],
+    "Categor\u00eda de elementos": [
+        "Reactivos no met\u00e1licos"
+    ],
+    "Configuraci\u00f3n electr\u00f3nica": [
+        "[Ar] 3d 10 4s 2 4p 5"
+    ],
+    "Electrones por carcasa": [
+        "2, 8, 18, 7"
+    ],
+    "Fase en STP": [
+        "\u201cl\u00edquido\u201d"
+    ],
+    "Punto de fusi\u00f3n": [
+        "(Br 2) 265.8 K (\u22127.2 \u00b0C, 19 \u00b0F)"
+    ],
+    "Punto de ebullici\u00f3n": [
+        "(Br 2) 332.0 K (58.8 \u00b0C, 137.8 \u00b0F)"
+    ],
+    "Densidad (cerca de r.t.)": [
+        "Br 2, l\u00edquido: 3.1028 g/cm 3"
+    ],
+    "Triple punto": [
+        "265,90 K, 5,8 kPa"
+    ],
+    "Punto cr\u00edtico": [
+        "588 K, 10,34 MPa"
+    ],
+    "Calor de fusi\u00f3n": [
+        "(Br 2) 10.571 kJ/mol"
+    ],
+    "Calor de vaporizaci\u00f3n": [
+        "(Br 2) 29.96 kJ/mol"
+    ],
+    "Capacidad t\u00e9rmica molar": [
+        "(Br 2 ) 75.69 J/(mol\u00b7K)"
+    ],
+    "Estados de oxidaci\u00f3n": [
+        "\u22121, +1, +3, +4, +5, +7 (un \u00f3xido fuertemente \u00e1cido)"
+    ],
+    "Electr\u00f3negatividad": [
+        "Escala de Pauling: 2.96"
+    ],
+    "Energ\u00edas de ionizaci\u00f3n": [
+        "1o: 1139.9 kJ/mol",
+        "2o: 2103 kJ/mol",
+        "3rd: 3470 kJ/mol"
+    ],
+    "Radio at\u00f3mico": [
+        "emp\u00edrico: 120 pm"
+    ],
+    "Radius covalente": [
+        "120 \u00b1 3 pm"
+    ],
+    "Radio de Van der Waals": [
+        "185 pm"
+    ],
+    "ocurrencia natural": [
+        "primordial"
+    ],
+    "Velocidad del sonido": [
+        "206 m/s (a 20 \u00b0C)"
+    ],
+    "Conductividad t\u00e9rmica": [
+        "0.122 W/(m\u00b7K)"
+    ],
+    "Resistividad el\u00e9ctrica": [
+        "7.8\u00d710 10 \u03a9\u00b7m (a 20 \u00b0C)"
+    ],
+    "Ordenamiento magn\u00e9tico": [
+        "Diamagn\u00e9tico"
+    ],
+    "Susceptibilidad magn\u00e9tica": [
+        "\u221256.4\u00b710 \u22126 cm 3 /mol"
+    ],
+    "N\u00famero CAS": [
+        "7726-95-6"
+    ],
+    "Descubrimiento y primer aislamiento": [
+        "Antoine J\u00e9r\u00f4me Balard y Carl Jacob L\u00f6wig (1825)"
+    ]
+}

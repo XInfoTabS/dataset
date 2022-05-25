@@ -1,0 +1,111 @@
+{
+    "\u6807\u9898": [
+        "Samsung Galaxy Note9"
+    ],
+    "\u4ee3\u7801\u540d\u79f0": [
+        "\u201c\u738b\u51a0\u201d"
+    ],
+    "\u54c1\u724c": [
+        "\u201c\u4e09\u661f\u94f6\u6cb3\u201d"
+    ],
+    "\u5236\u9020\u5546": [
+        "\u201cSamsung Electronics\u201d"
+    ],
+    "\u53e3\u53f7": [
+        "\u65b0\u7684\u8d85\u5f3a\u7b14\u8bb0"
+    ],
+    "\u7cfb\u5217": [
+        "\u201c\u4e09\u661fGalaxy Note\u201d"
+    ],
+    "\u6a21\u578b": [
+        "\u56fd\u9645\u578b\u53f7 :, SM-N960x (\u6700\u540e\u4e00\u5c01\u4fe1\u53d6\u51b3\u4e8e\u8fd0\u8425\u5546\u548c\u56fd\u9645\u578b\u53f7)",
+        "\u65e5\u672c\u578b\u53f7 :, SCV40 (au), SC-01L (NTT Docomo)"
+    ],
+    "\u517c\u5bb9\u7f51\u7edc": [
+        "2G, 3G, 4G, 4G LTE"
+    ],
+    "\u9996\u6b21\u53d1\u5e03": [
+        "2018 \u5e74 8 \u6708 9 \u65e5; 14 \u4e2a\u6708\u524d (2018-08-09)"
+    ],
+    "\u524d\u8eab": [
+        "Samsung Galaxy Note 8"
+    ],
+    "\u7ee7\u4efb\u8005": [
+        "Samsung Galaxy Note 10"
+    ],
+    "\u76f8\u5173": [
+        "Samsung Galaxy S9, Samsung Galaxy A9 (2018)"
+    ],
+    "\u7c7b\u578b": [
+        "\u201c\u804a\u5929\u201d"
+    ],
+    "\u5f62\u72b6\u56e0\u5b50": [
+        "\u201cSlate\u201d"
+    ],
+    "\u5c3a\u5bf8": [
+        "H: 161.9 mm (6.37 \u82f1\u5bf8), W: 76.4 mm (3.01 \u82f1\u5bf8), D: 8.8 mm (0.35 \u82f1\u5bf8)"
+    ],
+    "\u91cd\u91cf": [
+        "201 \u514b(7.1 \u76ce\u53f8)"
+    ],
+    "\u64cd\u4f5c\u7cfb\u7edf": [
+        "\u539f\u7248 : Android Oreo 8.1 with Samsung Experience 9.5, \u5f53\u524d : Android Pie 9 with Samsung One UI 1.0"
+    ],
+    "\u82af\u7247\u7cfb\u7edf": [
+        "\u5168\u7403 : Samsung Exynos 9810, \u7f8e\u56fd,\u52a0\u62ff\u5927,\u4e2d\u56fd\u548c\u65e5\u672c : Qualcomm Snapdragon 845"
+    ],
+    "CPU": [
+        "Exynos : \u5965\u514b\u5854\u5185\u6838 (4x2.7 GHz Cortex-A55 & 4x1.7 GHz Mongoose M3), Snapdragon : \u5965\u514b\u5854\u5185\u6838 (4x2.8 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver)"
+    ],
+    "GPU": [
+        "Exynos: Mali-G72 MP18",
+        "Snapdragon:Adreno 630"
+    ],
+    "\u5185\u5b58": [
+        "6 GB (128 GB \u578b\u53f7) 8 GB (512 GB \u578b\u53f7)"
+    ],
+    "\u5b58\u50a8": [
+        "128 GB \u6216 512 GB UFS 2.1"
+    ],
+    "\u53ef\u79fb\u9664\u7684\u5b58\u50a8": [
+        "microSD \u5361\u652f\u6301\u9ad8\u8fbe 512 GB"
+    ],
+    "\u7535\u6c60": [
+        "4000 mAh (\u4e0d\u53ef\u62c6\u5378)"
+    ],
+    "\u6570\u636e\u8f93\u5165(\u4f20\u611f\u5668)": [
+        "\u201c\u52a0\u901f\u5668\u201d",
+        "\u201cBarometer\u201d",
+        "\u201c\u6307\u7eb9\u626b\u63cf\u4eea(\u540e\u7f6e)\u201d",
+        "\u201c\u8679\u819c\u626b\u63cf\u4eea\u201d",
+        "\u201c\u5730\u78c1\u4f20\u611f\u5668\u201d",
+        "\u201cGyroscope\u201d",
+        "\u201c\u5ba4\u5185\u4f20\u611f\u5668\u201d",
+        "\u201c\u8fd1\u8ddd\u79bb\u4f20\u611f\u5668\u201d",
+        "\u201c\u5fc3\u7387\u548c\u8840\u6db2\u6c27\u9971\u548c\u5ea6\u4f20\u611f\u5668\u201d"
+    ],
+    "\u6570\u636e\u8f93\u5165(\u5176\u4ed6)": [
+        "\u201cS Pen\u201d",
+        "\u201c\u7269\u7406\u97f3\u91cf\u952e\u201d",
+        "\u201cBixby \u5bc6\u94a5\u201d"
+    ],
+    "\u663e\u793a": [
+        "6.4 \u82f1\u5bf8 (162.0 mm)",
+        "\u8d85\u7ea7AMOLED\u5bb9\u91cf\u89e6\u6478\u5c4f, 2960x1440 \u50cf\u7d20\u5206\u8fa8\u7387(516 ppi)"
+    ],
+    "\u540e\u7f6e\u6444\u50cf\u5934": [
+        "\u53cc12MP (1.4\u03bcm, f/1.5/2.4) + 12MP ((1.0\u03bcm), f/2.4),\u53ccOIS,4K\u572830\u621660fps(\u9650\u5236\u4e3a5\u5206\u949f)[1],QHD\u572830fps,1080p\u572830\u621660fps,720p\u572830fps\u548c\u6162\u8fd0\u52a8\u5728960fps"
+    ],
+    "\u524d\u7f6e\u6444\u50cf\u5934": [
+        "8MP (1.22\u03bcm, f/1.7),\u81ea\u52a8\u5bf9\u7126"
+    ],
+    "\u97f3\u9891": [
+        "AKG \u914d\u5907 Dolby Atmos \u652f\u6301\u7684\u7acb\u4f53\u626c\u58f0\u5668"
+    ],
+    "\u8fde\u63a5": [
+        "Wi-Fi 802.11 a/b/g/n/ac (2.4/5GHz), VHT80, MU-MIMO, 1024-QAM Bluetooth 5.0 (LE \u6700\u591a 2Mbps), ANT+, USB-C, 3.5mm\u8033\u673a\u63a5\u53e3,NFC,\u4f4d\u7f6e(GPS,\u4f3d\u5229\u7565,GLONASS,BeiDou)"
+    ],
+    "\u7f51\u7ad9": [
+        "\u201cwww.samsung.com/global/galaxy/galaxy-note9/\u201d"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "Titel": [
+        "Evolutionär stabile Strategie"
+    ],
+    "Untergruppe": [
+        "Nash-Gleichgewicht"
+    ],
+    "Superset von": [
+        "Stochastisches stabiles Gleichgewicht, stabiles starkes Nash-Gleichgewicht"
+    ],
+    "Intersects mit": [
+        "Subgame perfekte Gleichgewicht, Trembling Hand perfekte Gleichgewicht, Perfect Bayesian Gleichgewicht"
+    ],
+    "Vorgeschlagen von": [
+        "John Maynard Smith und George R. Price"
+    ],
+    "Verwendet für": [
+        "Biologische Modellierung und evolutionäre Spieltheorie"
+    ],
+    "Beispiel": [
+        "Hawk-Taube"
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "titre": [
+        "Xiaomi Mi 2S"
+    ],
+    "Nom de code": [
+        "aries"
+    ],
+    "Fabricant": [
+        "Xiaomi Tech"
+    ],
+    "S\u00e9rie": [
+        "Xiaomi Phone"
+    ],
+    "R\u00e9seaux compatibles": [
+        "GSM 850, 900, 1800 et 1900 MHz & WCDMA 850, 1900 et 2100 MHz"
+    ],
+    "Pr\u00e9d\u00e9cesseur": [
+        "Xiaomi Mi2"
+    ],
+    "Successeur": [
+        "Xiaomi Mi3"
+    ],
+    "Related": [
+        "Xiaomi Mi2A"
+    ],
+    "Type": [
+        "Smartphone"
+    ],
+    "Facteur de forme": [
+        "Slate"
+    ],
+    "Dimensions": [
+        "126 mm (5,0 po) H, 62 mm (2,4 po) W, 10,2 mm (0,40 po) D"
+    ],
+    "Masse": [
+        "145 g (5,1 oz)"
+    ],
+    "Syst\u00e8me d'exploitation": [
+        "Original: MIUI v5 (Android 4.1 Jelly Bean)Current: MUI 9 (Android 5.0.1 Lollipop)"
+    ],
+    "CPU": [
+        "Qualcomm Snapdragon 600 APQ8064T Quad-Core Krait 300 @ 1,7 GHz"
+    ],
+    "GPU": [
+        "Adreno 320"
+    ],
+    "M\u00e9moire": [
+        "2 Go RAM"
+    ],
+    "Stockage": [
+        "16 Go / 32 Go ROM"
+    ],
+    "Stockage amovible": [
+        "Aucun"
+    ],
+    "Batterie": [
+        "2000 mAh"
+    ],
+    "Entr\u00e9es de donn\u00e9es": [
+        "Ecran tactile capacitif"
+    ],
+    "Affichage": [
+        "IPS Affichage 4,3 pouces @ 1280px x 720px (341 PPI) (Fabriqu\u00e9 par Sharp Inc.)"
+    ],
+    "Cam\u00e9ra arri\u00e8re": [
+        "8 Megapixels (version 16 Go) / 13 Megapixels (version 32 Go) (BSI), Records 1080p \u00e0 30fps et 720p \u00e0 90fps"
+    ],
+    "Cam\u00e9ra avant": [
+        "2 Megapixels, 1080p \u00e0 30fps"
+    ],
+    "Connectivit\u00e9": [
+        "Liste Bluetooth 4.0 + A2DP",
+        "Wi-Fi (802.11 b/g/n)",
+        "Wi-Fi Direct",
+        "Micro-USB en route avec lien MHL",
+        "DLNA"
+    ],
+    "Site web": [
+        "mi.com /mi2s"
+    ]
+}

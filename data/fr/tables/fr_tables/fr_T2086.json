@@ -1,0 +1,63 @@
+{
+    "titre": [
+        "moteur 2.2 et 2.5"
+    ],
+    "Fabricant": [
+        "Chrysler"
+    ],
+    "Production": [
+        "1981-1995"
+    ],
+    "Configuration": [
+        "inline-quatre"
+    ],
+    "D\u00e9placement": [
+        "2213 cc (135,0 cu in)",
+        "2501 cc (152,6 cu in)"
+    ],
+    "Cylindr\u00e9e": [
+        "87,5 mm (3,44 po)"
+    ],
+    "Course de piston": [
+        "92 mm (3,62 po)",
+        "104 mm (4,09 po)"
+    ],
+    "Mat\u00e9riau du bloc": [
+        "Cast Iron"
+    ],
+    "Mat\u00e9riau de la t\u00eate": [
+        "Aluminum"
+    ],
+    "Valvetrain": [
+        "Double arbre \u00e0 cames"
+    ],
+    "Groupe de soupapes": [
+        "Arbres \u00e0 cames"
+    ],
+    "Rapport de compression": [
+        "8.1:1",
+        "8,5:1",
+        "8,9:1",
+        "9.0: 1",
+        "9.5:1"
+    ],
+    "Syst\u00e8me d'alimentation en carburant": [
+        "Carburateur",
+        "Injection de carburant monopoint",
+        "Injection multipoint de carburant"
+    ],
+    "Type de carburant": [
+        "Gasol\u00e9ine",
+        "M\u00e9thanol"
+    ],
+    "Syst\u00e8me d'huile": [
+        "Poupe mouill\u00e9e"
+    ],
+    "Syst\u00e8me de refroidissement": [
+        "Refroidissement par eau"
+    ],
+    "Successeur": [
+        "moteur AMC droite-4",
+        "Chrysler moteur 1.8, 2.0 et 2.4"
+    ]
+}

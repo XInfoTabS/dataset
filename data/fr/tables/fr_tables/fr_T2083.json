@@ -1,0 +1,131 @@
+{
+    "titre": [
+        "C\u00e9rium"
+    ],
+    "Prononciation": [
+        "/----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
+    ],
+    "Apparence": [
+        "blanc argent\u00e9"
+    ],
+    "Poids atomique standard Ar, std(Ce)": [
+        "140.116(1)"
+    ],
+    "Num\u00e9ro atomique (Z)": [
+        "58"
+    ],
+    "Groupe": [
+        "Groupe n/a"
+    ],
+    "P\u00e9riode": [
+        "p\u00e9riode 6"
+    ],
+    "Bloc": [
+        "bloc f"
+    ],
+    "Cat\u00e9gorie d'\u00e9l\u00e9ment": [
+        "Lanthanide"
+    ],
+    "Configuration \u00e9lectronique": [
+        "[Xe] 4f 1 5d 1 6s 2"
+    ],
+    "\u00c9lectrons par coque": [
+        "2, 8, 18, 19, 9, 2"
+    ],
+    "Phase au STP": [
+        "solide"
+    ],
+    "Point de fusion": [
+        "1068 K (795 \u00b0C, 1463 \u00b0F)"
+    ],
+    "Point d'\u00e9bullition": [
+        "3716 K (3443 \u00b0C, 6229 \u00b0F)"
+    ],
+    "Densit\u00e9 (pr\u00e9cise r.t.)": [
+        "6,770 g/cm 3"
+    ],
+    "lorsque liquide (\u00e0 m.p.)": [
+        "6,55 g/cm 3"
+    ],
+    "Chaleur de fusion": [
+        "5,46 kJ/mol"
+    ],
+    "Chaleur de vaporisation": [
+        "398 kJ/mol"
+    ],
+    "Capacit\u00e9 calorifique molaire": [
+        "26.94 J/(mol\u00b7K)"
+    ],
+    "\u00c9tat d'oxydation": [
+        "+1, +2, +3, +4 (oxyde de base l\u00e9ger)"
+    ],
+    "\u00c9chelle d'amor\u00e7age": [
+        "\u00c9chelle d'amor\u00e7age: 1.12"
+    ],
+    "\u00c9nergies d'ionisation": [
+        "1\u00e8re: 534.4 kJ/mol",
+        "2\u00e8me: 1050 kJ/mol",
+        "3\u00e8me: 1949 kJ/mol",
+        "(plus)"
+    ],
+    "Rayon atomique": [
+        "empirique: 181,8 pm"
+    ],
+    "Rayon covalent": [
+        "204\u00b19 pm"
+    ],
+    "\u00c9v\u00e9nement naturel": [
+        "primordial"
+    ],
+    "Vitesse de la tige mince du son": [
+        "2100 m/s (\u00e0 20 \u00b0C)"
+    ],
+    "Dilatation thermique": [
+        "\u03b3, poly: 6,3 \u03bcm/(m\u00b7K) (en t.r.)"
+    ],
+    "Conductivit\u00e9 thermique": [
+        "11,3 W/(m\u00b7K)"
+    ],
+    "R\u00e9sistivit\u00e9 \u00e9lectrique": [
+        "\u03b2, poly: 828 n.m. (en t.r.)"
+    ],
+    "Commande magn\u00e9tique": [
+        "paramagn\u00e9tique"
+    ],
+    "Sensibilit\u00e9 magn\u00e9tique": [
+        "(\u03b2) +2450,0\u00b710 \u22126 cm 3 /mol (293 K)"
+    ],
+    "Modulus de Young": [
+        "\u03b3 formulaire: 33,6 GPa"
+    ],
+    "Module de cisaillement": [
+        "\u03b3 forme: 13,5 GPa"
+    ],
+    "Module en vrac": [
+        "\u03b3 formulaire: 21,5 GPa"
+    ],
+    "Rapport Poisson": [
+        "\u03b3 forme: 0,24"
+    ],
+    "duret\u00e9 Mohs": [
+        "2.5"
+    ],
+    "duret\u00e9 Vickers": [
+        "210-470 MPa"
+    ],
+    "duret\u00e9 Brinell": [
+        "186-412 MPa"
+    ],
+    "Num\u00e9ro CAS": [
+        "7440-45-1"
+    ],
+    "Nom": [
+        "d'apr\u00e8s la plan\u00e8te naine Ceres, elle-m\u00eame nomm\u00e9e d'apr\u00e8s la divinit\u00e9 romaine de l'agriculture Ceres"
+    ],
+    "D\u00e9couverte": [
+        "Martin Heinrich Klaproth, J\u00f6ns Jakob Berzelius, Wilhelm Hisinger (1803)"
+    ],
+    "Premier isolement": [
+        "Carl Gustaf Mosander (1838)"
+    ]
+}

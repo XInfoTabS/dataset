@@ -1,0 +1,83 @@
+{
+    "\u6807\u9898": [
+        "\u201cLG Optimus G\u201d"
+    ],
+    "\u5236\u9020\u5546": [
+        "\u201cLG Electronics\u201d"
+    ],
+    "\u53e3\u53f7": [
+        "\u201c\u65e0\u56fd\u754c\u751f\u6d3b \u201d"
+    ],
+    "\u7cfb\u5217": [
+        "Optimus, G \u7cfb\u5217"
+    ],
+    "\u517c\u5bb9\u7f51\u7edc": [
+        "GSM (850 / 900 / 1800 / 1900),HSDPA,CDMA(\u5168\u7403800 / 850 / 1900 & \u97e9\u56fdLG U+ \u97e9\u56fdPCs 1800),LTE"
+    ],
+    "\u53ef\u7528\u6027\u6309\u5730\u533a": [
+        "2012 \u5e74 11 \u6708 (\u7f8e\u56fd\u548c\u52a0\u62ff\u5927)"
+    ],
+    "\u524d\u8eab": [
+        "\u201cLG Optimus 4X HD\u201d"
+    ],
+    "\u7ee7\u4efb\u8005": [
+        "\u201cLG G2\u201d"
+    ],
+    "\u76f8\u5173": [
+        "LG Optimus G Pro, Nexus 4"
+    ],
+    "\u7c7b\u578b": [
+        "\u201c\u667a\u80fd\u624b\u673a\u201d"
+    ],
+    "\u5f62\u72b6\u56e0\u5b50": [
+        "Bar"
+    ],
+    "\u5c3a\u5bf8": [
+        "131.9 mm (5.19 \u82f1\u5bf8) H, 68.9 mm (2.71 \u82f1\u5bf8) W, 8.5 mm (0.33 \u82f1\u5bf8) D"
+    ],
+    "\u91cd\u91cf": [
+        "145 \u514b(5.11 \u76ce\u53f8)"
+    ],
+    "\u64cd\u4f5c\u7cfb\u7edf": [
+        "Android 4.0 Ice Cream Sandwich, 4.1.2 Jelly Bean, 4.4.2 KitKat"
+    ],
+    "\u82af\u7247\u7cfb\u7edf": [
+        "Qualcomm Snapdragon S4 Pro APQ8064, 1.4 GHz \u56db\u6838 Samsung Exynos"
+    ],
+    "CPU": [
+        "1.5 GHz \u56db\u6838 Qualcomm Krait, 1.4 GHz ARM Cortex-A53"
+    ],
+    "GPU": [
+        "Qualcomm Adreno 320, Mali-400 MP2"
+    ],
+    "\u5185\u5b58": [
+        "2 GB LPDDR2 RAM \u65f6\u949f\u4e3a 533mhz"
+    ],
+    "\u5b58\u50a8": [
+        "16 & 32 GB"
+    ],
+    "\u53ef\u79fb\u9664\u7684\u5b58\u50a8\u7a7a\u95f4": [
+        "\u65e0\u6cd5\u5728\u5168\u7403\u578b\u53f7\u4e2d\u4f7f\u7528,microSD \u6700\u591a\u4e3a 64GB AT&T \u548c\u65e5\u672c\u548c\u53f0\u6e7e"
+    ],
+    "\u7535\u6c60": [
+        "\u4e0d\u53ef\u79fb\u9664\u7684 Li-ion 2100 mAh(\u7f8e\u56fd\u548c\u52a0\u62ff\u5927\u548c\u97e9\u56fd\u548c\u5168\u7403\u53d8\u79cd) \u53ef\u79fb\u9664\u7684 Li-ion 2210 mah (\u65e5\u672c\u53d8\u79cd),\u53ef\u79fb\u9664\u7684 Li-ion 2280 mAh (\u53f0\u6e7e\u53d8\u79cd)"
+    ],
+    "\u6570\u636e\u8f93\u5165": [
+        "\u201c\u89e6\u6478\u201d"
+    ],
+    "\u663e\u793a": [
+        "4.7 \u82f1\u5bf8 (120 \u6beb\u7c73)\u76f4\u5f84, \u201cTrue HD\u201d IPS LCD 768\u00d71280"
+    ],
+    "\u524d\u7f6e\u6444\u50cf\u5934": [
+        "1.3 MP,HD\u89c6\u9891\u5f55\u5236(720p)"
+    ],
+    "\u8fde\u63a5\u6027": [
+        "3.5 mm \u7acb\u4f53\u97f3\u9891\u63a5\u53e3, Wi-Fi 802.11 a/b/g/n, Wi-Fi \u70ed\u70b9, DLNA, \u84dd\u7259 4.0 + A2DP, micro-USB 2.0 (5 Pin) \u7aef\u53e3\u4e0e\u79fb\u52a8\u9ad8\u6e05\u89c6\u9891\u8fde\u63a5 (MHL) \u7528\u4e8e USB \u6216 HDMI \u8fde\u63a5"
+    ],
+    "\u5176\u4ed6": [
+        "\u201c1-Seg (\u65e5\u672c), NOTTV(NTT DoCoMo), T-DMB(\u97e9\u56fd)\u201d"
+    ],
+    "SAR": [
+        "0.70 W/kg (\u5934\u90e8), 1.06 W/kg (\u8eab\u4f53)"
+    ]
+}

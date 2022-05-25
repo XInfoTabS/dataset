@@ -1,0 +1,98 @@
+{
+    "Titel": [
+        "Oxygen"
+    ],
+    "Allotrope": [
+        "O 2, O 3 (Ozon)"
+    ],
+    "Aussehen": [
+        "Gas: farblos, flüssig und fest: blassblau"
+    ],
+    "Standard Atomgewicht Ar, std(O)": [
+        "[15.99903, 15.99977] konventionell: 15.999"
+    ],
+    "Atomnummer (Z)": [
+        "8"
+    ],
+    "Gruppe": [
+        "Gruppe 16 (Kalkogene)"
+    ],
+    "Zeitraum": [
+        "Zeitraum 2"
+    ],
+    "Block": [
+        "p-block"
+    ],
+    "Elementkategorie": [
+        "Reaktives Nichtmetall"
+    ],
+    "Elektronenkonfiguration": [
+        "[He] 2s 2 2p 4"
+    ],
+    "Elektronen pro Schale": [
+        "2, 6"
+    ],
+    "Phase bei der GfbV": [
+        "Gas"
+    ],
+    "Schmelzpunkt": [
+        "(O 2 ) 54,36 K (−218,79 °C, −361,82 °F)"
+    ],
+    "Siedepunkt": [
+        "(O 2 ) 90.188 K (−182.962 °C, −297.332 °F)"
+    ],
+    "Dichte (bei GfbV)": [
+        "1.429 g/L"
+    ],
+    "wenn flüssig (bei b.p.)": [
+        "1.141 g/cm 3"
+    ],
+    "Dreifachpunkt": [
+        "54.361 K, 0.1463 kPa"
+    ],
+    "Kritischer Punkt": [
+        "154.581 K, 5.043 MPa"
+    ],
+    "Fusionswärme": [
+        "(O 2 ) 0,444 kJ/mol"
+    ],
+    "Dampfwärme": [
+        "(O 2 ) 6.82 kJ/mol"
+    ],
+    "Molare Wärmeleistung": [
+        "(O 2 ) 29.378 J/(mol·K)"
+    ],
+    "Oxidationszustände": [
+        "−2, −1, 0, +1, +2"
+    ],
+    "Elektronegativität": [
+        "Pauling-Skala: 3.44"
+    ],
+    "Ionisierungsenergien": [
+        "1.: 1313.9 kJ/mol",
+        "2.: 3388,3 kJ/mol",
+        "3.: 5300,5 kJ/mol",
+        "(mehr)"
+    ],
+    "Gleichwertiger Radius": [
+        "66±2 pm"
+    ],
+    "Van der Waals Radius": [
+        "152 pm"
+    ],
+    "Wärmeleitfähigkeit": [
+        "26.58×10 −3 W/(m·K)"
+    ],
+    "Magnetische Ordnung": [
+        "Paramagnetisch"
+    ],
+    "Magnetische Empfindlichkeit": [
+        "+3449,0·10 −6 cm 3 /mol (293 K)"
+    ],
+    "CAS-Nummer": [
+        "7782-44-7"
+    ],
+    "benannt von": [
+        "Antoine Lavoisier (1777)"
+    ]
+}

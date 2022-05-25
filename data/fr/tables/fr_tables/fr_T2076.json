@@ -1,0 +1,106 @@
+{
+    "titre": [
+        "Bromine"
+    ],
+    "Prononciation": [
+        "-m=n, -m=n, -ma=n/ ( BROH-meen, -=min, -=myn)"
+    ],
+    "Apparence": [
+        "brun rouge\u00e2tre"
+    ],
+    "Poids atomique standard Ar, std(Br)": [
+        "[79.901, 79.907] conventionnel: 79.94"
+    ],
+    "Num\u00e9ro atomique (Z)": [
+        "35"
+    ],
+    "Groupe": [
+        "Groupe 17 (halog\u00e8nes)"
+    ],
+    "P\u00e9riode": [
+        "P\u00e9riode 4"
+    ],
+    "Bloc": [
+        "bloc p"
+    ],
+    "Cat\u00e9gorie d'\u00e9l\u00e9ment": [
+        "Non-m\u00e9tal r\u00e9actif"
+    ],
+    "Configuration \u00e9lectronique": [
+        "[Ar] 3d 10 4s 2 4p 5"
+    ],
+    "\u00c9lectrons par coque": [
+        "2, 8, 18, 7"
+    ],
+    "Phase au STP": [
+        "liquide"
+    ],
+    "Point de fusion": [
+        "(Br 2 ) 265,8 K (\u22127,2 \u00b0C, 19 \u00b0F)"
+    ],
+    "Point d'\u00e9bullition": [
+        "(Br 2 ) 332,0 K (58,8 \u00b0C, 137,8 \u00b0F)"
+    ],
+    "Densit\u00e9 (pr\u00e9sence de r.t.)": [
+        "Br 2, liquide: 3.1028 g/cm 3"
+    ],
+    "Triple point": [
+        "265,90 K, 5,8 kPa"
+    ],
+    "Point critique": [
+        "588 K, 10.34 MPa"
+    ],
+    "Chaleur de fusion": [
+        "(Br 2 ) 10.571 kJ/mol"
+    ],
+    "Chaleur de vaporisation": [
+        "(Br 2 ) 29.96 kJ/mol"
+    ],
+    "Capacit\u00e9 calorifique molaire": [
+        "(Br 2 ) 75.69 J/(mol\u00b7K)"
+    ],
+    "\u00c9tat d'oxydation": [
+        "\u22121, +1, +3, +4, +5, +7 (oxyde fortement acide)"
+    ],
+    "\u00c9chelle d'\u00e9lectron\u00e9gativit\u00e9": [
+        "\u00c9chelle d'\u00e9puration: 2.96"
+    ],
+    "\u00c9nergies d'ionisation": [
+        "1\u00e8re: 1139,9 kJ/mol",
+        "2\u00e8me: 2103 kJ/mol",
+        "3\u00e8me: 3470 kJ/mol"
+    ],
+    "Rayon atomique": [
+        "empirique: 120 pm"
+    ],
+    "Rayon covalent": [
+        "120\u00b13 pm"
+    ],
+    "Rayon Van der Waals": [
+        "185 pm"
+    ],
+    "\u00c9v\u00e9nement naturel": [
+        "primordial"
+    ],
+    "Vitesse du son": [
+        "206 m/s (\u00e0 20 \u00b0C)"
+    ],
+    "Conductivit\u00e9 thermique": [
+        "0,122 W/(m\u00b7K)"
+    ],
+    "R\u00e9sistivit\u00e9 \u00e9lectrique": [
+        "7.8\u00d710 10 \u03a6\u00b7m (\u00e0 20 \u00b0C)"
+    ],
+    "Commande magn\u00e9tique": [
+        "diamagn\u00e9tique"
+    ],
+    "Sensibilit\u00e9 magn\u00e9tique": [
+        "\u221256.4\u00b710 \u22126 cm 3 /mol"
+    ],
+    "Num\u00e9ro CAS": [
+        "7726-95-6"
+    ],
+    "D\u00e9couverte et premier isolement": [
+        "Antoine J\u00e9r\u00f4me Balard et Carl Jacob L\u00f6wig (1825)"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "Titel": [
+        "2.2 & 2.5 Motor"
+    ],
+    "Hersteller": [
+        "Chrysler"
+    ],
+    "Produktion": [
+        "1981-1995"
+    ],
+    "Konfiguration": [
+        "Inline-Vier"
+    ],
+    "Verdrängung": [
+        "2213 cc (135.0 cu in)",
+        "2501 ccm (152.6 cu in)"
+    ],
+    "Zylinderbohrung": [
+        "87,5 mm (3,44 in)"
+    ],
+    "Kolbenhub": [
+        "92 mm (3,62 mm)",
+        "104 mm (4,09 in)"
+    ],
+    "Material blockieren": [
+        "Eisenguss"
+    ],
+    "Kopfmaterial": [
+        "Aluminium"
+    ],
+    "Ventilzug": [
+        "Doppelte obenliegende Nockenwellen",
+        "Einzeln obenliegende Nockenwelle"
+    ],
+    "Kompressionsverhältnis": [
+        "8.1:1",
+        "8.5:1",
+        "8.9:1",
+        "9.0: 1",
+        "9.5:1"
+    ],
+    "Kraftstoffsystem": [
+        "Vergaser",
+        "Einpunkt-Einspritzung",
+        "Mehrpunkt-Einspritzung"
+    ],
+    "Kraftstofftyp": [
+        "Gasolin",
+        "Methanol"
+    ],
+    "Ölsystem": [
+        "Naßsumpf"
+    ],
+    "Kühlsystem": [
+        "Wassergekühlt"
+    ],
+    "Nachfolger": [
+        "AMC straight-4 engine",
+        "Chrysler 1.8, 2.0 & 2.4 Motor"
+    ]
+}

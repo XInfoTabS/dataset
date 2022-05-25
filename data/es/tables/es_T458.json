@@ -1,0 +1,35 @@
+{
+    "t\u00edtulo": [
+        "Cotract bridge"
+    ],
+    "Nombres alternativos": [
+        "Bridge"
+    ],
+    "Tipo": [
+        "Tipos de juego"
+    ],
+    "Jugadores": [
+        "4"
+    ],
+    "Habilidades requeridas": [
+        "t\u00e1ctica, comunicaci\u00f3n, memoria, probabilidad"
+    ],
+    "Tarjetas": [
+        "52"
+    ],
+    "Deck": [
+        "\u201cFranc\u00e9s\u201d"
+    ],
+    "Juega": [
+        "\u201cClockwise\u201d"
+    ],
+    "Clases de tarjetas (m\u00e1s alto primero)": [
+        "A K Q J 10 9 8 7 6 5 4 3 2"
+    ],
+    "Tiempo de juego": [
+        "Juegos de torneos WBF = 7,5 minutos por transacci\u00f3n"
+    ],
+    "Oportunidad aleatoria": [
+        "Bajo a moderado (dependiendo de la variante jugada)"
+    ]
+}

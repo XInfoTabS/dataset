@@ -1,0 +1,83 @@
+{
+    "Titel": [
+        "Nokia 9 PureView"
+    ],
+    "Marke": [
+        "Nokia"
+    ],
+    "Entwickler": [
+        "HMD Global"
+    ],
+    "Hersteller": [
+        "FIH Mobile (Foxconn)"
+    ],
+    "Slogan": [
+        "Entdecken Sie jedes Detail"
+    ],
+    "Erstveröffentlichung": [
+        "8. Februar 2019; vor 8 Monaten (2019-02-08)"
+    ],
+    "Vorgänger": [
+        "Nokia 8 Sirocco, Nokia Lumia 1020 & Lumia Mclaren (spirituell)"
+    ],
+    "Typ": [
+        "Smartphone"
+    ],
+    "Abmessungen": [
+        "H: 155 mm (6.1 in), B: 75 mm (3.0 in), D: 8 mm (0.31 in)"
+    ],
+    "Masse": [
+        "172 g (6.1 Unzen)"
+    ],
+    "Betriebssystem": [
+        "Original: Android 9.0 Pie, (Android One)"
+    ],
+    "System auf Chip": [
+        "Qualcomm Snapdragon 845"
+    ],
+    "CPU": [
+        "Octa-Core (4x2,8 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silber)"
+    ],
+    "GPU": [
+        "Adreno 630"
+    ],
+    "Arbeitsspeicher": [
+        "6 GB LPDDR4X RAM"
+    ],
+    "Speicher": [
+        "128 GB UFS 2.1"
+    ],
+    "Abnehmbarer Speicher": [
+        "Keine"
+    ],
+    "Batterie": [
+        "Nicht entfernbar Li-Po 3320 mAh"
+    ],
+    "Dateneingaben": [
+        "Fingerprint-Scanner,",
+        "Accelerometer,",
+        "Gyroskop,",
+        "Proximity Sensor,",
+        "Elektronischer Kompass",
+        "Hallensensor",
+        "Barometer"
+    ],
+    "Anzeige": [
+        "5.99 in (15,2 cm) 1440 x 2880 QHD P-OLED, Gorilla Glas 5"
+    ],
+    "Rückkamera": [
+        "5x breit (2x RGB + 3x monochrom) 12 MP, f/1.8, 1,4 μm, 28mm, 1/2.9 + ToF-Sensor, Dual-Ton-Blitz"
+    ],
+    "Vorderkamera": [
+        "20 MP, 1,0 μm"
+    ],
+    "Konnektivität": [
+        "LTE Cat16 1024 Mbit/s DL / Cat13 150 Mbit/s UL, Wi-Fi (802.11 a/b/g/n/ac MIMO), GPS, A-GPS, GLONASS, BDS, Galileo, ANT+, NFC, USB 3.1 Typ"
+    ],
+    "Sonstiges": [
+        "IP67 Wasserbeständigkeit, Qi drahtloses Laden"
+    ],
+    "Webseite": [
+        "Nokia 9 Pureview"
+    ]
+}

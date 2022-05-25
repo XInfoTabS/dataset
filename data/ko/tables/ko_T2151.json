@@ -1,0 +1,47 @@
+{
+    "타이틀": [
+        "리눅스"
+    ],
+    "개발자": [
+        "커뮤니티, Linus Torvalds"
+    ],
+    "글쓴이 in": [
+        "“C, 모임”"
+    ],
+    "OS 가족": [
+        "Unix-like"
+    ],
+    "작업 상태": [
+        "현재"
+    ],
+    "소스 모델": [
+        "오픈소스"
+    ],
+    "초기 릴리스": [
+        "1991년 9월 17일; 28년 전 (1991-09-17)"
+    ],
+    "마케팅 타겟": [
+        "클라우드 컴퓨팅, 내장 장치, 메인프레임 컴퓨터, 모바일 장치, 개인용 컴퓨터, 서버, 슈퍼컴퓨터"
+    ],
+    "사용 가능": [
+        "다국어"
+    ],
+    "플랫폼": [
+        "알파, ARC, ARM, C6x, H8/300, Hexagon, Itanium, m68k, Microblaze, MIPS, NDS32, Nios II, OpenRISC, PA-RISC, PowerPC, RISC-V, s390, SuperH, SPARC, Unicore32, x86, XBurst, Xtensa"
+    ],
+    "코널 유형": [
+        "Monolithic"
+    ],
+    "사용자 국가": [
+        "GNU"
+    ],
+    "기본 사용자 인터페이스": [
+        "Unix 쉘"
+    ],
+    "라이선스": [
+        "GPLv2 and others (the name Linux is a trademark)"
+    ],
+    "공식 웹사이트": [
+        "www.linuxfoundation.org"
+    ]
+}

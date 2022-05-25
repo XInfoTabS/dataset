@@ -1,0 +1,25 @@
+{
+    "titre": [
+        "Temps de surface."
+    ],
+    "Pression de surface": [
+        "20-200 kPa; 70 kPa"
+    ],
+    "Hauteur de l'\u00e9chelle": [
+        "27 km (17 mi)"
+    ],
+    "Composition par volume": [
+        "89% +- 2,0% hydrog\u00e8ne (H 2 )",
+        "10% +- 2,0% h\u00e9lium (He)",
+        "0,3 % +- 0,1 % m\u00e9thane (CH 4 )",
+        "0,026 % +- 0,004 % ammoniac (NH 3 )",
+        "0,0028% +- 0,001% deut\u00e9rure d'hydrog\u00e8ne (HD)",
+        "0,0006% +- 0,0002% \u00e9thane (C 2 H 6 )",
+        "0,0004% +- 0,0004% eau (H 2 O)"
+    ],
+    "Glaces": [
+        "ammoniac (NH 3 )",
+        "eau (H 2 O)",
+        "Hydrosulfure d'ammonium (NH 4 SH)"
+    ]
+}

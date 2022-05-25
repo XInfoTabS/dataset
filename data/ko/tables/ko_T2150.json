@@ -1,0 +1,83 @@
+{
+    "제목": [
+        "LG Optimus G"
+    ],
+    "제조사": [
+        "LG Electronics"
+    ],
+    "슬로건": [
+        " 국경없이 살고 "
+    ],
+    "시리즈": [
+        "Optimus, G 시리즈"
+    ],
+    "호환되는 네트워크": [
+        "GSM (850 / 900 / 1800 / 1900), HSDPA, CDMA (글로벌 800 / 850 / 1900 & 한국 LG U+ 한국 PC 1800), LTE"
+    ],
+    "지역별 가용성": [
+        "2012년 11월 (미국 및 캐나다)"
+    ],
+    "이전": [
+        "LG Optimus 4X HD"
+    ],
+    "후계자": [
+        "LG G2"
+    ],
+    "관련": [
+        "LG Optimus G Pro, Nexus 4"
+    ],
+    "유형": [
+        "스마트폰"
+    ],
+    "형식 요소": [
+        "바"
+    ],
+    "차원": [
+        "131.9 mm (5.19 인) H, 68.9 mm (2.71 인) W, 8.5 mm (0.33 인) D"
+    ],
+    "무게": [
+        "145 g (5.11 oz)"
+    ],
+    "운영체제": [
+        "안드로이드 4.0 Ice Cream Sandwich, 4.1.2 Jelly Bean, 4.4.2 KitKat"
+    ],
+    "칩 시스템": [
+        "Qualcomm Snapdragon S4 Pro APQ8064, 1.4 GHz quad-core Samsung Exynos"
+    ],
+    "CPU": [
+        "1.5 GHz quad-core Qualcomm Krait, 1.4 GHz ARM Cortex-A53"
+    ],
+    "GPU": [
+        "Qualcomm Adreno 320, Mali-400 MP2"
+    ],
+    "메모리": [
+        "2 GB LPDDR2 RAM 시계 533mhz"
+    ],
+    "스토리지": [
+        "16 & 32 GB"
+    ],
+    "제거 가능한 스토리지": [
+        "글로벌 모델에서 사용할 수 없습니다, microSD 최대 64GB AT&T & Japan & Taiwan"
+    ],
+    "배터리": [
+        "제거할 수 없는 리튬 이온 2100 mAh(미국, 캐나다, 한국 및 글로벌 변형) 제거할 수 있는 리튬 이온 2210 mah (일본 변형), 제거할 수 있는 리튬 이온 2280 mAh (타이완 변형)"
+    ],
+    "데이터 입력": [
+        "Touch"
+    ],
+    "디스플레이": [
+        "4.7 인치 (120mm) 직경, True HD IPS LCD 768×1280"
+    ],
+    "프론트 카메라": [
+        "1.3 MP, HD 비디오 녹음 (720p)"
+    ],
+    "연결성": [
+        "3.5mm 스테레오 오디오 잭, Wi-Fi 802.11 a/b/g/n, Wi-Fi 핫스팟, DLNA, Bluetooth 4.0 + A2DP, USB 또는 HDMI 연결을 위한 모바일 고화질 비디오 링크 (MHL)와 마이크로 USB 2.0 (5 핀) 포트"
+    ],
+    "다른": [
+        "1-Seg (일본), NOTTV(NTT DoCoMo), T-DMB(한국))"
+    ],
+    "SAR": [
+        "0.70 W/kg (머리), 1.06 W/kg (몸)"
+    ]
+}

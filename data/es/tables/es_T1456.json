@@ -1,0 +1,47 @@
+{
+    "t\u00edtulo": [
+        "\u201cJ\u00fapiter\u201d"
+    ],
+    "Aphelion": [
+        "816.62 millones de km (5.4588 AU)"
+    ],
+    "Perihelion": [
+        "740.52 millones de km (4.9501 AU)"
+    ],
+    "Eje semimajor": [
+        "778.57 millones de km (5.2044 AU)"
+    ],
+    "Eccentricidad": [
+        "0.0489"
+    ],
+    "Per\u00edodo orbital": [
+        "11.862 a\u00f1os",
+        "4,332.59 d",
+        "10,475.8 d\u00edas solares Jovianos"
+    ],
+    "Per\u00edodo sin\u00f3dico": [
+        "398.88 d"
+    ],
+    "Velocidad orbital promedio": [
+        "13.07 km/s (8.12 mi/s)"
+    ],
+    "Mean anomaly": [
+        "20.020"
+    ],
+    "Inclinaci\u00f3n": [
+        "1.303 a la eclipse",
+        "6.09 al ecuador del Sol"
+    ],
+    "inclinaci\u00f3n": [
+        "0.32 a plano invariable"
+    ],
+    "Longitud del nodo ascendente": [
+        "100.464"
+    ],
+    "Argumento del perihelio": [
+        "273.867"
+    ],
+    "Sat\u00e9lites conocidos": [
+        "79 (a partir de 2018)"
+    ]
+}

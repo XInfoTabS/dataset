@@ -1,0 +1,47 @@
+{
+    "titre": [
+        "Linux"
+    ],
+    "D\u00e9veloppeur": [
+        "Communaut\u00e9, Linus Torvalds"
+    ],
+    "Ecrit dans": [
+        "C, assembleur"
+    ],
+    "Famille d'exploitation": [
+        "Unix-like"
+    ],
+    "\u00c9tat de fonctionnement": [
+        "Courant"
+    ],
+    "Mod\u00e8le source": [
+        "Open source"
+    ],
+    "Sortie initiale": [
+        "Le 17 septembre 1991; il y a 28 ans (1991-09-17)"
+    ],
+    "Cible marketing": [
+        "Cloud computing, appareils embarqu\u00e9s, ordinateurs centraux, appareils mobiles, ordinateurs personnels, serveurs, superordinateurs"
+    ],
+    "Disponible en": [
+        "Multilingue"
+    ],
+    "Plateformes": [
+        "Alpha, ARC, ARM, C6x, H8/300, Hexagon, Itanium, m68k, Microblaze, MIPS, NDS32, Nios II, OpenRISC, PA-RISC, PowerPC, RISC-V, s390, SuperH, SPARC, Unicore32, x86, XBurst, Xtensa"
+    ],
+    "Type de noyau": [
+        "Monolithique"
+    ],
+    "Userland": [
+        "GNU"
+    ],
+    "Interface utilisateur par d\u00e9faut": [
+        "shell Unix"
+    ],
+    "Licence": [
+        "GPLv2 et autres (le nom Linux est une marque de commerce)"
+    ],
+    "Site officiel": [
+        "www.linuxfoundation.org"
+    ]
+}

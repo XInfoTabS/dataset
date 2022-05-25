@@ -1,0 +1,65 @@
+{
+    "t\u00edtulo": [
+        "Rex Richmond Highway Express"
+    ],
+    "Sistema": [
+        "Metrobus"
+    ],
+    "Operador": [
+        "Autoridad de Tr\u00e1nsito de la Zona Metropolitana de Washington"
+    ],
+    "Garage": [
+        "Cinder Bed"
+    ],
+    "Veh\u00edculo": [
+        "Nuevo Flyer DE40LFA"
+    ],
+    "Liverpool": [
+        "Richmond Highway Express"
+    ],
+    "Estado": [
+        "En servicio"
+    ],
+    "Comenz\u00f3 el servicio": [
+        "26 de septiembre de 2004"
+    ],
+    "Predecesores": [
+        "Metrobus 9A"
+    ],
+    "Local": [
+        "Ciudad de Alejandr\u00eda, Condado de Fairfax"
+    ],
+    "Comunidades servidas": [
+        "Old Town Alexandria, Huntington, Virginia, Groveton, Virginia, Hybla Valley, Virginia, Mount Vernon, Virginia, Woodlawn, Virginia"
+    ],
+    "L\u00edmites": [
+        "Estaci\u00f3n King Street-Old Town, estaci\u00f3n Eisenhower Avenue, estaci\u00f3n Huntington, Fort Belvoir"
+    ],
+    "Inicio": [
+        "Estaci\u00f3n King Street-Old Town"
+    ],
+    "Via": [
+        "Richmond Highway"
+    ],
+    "End": [
+        "Fort Belvoir"
+    ],
+    "Longitud": [
+        "15 millas (24.14 km)"
+    ],
+    "Nivel": [
+        "Diario"
+    ],
+    "Frecuencia": [
+        "10-25 minutos (Hora de Rush), 30 minutos (Servicio de tarde del mediod\u00eda y del fin de semana), 30 minutos (S\u00e1bado), 60 minutos (S\u00e1bado)"
+    ],
+    "Opera": [
+        "5:00 AM - 11:39 PM (D\u00edas de Semana), 5:00 AM - 10:56 PM (S\u00e1bados), 5:00 AM - 10:00 PM (D\u00edas de Semana)"
+    ],
+    "Transfers": [
+        "SmarTrip s\u00f3lo"
+    ],
+    "Horarios": [
+        "Richmond Highway Express"
+    ]
+}

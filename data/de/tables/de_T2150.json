@@ -1,0 +1,83 @@
+{
+    "Titel": [
+        "LG Optimus G"
+    ],
+    "Hersteller": [
+        "LG Electronics"
+    ],
+    "Slogan": [
+        "Leben ohne Grenzen "
+    ],
+    "Serie": [
+        "Optimus, G Serie"
+    ],
+    "Kompatible Netzwerke": [
+        "GSM (850 / 900 / 1800 / 1900), HSDPA, CDMA (Global 800 / 850 / 1900 & Südkorea LG U+ Koreanisch St. 1800), LTE"
+    ],
+    "Verfügbarkeit nach Region": [
+        "November 2012 (USA und Kanada)"
+    ],
+    "Vorgänger": [
+        "„LG Optimus 4X HD"
+    ],
+    "Nachfolger": [
+        "LG G2"
+    ],
+    "Verwandte": [
+        "LG Optimus G Pro, Nexus 4"
+    ],
+    "Typ": [
+        "Smartphone"
+    ],
+    "Formfaktor": [
+        "Balken"
+    ],
+    "Abmessungen": [
+        "131,9 mm (5,19 in) H, 68,9 mm (2,71 in) W, 8,5 mm (0,33 in) D"
+    ],
+    "Masse": [
+        "145 g (5,11 Unzen)"
+    ],
+    "Betriebssystem": [
+        "Android 4.0 Ice Cream Sandwich, 4.1.2 Jelly Bean, 4.4.2 KitKat"
+    ],
+    "System auf Chip": [
+        "Qualcomm Snapdragon S4 Pro APQ8064, 1,4 GHz Quad-Core Samsung Exynos"
+    ],
+    "CPU": [
+        "1,5 GHz Quad-Core Qualcomm Krait, 1,4 GHz ARM Cortex-A53"
+    ],
+    "GPU": [
+        "Qualcomm Adreno 320, Mali-400 MP2"
+    ],
+    "Arbeitsspeicher": [
+        "2 GB LPDDR2 RAM getaktet bei 533mhz"
+    ],
+    "Speicher": [
+        "16 & 32 GB"
+    ],
+    "Abnehmbarer Speicher": [
+        "Nicht in den Global Modellen verfügbar, microSD bis 64 GB AT&T & Japan & Taiwan"
+    ],
+    "Batterie": [
+        "Nicht entfernbare Li-Ion 2100 mAh(USA & Kanada & Südkorea & Global Variant) Abnehmbare Li-Ion 2210 mah (Japan Variant), Abnehmbare Li-Ion 2280 mAh (Taiwan Variant)"
+    ],
+    "Dateneingaben": [
+        "Touch"
+    ],
+    "Anzeige": [
+        "4.7 in (120 mm) Diagonale, True HD IPS LCD 768×1280"
+    ],
+    "Frontkamera": [
+        "1.3 MP, HD-Videoaufnahme (720p)"
+    ],
+    "Konnektivität": [
+        "3,5 mm Stereo-Audiobuchse, Wi-Fi 802.11 a/b/g/n, Wi-Fi Hotspot, DLNA, Bluetooth 4.0 + A2DP, Micro-USB 2.0 (5-polig) Anschluss mit mobilem High-Definition-Video-Link (MHL) für USB- oder HDMI-"
+    ],
+    "Sonstiges": [
+        "1-Seg (Japan), NOTTV(NTT DoCoMo), T-DMB(Südkorea)"
+    ],
+    "SAR": [
+        "0,70 W/kg (Kopf), 1,06 W/kg (Körper)"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "제목": [
+        "B48 Lorimer Street"
+    ],
+    "시스템": [
+        "MTA Regional Bus Operations"
+    ],
+    "운영자": [
+        "New York City Transit Authority"
+    ],
+    "차고": [
+        "Fresh Pond Depot"
+    ],
+    "차량": [
+        "Orion VII",
+        "Orion VII Next Generation",
+        "Nova Bus RTS-06",
+        "New Flyer Industries Xcelsior XD40"
+    ],
+    "서비스 시작": [
+        "1884년 11월 6일 (도시차 서비스), 1947년 12월 14일 (버스 서비스)"
+    ],
+    "로컬": [
+        "브루클린"
+    ],
+    "지역 사회 서비스": [
+        "Greenpoint, Williamsburg, Bedford-Stuyvesant, Clinton Hill, Prospect Lefferts Gardens"
+    ],
+    "지점 서비스": [
+        "Brooklyn Museum of Art, Brooklyn Botanic Garden, Prospect Park"
+    ],
+    "출발": [
+        "Prospect Lefferts Gardens - Ocean Avenue and Flatbush Avenue / Prospect Park"
+    ],
+    "Via": [
+        "Classon/Franklin Avenues, Lorimer Street, Nassau Avenue"
+    ],
+    "End": [
+        "Greenpoint - Meeker Avenue and Gardner Avenue"
+    ],
+    "운영": [
+        "24 시간"
+    ],
+    "연간 후원": [
+        "1,117,264 (2017)"
+    ],
+    "트랜스퍼스": [
+        "예"
+    ]
+}

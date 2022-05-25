@@ -1,0 +1,51 @@
+{
+    "titre": [
+        "HTC Dream"
+    ],
+    "Fabricant": [
+        "HTC"
+    ],
+    "Successeur": [
+        "HTC Magic, HTC Desire Z (T-Mobile G2), Nexus One"
+    ],
+    "Facteur de forme": [
+        "Slider smartphone"
+    ],
+    "Dimensions": [
+        "117,7 mm (4,63 po) (h)",
+        "55,7 mm (2,19 po) (w)",
+        "17,1 mm (0,67 po) (d)"
+    ],
+    "Masse": [
+        "158 g (5.6 oz)"
+    ],
+    "Syst\u00e8me d'exploitation": [
+        "Original: Android m3-rc22a (interne), Android 1.0 (consommateur), Courant: Android 1.6 Donut"
+    ],
+    "CPU": [
+        "528 MHz Processeur Qualcomm MSM7201A ARM11"
+    ],
+    "M\u00e9moire": [
+        "256 Mo de stockage interne, 192 Mo RAM"
+    ],
+    "Stockage amovible": [
+        "Jusqu'\u00e0 16 Go de microSD"
+    ],
+    "Batterie": [
+        "1150 mAh, Batterie lithium-ion rechargeable interne"
+    ],
+    "Entr\u00e9es de donn\u00e9es": [
+        "\u00e9cran tactile capacitif, clavier QWERTY, trackball, contr\u00f4le du volume, acc\u00e9l\u00e9rom\u00e8tre 3 axes"
+    ],
+    "Affichage": [
+        "320 x 480 px, 3,2 en (81 mm), HVGA, 65,536 TFT-LCD couleur \u00e0 180 pixels par pouce (ppi)"
+    ],
+    "Cam\u00e9ra arri\u00e8re": [
+        "3,15 m\u00e9gapixel, autofocus"
+    ],
+    "Connectivit\u00e9": [
+        "Wi-Fi (802.11b/g), Bluetooth 2.0+EDR, ExtUSB, A-GPS",
+        "Quad-band GSM 850 900 1800 1900 MHz GPRS/EDGE",
+        "Double bande UMTS 1700 2100 MHz HSDPA/HSUPA (US/Europe) (7.2/2 Mbit/s)"
+    ]
+}

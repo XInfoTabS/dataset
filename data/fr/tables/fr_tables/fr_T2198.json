@@ -1,0 +1,61 @@
+{
+    "titre": [
+        "Ligne E"
+    ],
+    "Syst\u00e8me": [
+        "RapidRide"
+    ],
+    "Op\u00e9rateur": [
+        "King County Metro"
+    ],
+    "Garage": [
+        "Base Atlantique"
+    ],
+    "V\u00e9hicule": [
+        "Nouveaux bus articul\u00e9s Flyer, Nouveau Flyer XDE60"
+    ],
+    "Service commenc\u00e9": [
+        "15 f\u00e9vrier 2014"
+    ],
+    "Pr\u00e9d\u00e9cesseurs": [
+        "Route 358X"
+    ],
+    "Locale": [
+        "Comt\u00e9 du Roi"
+    ],
+    "D\u00e9part": [
+        "Aurora Village Transit Center, Shoreline"
+    ],
+    "Via": [
+        "Aurora Avenue N, 3e Avenue"
+    ],
+    "Fin": [
+        "Pioneer Square, Centre-ville de Seattle"
+    ],
+    "Longueur": [
+        "12,5 milles (30,1 km)"
+    ],
+    "Fr\u00e9quence": [
+        "Peak: 5-12 minutes",
+        "Haut-parleur: 10-15 minutes",
+        "T\u00f4t le matin et la nuit: 24-60 minutes"
+    ],
+    "Fr\u00e9quence de fin de semaine": [
+        "15 minutes (la plupart du temps)"
+    ],
+    "Dur\u00e9e du trajet": [
+        "1 heure, 2 minutes"
+    ],
+    "Fonctionne": [
+        "4h30-3h00"
+    ],
+    "Ridership": [
+        "15 800 (moyenne hebdomadaire, printemps 2015)"
+    ],
+    "Horaire": [
+        "E Horaire des lignes"
+    ],
+    "Carte": [
+        "E Carte de ligne"
+    ]
+}

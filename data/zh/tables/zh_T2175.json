@@ -1,0 +1,83 @@
+{
+    "\u6807\u9898": [
+        "\u8bfa\u57fa\u4e9a9 PureView"
+    ],
+    "\u54c1\u724c": [
+        "\u201c\u8bfa\u57fa\u4e9a\u201d"
+    ],
+    "\u5f00\u53d1\u8005": [
+        "\u201cHMD Global\u201d"
+    ],
+    "\u5236\u9020\u5546": [
+        "\u201cFIH Mobile (Foxconn)\u201d"
+    ],
+    "\u53e3\u53f7": [
+        "\u63a2\u7d22\u6bcf\u4e00\u4e2a\u7ec6\u8282"
+    ],
+    "\u9996\u6b21\u53d1\u5e03": [
+        "2019 \u5e74 2 \u6708 8 \u65e5; 8 \u4e2a\u6708\u524d (2019-02-08)"
+    ],
+    "\u524d\u8eab": [
+        "\u8bfa\u57fa\u4e9a 8 Sirocco, \u8bfa\u57fa\u4e9a Lumia 1020 \u548c Lumia Mclaren (\u7cbe\u795e)"
+    ],
+    "\u7c7b\u578b": [
+        "\u201c\u667a\u80fd\u624b\u673a\u201d"
+    ],
+    "\u5c3a\u5bf8": [
+        "H: 155 mm (6.1 \u82f1\u5bf8), W: 75 mm (3.0 \u82f1\u5bf8), D: 8 mm (0.31 \u82f1\u5bf8)"
+    ],
+    "\u91cd\u91cf": [
+        "172 \u514b(6.1 \u76ce\u53f8)"
+    ],
+    "\u64cd\u4f5c\u7cfb\u7edf": [
+        "\u539f\u7248: Android 9.0 \u201cPie\u201d, (Android One)"
+    ],
+    "\u82af\u7247\u7cfb\u7edf": [
+        "Qualcomm Snapdragon 845"
+    ],
+    "CPU": [
+        "\u516b\u6838(4x2.8 GHz \u514b\u91cc\u5965 385 \u91d1 & 4x1.7 GHz \u514b\u91cc\u5965 385 \u94f6)"
+    ],
+    "GPU": [
+        "Adreno 630"
+    ],
+    "\u5185\u5b58": [
+        "6 GB LPDDR4X RAM"
+    ],
+    "\u5b58\u50a8": [
+        "128 GB UFS 2.1"
+    ],
+    "\u53ef\u79fb\u9664\u7684\u5b58\u50a8\u5668": [
+        "\u201c\u6ca1\u6709\u201d"
+    ],
+    "\u7535\u6c60": [
+        "\u4e0d\u53ef\u62c6\u5378 Li-Po 3320 mAh"
+    ],
+    "\u6570\u636e\u8f93\u5165": [
+        "\u201c\u6307\u7eb9\u626b\u63cf\u4eea\u201d,",
+        "\u201c\u52a0\u901f\u5668\u201d,",
+        "\u201cGyroscope\u201d,",
+        "\u201c\u8fd1\u8ddd\u79bb\u4f20\u611f\u5668\u201d,",
+        "\u201c\u7535\u5b50\u6307\u9488\u201d",
+        "\u201c\u5ba4\u5185\u4f20\u611f\u5668\u201d",
+        "\u201cBarometer\u201d"
+    ],
+    "\u663e\u793a": [
+        "5.99 \u82f1\u5bf8 (15.2 \u5398\u7c73) 1440 x 2880 QHD P-OLED, \u6208\u91cc\u62c9\u73bb\u7483 5"
+    ],
+    "\u540e\u7f6e\u6444\u50cf\u5934": [
+        "5x \u5bbd (2x RGB + 3x \u5355\u8272) 12 MP, f /1.8, 1.4 \u03bcm, 28mm, 1/2.9 + ToF \u4f20\u611f\u5668, \u53cc\u8272\u95ea\u5b58"
+    ],
+    "\u524d\u7f6e\u6444\u50cf\u5934": [
+        "20 MP, 1.0 \u03bcm"
+    ],
+    "\u8fde\u63a5": [
+        "LTE Cat16 1024 Mbps DL / Cat13 150 Mbps UL, Wi-Fi (802.11 a/b/g/n/ac MIMO), GPS, A-GPS, GLONASS, BDS, Galileo, ANT+, NFC, USB 3.1 Type-C"
+    ],
+    "\u5176\u4ed6": [
+        "IP67 \u9632\u6c34, Qi \u65e0\u7ebf\u5145\u7535"
+    ],
+    "\u7f51\u7ad9": [
+        "\u8bfa\u57fa\u4e9a 9 Pureview"
+    ]
+}

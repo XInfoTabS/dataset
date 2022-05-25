@@ -1,0 +1,74 @@
+{
+    "Titel": [
+        "Orbit-Parameter"
+    ],
+    "Namen": [
+        "Mangalyaan"
+    ],
+    "Missionstyp": [
+        "Mars-Orbiter"
+    ],
+    "Operator": [
+        "ISRO"
+    ],
+    "COSPAR ID": [
+        "2013-060A"
+    ],
+    "SATCAT-Nr.": [
+        "39370"
+    ],
+    "Website": [
+        "www.isro.gov.in /pslv-c25-mars-orbiter-mission"
+    ],
+    "Missionsdauer": [
+        "Geplant: 6 Monate, Verstrichen: 4 Jahre, 7 Monate, 29 Tage"
+    ],
+    "Bus": [
+        "I-1K"
+    ],
+    "Hersteller": [
+        "ISAC"
+    ],
+    "Startmasse": [
+        "1.337,2 kg"
+    ],
+    "BOL Masse": [
+        "550 kg (1,210 lb)"
+    ],
+    "Trockenmasse": [
+        "482,5 kg"
+    ],
+    "Nutzlastmasse": [
+        "13,4 kg (30 lb)"
+    ],
+    "Abmessungen": [
+        "1,5 m (4,9 ft) Würfel"
+    ],
+    "Leistung": [
+        "840 Watt"
+    ],
+    "Startdatum": [
+        "5. November 2013, 09:08 (2013-11-05UTC09:08) UTC"
+    ],
+    "Raketen": [
+        "PSLV-XL C25"
+    ],
+    "Start-Site": [
+        "Satish Dhawan FLP"
+    ],
+    "Auftragnehmer": [
+        "ISRO"
+    ],
+    "Orbital Insertion": [
+        "24 September 2014, 02:00 UTC, MSD 50027 06:27 AMT, 1702 Tage / 1656 Sols"
+    ],
+    "Periareon": [
+        "421.7 km (262,0 mi)"
+    ],
+    "Apoareon": [
+        "76.993,6 km (47.841.6 mi)"
+    ],
+    "Neigung": [
+        "150,0°"
+    ]
+}

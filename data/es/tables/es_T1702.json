@@ -1,0 +1,30 @@
+{
+    "t\u00edtulo": [
+        "Cualquier cosa"
+    ],
+    "Tipo": [
+        "Bebidas dulces"
+    ],
+    "Fabricante": [
+        "PepsiCo"
+    ],
+    "Pa\u00eds de origen": [
+        "Espa\u00f1a"
+    ],
+    "Introducido": [
+        "1956"
+    ],
+    "Sabor": [
+        "\u201cCerveza\u201d",
+        "\u201cLemon\u201d",
+        "\u201cCerveza\u201d",
+        "\u201cGuarana\u201d",
+        "Guarana con Acerola",
+        "\u201cGuarana con Maracuja\u201d",
+        "Guarana con perejil"
+    ],
+    "Variantes": [
+        "Bitter Kas",
+        "Casa de la fruta"
+    ]
+}

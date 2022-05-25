@@ -1,0 +1,45 @@
+{
+    "타이틀": [
+        "Union TurnpikeManhattan-Queens Express"
+    ],
+    "시스템": [
+        "MTA 지역 버스 운영"
+    ],
+    "운영자": [
+        "MTA 버스 회사"
+    ],
+    "주차장": [
+        "College Point Depot"
+    ],
+    "차량": [
+        "Motor Coach Industries D4500",
+        "Motor Coach Industries D4500CL"
+    ],
+    "서비스 시작": [
+        "1968년 2월 26일 (QM1)"
+    ],
+    "로컬": [
+        "퀸즈, 맨해튼"
+    ],
+    "커뮤니티 서비스": [
+        "퀸즈: Kew Gardens Hills, Hillcrest, Fresh Meadows, Oakland Gardens, Bellaire, Little Neck, Glen Oaks, Floral Park"
+    ],
+    "시작": [
+        "Fresh Meadows, Queens - 188th Street & Horace Harding Expressway (QM1, QM7, QM31), Glen Oaks, Queens - 260th Street & Union Turnpike (QM5, QM8, QM35), Glen Oaks, Queens / Lake Success, Nassau County - North Shore Towers (QM6, QM36)"
+    ],
+    "Via": [
+        "Union Turnpike, Queens Boulevard, Long Island Expressway & Midtown Tunnel (westbound) / Queensboro Bridge (eastbound)"
+    ],
+    "End": [
+        "Midtown Manhattan - Sixth Avenue (QM1, QM5, QM6), Midtown Manhattan - Third Avenue (QM31, QM35, QM36), Downtown Manhattan - Downtown Loop (QM7, QM8)"
+    ],
+    "매년 보조금": [
+        "QM1 / QM31 : 115,135 (2016), QM5 / QM35 : 502,997 (2016), QM6 / QM36 : 270,411 (2016), QM7 : 167,127 (2016), QM8 : 148,744 (2016)"
+    ],
+    "트랜스퍼": [
+        "예"
+    ],
+    "타이밍": [
+        "QM1/QM5/QM6/QM31/QM35/QM36, QM7/QM8"
+    ]
+}

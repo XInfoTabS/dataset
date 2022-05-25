@@ -1,0 +1,83 @@
+{
+    "타이틀": [
+        "Nokia 9 PureView"
+    ],
+    "브랜드": [
+        "노키아"
+    ],
+    "개발자": [
+        "HMD Global"
+    ],
+    "제조사": [
+        "FIH Mobile (Foxconn)"
+    ],
+    "슬로건": [
+        "모든 세부 사항을 탐구"
+    ],
+    "처음 출시": [
+        "8 월 2019; 8 개월 전 (2019-02-08)"
+    ],
+    "전임자": [
+        "노키아 8 시로코, 노키아 루미아 1020 및 루미아 맥라렌 (영적)"
+    ],
+    "유형": [
+        "스마트폰"
+    ],
+    "차원": [
+        "H : 155 mm (6.1 인치), W : 75 mm (3.0 인치), D : 8 mm (0.31 인치)"
+    ],
+    "무게": [
+        "172 g (6.1 oz)"
+    ],
+    "운영체제": [
+        "안드로이드 9.0 Pie (Android One)"
+    ],
+    "칩 시스템": [
+        "Qualcomm Snapdragon 845"
+    ],
+    "CPU": [
+        "Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver)"
+    ],
+    "GPU": [
+        "Adreno 630"
+    ],
+    "메모리": [
+        "6 GB LPDDR4X RAM"
+    ],
+    "스토리지": [
+        "128 GB UFS 2.1"
+    ],
+    "삭제 가능한 스토리지": [
+        "아무것도"
+    ],
+    "배터리": [
+        "제거할 수 없는 Li-Po 3320 mAh"
+    ],
+    "데이터 입력": [
+        "손가락 지문 스캐너,",
+        "Accelerometer,",
+        "Gyroscope,",
+        "Proximity sensor,",
+        "Electronic compass",
+        "홀 센서",
+        "바로미터"
+    ],
+    "디스플레이": [
+        "5.99 in (15.2 cm) 1440 x 2880 QHD P-OLED, 고릴라 유리 5"
+    ],
+    "카메라": [
+        "5x 넓은 (2x RGB + 3x 단색) 12 MP, f /1.8, 1.4 μm, 28mm, 1/2.9 + ToF 센서, 이중 톤 플래시"
+    ],
+    "프론트 카메라": [
+        "20 MP, 1.0 μm"
+    ],
+    "연결": [
+        "LTE Cat16 1024 Mbps DL / Cat13 150 Mbps UL, Wi-Fi (802.11 a/b/g/n/ac MIMO), GPS, A-GPS, GLONASS, BDS, 갈릴레오, ANT+, NFC, USB 3.1 Type-C"
+    ],
+    "다른": [
+        "IP67 방수, Qi 무선 충전"
+    ],
+    "웹사이트": [
+        "Nokia 9 Pureview"
+    ]
+}

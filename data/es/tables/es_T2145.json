@@ -1,0 +1,38 @@
+{
+    "t\u00edtulo": [
+        "35 / 36 L\u00edneas de Metro"
+    ],
+    "Sistema": [
+        "El Transporte Colectivo de Agder"
+    ],
+    "Operador": [
+        "Nettbuss"
+    ],
+    "Garage": [
+        "Mj\u00e5vann, S\u00f8rlandsparken"
+    ],
+    "Veh\u00edculo": [
+        "Mercedes-Benz Citaro"
+    ],
+    "Locale": [
+        "Madrid - C\u00f3rdoba - C\u00f3rdoba"
+    ],
+    "Inicio": [
+        "35: Kvadraturen, 36: Kvadraturen, 36: Ve"
+    ],
+    "Via": [
+        "Madrid, Alicante"
+    ],
+    "Fin": [
+        "35: Kjevik - Brattvollsheia, 36: Tveit - Gr\u00f8dum, 36: Gr\u00f8dum"
+    ],
+    "Operan": [
+        "17 horas (35), 05:15 - 00:15, 2 horas (36), 15:00 - 16:00, 10 horas (36), 07:40 - 22:40"
+    ],
+    "Transfers": [
+        "S\u00ed"
+    ],
+    "Horarios": [
+        "35/36"
+    ]
+}

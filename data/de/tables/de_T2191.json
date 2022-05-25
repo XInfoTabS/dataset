@@ -1,0 +1,125 @@
+{
+    "Titel": [
+        "Potassium"
+    ],
+    "Aussprache": [
+        "/p-TAS-ee------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
+    ],
+    "Aussehen": [
+        "silbergrau"
+    ],
+    "Standard Atomgewicht Ar, std(K)": [
+        "39.0983(1)"
+    ],
+    "Atomnummer (Z)": [
+        "19"
+    ],
+    "Gruppe": [
+        "Gruppe 1: H und Alkalimetalle"
+    ],
+    "Zeitraum": [
+        "Zeitraum 4"
+    ],
+    "Block": [
+        "s-block"
+    ],
+    "Elementkategorie": [
+        "Alkalimetall"
+    ],
+    "Elektronenkonfiguration": [
+        "[Ar] 4s 1"
+    ],
+    "Elektronen pro Schale": [
+        "2, 8, 8, 1"
+    ],
+    "Phase bei STP": [
+        "fest"
+    ],
+    "Schmelzpunkt": [
+        "336.7 K (63.5 °C, 146.3 °F)"
+    ],
+    "Siedepunkt": [
+        "1032 K (759 °C, 1398 °F)"
+    ],
+    "Dichte (nahe r.t.)": [
+        "0,862 g/cm 3"
+    ],
+    "bei Flüssigkeit (bei m.p.)": [
+        "0,828 g/cm 3"
+    ],
+    "Kritischer Punkt": [
+        "2223 K, 16 MPa"
+    ],
+    "Fusionswärme": [
+        "2,33 kJ/mol"
+    ],
+    "Dampfwärme": [
+        "76.9 kJ/mol"
+    ],
+    "Molare Wärmeleistung": [
+        "29.6 J/(mol·K)"
+    ],
+    "Oxidationszustände": [
+        "−1, +1 (ein stark basisches Oxid)"
+    ],
+    "Elektronegativität": [
+        "Pauling-Skala: 0,82"
+    ],
+    "Ionisierungsenergien": [
+        "1.: 418,8 kJ/mol",
+        "2.: 3052 kJ/mol",
+        "3.: 4420 kJ/mol",
+        "(mehr)"
+    ],
+    "Atomradius": [
+        "empirisch: 227 pm"
+    ],
+    "Gleichwertiger Radius": [
+        "203±12 pm"
+    ],
+    "Van der Waals Radius": [
+        "275 pm"
+    ],
+    "Natürliches Vorkommen": [
+        "Urursprünglich"
+    ],
+    "Schallgeschwindigkeit dünner Stange": [
+        "2000 m/s (bei 20 °C)"
+    ],
+    "Wärmeausdehnung": [
+        "83,3 μm/(m·K) (bei 25 °C)"
+    ],
+    "Wärmeleitfähigkeit": [
+        "102,5 W/(m·K)"
+    ],
+    "Elektrischer Widerstand": [
+        "72 nΩ·m (bei 20 °C)"
+    ],
+    "Magnetische Ordnung": [
+        "Paramagnetisch"
+    ],
+    "Magnetische Empfindlichkeit": [
+        "+20.8·10 −6 cm 3 /mol (298 K)"
+    ],
+    "Young's Modul": [
+        "3.53 GPa"
+    ],
+    "Schermodul": [
+        "1.3 GPa"
+    ],
+    "Bulk Modul": [
+        "3.1 GPa"
+    ],
+    "Mohs-Härte": [
+        "0.4"
+    ],
+    "Brinellhärte": [
+        "0.363 MPa"
+    ],
+    "CAS-Nummer": [
+        "7440-09-7"
+    ],
+    "Entdeckung und erste Isolation": [
+        "Humphry Davy (1807)"
+    ]
+}

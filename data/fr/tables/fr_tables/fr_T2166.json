@@ -1,0 +1,35 @@
+{
+    "titre": [
+        "MicroBee"
+    ],
+    "D\u00e9veloppeur": [
+        "Technologie appliqu\u00e9e"
+    ],
+    "Type": [
+        "Home computers"
+    ],
+    "Date de sortie": [
+        "F\u00e9vrier 1982; il y a 37 ans (1982-02)"
+    ],
+    "Prix d'introduction": [
+        "A$399 en format kit"
+    ],
+    "Dissuite": [
+        "1990; il y a 29 ans (1990)"
+    ],
+    "Syst\u00e8me d'exploitation": [
+        "MicroWorld BASIC, DGOS ( Syst\u00e8me d'exploitation David Griffiths )"
+    ],
+    "CPU": [
+        "Zilog Z80 @ 2 MHz"
+    ],
+    "M\u00e9moire": [
+        "16 kB ou 32 kB"
+    ],
+    "Graphisme": [
+        "Synertek 6545 contr\u00f4leur CRT pour 64 \u00d7 16 caract\u00e8res (512 \u00d7 256 pixels)"
+    ],
+    "Son": [
+        "G\u00e9n\u00e9rateur de son monotonique & haut-parleur, 2 octaves"
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "Titel": [
+        "Sodium"
+    ],
+    "Aussehen": [
+        "silbrig weiß metallic"
+    ],
+    "Standard Atomgewicht Ar, std(Na)": [
+        "22.98976928(2)"
+    ],
+    "Atomnummer (Z)": [
+        "11"
+    ],
+    "Gruppe": [
+        "Gruppe 1: H und Alkalimetalle"
+    ],
+    "Zeitraum": [
+        "Zeitraum 3"
+    ],
+    "Block": [
+        "s-block"
+    ],
+    "Elementkategorie": [
+        "Alkalimetall"
+    ],
+    "Elektronenkonfiguration": [
+        "[Ne] 3s 1"
+    ],
+    "Elektronen pro Schale": [
+        "2, 8, 1"
+    ],
+    "Phase bei STP": [
+        "fest"
+    ],
+    "Schmelzpunkt": [
+        "370.944 K (97.794 °C, 208.029 °F)"
+    ],
+    "Siedepunkt": [
+        "1156.090 K (882.940 °C, 1621.292 °F)"
+    ],
+    "Dichte (nahe r.t.)": [
+        "0,968 g/cm 3"
+    ],
+    "bei Flüssigkeit (bei m.p.)": [
+        "0,927 g/cm 3"
+    ],
+    "Kritischer Punkt": [
+        "2573 K, 35 MPa (extrapoliert)"
+    ],
+    "Fusionswärme": [
+        "2.60 kJ/mol"
+    ],
+    "Dampfwärme": [
+        "97.42 kJ/mol"
+    ],
+    "Molare Wärmeleistung": [
+        "28.230 J/(mol·K)"
+    ],
+    "Oxidationszustände": [
+        "−1, +1 (ein stark basisches Oxid)"
+    ],
+    "Elektronegativität": [
+        "Pauling-Skala: 0,93"
+    ],
+    "Ionisierungsenergien": [
+        "1.: 495.8 kJ/mol",
+        "2.: 4562 kJ/mol",
+        "3.: 6910,3 kJ/mol",
+        "(mehr)"
+    ],
+    "Atomradius": [
+        "empirisch: 186 pm"
+    ],
+    "Gleichwertiger Radius": [
+        "166±9 pm"
+    ],
+    "Van der Waals Radius": [
+        "227 pm"
+    ],
+    "Natürliches Vorkommen": [
+        "Urursprünglich"
+    ],
+    "Schallgeschwindigkeit dünne Stange": [
+        "3200 m/s (bei 20 °C)"
+    ],
+    "Wärmeausdehnung": [
+        "71 μm/(m·K) (bei 25 °C)"
+    ],
+    "Wärmeleitfähigkeit": [
+        "142 W/(m·K)"
+    ],
+    "Elektrischer Widerstand": [
+        "47,7 nΩ·m (bei 20 °C)"
+    ],
+    "Magnetische Ordnung": [
+        "Paramagnetisch"
+    ],
+    "Magnetische Empfindlichkeit": [
+        "+16.0·10 −6 cm 3 /mol (298 K)"
+    ],
+    "Young's Modul": [
+        "10 GPa"
+    ],
+    "Schermodul": [
+        "3.3 GPa"
+    ],
+    "Bulk Modul": [
+        "6.3 GPa"
+    ],
+    "Mohs-Härte": [
+        "0,5"
+    ],
+    "Brinellhärte": [
+        "0,69 MPa"
+    ],
+    "CAS-Nummer": [
+        "7440-23-5"
+    ],
+    "Entdeckung und erste Isolation": [
+        "Humphry Davy (1807)"
+    ]
+}

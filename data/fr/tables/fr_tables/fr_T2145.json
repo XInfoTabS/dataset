@@ -1,0 +1,38 @@
+{
+    "titre": [
+        "35 / 36 lignes de m\u00e9tro"
+    ],
+    "Syst\u00e8me": [
+        "Agder Kollektiv Transport"
+    ],
+    "Op\u00e9rateur": [
+        "R\u00e9seaux"
+    ],
+    "Garage": [
+        "Mj\u00e5vann, S\u00f8rlandsparken"
+    ],
+    "V\u00e9hicule": [
+        "Mercedes-Benz Citaro"
+    ],
+    "Locale": [
+        "Kvadraturen - UiA - Rona - Tveit"
+    ],
+    "D\u00e9part": [
+        "35: Kvadraturen, 36: Kvadraturen, 36: Ve"
+    ],
+    "Via": [
+        "UiA, Rona"
+    ],
+    "Fin": [
+        "35: Kjevik - Brattvollsheia, 36: Tveit - Gr\u00f8dum, 36: Gr\u00f8dum"
+    ],
+    "Fonctionne": [
+        "17 heures (35), 05:15 - 00:15, 2 heures (36), 15:00 - 16:00, 10 heures (36), 07:40 - 22:40"
+    ],
+    "Transferts": [
+        "Oui"
+    ],
+    "Horaire": [
+        "35/36"
+    ]
+}

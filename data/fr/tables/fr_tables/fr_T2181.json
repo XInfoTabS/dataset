@@ -1,0 +1,98 @@
+{
+    "titre": [
+        "Oxyg\u00e8ne"
+    ],
+    "Allotropes": [
+        "O 2, O 3 (Ozone)"
+    ],
+    "Apparence": [
+        "gaz: incolore, liquide et solide: bleu p\u00e2le"
+    ],
+    "Poids atomique standard Ar, std(O)": [
+        "[15.99903, 15.99977] conventionnel: 15.999"
+    ],
+    "Num\u00e9ro atomique (Z)": [
+        "8"
+    ],
+    "Groupe": [
+        "Groupe 16 (chalcog\u00e8nes)"
+    ],
+    "P\u00e9riode": [
+        "p\u00e9riode 2"
+    ],
+    "Bloc": [
+        "bloc p"
+    ],
+    "Cat\u00e9gorie d'\u00e9l\u00e9ment": [
+        "Non-m\u00e9tal r\u00e9actif"
+    ],
+    "Configuration \u00e9lectronique": [
+        "[He] 2s 2 2p 4"
+    ],
+    "\u00c9lectrons par r\u00e9servoir": [
+        "2, 6"
+    ],
+    "Phase au STP": [
+        "gaz"
+    ],
+    "Point de fusion": [
+        "(O 2 ) 54.36 K (\u2212218.79 \u00b0C, \u2212361.82 \u00b0F)"
+    ],
+    "Point d'\u00e9bullition": [
+        "(O 2 ) 90.188 K (\u2212182.962 \u00b0C, \u2212297.332 \u00b0F)"
+    ],
+    "Densit\u00e9 (au STP)": [
+        "1,429 g/L"
+    ],
+    "lorsque liquide (\u00e0 b.p.)": [
+        "1,141 g/cm 3"
+    ],
+    "Triple point": [
+        "54.361 K, 0,1463 kPa"
+    ],
+    "Point critique": [
+        "154.581 K, 5.043 MPa"
+    ],
+    "Chaleur de fusion": [
+        "(O 2 ) 0,444 kJ/mol"
+    ],
+    "Chaleur de vaporisation": [
+        "(O 2 ) 6,82 kJ/mol"
+    ],
+    "Capacit\u00e9 calorifique molaire": [
+        "(O 2 ) 29.378 J/(mol\u00b7K)"
+    ],
+    "\u00c9tat d'oxydation": [
+        "\u22122, \u22121, 0, +1, +2"
+    ],
+    "\u00c9chelle d'\u00e9lectron\u00e9gativit\u00e9": [
+        "Pauling: 3.44"
+    ],
+    "\u00c9nergies d'ionisation": [
+        "1\u00e8re: 1313,9 kJ/mol",
+        "2\u00e8me: 3388,3 kJ/mol",
+        "3\u00e8me: 5300.5 kJ/mol",
+        "(plus)"
+    ],
+    "Rayon covalent": [
+        "66\u00b12 pm"
+    ],
+    "Rayon Van der Waals": [
+        "152 pm"
+    ],
+    "Conductivit\u00e9 thermique": [
+        "26.58\u00d710 \u22123 W/(m\u00b7K)"
+    ],
+    "Commande magn\u00e9tique": [
+        "paramagn\u00e9tique"
+    ],
+    "Sensibilit\u00e9 magn\u00e9tique": [
+        "+3449.0 \u00b710 \u22126 cm 3 /mol (293 K)"
+    ],
+    "Num\u00e9ro CAS": [
+        "7782-44-7"
+    ],
+    "Nomm\u00e9 par": [
+        "Antoine Lavoisier (1777)"
+    ]
+}

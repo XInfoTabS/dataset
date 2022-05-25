@@ -1,0 +1,35 @@
+{
+    "Titel": [
+        "Eisenbahn Duisburg-Quakenbrück"
+    ],
+    "Einheimischer Name": [
+        "Bahnstrecke Duisburg-Quakenbrück"
+    ],
+    "Locale": [
+        "Nordrhein-Westfalen, Deutschland"
+    ],
+    "Streckennummer": [
+        "2320 (Duisburg - Oberhausen)",
+        "2280 (Oberhausen - Osterfeld)",
+        "2262 (Osterfeld - Bottrop)",
+        "424 (Dorsten - Coesfeld)"
+    ],
+    "Liniennummer": [
+        "2273 (Bottrop - Quakenbrück)"
+    ],
+    "Streckenlänge": [
+        "173 km (107 mi)"
+    ],
+    "Anzahl der Gleise": [
+        "Doppelgleis, Sigle - Oberhausen-Osterfeld, nur Anschluss"
+    ],
+    "Spurweite": [
+        "1.435 mm (4 ft 8 1 ⁄ 2 in) Standardspurweite"
+    ],
+    "Elektrifizierung": [
+        "15 kV/16.7 Hz Wechselstrom-Oberleitung"
+    ],
+    "Betriebsgeschwindigkeit": [
+        "90 km/h (56 mph) (maximal)"
+    ]
+}

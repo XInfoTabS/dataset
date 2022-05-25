@@ -1,0 +1,53 @@
+{
+    "titre": [
+        "J4 College Park-Bethesda Metro Ligne suppl\u00e9mentaire"
+    ],
+    "Syst\u00e8me": [
+        "Metrobus"
+    ],
+    "Op\u00e9rateur": [
+        "Washington Metropolitan Area Transit Authority"
+    ],
+    "Garage": [
+        "Montgomery"
+    ],
+    "Livery": [
+        "MetroExtra"
+    ],
+    "\u00c9tat": [
+        "En service"
+    ],
+    "Service d'autobus": [
+        "Le 15 avril 2002"
+    ],
+    "Locale": [
+        "Comt\u00e9 de Prince George, comt\u00e9 de Montgomery"
+    ],
+    "Collectivit\u00e9s desservies": [
+        "College Park, Maryland, University Of Maryland, Langley Park, Maryland, Takoma Park, Maryland, Silver Spring, Maryland, Rock Creek Forest, Chevy Chase, Maryland, Bethesda, Maryland"
+    ],
+    "Emplacements desservis": [
+        "College Park-University of Maryland station, University Of Maryland, Langley Park, Maryland, Takoma Park, Maryland, Takoma Langley Crossroads Transit Center, Silver Spring station, Rock Creek Forest, Chevy Chase, Maryland, Bethesda station"
+    ],
+    "D\u00e9part": [
+        "Station College Park-University of Maryland"
+    ],
+    "Via": [
+        "River Road, Paint Branch Parkway, Campus Drive, University Boulevard, New Hampshire Avenue, Piney Branch Road, Flower Avenue, Wayne Avenue, Colesville Road, East-West Highway"
+    ],
+    "Fin": [
+        "Bethesda station"
+    ],
+    "Niveau": [
+        "Service de pointe en semaine seulement"
+    ],
+    "Fr\u00e9quence": [
+        "20 minutes"
+    ],
+    "Fonctionne": [
+        "5h20 - 9h30, 15h25 - 19h45"
+    ],
+    "Transferts": [
+        "SmarTrip seulement"
+    ]
+}

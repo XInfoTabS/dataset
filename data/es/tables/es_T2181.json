@@ -1,0 +1,98 @@
+{
+    "T\u00edtulo": [
+        "\u201cOxygen\u201d"
+    ],
+    "Allotr\u00f3picos": [
+        "O 2, O 3 (Ozono)"
+    ],
+    "Apariencia": [
+        "Gas: incoloro, l\u00edquido y s\u00f3lido: azul p\u00e1lido"
+    ],
+    "Peso at\u00f3mico est\u00e1ndar Ar, std(O)": [
+        "[15.99903, 15.99977] convencional: 15.999"
+    ],
+    "N\u00famero at\u00f3mico (Z)": [
+        "8"
+    ],
+    "Grupo": [
+        "Grupo 16 (calcogenes)"
+    ],
+    "Per\u00edodo": [
+        "Per\u00edodo 2"
+    ],
+    "bloque": [
+        "p-bloque"
+    ],
+    "Categor\u00eda de elementos": [
+        "Reactivos no met\u00e1licos"
+    ],
+    "Configuraci\u00f3n electr\u00f3nica": [
+        "[He] 2s 2 2p 4"
+    ],
+    "Electrones por shell": [
+        "2, 6"
+    ],
+    "Fase en STP": [
+        "\u201cgas\u201d"
+    ],
+    "Punto de fusi\u00f3n": [
+        "(O 2 ) 54.36 K (\u2212218.79 \u00b0C, \u2212361.82 \u00b0F)"
+    ],
+    "Punto de ebullici\u00f3n": [
+        "(O 2 ) 90.188 K (\u2212182.962 \u00b0C, \u2212297.332 \u00b0F)"
+    ],
+    "Densidad (en STP)": [
+        "1.429 g/L"
+    ],
+    "cuando l\u00edquido (en b.p.)": [
+        "1.141 g/cm 3"
+    ],
+    "Triple punto": [
+        "54.361 K, 0.1463 kPa"
+    ],
+    "Punto cr\u00edtico": [
+        "154.581 K, 5.043 MPa"
+    ],
+    "Calor de fusi\u00f3n": [
+        "(O 2 ) 0,444 kJ/mol"
+    ],
+    "Calor de vaporizaci\u00f3n": [
+        "(O 2 ) 6,82 kJ/mol"
+    ],
+    "Capacidad t\u00e9rmica molar": [
+        "(O 2 ) 29.378 J/(mol\u00b7K)"
+    ],
+    "Estados de oxidaci\u00f3n": [
+        "\u22122, \u22121, 0, +1, +2"
+    ],
+    "Electr\u00f3negatividad": [
+        "Escala de Pauling: 3.44"
+    ],
+    "Energ\u00edas de ionizaci\u00f3n": [
+        "1o: 1313.9 kJ/mol",
+        "2o: 3388.3 kJ/mol",
+        "3rd: 5300.5 kJ/mol",
+        "(m\u00e1s)"
+    ],
+    "Radius covalente": [
+        "66\u00b12 pm"
+    ],
+    "Radio de Van der Waals": [
+        "15 pm"
+    ],
+    "Conductividad t\u00e9rmica": [
+        "26.58\u00d710 \u22123 W/(m\u00b7K)"
+    ],
+    "Ordenamiento magn\u00e9tico": [
+        "Paramagn\u00e9tico"
+    ],
+    "Sensibilidad magn\u00e9tica": [
+        "+3449.0\u00b710 \u22126 cm 3 /mol (293 K)"
+    ],
+    "N\u00famero CAS": [
+        "7782-44-7"
+    ],
+    "Nombrado por": [
+        "Antoine Lavoisier (1777)"
+    ]
+}

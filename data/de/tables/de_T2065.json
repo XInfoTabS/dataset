@@ -1,0 +1,38 @@
+{
+    "Titel": [
+        "b25 Fulton Street Line"
+    ],
+    "System": [
+        "MTA New York City Bus"
+    ],
+    "Betreiber": [
+        "New York City Transit Authority"
+    ],
+    "Garage": [
+        "East New York Depot"
+    ],
+    "Lokal": [
+        "Brooklyn"
+    ],
+    "Start": [
+        "Fulton Landing - Front Street und York Street"
+    ],
+    "Via": [
+        "Fulton Street"
+    ],
+    "Ende": [
+        "East New York - Broadway Junction und Alabama Avenue"
+    ],
+    "Länge": [
+        "6,1 Meilen (9,8 km)"
+    ],
+    "Funktioniert": [
+        "Alle Zeiten"
+    ],
+    "Jährliche Schirmherrschaft": [
+        "2.850.871 (2017)"
+    ],
+    "Transfers": [
+        "Ja"
+    ]
+}

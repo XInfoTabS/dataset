@@ -1,0 +1,40 @@
+{
+    "Titel": [
+        "Eishockey"
+    ],
+    "Höchster Vorstand": [
+        "Internationaler Eishockeyverband"
+    ],
+    "Kontakt": [
+        "Vollständiger Kontakt"
+    ],
+    "Teammitglieder": [
+        "3 Vorwärts",
+        "2 Verteidiger",
+        "1 Torhüter"
+    ],
+    "Typ": [
+        "Teamsport",
+        "Stäbchensport",
+        "Puck Sport",
+        "Wintersport"
+    ],
+    "Ausrüstung": [
+        "Hockey-Pucks",
+        "Stäbe",
+        "Skates",
+        "Schneepads",
+        "Schulterpolster",
+        "Handschuhe",
+        "Helme (mit Visier oder Käfig, je nach Alter des Spielers und Liga)",
+        "Elbogenpolster",
+        "Jock or Jill",
+        "Socken",
+        "Shorts",
+        "Halsschutz (abhängig von Liga)",
+        "Mundwächter (abhängig von Liga)"
+    ],
+    "Veranstaltungsort": [
+        "Hockeybahn oder Arena, und wird manchmal auf einem gefrorenen See oder Teich zur Erholung gespielt"
+    ]
+}

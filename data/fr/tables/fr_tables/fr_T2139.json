@@ -1,0 +1,55 @@
+{
+    "titre": [
+        "iOS"
+    ],
+    "D\u00e9veloppeur": [
+        "Apple Inc. ."
+    ],
+    "Ecrit dans": [
+        "C, C++, Objectif-C, Swift"
+    ],
+    "Famille d'exploitation": [
+        "Unix-like, bas\u00e9 sur Darwin (BSD), iOS"
+    ],
+    "\u00c9tat de fonctionnement": [
+        "Courant"
+    ],
+    "Mod\u00e8le de source": [
+        "Source ferm\u00e9e"
+    ],
+    "Sortie initiale": [
+        "29 juin 2007; il y a 12 ans (2007-06-29)"
+    ],
+    "Derni\u00e8re sortie": [
+        "13.1.3 (17A878) (15 octobre 2019; il y a 9 jours (2019-10-15)) [\u00b1]"
+    ],
+    "Derni\u00e8re pr\u00e9visualisation": [
+        "13.2 Beta 4 (17B5084a) (le 23 octobre 2019; il y a 1 jour (2019-10-23)) [\u00b1]"
+    ],
+    "Cible marketing": [
+        "Smartphones, ordinateurs tablettes, lecteurs multim\u00e9dias portables"
+    ],
+    "Disponible en": [
+        "40 langues"
+    ],
+    "M\u00e9thode de mise \u00e0 jour": [
+        "iTunes (anciennement) ou OTA (iOS 5 ou plus)"
+    ],
+    "Plateformes": [
+        "ARMv8-A (iOS 7 et suivants)",
+        "ARMv7-A (iPhone OS 3-iOS 10)",
+        "ARMv6 (iPhone OS 1-iOS 4.2.1)"
+    ],
+    "Type de noyau": [
+        "Hybrid (XNU)"
+    ],
+    "Interface utilisateur par d\u00e9faut": [
+        "Cocoa Touch (multi-touch, interface graphique)"
+    ],
+    "Licence": [
+        "Logiciel propri\u00e9taire sauf pour les composants open-source"
+    ],
+    "Site officiel": [
+        "www.apple.com /ios /"
+    ]
+}

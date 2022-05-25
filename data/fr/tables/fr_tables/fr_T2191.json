@@ -1,0 +1,125 @@
+{
+    "titre": [
+        "Potassium"
+    ],
+    "Prononciation": [
+        "/p------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
+    ],
+    "Apparence": [
+        "gris argent\u00e9"
+    ],
+    "Poids atomique standard Ar, std(K)": [
+        "39.0983(1)"
+    ],
+    "Num\u00e9ro atomique (Z)": [
+        "19"
+    ],
+    "Groupe": [
+        "Groupe 1: H et m\u00e9taux alcalins"
+    ],
+    "P\u00e9riode": [
+        "P\u00e9riode 4"
+    ],
+    "Bloc": [
+        "s-block"
+    ],
+    "Cat\u00e9gorie \u00e9l\u00e9ment": [
+        "Alkali m\u00e9tal"
+    ],
+    "Configuration \u00e9lectronique": [
+        "[Ar] 4s 1"
+    ],
+    "\u00c9lectrons par r\u00e9servoir": [
+        "2, 8, 8, 1"
+    ],
+    "Phase au STP": [
+        "solide"
+    ],
+    "Point de fusion": [
+        "336,7 K (63,5 \u00b0C, 146.3 \u00b0F)"
+    ],
+    "Point d'\u00e9bullition": [
+        "1032 K (759 \u00b0C, 1398 \u00b0F)"
+    ],
+    "Densit\u00e9 (pr\u00e9cise r.t.)": [
+        "0,862 g/cm 3"
+    ],
+    "lorsque liquide (\u00e0 m.p.)": [
+        "0,828 g/cm 3"
+    ],
+    "Point critique": [
+        "2223 K, 16 MPa"
+    ],
+    "Chaleur de fusion": [
+        "2,33 kJ/mol"
+    ],
+    "Chaleur de vaporisation": [
+        "76,9 kJ/mol"
+    ],
+    "Capacit\u00e9 calorifique molaire": [
+        "29,6 J/(mol\u00b7K)"
+    ],
+    "\u00c9tat d'oxydation": [
+        "\u22121, +1 (un oxyde fortement basique)"
+    ],
+    "\u00c9chelle d'\u00e9puration": [
+        ": 0,82"
+    ],
+    "\u00c9nergies d'ionisation": [
+        "1\u00e8re: 418,8 kJ/mol",
+        "2\u00e8me: 3052 kJ/mol",
+        "3\u00e8me: 4420 kJ/mol",
+        "(plus)"
+    ],
+    "Rayon atomique": [
+        "empirique: 227 pm"
+    ],
+    "Rayon covalent": [
+        "203\u00b112 pm"
+    ],
+    "Rayon Van der Waals": [
+        "275 pm"
+    ],
+    "\u00c9v\u00e9nement naturel": [
+        "primordial"
+    ],
+    "Vitesse de la tige mince du son": [
+        "2000 m/s (\u00e0 20 \u00b0C)"
+    ],
+    "Dilatation thermique": [
+        "83,3 \u03bcm/(m\u00b7K) (\u00e0 25 \u00b0C)"
+    ],
+    "Conductivit\u00e9 thermique": [
+        "102,5 W/(m\u00b7K)"
+    ],
+    "R\u00e9sistivit\u00e9 \u00e9lectrique": [
+        "72 n.\u00b7m (\u00e0 20 \u00b0C)"
+    ],
+    "Commande magn\u00e9tique": [
+        "paramagn\u00e9tique"
+    ],
+    "Sensibilit\u00e9 magn\u00e9tique": [
+        "+20.8\u00b710 \u2212 6 cm 3 /mol (298 K)"
+    ],
+    "Module de Young": [
+        "3.53 GPa"
+    ],
+    "Module de cisaillement": [
+        "1,3 GPa"
+    ],
+    "Module en vrac": [
+        "3.1 GPa"
+    ],
+    "duret\u00e9 Mohs": [
+        "0,4"
+    ],
+    "duret\u00e9 Brinell": [
+        "0,363 MPa"
+    ],
+    "Num\u00e9ro CAS": [
+        "7440-09-7"
+    ],
+    "D\u00e9couverte et premier isolement": [
+        "Humphry Davy (1807)"
+    ]
+}

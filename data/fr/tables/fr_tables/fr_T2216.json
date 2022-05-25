@@ -1,0 +1,65 @@
+{
+    "titre": [
+        "Sony Ericsson Xperia X8"
+    ],
+    "Nom de code": [
+        "Shakira"
+    ],
+    "Fabricant": [
+        "Sony Ericsson"
+    ],
+    "S\u00e9rie": [
+        "Xperia"
+    ],
+    "R\u00e9seaux compatibles": [
+        "GSM 850 900 1800 1900 MHz, UMTS 900 2100 MHz, UMTS 850 1900 2100 MHz (Am\u00e9rique du Nord)"
+    ],
+    "Disponibilit\u00e9 par r\u00e9gion": [
+        "16 juin 2010 (2010-06-16)"
+    ],
+    "Related": [
+        "Sony Ericsson Xperia X10 mini"
+    ],
+    "Type": [
+        "Smartphone"
+    ],
+    "Facteur de forme": [
+        "Slate"
+    ],
+    "Dimensions": [
+        "99 mm (3,9 po) H, 54 mm (2,1 po) W, 15 mm (0,59 po) D"
+    ],
+    "Masse": [
+        "104 g (3,7 oz) avec batterie"
+    ],
+    "Syst\u00e8me d'exploitation": [
+        "Android 1.6, upgradable \u00e0 2.1, Mises \u00e0 niveau non officielles \u00e0 4.4.x via CyanogenMod"
+    ],
+    "processeur CPU": [
+        "processeur ARMv6 600 MHz, puces Qualcomm MSM7227"
+    ],
+    "GPU": [
+        "Adreno 200"
+    ],
+    "M\u00e9moire": [
+        "175 Mo"
+    ],
+    "Stockage": [
+        "128 Mo"
+    ],
+    "Stockage amovible": [
+        "microSDHC, jusqu'\u00e0 16 Go"
+    ],
+    "Batterie": [
+        "1200 mAh Li-Polymer rempla\u00e7able"
+    ],
+    "Entr\u00e9es de donn\u00e9es": [
+        "Touchscreen, acc\u00e9l\u00e9rom\u00e8tre, aGPS, magn\u00e9tom\u00e8tre, capteur de proximit\u00e9, boussole"
+    ],
+    "Affichage": [
+        "\u00e9cran tactile capacitif de 3,0 pouces (76 mm), 16 couleurs M, 320\u00d7480 pixels, \u00e9cran LCD TFT"
+    ],
+    "Connectivit\u00e9": [
+        "Bluetooth 2.1 avec A2DP, microUSB 2.0, prise audio 3,5 mm, aGPS, tuner st\u00e9r\u00e9o FM avec RDS, Wi-Fi b/g"
+    ]
+}

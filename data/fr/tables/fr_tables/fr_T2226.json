@@ -1,0 +1,124 @@
+{
+    "titre": [
+        "Terbium"
+    ],
+    "Prononciation": [
+        "/----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
+    ],
+    "Apparence": [
+        "blanc argent\u00e9"
+    ],
+    "Poids atomique standard Ar, std(Tb)": [
+        "158.925354(8)"
+    ],
+    "Num\u00e9ro atomique (Z)": [
+        "65"
+    ],
+    "Groupe": [
+        "Groupe n/a"
+    ],
+    "P\u00e9riode": [
+        "p\u00e9riode 6"
+    ],
+    "Bloc": [
+        "bloc f"
+    ],
+    "Cat\u00e9gorie d'\u00e9l\u00e9ment": [
+        "Lanthanide"
+    ],
+    "Configuration \u00e9lectronique": [
+        "[Xe] 4f 9 6s 2"
+    ],
+    "\u00c9lectrons par coque": [
+        "2, 8, 18, 27, 8, 2"
+    ],
+    "Phase au STP": [
+        "solide"
+    ],
+    "Point de fusion": [
+        "1629 K (1356 \u00b0C, 2473 \u00b0F)"
+    ],
+    "Point d'\u00e9bullition": [
+        "3396 K (3123 \u00b0C, 5653 \u00b0F)"
+    ],
+    "Densit\u00e9 (pr\u00e9sence de r.t.)": [
+        "8,23 g/cm 3"
+    ],
+    "lorsque liquide (\u00e0 m.p.)": [
+        "7,65 g/cm 3"
+    ],
+    "Chaleur de fusion": [
+        "10,15 kJ/mol"
+    ],
+    "Chaleur de vaporisation": [
+        "391 kJ/mol"
+    ],
+    "Capacit\u00e9 calorifique molaire": [
+        "28.91 J/(mol\u00b7K)"
+    ],
+    "\u00c9tat d'oxydation": [
+        "0, +1, +2, +3, +4 (oxyde faiblement basique)"
+    ],
+    "\u00c9chelle d'\u00e9lectron\u00e9gativit\u00e9": [
+        "Pauling: 1.2 (?)"
+    ],
+    "\u00c9nergies d'ionisation": [
+        "1\u00e8re: 565,8 kJ/mol",
+        "2\u00e8me: 1110 kJ/mol",
+        "3\u00e8me: 2114 kJ/mol"
+    ],
+    "Rayon atomique": [
+        "empirique: 177 pm"
+    ],
+    "Rayon covalent": [
+        "194\u00b15 pm"
+    ],
+    "\u00c9v\u00e9nement naturel": [
+        "primordial"
+    ],
+    "Vitesse de la tige mince du son": [
+        "2620 m/s (\u00e0 20 \u00b0C)"
+    ],
+    "Dilatation thermique": [
+        "\u00e0 r.t. \u03b1, poly: 10,3 \u03bcm/(m\u00b7K)"
+    ],
+    "Conductivit\u00e9 thermique": [
+        "11,1 W/(m\u00b7K)"
+    ],
+    "R\u00e9sistivit\u00e9 \u00e9lectrique": [
+        "\u03b1, poly: 1,150 \u03bc\u03b3\u00b7m (en t.r.)"
+    ],
+    "Commande magn\u00e9tique": [
+        "paramagn\u00e9tique \u00e0 300 K"
+    ],
+    "Sensibilit\u00e9 magn\u00e9tique": [
+        "+146,000\u00b710 \u22126 cm 3 /mol (273 K)"
+    ],
+    "Module de Young": [
+        "\u03b1 forme: 55.7 GPa"
+    ],
+    "Module de cisaillement": [
+        "\u03b1 forme: 22.1 GPa"
+    ],
+    "Module en vrac": [
+        "\u03b1 forme: 38.7 GPa"
+    ],
+    "Rapport Poisson": [
+        "\u03b1 forme: 0,261"
+    ],
+    "duret\u00e9 Vickers": [
+        "450-865 MPa"
+    ],
+    "duret\u00e9 Brinell": [
+        "675-1200 MPa"
+    ],
+    "Num\u00e9ro CAS": [
+        "7440-27-9"
+    ],
+    "Nom": [
+        "apr\u00e8s Ytterby (Su\u00e8de), o\u00f9 il a \u00e9t\u00e9 extrait"
+    ],
+    "D\u00e9couverte et premier isolement": [
+        "Carl Gustaf Mosander (1843)"
+    ]
+}

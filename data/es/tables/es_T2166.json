@@ -1,0 +1,35 @@
+{
+    "T\u00edtulo": [
+        "\u201cMicroBee\u201d"
+    ],
+    "Desarrollador": [
+        "Tecnolog\u00eda aplicada"
+    ],
+    "Tipo": [
+        "Computadores dom\u00e9sticos"
+    ],
+    "Fecha de lanzamiento": [
+        "febrero 1982; hace 37 a\u00f1os (1982-02)"
+    ],
+    "Precio introductorio": [
+        "A$399 en Kit Form"
+    ],
+    "Discontinuado": [
+        "1990; hace 29 a\u00f1os (1990)"
+    ],
+    "Sistema operativo": [
+        "MicroWorld BASIC, DGOS (Sistema Operativo David Griffiths)"
+    ],
+    "CPU": [
+        "Zilog Z80 @ 2 MHz"
+    ],
+    "Memoria": [
+        "16 kB o 32 kB"
+    ],
+    "Gr\u00e1ficos": [
+        "Controlador Synertek 6545 CRT para 64 \u00d7 16 caracteres (512 \u00d7 256 p\u00edxeles)"
+    ],
+    "Sonido": [
+        "Generador de sonido mon\u00f3tono y altavoces, 2 octavas"
+    ]
+}

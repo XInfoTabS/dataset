@@ -1,0 +1,44 @@
+{
+    "Titel": [
+        "Erster Weltkrieg"
+    ],
+    "Datum": [
+        "28. Juli 1914 – 11. November 1918 (4 Jahre, 3 Monate und 2 Wochen)"
+    ],
+    "Friedensverträge": [
+        "Vertrag von Versailles unterzeichnet 28. Juni 1919 (4 Jahre und 11 Monate)",
+        "Vertrag von Saint-Germain-en-Laye Unterzeichnet am 10. September 1919 (5 Jahre, 1 Monat, 1 Woche und 6 Tage)",
+        "Vertrag von Neuilly-sur-Seine unterzeichnet 27. November 1919 (4 Jahre, 1 Monat, 1 Woche und 6 Tage)",
+        "Vertrag von Trianon unterzeichnet 4. Juni 1920 (5 Jahre, 10 Monate und 1 Woche)",
+        "Vertrag von Sèvres unterzeichnet 10. August 1920 (6 Jahre, 1 Woche und 6 Tage)",
+        "Vereinigte Staaten–Österreich Friedensvertrag unterzeichnet 24. August 1921 (3 Jahre, 8 Monate, 2 Wochen und 3 Tage)",
+        "Vereinigte Staaten–Deutschland Friedensvertrag Unterzeichnet am 25. August 1921 (4 Jahre, 4 Monate, 2 Wochen und 5 Tage)",
+        "Vereinigte Staaten–Ungarn Friedensvertrag am 29. August 1921 unterzeichnet (3 Jahre, 8 Monate, 3 Wochen und 1 Tag)",
+        "Vertrag von Lausanne Unterzeichnet am 24. Juli 1923 (8 Jahre, 8 Monate, 3 Wochen und 4 Tage)"
+    ],
+    "Veranstaltungsort": [
+        "Europa",
+        "China"
+    ],
+    "Ort": [
+        "Afrika",
+        "Der Nahe Osten",
+        "Die Pazifikinseln",
+        "Indischer Ozean",
+        "Nord- und Südatlantischer Ozean"
+    ],
+    "Ergebnis": [
+        "Sieg der Alliierten",
+        "Sieg der Zentralmächte an der Ostfront durch Niederlage an der Westfront annulliert",
+        "Fall aller Kontinentalreiche in Europa (einschließlich Deutschland, Russland, Türkei und Österreich-Ungarn)",
+        "Russische Revolution und Russischer Bürgerkrieg – der Zusammenbruch des Russischen Reiches und die anschließende Bildung der Sowjetunion",
+        "Beginn des türkischen Unabhängigkeitskrieges",
+        "Weitverbreitete Unruhen und Revolutionen in ganz Europa und Asien",
+        "Aufstieg des Faschismus in Europa",
+        "Gründung des Völkerbundes"
+    ],
+    "Territoriale Veränderungen": [
+        "Bildung neuer Länder in Europa und im Nahen Osten",
+        "Durchlauf deutscher Kolonien und Territorien, Gebiete des ehemaligen Osmanischen Reiches, Gebiete des ehemaligen Österreich-Ungarn-Reichs und Gebiete der Sowjetunion in andere Länder"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "Titel": [
+        "E-Linie"
+    ],
+    "System": [
+        "„RapidRide"
+    ],
+    "Betreiber": [
+        "King County Metro"
+    ],
+    "Garage": [
+        "Atlantische Basis"
+    ],
+    "Fahrzeug": [
+        "Neue Flyer Gelenkbusse, Neuer Flyer XDE60"
+    ],
+    "Began-Service": [
+        "15. Februar 2014"
+    ],
+    "Vorgänger": [
+        "Route 358X"
+    ],
+    "Locale": [
+        "King County"
+    ],
+    "Start": [
+        "Aurora Village Transit Center, Shoreline"
+    ],
+    "Via": [
+        "Aurora Avenue N, 3rd Ave"
+    ],
+    "Ende": [
+        "Pioneer Square, Downtown Seattle"
+    ],
+    "Länge": [
+        "12,5 Meilen (20,1 km)"
+    ],
+    "Frequenz": [
+        "Peak: 5-12 Minuten",
+        "Off-Speak: 10-15 Minuten",
+        "Frühmorgens und abends: 24-60 Minuten"
+    ],
+    "Wochenendfrequenz": [
+        "15 Minuten (meistens)"
+    ],
+    "Fahrzeit": [
+        "1 Stunde, 2 Minuten"
+    ],
+    "Funktioniert": [
+        "4:30 Uhr-3:00 Uhr"
+    ],
+    "Fahrt": [
+        "15.800 (Wochentagsdurchschnitt, Frühjahr 2015)"
+    ],
+    "Fahrplan": [
+        "E Linienfahrplan"
+    ],
+    "Karte": [
+        "E Linienkarte"
+    ]
+}

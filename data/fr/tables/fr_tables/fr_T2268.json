@@ -1,0 +1,45 @@
+{
+    "titre": [
+        "Union TurnpikeManhattan-Queens Express"
+    ],
+    "Syst\u00e8me": [
+        "MTA Regional Bus Operations"
+    ],
+    "Op\u00e9rateur": [
+        "MTA Bus Company"
+    ],
+    "Garage": [
+        "D\u00e9p\u00f4t de point de coll\u00e8ge"
+    ],
+    "V\u00e9hicule": [
+        "Industries des autocars moteurs D4500",
+        "Industries des autocars moteurs D4500CL"
+    ],
+    "D\u00e9but du service": [
+        "26 f\u00e9vrier 1968 (QM1)"
+    ],
+    "Locale": [
+        "Queens, Manhattan"
+    ],
+    "Collectivit\u00e9s desservies": [
+        "Queens: Kew Gardens Hills, Hillcrest, Meadows frais, Oakland Gardens, Bellaire, Little Neck, Glen Oaks, Floral Park"
+    ],
+    "D\u00e9but": [
+        "Meadows frais, Queens - 188th Street & Horace Harding Expressway (QM1, QM7, QM31), Glen Oaks, Queens - 260th Street & Union Turnpike (QM5, QM8, QM35), Glen Oaks, Queens / Lake Success, Nassau County - North Shore Towers (QM6, QM36)"
+    ],
+    "Via": [
+        "Union Turnpike, Queens Boulevard, Long Island Expressway & Midtown Tunnel (vers l'ouest) / Queensboro Bridge (vers l'est)"
+    ],
+    "Fin": [
+        "Midtown Manhattan - Sixth Avenue (QM1, QM5, QM6), Midtown Manhattan - Third Avenue (QM31, QM35, QM36), Downtown Manhattan - Downtown Loop (QM7, QM8)"
+    ],
+    "Patentage annuel": [
+        "QM1/QM31: 115 135 (2016), QM5/QM35: 502 997 (2016), QM6/QM36: 270 411 (2016), QM7: 167 127 (2016), QM8: 148 744 (2016)"
+    ],
+    "Transferts": [
+        "Oui"
+    ],
+    "Horaire": [
+        "QM1/QM5/QM6/QM31/QM35/QM36, QM7/QM8"
+    ]
+}

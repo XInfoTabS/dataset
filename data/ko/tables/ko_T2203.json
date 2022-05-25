@@ -1,0 +1,111 @@
+{
+    "제목": [
+        "Samsung Galaxy Note9"
+    ],
+    "코드 이름": [
+        "크로우"
+    ],
+    "브랜드": [
+        "Samsung Galaxy"
+    ],
+    "제조사": [
+        "Samsung Electronics"
+    ],
+    "슬로건": [
+        "새로운 슈퍼 강력한 노트"
+    ],
+    "시리즈": [
+        "Samsung Galaxy Note"
+    ],
+    "모델": [
+        "국제 모델 :, SM-N960x (마지막 문자는 운송사 및 국제 모델에 따라 다릅니다)",
+        "일본 모델 :, SCV40 (au), SC-01L (NTT Docomo)"
+    ],
+    "호환되는 네트워크": [
+        "2G, 3G, 4G, 4G LTE"
+    ],
+    "처음 출시": [
+        "9 8 월 2018; 14 개월 전 (2018-08-09)"
+    ],
+    "이전": [
+        "Samsung Galaxy Note 8"
+    ],
+    "후계자": [
+        "Samsung Galaxy Note 10"
+    ],
+    "관련": [
+        "삼성 갤럭시 S9, 삼성 갤럭시 A9 (2018)"
+    ],
+    "유형": [
+        "전화"
+    ],
+    "형식 요인": [
+        "Slate"
+    ],
+    "차원": [
+        "H : 161.9 mm (6.37 인치), W : 76.4 mm (3.01 인치), D : 8.8 mm (0.35 인치)"
+    ],
+    "무게": [
+        "201 g (7.1 oz)"
+    ],
+    "운영체제": [
+        "원본 : Android Oreo 8.1 with Samsung Experience 9.5, 현재 : Android Pie 9 with Samsung One UI 1.0"
+    ],
+    "칩 시스템": [
+        "글로벌 : Samsung Exynos 9810, 미국, 캐나다, 중국 및 일본 : Qualcomm Snapdragon 845"
+    ],
+    "CPU": [
+        "Exynos : Octa-core (4x2.7 GHz Cortex-A55 & 4x1.7 GHz Mongoose M3), Snapdragon : Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver)"
+    ],
+    "GPU": [
+        "엑시노스 Mali-G72 MP18",
+        "스냅 드래곤: Adreno 630"
+    ],
+    "메모리": [
+        "6 GB (128 GB 모델) 8 GB (512 GB 모델)"
+    ],
+    "스토리지": [
+        "128 GB 또는 512 GB UFS 2.1"
+    ],
+    "휴대용 스토리지": [
+        "microSD 카드 지원 최대 512 GB"
+    ],
+    "배터리": [
+        "4000 mAh (제거할 수 없습니다)"
+    ],
+    "데이터 입력 (센서)": [
+        "Accelerometer",
+        "바로미터",
+        "손가락 지문 스캐너 (뒤로 탑재)",
+        "아이리스 스캐너",
+        "Geomagnetic sensor",
+        "Gyroscope",
+        "홀 센서",
+        "Proximity sensor",
+        "심장 박동 및 혈액 산소 포화 센서"
+    ],
+    "데이터 입력 (다른)": [
+        "S Pen",
+        "Physical sound volume keys",
+        "Bixby 키"
+    ],
+    "디스플레이": [
+        "6.4 인치 (162.0 mm)",
+        "슈퍼 AMOLED 용량 터치 스크린, 2960x1440 px 해상도 (516 ppi)"
+    ],
+    "뒷 카메라": [
+        "이중 12 MP (1.4 μm, f/1.5/2.4) + 12 MP ((1.0 μm), f/2.4), 이중 OIS, 30 또는 60 fps에서 4K (최대 5 분)[1], 30 fps에서 QHD, 30 또는 60 fps에서 1080p, 30 fps에서 720p 및 960 fps에서 느린 움직임"
+    ],
+    "프론트 카메라": [
+        "8 MP (1.22 μm, f/1.7), 자동 초점"
+    ],
+    "사운드": [
+        "Stereo 스피커 AKG와 Dolby Atmos 지원"
+    ],
+    "연결": [
+        "Wi-Fi 802.11 a/b/g/n/ac (2.4/5GHz), VHT80, MU-MIMO, 1024-QAM Bluetooth 5.0 (LE 최대 2Mbps), ANT+, USB-C, 3.5mm 헤드폰 잭, NFC, 위치 (GPS, 갈릴레오, GLONASS, BeiDou)"
+    ],
+    "웹사이트": [
+        "www.samsung.com/global/galaxy/galaxy-note9/"
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "titre": [
+        "Sodium"
+    ],
+    "Apparence": [
+        "m\u00e9tallis\u00e9 blanc argent\u00e9"
+    ],
+    "Poids atomique standard Ar, std(Na)": [
+        "22.98976928(2)"
+    ],
+    "Num\u00e9ro atomique (Z)": [
+        "11"
+    ],
+    "Groupe": [
+        "Groupe 1: H et m\u00e9taux alcalins"
+    ],
+    "P\u00e9riode": [
+        "P\u00e9riode 3"
+    ],
+    "Bloc": [
+        "s-block"
+    ],
+    "Cat\u00e9gorie \u00e9l\u00e9ment": [
+        "Alkali m\u00e9tal"
+    ],
+    "Configuration \u00e9lectronique": [
+        "[Ne] 3s 1"
+    ],
+    "\u00c9lectrons par r\u00e9servoir": [
+        "2, 8, 1"
+    ],
+    "Phase au STP": [
+        "solide"
+    ],
+    "Point de fusion": [
+        "370.944 K (97.794 \u00b0C, 208.029 \u00b0F)"
+    ],
+    "Point d'\u00e9bullition": [
+        "1156.090 K (882.940 \u00b0C, 1621.292 \u00b0F)"
+    ],
+    "Densit\u00e9 (pr\u00e9cise r.t.)": [
+        "0,968 g/cm 3"
+    ],
+    "lorsque liquide (\u00e0 m.p.)": [
+        "0,927 g/cm 3"
+    ],
+    "Point critique": [
+        "2573 K, 35 MPa (extrapol\u00e9)"
+    ],
+    "Chaleur de fusion": [
+        "2,60 kJ/mol"
+    ],
+    "Chaleur de vaporisation": [
+        "97,42 kJ/mol"
+    ],
+    "Capacit\u00e9 calorifique molaire": [
+        "28.230 J/(mol\u00b7K)"
+    ],
+    "\u00c9tat d'oxydation": [
+        "\u22121, +1 (un oxyde fortement basique)"
+    ],
+    "\u00c9chelle d'\u00e9puration": [
+        ": 0,93"
+    ],
+    "\u00c9nergies d'ionisation": [
+        "1\u00e8re: 495,8 kJ/mol",
+        "2\u00e8me: 4562 kJ/mol",
+        "3\u00e8me: 6910.3 kJ/mol",
+        "(plus)"
+    ],
+    "Rayon atomique": [
+        "empirique: 186 pm"
+    ],
+    "Rayon covalent": [
+        "166\u00b19 pm"
+    ],
+    "Rayon Van der Waals": [
+        "227 pm"
+    ],
+    "\u00c9v\u00e9nement naturel": [
+        "primordial"
+    ],
+    "Vitesse de la tige mince du son": [
+        "3200 m/s (\u00e0 20 \u00b0C)"
+    ],
+    "Dilatation thermique": [
+        "71 \u03bcm/(m\u00b7K) (\u00e0 25 \u00b0C)"
+    ],
+    "Conductivit\u00e9 thermique": [
+        "142 W/(m\u00b7K)"
+    ],
+    "R\u00e9sistivit\u00e9 \u00e9lectrique": [
+        "47,7 n-\u00b7m (\u00e0 20 \u00b0C)"
+    ],
+    "Commande magn\u00e9tique": [
+        "paramagn\u00e9tique"
+    ],
+    "Sensibilit\u00e9 magn\u00e9tique": [
+        "+16,0 \u00b710 -6 cm 3 /mol (298 K)"
+    ],
+    "Module de Young": [
+        "10 GPa"
+    ],
+    "Module de karit\u00e9": [
+        "3.3 GPA"
+    ],
+    "Module en vrac": [
+        "6.3 GPa"
+    ],
+    "duret\u00e9 Mohs": [
+        "0,5"
+    ],
+    "duret\u00e9 Brinell": [
+        "0,69 MPa"
+    ],
+    "Num\u00e9ro CAS": [
+        "7440-23-5"
+    ],
+    "D\u00e9couverte et premier isolement": [
+        "Humphry Davy (1807)"
+    ]
+}

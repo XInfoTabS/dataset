@@ -1,0 +1,44 @@
+{
+    "Titel": [
+        "Luftzug"
+    ],
+    "Typ": [
+        "Personenbeweger"
+    ],
+    "Status": [
+        "Betrieb"
+    ],
+    "Locale": [
+        "Kuala Lumpur International Airport, Malaysia"
+    ],
+    "Bahnhöfe": [
+        "2"
+    ],
+    "Dienstleistungen": [
+        "1"
+    ],
+    "eröffnet": [
+        "1998"
+    ],
+    "Eigentümer": [
+        "Malaysia Airports Holdings Berhad"
+    ],
+    "Betreiber": [
+        "Engineering Transportation, Malaysia Airport (Sepang) Sdn. Bhd."
+    ],
+    "Charakter": [
+        "Serviert sterile Teile des Flughafens"
+    ],
+    "Fahrzeuge": [
+        "3-Auto 2 Züge von Bombardier Innovia APM 100"
+    ],
+    "Gleislänge": [
+        "1,2 km"
+    ],
+    "Betriebsgeschwindigkeit": [
+        "Höchstgeschwindigkeit 56,3 km/h (35 mph), Mindestgeschwindigkeit 46,7 km/h (29 mph)"
+    ],
+    "Höchste Höhe": [
+        "Teilweise unter Tage"
+    ]
+}

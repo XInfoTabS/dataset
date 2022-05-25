@@ -1,0 +1,54 @@
+{
+    "\u6807\u9898": [
+        "\u201cDebian\u201d"
+    ],
+    "\u5f00\u53d1\u8005": [
+        "Debian \u9879\u76ee"
+    ],
+    "OS \u5bb6\u65cf": [
+        "Linux (Unix \u7c7b\u578b)"
+    ],
+    "\u5de5\u4f5c\u72b6\u6001": [
+        "\u76ee\u524d"
+    ],
+    "\u6e90\u6a21\u578b": [
+        "\u5f00\u6e90"
+    ],
+    "\u521d\u7248": [
+        "1993\u5e749\u6708;26\u5e74\u524d(1993-09)"
+    ],
+    "\u6700\u65b0\u7248\u672c": [
+        "10.1 (Buster) (2019\u5e749\u67087\u65e5; 47 \u5929\u524d (2019-09-07)) [\u00b1]"
+    ],
+    "\u6700\u65b0\u9884\u89c8": [
+        "11 (Bullseye)"
+    ],
+    "\u53ef\u7528\u65bc": [
+        "75 \u7a2e\u8a9e\u8a00"
+    ],
+    "\u66f4\u65b0\u65b9\u6cd5": [
+        "\u957f\u671f\u652f\u6301"
+    ],
+    "\u5305\u7ba1\u7406\u5668": [
+        "APT(\u524d\u7aef),dpkg"
+    ],
+    "\u5e73\u53f0": [
+        "x86-64, arm64, armel, armhf, i386, mips, mipsel, mips64el, ppc64el, s390x, riscv64 (\u6b63\u5728\u8fdb\u884c\u4e2d)"
+    ],
+    "\u5185\u6838\u7c7b\u578b": [
+        "\u201cMonolithic (Linux)\u201d"
+    ],
+    "\u7528\u6237\u56fd": [
+        "\u201cGNU\u201d"
+    ],
+    "\u9ed8\u8ba4\u7528\u6237\u754c\u9762": [
+        "GNOME \u5728 DVD \u4e0a",
+        "XFCE \u5728 CD \u548c\u975e Linux \u7aef\u53e3"
+    ],
+    "\u8bb8\u53ef\u8bc1": [
+        "DFSG\u517c\u5bb9\u8bb8\u53ef\u8bc1"
+    ],
+    "\u5b98\u65b9\u7f51\u7ad9": [
+        "www.debian.org"
+    ]
+}

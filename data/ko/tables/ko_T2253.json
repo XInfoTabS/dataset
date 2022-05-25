@@ -1,0 +1,47 @@
+{
+    "제목": [
+        "브라이튼 메인 라인"
+    ],
+    "유형": [
+        "기차, 기차"
+    ],
+    "시스템": [
+        "국제 철도"
+    ],
+    "상태": [
+        "운영"
+    ],
+    "로컬": [
+        "Greater London, South East England"
+    ],
+    "Termini": [
+        "런던 브리지, 런던 빅토리아, 브라이튼"
+    ],
+    "오픈되었습니다": [
+        "1839-1841"
+    ],
+    "소유자": [
+        "네트워크 철도"
+    ],
+    "운영자": [
+        "Southern Thameslink, Great Western Railway, London Overground"
+    ],
+    "레포트": [
+        "Selhurst, Brighton Lovers Walk, Stewarts Lane"
+    ],
+    "롤링 스토어": [
+        "Class 165 Turbo, Class 166 Turbo Express, Class 171 Turbostar, Class 377 Electrostar, Class 378 Capitalstar, Class 387 Electrostar, Class 455, Class 700 Desiro City"
+    ],
+    "트랙 수": [
+        "2-4"
+    ],
+    "트랙 게이지": [
+        "4 ft 8 1⁄ 2 in (1,435 mm) 표준 게이지"
+    ],
+    "전기": [
+        "750 V DC 제 3 철도"
+    ],
+    "운영 속도": [
+        "시간당 90 마일 (140 km / h) 최대"
+    ]
+}

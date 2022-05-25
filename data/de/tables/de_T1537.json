@@ -1,0 +1,25 @@
+{
+    "Titel": [
+        "Oberflächentemperatur."
+    ],
+    "Oberflächendruck": [
+        "20-200 kPa; 70 kPa"
+    ],
+    "Maßstabshöhe": [
+        "27 km (17 mi)"
+    ],
+    "Zusammensetzung nach Volumen": [
+        "89% +- 2,0% Wasserstoff (H 2 )",
+        "10% +- 2.0% Helium (He)",
+        "0,3% + 0,1% Methan (CH 4 )",
+        "0,026% +- 0,004% Ammoniak (NH 3 )",
+        "0,0028% +- 0,001% Wasserstoffdeuterid (HD)",
+        "0.0006% +- 0.0002% Ethan (C 2 H 6 )",
+        "0.0004% +- 0.0004% Wasser (H 2 O)"
+    ],
+    "Eis": [
+        "Ammoniak (NH 3 )",
+        "Wasser (H 2 O)",
+        "Ammoniumhydrosulfid (NH 4 SH)"
+    ]
+}

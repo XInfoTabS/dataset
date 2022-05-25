@@ -1,0 +1,35 @@
+{
+    "Titel": [
+        "Herzstillstand"
+    ],
+    "Beschreibung": [
+        "CPR wird während einer Simulation von Herzstillstand verabreicht."
+    ],
+    "Spezialität": [
+        "Kardiologie, Notfallmedizin"
+    ],
+    "Symptome": [
+        "Bewusstlosigkeit, abnormale oder keine Atmung"
+    ],
+    "Üblicher Beginn": [
+        "Älteres Alter"
+    ],
+    "Ursachen": [
+        "Koronare Herzkrankheit, angeborener Herzfehler, großer Blutverlust, Sauerstoffmangel, sehr niedriges Kalium, Herzinsuffizienz"
+    ],
+    "Diagnostische Methode": [
+        ""
+    ],
+    "Prävention": [
+        "Nicht rauchen, körperliche Aktivität, Aufrechterhaltung eines gesunden Gewichts"
+    ],
+    "Behandlung": [
+        "Kardiopulmonale Reanimation (CPR), Defibrillation"
+    ],
+    "Prognose": [
+        "Überlebensrate ~ 10% (außerhalb des Krankenhauses) 25% (im Krankenhaus)"
+    ],
+    "Häufigkeit": [
+        "13 pro 10.000 Menschen pro Jahr (außerhalb des Krankenhauses in den USA)"
+    ]
+}

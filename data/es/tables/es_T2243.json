@@ -1,0 +1,50 @@
+{
+    "t\u00edtulo": [
+        "B1"
+    ],
+    "Sistema": [
+        "Zhengzhou BRT"
+    ],
+    "Operador": [
+        "Zhengzhou Bus Communication Corporation"
+    ],
+    "Veh\u00edculo": [
+        "Yutong ZK6180CHEVNPG3 (18m)"
+    ],
+    "Liverpool": [
+        "Green"
+    ],
+    "Estado": [
+        "Operativo"
+    ],
+    "Comenz\u00f3 el servicio": [
+        "2009"
+    ],
+    "Predecesores": [
+        "Zhengzhou Bus Route 96"
+    ],
+    "Local": [
+        "Gij\u00f3n"
+    ],
+    "Inicio": [
+        "Zhongzhou Avenue y Nongye Road"
+    ],
+    "End": [
+        "Dianchang Road B/T"
+    ],
+    "Longitud": [
+        "26 km (16 mi)"
+    ],
+    "Paradas": [
+        "32"
+    ],
+    "Nivel": [
+        "Diario"
+    ],
+    "Frecuencia": [
+        "Cada 2-5 minutos"
+    ],
+    "Operaciones": [
+        "6:00 am - 9:30 pm"
+    ]
+}

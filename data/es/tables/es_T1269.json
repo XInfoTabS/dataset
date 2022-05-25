@@ -1,0 +1,77 @@
+{
+    "t\u00edtulo": [
+        "Classe Kuznestov"
+    ],
+    "Constructores": [
+        "Chernomorskiy Shipyard 444Dalian Shipbuilding Industry"
+    ],
+    "Precedido por:": [
+        "clase Kiev"
+    ],
+    "Sucedido por:": [
+        "Clase Ulyanovsk (cancelado)",
+        "Tipo 002 clase (en construcci\u00f3n)",
+        "Proyecto 23000E (planeado)"
+    ],
+    "Subclases:": [
+        "Tipo 001"
+    ],
+    "Construido:": [
+        "1 de abril de 1982-present"
+    ],
+    "En comisi\u00f3n:": [
+        "25 de diciembre de 1990 presente"
+    ],
+    "Completado:": [
+        "2"
+    ],
+    "Activo:": [
+        "1 (+1 en proceso de remodelaci\u00f3n)"
+    ],
+    "Tipo:": [
+        "Cruiser de aeronaves/Cruiser de aeronaves"
+    ],
+    "Desplazamiento:": [
+        "43,000 toneladas (42,000 toneladas largas; 47,000 toneladas cortas), ligero",
+        "55.000 toneladas (54.000 toneladas largas; 61.000 toneladas cortas), est\u00e1ndar",
+        "58.600 toneladas (57.700 toneladas largas; 64.600 toneladas cortas), max"
+    ],
+    "Longitud:": [
+        "305 m (1,001 pies)"
+    ],
+    "Beam:": [
+        "72 m (236 pies)"
+    ],
+    "Trayectoria:": [
+        "11 m (36 pies)"
+    ],
+    "Propulsi\u00f3n:": [
+        "Turbinas de vapor 80.000 shp (60.000 kW)",
+        "200,000 shp (150,000 kW)"
+    ],
+    "Velocidad:": [
+        "29 kn (54 km/h; 33 mph)"
+    ],
+    "Rango:": [
+        "8.500 nmi (15.700 km; 9.800 mi) @ 18 kn (33 km/h; 21 mph) 3.800 nmi (7.000 km; 4.400 mi) @ 29 kn (54 km/h; 33 mph)"
+    ],
+    "Complemento:": [
+        "1,500"
+    ],
+    "Armamento:": [
+        "12 misiles antia\u00e9reos P-700 Granit (SS-N-19 Shipwreck)",
+        "192 3K95 Kinzhal (SA-N-9 Gauntlet) SAMs",
+        "8 monta\u00f1as Kashtan CIWS",
+        "6 fusiles AK-630 AA",
+        "1 lanzador de cohetes UDAV-1 ASW"
+    ],
+    "Aviones transportados:": [
+        "30-50",
+        "18-32 \u00d7 aviones de ala fija",
+        "18-24 \u00d7 helic\u00f3pteros"
+    ],
+    "Instalaciones de aviaci\u00f3n:": [
+        "Puente de aterrizaje detenido",
+        "Bow ski-jump"
+    ]
+}

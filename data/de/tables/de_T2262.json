@@ -1,0 +1,104 @@
+{
+    "Titel": [
+        "Wasserstoff, 1H"
+    ],
+    "Aussehen": [
+        "farbloses Gas"
+    ],
+    "Standard Atomgewicht.mw-parser-Ausgang.nobold{font-Gewicht:normal} Ar, std(H)": [
+        "[1.00784, 1.00811] konventionell: 1.008"
+    ],
+    "Atomnummer (Z)": [
+        "1"
+    ],
+    "Gruppe": [
+        "1: H und Alkalimetalle"
+    ],
+    "Zeitraum": [
+        "Zeitraum 1"
+    ],
+    "Block": [
+        "s-block"
+    ],
+    "Elementkategorie": [
+        "Reaktives Nichtmetall"
+    ],
+    "Elektronenkonfiguration": [
+        "1s 1"
+    ],
+    "Elektronen pro Schale": [
+        "1"
+    ],
+    "Phase bei der GfbV": [
+        "Gas"
+    ],
+    "Schmelzpunkt": [
+        "(H 2 ) 13.99 K (−259.16 °C, −434.49 °F)"
+    ],
+    "Siedepunkt": [
+        "(H 2 ) 20.271 K (−252.879 °C, −423.182 °F)"
+    ],
+    "Dichte (bei GfbV)": [
+        "0,08988 g/L"
+    ],
+    "bei Flüssigkeit (bei m.p.)": [
+        "0,07 g/cm 3 (fest: 0,0763 g/cm 3 )"
+    ],
+    "wenn flüssig (bei b.p.)": [
+        "0.07099 g/cm 3"
+    ],
+    "Dreifachpunkt": [
+        "13.8033 K, 7.041 kPa"
+    ],
+    "Kritischer Punkt": [
+        "32.938 K, 1.2858 MPa"
+    ],
+    "Fusionswärme": [
+        "(H 2 ) 0,117 kJ/mol"
+    ],
+    "Verdampfungswärme": [
+        "(H 2 ) 0,904 kJ/mol"
+    ],
+    "Molare Wärmekapazität": [
+        "(H 2 ) 28.836 J/(mol·K)"
+    ],
+    "Oxidationszustände": [
+        "−1, +1 (Amphoteroxid)"
+    ],
+    "Elektronegativität": [
+        "Pauling-Skala: 2.20"
+    ],
+    "Ionisierungsenergien": [
+        "1.: 1312.0 kJ/mol"
+    ],
+    "Gleichwertiger Radius": [
+        "31±5 pm"
+    ],
+    "Van der Waals Radius": [
+        "120 pm"
+    ],
+    "natürliches Vorkommen": [
+        "ursprüngliche"
+    ],
+    "Schallgeschwindigkeit": [
+        "1310 m/s (Gas, 27 °C)"
+    ],
+    "Wärmeleitfähigkeit": [
+        "0,1805 W/(m·K)"
+    ],
+    "Magnetische Ordnung": [
+        "Diamagnetisch"
+    ],
+    "Magnetische Empfindlichkeit": [
+        "−3,98·10 −6 cm 3 /mol (298 K)"
+    ],
+    "CAS-Nummer": [
+        "12385-13-6, 1333-74-0 (H 2 )"
+    ],
+    "Entdeckung": [
+        "Henry Cavendish (1766)"
+    ],
+    "benannt von": [
+        "Antoine Lavoisier (1783)"
+    ]
+}

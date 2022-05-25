@@ -1,0 +1,1801 @@
+,annotater_id,table_id,hypothesis,label
+0,GW74,T2045,La plupart des survivants étaient membres d'équipage.,E
+1,GW74,T2045,Les cinq victimes comprenaient 1 passager.,N
+2,GW74,T2045,Il y avait plus de survivants que d'équipage.,C
+3,GW52,T2045,La plupart des victimes de l'accident B-36 de la Colombie-Britannique de 1950 ont survécu.,E
+4,GW52,T2045,Le Coluimbia B-36 britannique de 1950 signale des problèmes de moteur avant l'accident.,N
+5,GW52,T2045,L'accident du B-36 de 1950 est dû à l'entrée des oiseaux dans la baie du moteur.,C
+6,GW95,T2045,Il y avait un passager pour chaque 16 membres de l'équipage.,E
+7,GW95,T2045,Toutes les victimes étaient membres de l'équipage.,N
+8,GW95,T2045,Plus de passagers que les membres de l'équipage sont morts.,C
+9,GW86,T2046,Le tremblement de terre de Jiji de 1999 a détruit ou endommagé plus de 100 000 bâtiments.,E
+10,GW86,T2046,Le tremblement de terre de 1999 a tué plus de 2 415 personnes.,N
+11,GW86,T2046,Le tremblement de terre de 1999 a détruit plus d'immeubles qu'il n'a endommagé.,C
+12,GW95,T2046,Le tremblement de terre de Jiji a eu lieu en Asie.,E
+13,GW95,T2046,La plupart des bâtiments endommagés étaient des maisons.,N
+14,GW95,T2046,Ce tremblement de terre a eu lieu au début du millénaire.,C
+15,GW74,T2046,Le temps local a une différence de six heures par rapport au temps UTC,E
+16,GW74,T2046,29 personnes sont disparues depuis 20 ans,N
+17,GW74,T2046,La date du temps UTC et la date de localisation sont les mêmes,C
+18,GW12,T2047,Le « tremblement de terre et tsunami de 2004 dans l'océan Indien » a eu lieu le 26 décembre sur les zones côtières de l'océan Indien.,E
+19,GW12,T2047,Le total des dommages causés par le tremblement de terre et le tsunami de 2004 dans l'océan Indien s'élevait à plus de 15 milliards de dollars américains.,N
+20,GW12,T2047,Les causes du tremblement de terre et du tsunami survenus en 2004 dans l'océan Indien ont fait moins de 200 000 morts.,C
+21,GW28,T2047,« 2004 Indian Ocean earthquake and tsunami » a eu lieu en Asie.,E
+22,GW28,T2047,« Le tremblement de terre et le tsunami de 2004 dans l'océan Indien » ont été ressentis aussi loin que l'Europe.,N
+23,GW28,T2047,La date et l'heure exactes du « tremblement de terre et du tsunami de 2004 dans l'océan Indien » n'ont pas été déterminées.,C
+24,GW52,T2047,Le tremblement de terre/tsunami de 2004 a tué plus de 200 000 personnes.,E
+25,GW52,T2047,Le tremblement de terre/tsunami de 2004 a été ressenti sur plusieurs continents.,N
+26,GW52,T2047,Le tremblement de terre/tsunami de 2004 a été qualifié d'un tremblement de terre extrême.,C
+27,GW63,T2048,Un tremblement de terre sévère s'est produit en Indonésie après 2004.,E
+28,GW63,T2048,Seule une partie de l'Indonésie a été touchée par le tremblement de terre Nias-Simeulue.,N
+29,GW63,T2048,Il n'y a eu que des tremblements de terre légères en Asie.,C
+30,GW12,T2048,Le « tremblement de terre 2005 Nias–Simeulue » a eu lieu en 2005 à 23:09 heure locale.,E
+31,GW12,T2048,Le tremblement de terre Nias-Simeulue de 2005 a touché la région de l'Indonésie.,N
+32,GW12,T2048,Il y a eu 915 blessés et 340 décès à la suite du tremblement de terre Nias-Simeulue de 2005.,C
+33,GW28,T2048,Le tremblement de terre Nias-Simeulue de 2005 s'est produit en Asie et a frappé la nuit.,E
+34,GW28,T2048,Le tremblement de terre de 2005 Nias-Simeulue n'a produit aucun tsunami.,N
+35,GW28,T2048,Le tremblement de terre de 2005 Nias-Simeulue n'a pu être repéré avec aucune précision.,C
+36,GW52,T2049,Le tremblement de terre de Sichuan a coûté plus de 100 milliards de dollars en dommages.,E
+37,GW52,T2049,Le « tremblement de terre de 2008 Sichuan » a des dommages qui n'ont pas encore été réparés.,N
+38,GW52,T2049,Le tremblement de terre n'a jamais atteint une intensité supérieure à X.,C
+39,GW74,T2049,Il y a une différence de 8 heures entre le temps UTC et le temps local,E
+40,GW74,T2049,87 587 personnes ont été tuées à 14:28:01 CST,N
+41,GW74,T2049,La date du temps UTC et le temps local sont différents,C
+42,GW1,T2049,Plus d'un quart de million de personnes ont été blessées dans le « tremblement de terre de Sichuan de 2008 ».,E
+43,GW1,T2049,Le « tremblement de terre de 2008 de Sichuan » est le seul tremblement de terre qui a été lié à la Fault de Longmenshan.,N
+44,GW1,T2049,Le « tremblement de terre de 2008 de Sichuan » a eu lieu en hiver 2008.,C
+45,GW63,T2050,Plus de 6 000 personnes ont été blessées et plus de 300 milliards de dollars ont été endommagés lors du tremblement de terre de mars 2011,E
+46,GW63,T2050,Il y a eu des séismes après le tremblement de terre du 6 mars 2018 qui s'est produit au Japon en 2011.,N
+47,GW63,T2050,USGS-ANSS ComCat n'est lié qu'au Japon et au Pacifique,C
+48,GW1,T2050,Le « tremblement de terre et tsunami de 2011 de Tōhoku » a causé plus d'un quart de trillion de dollars de dommages.,E
+49,GW1,T2050,"Le « tremblement de terre et tsunami de 2011 de Tōhoku » a été le premier tsunami qui a frappé Miyako, Iwate, Tōhoku.",N
+50,GW1,T2050,Plus de 30 000 victimes totales ont été causées par le « tremblement de terre et le tsunami de 2011 de Tōhoku ».,C
+51,GW105,T2050,Le tremblement de terre et le tsunami de Tōhoku ont été l'une des tempêtes les plus violentes survenues au printemps.,E
+52,GW105,T2050,Le littoral du Pacifique a été le plus touché par le tremblement de terre et le tsunami de Tōhoku.,N
+53,GW105,T2050,Des millions de personnes ont disparu au cours du tremblement de terre et du tsunami de Tōhoku.,C
+54,GW52,T2051,Le tremblement de terre d'Équateur de 2016 a causé plus de 500 victimes.,E
+55,GW52,T2051,Le tremblement de terre équatorien de 2016 a été ressenti aux États-Unis.,N
+56,GW52,T2051,Le tremblement de terre équatorien de 2016 a été qualifié de tremblement de terre extrême.,C
+57,GW28,T2051,Le tremblement de terre équatorien de 2016 a frappé et tué des centaines et blessé des milliers de personnes.,E
+58,GW28,T2051,Le tremblement de terre équatorien de 2016 a été le plus violent en Amérique du Sud depuis plus d'un siècle.,N
+59,GW28,T2051,Le tremblement de terre d'Équateur de 2016 a été localisé en Équateur et n'a pas affecté d'autres pays voisins.,C
+60,GW86,T2051,Le tremblement de terre d'Équateur de 2016 a été ressenti dans plus d'un pays.,E
+61,GW86,T2051,Le tremblement de terre d'Équateur de 2016 a tué précisément 668 personnes.,N
+62,GW86,T2051,Le tremblement de terre d'Équateur de 2016 n'a été ressenti qu'en Équateur.,C
+63,GW4,T2052,Le tremblement de terre du Pérou de 2019 a tué plus d'une personne.,E
+64,GW4,T2052,Le « tremblement de terre du Pérou de 2019 » a été l'un de ceux qui s'attendaient.,N
+65,GW4,T2052,Le tremblement de terre du Pérou de 2019 a été un tremblement de terre faible.,C
+66,GW1,T2052,Le tremblement de terre du Pérou de 2019 a blessé plus de deux douzaines de personnes.,E
+67,GW1,T2052,Le tremblement de terre du Pérou de 2019 a blessé plus de personnes au Pérou que l'Équateur.,N
+68,GW1,T2052,Le tremblement de terre du Pérou de 2019 a duré plus de trois heures.,C
+69,GW95,T2052,Ce tremblement de terre s'est produit tôt le matin.,E
+70,GW95,T2052,Les deux décès étaient équatoriens.,N
+71,GW95,T2052,Le tremblement de terre a été le plus mortel de l'histoire.,C
+72,GW28,T2053,« Acorn Microcomputer » a été diffusé avec une claviere mais pas un joystick.,E
+73,GW28,T2053,Acorn Microcomputer n'a été vendu qu'en Europe.,N
+74,GW28,T2053,« Acorn Microcomputer » comprenait des cartes sonores et des graphiques de pointe.,C
+75,GW12,T2053,Acorn Computers a mis au point le « Microcomputer Acorn » en 1979.,E
+76,GW12,T2053,Le Acorn Microcomputer dispose d'un clavier à 25 touches et d'un écran LED.,N
+77,GW12,T2053,La date de diffusion de l'Acorn Atom était il y a quarante ans.,C
+78,GW52,T2053,L'Acorn Microcomputer a démarré il y a plus de 40 ans.,E
+79,GW52,T2053,Le microordinateur Acorn a été considéré comme une solution de rechange peu coûteuse.,N
+80,GW52,T2053,Le microordinateur Acorn contient plus de 1MB de RAM.,C
+81,GW1,T2054,Le Aerotrain est partiellement au-dessus du sol.,E
+82,GW1,T2054,Aerotrain a toujours eu 2 stations.,N
+83,GW1,T2054,L'Aerotrain s'est ouvert au début du XXe siècle.,C
+84,GW63,T2054,Les hommes et les femmes peuvent utiliser l'Aerotrain en 2000.,E
+85,GW63,T2054,Malaysia Airports Holdings Berhad a construit et conçu l'Aerotrain.,N
+86,GW63,T2054,L'Aerotrain ne fonctionne qu'au-dessus du sol pour une distance de 2 km en Malaisie,C
+87,GW52,T2054,Aerotrain a été inauguré il y a plus de 20 ans.,E
+88,GW52,T2054,Aerotrain fluctue en vitesse sur la route.,N
+89,GW52,T2054,Aerotrain a une route de chemin de fer sur une mi.,C
+90,GW28,T2055,La trypanosomiasis africaine est une maladie infectieuse transmise par les mouches tsetse en Afrique.,E
+91,GW28,T2055,La « trypanosomiasis africaine » est née en Europe et s'est répandue en Afrique.,N
+92,GW28,T2055,La « trypanosomiasis africaine » contractée a été éradiquée il y a des décennies.,C
+93,GW95,T2055,La plupart des personnes qui en souffrent reçoivent un traitement.,E
+94,GW95,T2055,Les méthodes de diagnostic sont extrêmement douloureuses.,N
+95,GW95,T2055,90 p. 100 des personnes qui en souffrent meurent.,C
+96,GW4,T2055,La trypanosomie africaine a plus d'une phase.,E
+97,GW4,T2055,La maladie « trypanosomiasis africaine » ne provient qu'en Afrique.,N
+98,GW4,T2055,La trypanosomiasis africaine tue plus de 50 % des personnes qui la contractent.,C
+99,GW106,T2056,L'espérance de vie chez les patients atteints du sida augmente considérablement avec le traitement antirétroviral.,E
+100,GW106,T2056,La plupart des nouveaux cas de sida aux États-Unis se produisent à la suite de l'exposition au lait maternel.,N
+101,GW106,T2056,Les traitements antirétroviraux sont capables de soigner le sida chez un petit pourcentage de patients.,C
+102,GW19,T2056,Le virus de l'immunodéficience humaine (VIH) n'est plus considéré comme la peine de mort automatique qu'il était dans les années 1980.,E
+103,GW19,T2056,Le sexe non protégé est la principale méthode de transmission du VIH.,N
+104,GW19,T2056,"Si le VIH est diagnostiqué assez tôt, il peut être complètement guéri.",C
+105,GW28,T2056,"Le « VIH/sida » est une maladie infectieuse sans guérison connue, seul traitement.",E
+106,GW28,T2056,Le « VIH/sida » touche aussi bien les couples hétérosexuells que les couples homosexuels.,N
+107,GW28,T2056,Le « VIH/sida » est habituellement une peine de mort pour les personnes sans traitement.,C
+108,GW12,T2057,"Alfa Romeo est le fabricant du « moteur Alfa Romeo V6 », mais non le concepteur.",E
+109,GW12,T2057,L'aluminium Alfa Romeo V6 engine est également appelé l'Alfa Romeo V6 Busso.,N
+110,GW12,T2057,Le « moteur Alfa Romeo V6 » est en production depuis plus de 30 ans.,C
+111,GW4,T2057,Un « moteur Alfa Romeo V6 » a commencé à être fabriqué dans les années 70.,E
+112,GW4,T2057,Le moteur Alfa Romeo V6 a besoin de changements réguliers d'huile.,N
+113,GW4,T2057,Un « moteur Alfa Romeo V6 » est fabriqué avec un bloc d'acier.,C
+114,GW52,T2057,L'Alpha Romeo V6 a été en production pendant un quart de siècle.,E
+115,GW52,T2057,Le moteur V6 de Alfa Romeo a été utilisé dans plusieurs véhicules.,N
+116,GW52,T2057,Le V6 avait plus de 225 lb ft de torque.,C
+117,GW74,T2058,Altostratus undulatus cloud sont des nuages stratus vagues.,E
+118,GW74,T2058,Altostratus undulatus cloud se trouve toujours à une altitude de 2400-6100 m,N
+119,GW74,T2058,«Altostratus undulatus cloud» sont des nuages faibles qui forment des précipitations.,C
+120,GW105,T2058,Le altostratus a tendance à apparaître épineux.,E
+121,GW105,T2058,La nuage de altostratus apparaît à 15 000 pieds d'altitude.,N
+122,GW105,T2058,La nuage de altostratus signifie habituellement qu'il y aura un ouragan.,C
+123,GW52,T2058,L'AS remonte à une altitude de plus de 8 000 pieds.,E
+124,GW52,T2058,Les nuages ont un système de classification.,N
+125,GW52,T2058,Les précipitations sont garanties avec une nuage AS.,C
+126,GW19,T2059,"Bien que l'anniversaire de B.R. Ambedkar soit reconnu en Inde, il n'est pas un jour férié religieux.",E
+127,GW19,T2059,Le Dr Babasaheb Ambedkar est considéré comme l'auteur de la Constitution indienne.,N
+128,GW19,T2059,Le Dr Babasaheb Ambedkar était le leader du principal mouvement nationaliste pakistanais.,C
+129,GW63,T2059,« Ambedkar Jayanti » est célébré le 14 avril le long de l'Ashok Vijaya Dashmi,E
+130,GW63,T2059,"B. R., Ambedkar était aussi connu sous le nom de Bhim",N
+131,GW63,T2059,B. R. Ambedkar est né en mai,C
+132,GW86,T2059,« Ambedkar Jayanti » se produit chaque année.,E
+133,GW86,T2059,« Ambedkar Jayanti » commémore l'anniversaire de la naissance d'un médecin.,N
+134,GW86,T2059,« Ambedkar Jayanti » est une fête religieuse.,C
+135,GW52,T2060,Angelina a été établie au début du XXe siècle.,E
+136,GW52,T2060,Angelina sert plusieurs types d'aliments.,N
+137,GW52,T2060,Angelina a subi cinq propriétaires différents.,C
+138,GW74,T2060,226 Rue de Rivoli est à Paris,E
+139,GW74,T2060,Groupe Bertrand vit à Paris,N
+140,GW74,T2060,Antoine Rumpelmayer remplace Groupe Bertrand en tant que propriétaires,C
+141,GW4,T2060,Angelina a été inaugurée il y a plus de 100 ans.,E
+142,GW4,T2060,Angelina est connue comme l'un des meilleurs endroits pour manger en France.,N
+143,GW4,T2060,Angelina n'a qu'un emplacement principal.,C
+144,GW86,T2061,L'Apple I était l'un d'une série d'ordinateurs.,E
+145,GW86,T2061,Le Apple I avait un disque.,N
+146,GW86,T2061,L'Apple I a coûté plus de 2 000 $ lors de son introduction.,C
+147,GW52,T2061,L'Apple I était en production depuis moins de deux ans.,E
+148,GW52,T2061,Le « Apple I » était le premier modèle Apple développé.,N
+149,GW52,T2061,Le Apple I était un ordinateur bon marché à la sortie.,C
+150,GW28,T2061,L'Apple I était sur le marché depuis moins de deux ans.,E
+151,GW28,T2061,La Apple I est accompagnée de deux joysticks pour le jeu.,N
+152,GW28,T2061,« Apple I » a été introduit et la production a cessée le même année.,C
+153,GW28,T2062,« Argon » est connu depuis plus de cent ans.,E
+154,GW28,T2062,« Argon » est fatal lorsqu'il est inhalé.,N
+155,GW28,T2062,Les points de fusion et de cuisson pour Argon sont identiques.,C
+156,GW74,T2062,Le point de fusion est plus de 4 °C que le point de cuisson.,E
+157,GW74,T2062,Le nombre atomique est la somme des électrons par coque,N
+158,GW74,T2062,Le point critique est exactement le double du point triple,C
+159,GW52,T2062,« Argon » était l'un des 20 premiers éléments découverts.,E
+160,GW52,T2062,« Argon » est couramment utilisé à ce jour.,N
+161,GW52,T2062,« Argon » a été découvert au XXe siècle.,C
+162,GW28,T2063,« Astatine » a été découvert dans la première moitié du XXe siècle par plusieurs personnes.,E
+163,GW28,T2063,Astatine a été découvert par accident dans la nature.,N
+164,GW28,T2063,La dénomination d'Astatine est donnée à l'un des scientifiques qui ont découvert cet élément.,C
+165,GW4,T2063,« Astatine » se trouve sur le tableau périodique.,E
+166,GW4,T2063,Astatine brille lorsqu'il est éclairé.,N
+167,GW4,T2063,« Astatine » est connu pour être très réactif.,C
+168,GW95,T2063,On trouve l'expression Astatine dans les éléments dérivés.,E
+169,GW95,T2063,Il a été découvert par trois Italiens.,N
+170,GW95,T2063,« Astatine » se trouve sur des surfaces propres.,C
+171,GW95,T2064,L'autisme est généralement diagnostiqué durant la période de la petite enfance.,E
+172,GW95,T2064,La plupart des patients autistes sont victimes d'intimidation en raison de leurs problèmes de communication.,N
+173,GW95,T2064,L'autisme est traité par des coups.,C
+174,GW52,T2064,L'autisme affecte près de 25 millions de personnes par an.,E
+175,GW52,T2064,L'apparition de l'autisme a augmenté au fil des ans.,N
+176,GW52,T2064,L'autisme ne dure que quelques mois.,C
+177,GW4,T2064,L'autisme est une maladie qui présente des symptômes chez les jeunes enfants.,E
+178,GW4,T2064,Les personnes atteintes d'autisme ont généralement des problèmes de conversation avec d'autres personnes.,N
+179,GW4,T2064,Les personnes atteintes d'autisme sont généralement tuées par cette maladie.,C
+180,GW19,T2065,"La ligne B25 Fulton Street, qui fait partie du réseau de bus de la MTA NYC exploité par la NYC Transit Authority, compte plus de 2,5 millions de conducteurs chaque année.",E
+181,GW19,T2065,La ligne de bus B25 est l'une des lignes les plus utilisées dans le réseau de bus de New York.,N
+182,GW19,T2065,La ligne de bus B25 relie le Upper West Side à Staten Island.,C
+183,GW106,T2065,La b25 Fulton Street Line traverse la rue York à Brooklyn.,E
+184,GW106,T2065,Les bus b25 ont toujours été installés au dépot East New York.,N
+185,GW106,T2065,La MTA limite l'exploitation de la ligne b5 Fulton Street jusqu'à l'heure du jour et jusqu'au début de la soirée.,C
+186,GW86,T2065,La « b25 Fulton Street Line » fonctionne 24 heures par jour.,E
+187,GW86,T2065,La « b25 Fulton Street Line » circule sur la rue Fulton pour la majeure partie de sa route.,N
+188,GW86,T2065,La « b25 Fulton Street Line » commence à Broadway Junction et se termine à Front Street.,C
+189,GW52,T2066,b48 Lorimer Street aide plus d'un million de personnes à voyager chaque année.,E
+190,GW52,T2066,b48 Lorimer Street offre toujours un service de tramway.,N
+191,GW52,T2066,b48 Lorimer Street ne fonctionne que tout le jour.,C
+192,GW84,T2066,Le Fresh Pond Depot est situé à Brooklyn.,E
+193,GW84,T2066,Il y a plus de 2 millions de patrons annuels à la B48 Lorimor Street.,N
+194,GW84,T2066,Seuls les bus sont garés au Fresh Pond Depot.,C
+195,GW74,T2066,« b48 Lorimer Street » n'a pas utilisé le bus Nova RTS-06 en 1884,E
+196,GW74,T2066,b48 Lorimer Street a commencé à utiliser l'Orion VII en 1947,N
+197,GW74,T2066,b48 Lorimer Street commence et se termine dans la même collectivité,C
+198,GW52,T2067,La b63 Fifth Avenue Line a été développée au XIXe siècle.,E
+199,GW52,T2067,La « b63 Fifth Avenue Line » a connu des changements de longueur au fil des ans.,N
+200,GW52,T2067,Le taux d'utilisation annuel de la « b63 Fifth Avenue Line » dépasse cinq millions.,C
+201,GW106,T2067,La ligne B63 a moins de 6 milles de longueur.,E
+202,GW106,T2067,La B63 Fifth Avenue Line est la route la plus fréquente à Brooklyn chaque année.,N
+203,GW106,T2067,Le dernier pick-up sur la ligne B63 Fifth Avenue part à 11 h 59 du quai 6.,C
+204,GW28,T2067,"b63 Fifth Avenue Line est une ligne de bus qui a commencé à fonctionner il y a plus d'un siècle à Brooklyn, à New York.",E
+205,GW28,T2067,La « b63 Fifth Avenue Line » a réduit ses tarifs aux heures de pointe.,N
+206,GW28,T2067,La « b63 Fifth Avenue Line » dessert également la collectivité de Queens.,C
+207,GW52,T2068,La b69 Vanderbilt Avenue Line compte plus d'un million de personnes qui y voyagent chaque année.,E
+208,GW52,T2068,La « b69 Vanderbilt Avenue Line » a expérimenté des opérations de nuit.,N
+209,GW52,T2068,La « b69 Vanderbilt Avenue Line » est fermée à bien en 1950.,C
+210,GW106,T2068,La dernière halte de la B69 Vanderbilt Avenue Line est située dans la région du centre-ville de Brooklyn.,E
+211,GW106,T2068,La ligne B69 était le mode de transport le plus populaire vers Ebbets Field pendant la série mondiale de 1956.,N
+212,GW106,T2068,"Plus de 1,5 million de clients ont parcouru le B69 en 2017.",C
+213,GW1,T2068,La « b69 Vanderbilt Avenue Line » a commencé à fonctionner au XIXe siècle.,E
+214,GW1,T2068,La « b69 Vanderbilt Avenue Line » a toujours eu des transferts sur elle.,N
+215,GW1,T2068,"Au milieu du XIXe siècle, la « b69 Vanderbilt Avenue Line » a cessé d'être exploitée.",C
+216,GW52,T2069,La construction du Bandra Worli Sea Link a commencé il y a deux décennies.,E
+217,GW52,T2069,Le Bandra Worli Sea Link est un guichet de péage extrêmement populaire.,N
+218,GW52,T2069,Le réseau de transport maritime est assujetti à un droit fixe pour tous les véhicules.,C
+219,GW74,T2069,La construction de Bandra Worli Sea Link a été achevée en environ 10 ans,E
+220,GW74,T2069,MSRDC a embauché Seshadri Srinivasan pour concevoir le Bandra Worli Sea Link,N
+221,GW74,T2069,Le Bandra Worli Sea Link a été ouvert un an après la fin des travaux.,C
+222,GW106,T2069,La Bandra Worli Sea Link appartient à la même société et est maintenue par celle-ci.,E
+223,GW106,T2069,"La plupart des droits payés par les conducteurs qui voyagent sur le Bandra Worli Sea Link s'élèvent en moyenne à 1,60 $US.",N
+224,GW106,T2069,La construction du «Bandra Worli Sea Link» a eu lieu en deux décennies différentes.,C
+225,GW4,T2070,La paralysie de Bell est une maladie que les gens peuvent surmonter.,E
+226,GW4,T2070,La maladie « la paralysie de Bell » est une maladie assez courante.,N
+227,GW4,T2070,La paralysie de Bell est une maladie qui endommage les gens.,C
+228,GW52,T2070,La paralysie de Bell est une condition rare.,E
+229,GW52,T2070,La paralysie de Bell peut se répéter.,N
+230,GW52,T2070,La paralysie de Bell est une condition permanente.,C
+231,GW28,T2070,La paralysie de Bell est un trouble neurologique temporaire mais douloureux et embarrassant.,E
+232,GW28,T2070,La palsy de Bell affecte principalement les mâles adultes plus âgés.,N
+233,GW28,T2070,La paralysie de Bell est une maladie qui peut être réglée tout au long de la vie.,C
+234,GW28,T2071,Beltane est une observation culturelle annuelle qui célèbre le début de l'été.,E
+235,GW28,T2071,"Le « Beltane » est célébré par de nombreux autres groupes, indépendamment de leur religion ou de leurs croyances.",N
+236,GW28,T2071,« Beltane » est une célébration chrétienne semi-annuelle,C
+237,GW52,T2071,Beltane signifie un changement de saison.,E
+238,GW52,T2071,C'est ainsi que le terme Beltane a commencé le jour de mai.,N
+239,GW52,T2071,Beltane se produit le 1er mai partout dans le monde.,C
+240,GW74,T2071,Beltane célèbre le début de l'été le 1er mai,E
+241,GW74,T2071,Les Wiccans allument habituellement des feux de bonfire pour célébrer Beltane,N
+242,GW74,T2071,Le début de l'été est célébré en juin dans l'hémisphère sud,C
+243,GW52,T2072,Le « trouble bipolaire » comporte différents types.,E
+244,GW52,T2072,La fréquence des « troubles bipolaires » a augmenté.,N
+245,GW52,T2072,Le « trouble bipolaire » se manifeste à l'âge moyen.,C
+246,GW105,T2072,Le « trouble bipolaire » est une maladie rare affectant un petit pourcentage de la population.,E
+247,GW105,T2072,La plupart des cas de trouble bipolaire sont dus à la génétique.,N
+248,GW105,T2072,Les enfants sont les plus exposés au risque de trouble bipolaire.,C
+249,GW74,T2072,Il y a plus de facteurs de risque pour le « trouble bipolaire » que pour les causes,E
+250,GW74,T2072,Une personne âgée de 25 ans qui a été victime d'abus d'enfants développera un « trouble bipolaire »,N
+251,GW74,T2072,Il y a plus de complications que de symptômes,C
+252,GW1,T2073,La série BMW 3 a été fabriquée pour la première fois au cours de la deuxième décennie du XXIe siècle.,E
+253,GW1,T2073,La BMW 3 Series à turbochargement à essence est considérée comme supérieure par les experts par rapport à la BMW 3 Series à turbochargement diesel.,N
+254,GW1,T2073,La série BMW 3 était composée de trois grands concepteurs.,C
+255,GW28,T2073,BMW 3 Series est une voiture allemande assemblée dans plusieurs pays différents.,E
+256,GW28,T2073,BMW 3 Series est la catégorie de voitures la plus abordable de BMW.,N
+257,GW28,T2073,BMW 3 Series est le theri SUV offrant des piles électriques.,C
+258,GW52,T2073,"La série BMW 3, édition F, a connu près d'une décennie de production.",E
+259,GW52,T2073,Le modèle F BMW 3 est le dernier de la série 3.,N
+260,GW52,T2073,Le modèle F BMW 3 comportait deux concepteurs pour chaque véhicule.,C
+261,GW4,T2074,Un tumor cérébral tue habituellement plus de 200 000 personnes par an.,E
+262,GW4,T2074,Un tumor du cerveau peut être éliminé à certains moments.,N
+263,GW4,T2074,Plus de la moitié des personnes atteintes d'un tumor du cerveau vivront.,C
+264,GW28,T2074,Le traitement d'une turmoire cérébrale est varié et fait conjointement avec des médicaments.,E
+265,GW28,T2074,La méthode la plus populaire pour diagnostiquer un tumor cérébral est d'effectuer une biopsie du tissu.,N
+266,GW28,T2074,Un tumor du cerveau est généralement fatal dans les quelques mois suivant le diagnostic.,C
+267,GW52,T2074,Un tumor du cerveau survient chez plus d'un million de patients.,E
+268,GW52,T2074,"Au fil des ans, le pronostic des tumeurs cérébrales s'est amélioré.",N
+269,GW52,T2074,Tous ceux qui ont un tumor du cerveau meurent de ce cancer.,C
+270,GW1,T2075,"En 2015, plus de 2 millions de personnes ont été touchées par le cancer du sein.",E
+271,GW1,T2075,"Statistiquement, les médecins préfèrent la chirurgie à la radiation comme traitement du cancer du sein.",N
+272,GW1,T2075,Plus d'un million de personnes ont été tuées par le cancer du sein en 2018.,C
+273,GW74,T2075,Les décès en 2018 représentaient plus d'un quart de la fréquence atteinte en 2015.,E
+274,GW74,T2075,L'obésité entraîne un changement de forme du sein,N
+275,GW74,T2075,Il y a plus de symptômes que de facteurs de risque,C
+276,GW52,T2075,Le cancer du sein affecte plus de deux millions de personnes par année.,E
+277,GW52,T2075,Le cancer du sein se produit chez les mâles.,N
+278,GW52,T2075,Le taux de survie du cancer du sein est faible.,C
+279,GW4,T2076,«Bromine» a une masse supérieure à 70.,E
+280,GW4,T2076,Le minéral «Bromine» est connu pour être halogène.,N
+281,GW4,T2076,Le « bromure » a été découvert pour la première fois dans les années 1900.,C
+282,GW52,T2076,Le « bromure » était l'un des 50 premiers éléments découverts.,E
+283,GW52,T2076,La « bromure » est très volatile.,N
+284,GW52,T2076,Le Bromine a été découvert au XVIIIe siècle.,C
+285,GW86,T2076,Le « bromure » a été découvert pour la première fois au XIXe siècle.,E
+286,GW86,T2076,Le « bromure » se produit le plus fréquemment sous forme liquide.,N
+287,GW86,T2076,Bromine est alcaline.,C
+288,GW60,T2077,John Augustus Roebling sait comment concevoir des ponts hybrides à suspension/cable-stay.,E
+289,GW60,T2077,Le « Brooklyn Bridge » est le seul pont qui traverse la rivière Est.,N
+290,GW60,T2077,Le « pont de Brooklyn » est plus haut qu'il n'est long.,C
+291,GW4,T2077,Le « pont de Brooklyn » a été mis à jour afin d'accroître sa capacité au fil des ans.,E
+292,GW4,T2077,Le « pont de Brooklyn » a allégé les contraintes de circulation sur Brooklyn.,N
+293,GW4,T2077,"Pour utiliser le « pont de Brooklyn », un conducteur doit dépenser de l'argent.",C
+294,GW106,T2077,Le « pont Brooklyn » relie Manhattan à Brooklyn depuis 1883.,E
+295,GW106,T2077,Le « pont de Brooklyn » atteint son point le plus élevé de son parcours durant sa plus longue période.,N
+296,GW106,T2077,Le « pont Brooklyn » traverse au moins un cours d'eau de Manhattan à Staten Island.,C
+297,GW105,T2078,Les bouddhistes célèbrent le jour de naissance de Buddha au printemps.,E
+298,GW105,T2078,Le anniversaire de l'Buddha se déroule en avril plus souvent que pas.,N
+299,GW105,T2078,Le jour de naissance de Buddha est un jour férié d'hiver.,C
+300,GW107,T2078,Le anniversaire de Buddha est célébré dans de nombreuses cultures et dans de nombreux pays.,E
+301,GW107,T2078,Le anniversaire de Buddha n'est célébré qu'en Asie.,N
+302,GW107,T2078,Le anniversaire de l'Buddha est célébré le même jour chaque année.,C
+303,GW52,T2078,Le « Journée de l'Buddha » est largement célébrée dans certaines régions d'Asie.,E
+304,GW52,T2078,On peut célébrer l'anniversaire de Buddha à l'extérieur de l'Asie.,N
+305,GW52,T2078,« Le jour de la naissance de l'Buddha » est le même jour chaque année.,C
+306,GW4,T2079,« Burning Man » se déroule depuis plus de 30 ans.,E
+307,GW4,T2079,« Burning Man » est toujours tenu au même endroit chaque année.,N
+308,GW4,T2079,« Burning Man » se produit plusieurs fois par an.,C
+309,GW89,T2079,Le festival « Burning Man » se tient chaque année au Nevada.,E
+310,GW89,T2079,Larry Harvey est responsable de l'événement.,N
+311,GW89,T2079,Le festival « Burning Man » a commencé en 1976.,C
+312,GW1,T2079,« Burning Man » a été inauguré en été 1986.,E
+313,GW1,T2079,Burning man a toujours environ 50-70 000 personnes présentes.,N
+314,GW1,T2079,"En 2019, « Burning Man » était au printemps.",C
+315,GW12,T2080,L'arrestation cardiaque se produit chez les personnes âgées lorsqu'il n'y a pas de pulsation.,E
+316,GW12,T2080,L'arrestation cardiaque peut entraîner une perte de conscience et une faible teneur en potassium.,N
+317,GW12,T2080,Le taux de survie pour l'arrestation cardiaque est plus élevé chez les personnes hors d'un hôpital.,C
+318,GW86,T2080,Le taux de mortalité due à l'arrêt cardiaque varie de 75 à 90 p. 100.,E
+319,GW86,T2080,La perte de poids réduit le risque d'arrestation cardiaque.,N
+320,GW86,T2080,Le taux de mortalité due à l'arrêt cardiaque dans les hôpitaux est supérieur au taux de mortalité à l'extérieur des hôpitaux.,C
+321,GW28,T2080,L'arrêt cardiaque est une condition médicale dans laquelle le coeur cesse de fonctionner et les chances de survie sont faibles.,E
+322,GW28,T2080,L'arrestation cardiaque touche plus d'hommes que de femmes.,N
+323,GW28,T2080,L'arrestation cardiaque est fatale dans tous les cas à l'extérieur de l'hôpital.,C
+324,GW52,T2081,Cataracts prennent du temps à se développer.,E
+325,GW52,T2081,Les cataractes sont complètement évitables.,N
+326,GW52,T2081,Les cataractes se produisent chez quelques centaines de milliers de personnes seulement.,C
+327,GW28,T2081,Des millions de personnes ont subi des cataractes mais peuvent être traitées.,E
+328,GW28,T2081,Les « cataractes » sont coûteux à traiter.,N
+329,GW28,T2081,Les « cataractes » ne sont pas très répandues ou bien comprises.,C
+330,GW86,T2081,Les cataractes peuvent être traitées par plusieurs méthodes.,E
+331,GW86,T2081,Les cataractes causent habituellement la cécité.,N
+332,GW86,T2081,Des « cataractes » surviennent soudainement.,C
+333,GW105,T2082,La « paralysie cérébrale » est une maladie infantile qui dure toute sa vie.,E
+334,GW105,T2082,La forme de traitement la plus efficace est la chirurgie orthopédique.,N
+335,GW105,T2082,La « paralysie cérébrale » touche près d'un quart de la population.,C
+336,GW74,T2082,"La mauvaise coordination, qui se produit habituellement d'abord dans l'enfance en raison d'une « paralysie cérébrale »",E
+337,GW74,T2082,les muscles rigides sont toujours accompagnés de convulsions,N
+338,GW74,T2082,Il y a plus de complications que de symptômes,C
+339,GW28,T2082,La « paralysie cérébrale » est une condition neurologique qui apparaît au début de l'enfance.,E
+340,GW28,T2082,La « paralysie cérébrale » est associée à la vaccination.,N
+341,GW28,T2082,La palsy cérébrale peut être guériée avant d'atteindre l'âge adulte.,C
+342,GW52,T2083,Cerium a été découvert pour la première fois dans les années 1830.,E
+343,GW52,T2083,Le cérium est largement disponible à l'heure actuelle.,N
+344,GW52,T2083,Cerium a été l'un des 20 premiers éléments découverts.,C
+345,GW28,T2083,Il a fallu 35 ans pour isoler Cerium après sa découverte.,E
+346,GW28,T2083,Cerium a été découvert d'abord par les Européens.,N
+347,GW28,T2083,Cerium est le nom de l'un des scientifiques qui a découvert l'élément.,C
+348,GW4,T2083,Cerium a été découvert avant de pouvoir être isolé.,E
+349,GW4,T2083,L'élément cérium est connu pour être très réactif.,N
+350,GW4,T2083,L'élément Cerium a été nommé en fonction de la personne qui l'a trouvée.,C
+351,GW86,T2084,Le « Nouvel An chinois » est toujours célébré le 20 février ou avant.,E
+352,GW86,T2084,Le « Nouvel An chinois » est célébré par plus de Chinois ethniques que par des non-Chinois.,N
+353,GW86,T2084,Le « Nouvel An chinois » est célébré le même jour chaque année.,C
+354,GW105,T2084,Le « Nouvel An chinois » se déroule au cours de la printemps.,E
+355,GW105,T2084,Plus de Buddhistes célèbrent le Nouvel An chinois que les Daoïstes.,N
+356,GW105,T2084,L'Année chinoise célèbre chaque année le même animal.,C
+357,GW52,T2084,Le symbole du Nouvel An chinois pour 2019 est le porc.,E
+358,GW52,T2084,Le « Nouvel An chinois » est la même tradition pour tous.,N
+359,GW52,T2084,Le « Nouvel An chinois » a le même animal tous les deux ans.,C
+360,GW28,T2085,Le Noël est une célébration chrétienne que célèbrent aussi de nombreux non-chrétiens.,E
+361,GW28,T2085,Noël est la fête la plus célébrée du monde.,N
+362,GW28,T2085,La fête de Noël est célébrée dans l'ensemble le 25 décembre.,C
+363,GW52,T2085,Noël est une fête universellement célébrée.,E
+364,GW52,T2085,Noël a les mêmes traditions partout dans le monde.,N
+365,GW52,T2085,Les fêtes de Noël se déroulent le même jour pour chacun.,C
+366,GW107,T2085,Le Noël est célébré chaque année.,E
+367,GW107,T2085,La fête de Noël est célébrée uniquement par les Blancs.,N
+368,GW107,T2085,Noël est le jour de naissance de Buddha.,C
+369,GW4,T2086,Les moteurs 2.2 et 2.5 ont été remplacés par des moteurs AMC.,E
+370,GW4,T2086,Il y a eu des millions de « moteurs 2.2 et 2.5 » produits.,N
+371,GW4,T2086,Le « moteur 2.2 et 2.5 » était équipé d'un moteur diesel.,C
+372,GW74,T2086,Le débit du piston est plus long que le débit du cylindre,E
+373,GW74,T2086,la plupart des « moteurs 2.2 et 2.5 » produits en 1995 ont une injection de carburant à plusieurs points,N
+374,GW74,T2086,Le débit du piston est au plus 20 mm plus long que le débit du cylindre,C
+375,GW63,T2086,Le matériau de bloc et le matériau de tête des moteurs Chrysler 2.2 et 2.5 sont différents.,E
+376,GW63,T2086,L'injection de carburant à points uniques n'est utilisée que dans les moteurs Chrysler 2.2 et 2.5.,N
+377,GW63,T2086,La production du moteur Chrysler inline 2.2 est encore en cours à cette date.,C
+378,GW28,T2087,Cincinnati Bell Connector est une ligne de tramway électrique à Cincinnati (Ohio).,E
+379,GW28,T2087,Le Cincinnati Bell Connector a une capacité de cent passagers par voiture routière.,N
+380,GW28,T2087,Cincinnati Bell Connector fonctionne sur diesel.,C
+381,GW106,T2087,Le Cincinnati Bell Connector a été inauguré à l'été 2016.,E
+382,GW106,T2087,Le Cincinnati Bell Connector fonctionne entièrement dans la ville de Cincinnati.,N
+383,GW106,T2087,Le Cincinnati Bell Connector appartient à la même entreprise ou à un même organisme directeur.,C
+384,GW74,T2087,Il y a plus de stations qu'il y a des services pour le Cincinnati Bell Connector,E
+385,GW74,T2087,Il y a eu 18 stations lors de l'ouverture du Cincinnati Bell Connector le 9 septembre 2016.,N
+386,GW74,T2087,Le nombre de lignes est égal au nombre de stations,C
+387,GW28,T2088,« Examen des services civils » est un examen normalisé destiné aux diplômés et aux citoyens indiens qui veulent travailler comme fonctionnaires.,E
+388,GW28,T2088,Plus d'hommes font l'examen des services civils que de femmes.,N
+389,GW28,T2088,« Examen des services civils » est ouvert à tous les candidats.,C
+390,GW1,T2088,L'examen des services civils a été donné pour la première fois dans la première moitié du XXe siècle.,E
+391,GW1,T2088,L'anglais est la première section de l'« Examen des services civils ».,N
+392,GW1,T2088,Le « Examen des services civils » est offert tous les deux ans.,C
+393,GW52,T2088,L'examen des services civils remonte aux années 1920.,E
+394,GW52,T2088,Le « Examen des services civils » a un taux de participation élevé chaque année.,N
+395,GW52,T2088,Le taux de qualification pour le « Examen des services civils » est élevé.,C
+396,GW1,T2089,Il y a plusieurs emplois connexes pour un scientifique pharmaceutique clinique.,E
+397,GW1,T2089,Un scientifique pharmaceutique clinique était initialement connu comme un pharmacien.,N
+398,GW1,T2089,Un scientifique pharmaceutique clinique n'a besoin que d'un diplôme de premier cycle.,C
+399,GW52,T2089,Les « scientifiques pharmaceutiques cliniques » ont besoin de compétences multiples.,E
+400,GW52,T2089,Les « scientifiques pharmaceutiques cliniques » sont en hausse en ce qui concerne les emplois disponibles.,N
+401,GW52,T2089,Les « scientifiques pharmaceutiques cliniques » ne couvrent que le secteur universitaire.,C
+402,GW28,T2089,Un niveau élevé d'éducation est nécessaire pour devenir un « scientifique pharmaceutique clinique »,E
+403,GW28,T2089,L'« scientifique pharmaceutique clinique » est une profession bien rémunérée.,N
+404,GW28,T2089,Les « scientifiques pharmaceutiques cliniques » ne sont employés que dans les milieux universitaires.,C
+405,GW106,T2090,Les clowns modernes proviennent des courtiers médiévaux.,E
+406,GW106,T2090,La plupart des clowns sont des mimes.,N
+407,GW106,T2090,"Aujourd'hui, les clowns ont été délégués uniquement à des actes de cirque.",C
+408,GW52,T2090,Les Clown sont présents depuis le premier président des États-Unis.,E
+409,GW52,T2090,Les Clown ont gagné en popularité au fil des ans.,N
+410,GW52,T2090,Les expressions Clown ne sont pas associées à des actes antérieurs.,C
+411,GW60,T2090,Les Jesters sont les ancêtres des mimes.,E
+412,GW60,T2090,Les comédiens existaient au XIXe siècle.,N
+413,GW60,T2090,Clown implique toujours de parler.,C
+414,GW4,T2091,La ligne J4 College Park–Bethesda MetroExtra circule plus de 20 fois par jour.,E
+415,GW4,T2091,La ligne J4 College Park–Bethesda MetroExtra permet d'épargner beaucoup de temps de déplacement.,N
+416,GW4,T2091,La ligne J4 College Park–Bethesda MetroExtra est une ligne de train.,C
+417,GW12,T2091,La ligne J4 College Park–Bethesda MetroExtra fait partie du réseau de métrobus et abrite des garages à Montgomery.,E
+418,GW12,T2091,La ligne J4 College Park–Bethesda MetroExtra a commencé à fonctionner à la fin de 2002.,N
+419,GW12,T2091,La ligne J4 College Park–Bethesda MetroExtra se déroule toute la journée.,C
+420,GW52,T2091,La ligne J4 College Park–Bethesda MetroExtra se déroule tous les 20 minutes.,E
+421,GW52,T2091,La ligne J4 College Park–Bethesda MetroExtra n'a jamais fait l'objet d'une rénovation.,N
+422,GW52,T2091,La ligne J4 College Park–Bethesda MetroExtra se déroule toute la journée.,C
+423,GW28,T2092,"La ligne 16G, 16H Columbia Pike–Pentagon City était une ligne de bus qui dessert la région métropolitaine de Washington.",E
+424,GW28,T2092,"La ligne 16G, 16H Columbia Pike–Pentagon City disposait de wifi à bord de tous ses autobus.",N
+425,GW28,T2092,"La ligne 16G, 16H Columbia Pike–Pentagon City est toujours en service 24 heures sur 24.",C
+426,GW4,T2092,"La ligne 16G, 16H Columbia Pike–Pentagon City a été exploitée plus de 20 fois par jour.",E
+427,GW4,T2092,"La ligne 16G, 16H Columbia Pike–Pentagon City a aidé à économiser les heures de déplacement des gens.",N
+428,GW4,T2092,"La ligne 16G, 16H Columbia Pike–Pentagon City fonctionne encore aujourd'hui.",C
+429,GW52,T2092,"La ligne 16G, 16H Columbia Pike–Pentagon City a commencé à fonctionner en 2003.",E
+430,GW52,T2092,"La ligne 16G, 16H Columbia Pike–Pentagon City a la même longueur de voie.",N
+431,GW52,T2092,Les deux lignes de chemin de fer 16G et 16H Columbia Pike–Pentagon City demeurent en service.,C
+432,GW63,T2093,De 2018 à 2021 La Journée du Columbus a été observée avant le 15 octobre,E
+433,GW63,T2093,La Journée du Columbus n'est observée qu'en octobre.,N
+434,GW63,T2093,La Journée du Columbus a été observée deux fois en 2018,C
+435,GW1,T2093,La Journée du Columbus se tient une fois par an.,E
+436,GW1,T2093,La Journée du Columbus a commencé à être célébrée aux États-Unis.,N
+437,GW1,T2093,La première Journée du Columbus a été célébrée en 1492.,C
+438,GW19,T2093,"Christopher Columbus, l'explorateur honoré le jour de Columbus, est d'Italie.",E
+439,GW19,T2093,La Journée du Columbus a toujours été célébrée pendant le mois d'octobre.,N
+440,GW19,T2093,La Journée du Columbus marque la fin non officielle de l'été.,C
+441,GW52,T2094,Le CAT a une valeur de range négative.,E
+442,GW52,T2094,Le CAT se déroule dans toute l'Asie.,N
+443,GW52,T2094,Les notes de l'AC sont bonnes pour toute la vie.,C
+444,GW106,T2094,Le « Test d'admission commun » est offert à plus de 300 endroits dans toute l'Inde.,E
+445,GW106,T2094,L'examen CAT est habituellement offert en décembre de chaque année.,N
+446,GW106,T2094,Le test CAT est exigé par tous les diplômés indiens qui souhaitent fréquenter une école supérieure.,C
+447,GW28,T2094,L'examen d'admission commun est un examen normalisé en Inde utilisé pour l'admission aux écoles d'affaires indiennes.,E
+448,GW28,T2094,Le « Common Admission Test » est plus difficile que l'examen GMAT utilisé aux États-Unis.,N
+449,GW28,T2094,Le « Common Admission Test » est accepté par les écoles d'affaires américaines.,C
+450,GW106,T2095,Au moins 3 millions de personnes pourraient éviter d'avoir des yeux roses chaque année en lavant simplement leurs mains.,E
+451,GW106,T2095,L'oeil rose est la maladie la plus diagnostiquée par les ophtalmologues chaque année.,N
+452,GW106,T2095,Les symptômes associés à l'œil rose peuvent durer jusqu'à un mois aux États-Unis.,C
+453,GW4,T2095,La conjunctivitis conduit à un changement de couleur de l'œil.,E
+454,GW4,T2095,La conjunctivitis peut être transmise facilement aux personnes.,N
+455,GW4,T2095,La conjunctivitis endommage la plupart des personnes infectées par elle,C
+456,GW28,T2095,La conjunctivitis est une condition médicale qui affecte les yeux.,E
+457,GW28,T2095,La conjunctivitis peut être transmise d'une personne à l'autre.,N
+458,GW28,T2095,La conjunctivitis est héréditaire et transmise aux enfants par leurs parents.,C
+459,GW4,T2096,La maladie de Crohn est quelque chose qui cause des problèmes de l'estomac.,E
+460,GW4,T2096,La maladie de Crohn conduit à la mort plus tôt.,N
+461,GW4,T2096,La maladie de Crohn peut être guérée par le tabac.,C
+462,GW28,T2096,La « maladie de Crohn » peut apparaître chez les jeunes adultes et impliquer des douleurs abdominales et une diarrhée,E
+463,GW28,T2096,La maladie de Crohn affecte des hommes plus que des femmes de façon disproportionnée.,N
+464,GW28,T2096,La maladie de Crohn est rapidement guérie par des médicaments.,C
+465,GW52,T2096,La maladie de Crohn a un début commun dans les années 20.,E
+466,GW52,T2096,La maladie de Crohn a montré une fréquence accrue au fil des ans.,N
+467,GW52,T2096,Les personnes atteintes de la maladie de Crohn n'ont pas moins d'espérance de vie.,C
+468,GW86,T2097,Les nuages cumulonimbus sont généralement associés à la pluie.,E
+469,GW86,T2097,Les nuages de Calvus sont les espèces les plus courantes de nuages cumulonimbus.,N
+470,GW86,T2097,Les nuages cumulonimbus sont présents dans plusieurs variétés.,C
+471,GW4,T2097,Une « nuage de Cumulonimbus » est habituellement inférieure à 50 000 pieds.,E
+472,GW4,T2097,Une « nuage de Cumulonimbus » peut souvent y faire de la pluie.,N
+473,GW4,T2097,Une « nuage de Cumulonimbus » est habituellement proche de l'espace.,C
+474,GW12,T2097,"« Cumulonimbus Cloud », du genre Cumulonimbus, est abbrevié Cb.",E
+475,GW12,T2097,La famille C est une classification de haut niveau de « Cumulonimbus Cloud ».,N
+476,GW12,T2097,La « nuage de Cumulonimbus » est associée à de faibles niveaux de précipitations.,C
+477,GW12,T2098,Le syndrome de Cushing affecte au moins deux millions de personnes par an.,E
+478,GW12,T2098,L'hyperadrénocorticisme prend 20 à 50 ans pour apparaître chez une personne.,N
+479,GW12,T2098,L'endocrinologie est un autre nom pour l'hypercortisolisme.,C
+480,GW105,T2098,Un patient qui cherche des soins pour le syndrome de Cushing devrait consulter un endocrinologiste.,E
+481,GW105,T2098,La plupart des personnes souffrant du syndrome de Cushing ont de l'acne.,N
+482,GW105,T2098,Le syndrome de Cushing est le plus fréquent chez les enfants.,C
+483,GW28,T2098,Des millions de personnes sont touchées par le syndrome de Cushing mais peuvent être traitées avec succès.,E
+484,GW28,T2098,Le traitement du syndrome de Cushing est très abordable.,N
+485,GW28,T2098,Le syndrome de Cushing affecte principalement les enfants et est fatal.,C
+486,GW86,T2099,Une nouvelle version de Debian a été publiée l'année dernière.,E
+487,GW86,T2099,Une nouvelle version de Debian est diffusée en septembre chaque année.,N
+488,GW86,T2099,Debian est compatible avec plus d'une douzaine de plateformes.,C
+489,GW74,T2099,La dernière version de Debian a eu lieu le même mois que la version initiale,E
+490,GW74,T2099,« Debian » était disponible dans 75 langues en 1993,N
+491,GW74,T2099,10.1 (Buster) a été diffusé 25 ans après sa diffusion initiale,C
+492,GW19,T2099,"La version 10.1 de Deiban, un système d'exploitation Linux à source ouverte, est utilisée dans le monde entier.",E
+493,GW19,T2099,"La version 10.1 de Deiban, un système d'exploitation Linux à source ouverte, offre un support en Hindi.",N
+494,GW19,T2099,"La onzième version de Deiban, diffusée en septembre 2019, est le système d'exploitation par défaut pour iPhone.",C
+495,GW4,T2100,« Disney Skyliner » a ouvert ses portes au troisième trimestre de 2019.,E
+496,GW4,T2100,Le Disney Skyliner se déplace à plus de 20 milles par heure.,N
+497,GW4,T2100,Le « Disney Skyliner » se trouve à Disneyland.,C
+498,GW28,T2100,Disney Skyliner est un système de transport qui fonctionne aux États-Unis d'Amérique.,E
+499,GW28,T2100,Une gondole sur le Disney Skyliner peut accueillir dix personnes à la fois.,N
+500,GW28,T2100,« Disney Skyliner » est en service depuis plus d’une décennie dans plusieurs parcs Disney World à travers le monde.,C
+501,GW1,T2100,« Disney Skyliner » a été inauguré à l'automne 2019.,E
+502,GW1,T2100,Disney Skyliner est le premier à utiliser le système Doppelmayr Garaventa Group.,N
+503,GW1,T2100,Le « Disney Skyliner » est situé sur la côte ouest des États-Unis.,C
+504,GW86,T2101,« Diwali » est parfois connu sous d'autres noms.,E
+505,GW86,T2101,Le « Diwali » est généralement observé en octobre.,N
+506,GW86,T2101,Le « Diwali » est observé chaque année à la même date.,C
+507,GW1,T2101,Le Diwali est célébré à l'automne.,E
+508,GW1,T2101,« Diwali » a été appelé Deepavali pour la première fois dans l'histoire.,N
+509,GW1,T2101,« Diwali » est directement lié à plus d'une douzaine d'autres fêtes.,C
+510,GW12,T2101,« Diwali » est une fête religieuse observée par certains bouddhistes.,E
+511,GW12,T2101,Deepavali est une fête saisonnière célébrée avec des décorations et des cadeaux à la maison.,N
+512,GW12,T2101,Les dates de 2019 pour le « Diwali » se produisent tous au début du mois d'octobre.,C
+513,GW12,T2102,Le festival Dongzhi est observé par les Chinois et est également appelé Tang-cheh.,E
+514,GW12,T2102,Le Festival de Dongzhi est une célébration annuelle qui se déroule en décembre.,N
+515,GW12,T2102,Le « Festival de Dongzhi » marque le solstice hivernal durant la première semaine de décembre.,C
+516,GW52,T2102,Le Dongzhi est une célébration des ancêtres.,E
+517,GW52,T2102,Le Dongzhi est en place depuis plusieurs siècles.,N
+518,GW52,T2102,Le festival commence le même jour chaque année.,C
+519,GW28,T2102,Le festival Dongzhi est un festival annuel qui célébre le solstice d'hiver.,E
+520,GW28,T2102,Le Festival de Dongzhi est célébré depuis des milliers d'années.,N
+521,GW28,T2102,Le festival Dongzhi est célébré partout en Asie et en Europe.,C
+522,GW52,T2103,Le syndrome de Down cause plus de 25 000 décès par année.,E
+523,GW52,T2103,Le « syndrome de Down » a augmenté de la fréquence au fil des ans.,N
+524,GW52,T2103,Le syndrome de Down affecte 10 millions de personnes par an.,C
+525,GW106,T2103,Le syndrome de Down est un trouble chromosomique.,E
+526,GW106,T2103,La plupart des cas de « syndrome de Down » surviennent lorsque la mère a plus de 40 ans au moment de la naissance.,N
+527,GW106,T2103,Le syndrome de Down est si rare qu'il ne se produit qu'à un enfant par génération de famille.,C
+528,GW4,T2103,Le syndrome descendant se trouve sur le 21e chromosome.,E
+529,GW4,T2103,Le syndrome de Down est généralement transmis par le sperme.,N
+530,GW4,T2103,Le syndrome de la chute touche 1 % de la population mondiale.,C
+531,GW12,T2104,"Située en Allemagne, le chemin de fer Duisburg-Quakenbrück est également connu sous le nom de Bahnstrecke Duisburg-Quakenbrück.",E
+532,GW12,T2104,"Avec une longueur de ligne de 173 km, le chemin de fer Duisburg-Quakenbrück compte moins de quatre lignes.",N
+533,GW12,T2104,Le numéro de route de la voie ferrée Duisburg–Quakenbrück est inférieur à sa longueur.,C
+534,GW86,T2104,Les trains de la voie ferrée Duisburg-Quakenbrück sont alimentés par une source électrique à ciel ouvert.,E
+535,GW86,T2104,Le chemin de fer Duisburg-Quakenbrück traverse exactement cinq villes en Allemagne.,N
+536,GW86,T2104,La ligne Duisburg–Quakenbrück a une longueur de 173 milles.,C
+537,GW52,T2104,Le chemin de fer Duisburg-Quakenbrück dure plus de 100 milles.,E
+538,GW52,T2104,Le chemin de fer Duisburg-Quakenbrück est un chemin de fer électrique.,N
+539,GW52,T2104,Le chemin de fer Duisburg-Quakenbrück atteint 60 mph.,C
+540,GW106,T2105,"Une fois que les problèmes d'audition et/ou de vision ont été exclus, moins de 10 % des enfants d'âge scolaire qui ont des troubles de lecture souffrent de dysléxie.",E
+541,GW106,T2105,La plupart des enfants diagnostiqués comme souffrant de dysléxie souffrent également de ADHD simultanément.,N
+542,GW106,T2105,La dyslexie peut être traitée par l'utilisation de certains médicaments.,C
+543,GW74,T2105,Les symptômes de troubles de lecture se produisent habituellement d'abord durant l'âge scolaire.,E
+544,GW74,T2105,Le trouble de l’hyperactivité due à l’insuffisance d’attention causera des problèmes de lecture,N
+545,GW74,T2105,La « dysléxie » se produit chez 10 % des enfants d'âge scolaire,C
+546,GW95,T2105,On diagnostique généralement une dysléxie avant de terminer l'école secondaire.,E
+547,GW95,T2105,Les élèves dyslexiques ont besoin de méthodes d'enseignement individuelles.,N
+548,GW95,T2105,La « dysléxie » peut être transmise de personne à personne.,C
+549,GW12,T2106,L'Ester est une fête religieuse célébrant la résurrection de Jésus.,E
+550,GW12,T2106,La décoration des oeufs de l'Ester fait partie de la célébration de l'Ester.,N
+551,GW12,T2106,Les dates pour célébrer « l'Aster » sont les mêmes en 2018 et 2019.,C
+552,GW1,T2106,« L'Aster » est associé à plus d'une douzaine d'autres jours fériés.,E
+553,GW1,T2106,La date de l'Ester change chaque année.,N
+554,GW1,T2106,« L'Est » est typiquement l'été.,C
+555,GW28,T2106,Easter tombe à différentes dates chaque année.,E
+556,GW28,T2106,La présence à l'église est exigée pendant l'Ester.,N
+557,GW28,T2106,Easter tombe toujours en avril chaque année.,C
+558,GW86,T2107,Eid al-Fitr se produit après le Ramadan.,E
+559,GW86,T2107,"En 2020, Eid al-Fitr sera célébré le 24 mai.",N
+560,GW86,T2107,Eid al-Fitr est célébré dans le même mois chaque année.,C
+561,GW89,T2107,Eid al-Fitr a eu lieu à différentes dates dans différents pays en 2019.,E
+562,GW89,T2107,Eid al-Fitr aura lieu les 24 et 25 mai 2020.,N
+563,GW89,T2107,Eid al-Fitr marque le début du Ramadan.,C
+564,GW28,T2107,"Pour les musulmans, Eid al-Fitr signifie la fin du fasting pour le Ramadan.",E
+565,GW28,T2107,Eid al-Fitr est célébré avec des gâteaux.,N
+566,GW28,T2107,Eid al-Fitr est célébré chaque année à la même date.,C
+567,GW4,T2108,La Emirates Air Line est de moins d'une mi de longueur.,E
+568,GW4,T2108,Il a fallu quelques années pour construire la Emirates Air Line.,N
+569,GW4,T2108,La Emirates Air Line compte moins d'un million de passagers par année.,C
+570,GW106,T2108,La « Emirates Air Line » est entièrement exploitée au Royaume-Uni.,E
+571,GW106,T2108,"La Emirates Air Line est capable de faire jusqu'à 12 m/s, même si elle ne fonctionne officiellement qu'à 6 m/s.",N
+572,GW106,T2108,La « Emirates Air Line » est exploitée par l'Administration de transit de Greenwich.,C
+573,GW74,T2108,La longueur de la ligne de l'élévateur gondola est 12 fois plus élevée,E
+574,GW74,T2108,La gondole atteint la moitié de 300 pieds entre la péninsule des Émirats du Groenwich et le quai royal des Émirats.,N
+575,GW74,T2108,Le nombre de conducteurs était de 1 314 783 à 10 ans après l'ouverture.,C
+576,GW28,T2109,L'épilepsie est un trouble neurologique qui entraîne des crises incontrôlables.,E
+577,GW28,T2109,L'épilepsie est une condition gérée avec une alimentation saine et une méditation.,N
+578,GW28,T2109,L'épilepsie peut être traitée avec des huiles et des stimulants.,C
+579,GW4,T2109,L'épilepsie dure toute la vie d'une personne.,E
+580,GW4,T2109,La maladie « épilepsie » peut généralement être gérée par des patients.,N
+581,GW4,T2109,La maladie « épilepsie » a toujours un point de départ clair.,C
+582,GW89,T2109,Il y a au moins 6 causes possibles d'épilepsie.,E
+583,GW89,T2109,Le nombre de décès d'épilepsie diminue chaque année.,N
+584,GW89,T2109,L'épilepsie est contrôlable chez 80 % des patients.,C
+585,GW1,T2110,Toutes les personnes à bord du vol 302 de l'Ethiopian Airlines ont été tuées.,E
+586,GW1,T2110,L'enquête sur le vol 302 d'Ethiopian Airlines est presque terminée.,N
+587,GW1,T2110,Le vol 302 de l'Ethiopian Airlines est tombé à l'été 2019.,C
+588,GW74,T2110,Les victimes étaient plus nombreuses que les passagers,E
+589,GW74,T2110,Ethiopian Airlines utilise toujours le Boeing 737 MAX 8,N
+590,GW74,T2110,Aucune de l'équipage n'a fait partie des victimes.,C
+591,GW19,T2110,«Ethiopian Airlines Flight 302» était un vol international qui a échoué peu après son décollage.,E
+592,GW19,T2110,L'écrasement du vol 302 de l'Ethiopian Airlines a été le pire désastre aérien de l'histoire du transporteur.,N
+593,GW19,T2110,"Le fabricant, Airbus, a été jugé responsable de l'écrasement du vol 302 de l'Ethiopian Airlines.",C
+594,GW28,T2111,Le Europium est un élément naturel.,E
+595,GW28,T2111,Europium a été découvert et isolé par un homme scientifique européen.,N
+596,GW28,T2111,Europium est fabriqué synthétiquement par l'homme dans un laboratoire.,C
+597,GW52,T2111,Europium a été découvert au début du XXe siècle.,E
+598,GW52,T2111,Europium est un élément communément vu.,N
+599,GW52,T2111,Le point de fusion et de cuisson de Europium sont les mêmes.,C
+600,GW86,T2111,Europium est désigné en fonction d'un continent.,E
+601,GW86,T2111,Europium a été nommé par Eugène-Anatole Demarçay.,N
+602,GW86,T2111,Europium est légèrement acide.,C
+603,GW28,T2112,« Stratégie évolutivement stable » a été proposée pour la première fois par deux hommes.,E
+604,GW28,T2112,« Stratégie évolutivement stable » est associée à la théorie des jeux évolutifs et fait partie de l'équilibre Nash.,N
+605,GW28,T2112,« Stratégie évolutivement stable » englobe l'équilibre Nash et l'équilibre parfait Bayesian.,C
+606,GW12,T2112,Hawk-dove est un exemple de stratégie évolutivement stable.,E
+607,GW12,T2112,« Stratégie évolutivement stable » est un sous-ensemble de l'équilibre Nash et de l'équilibre stochastiquement stable.,N
+608,GW12,T2112,George R. Smith propose l'idée d'une stratégie évolutivement stable.,C
+609,GW86,T2112,« Stratégie évolutivement stable » a été proposée par plusieurs personnes.,E
+610,GW86,T2112,« Stratégie évolutivement stable » a été proposée avant la proposition d'équilibre parfait du sous- jeu.,N
+611,GW86,T2112,« Stratégie évolutivement stable » n'a aucune relation avec l'équilibre parfait de la main tremblante.,C
+612,GW12,T2113,"Dix pour cent des personnes souffrent d'un syndrome de tête explosive, autrement connu sous le nom de choc sensoriel épisodique cranial.",E
+613,GW12,T2113,Le syndrome de la tête explosive a une courte durée et les causes sont inconnues.,N
+614,GW12,T2113,La PTSD est le seul diagnostic du syndrome de la tête explosive.,C
+615,GW28,T2113,Le syndrome d'explosion de la tête est une condition médicale qui affecte les gens lorsqu'ils coulent ou se réveillent.,E
+616,GW28,T2113,Les souffrants du syndrome de la tête explosive crient lorsqu'ils se réveillent.,N
+617,GW28,T2113,Le syndrome de la tête explosive est une maladie presque mortelle si elle n'est pas traitée.,C
+618,GW86,T2113,Le syndrome de la tête explosive est caractérisé par des expériences auditives inhabituelles.,E
+619,GW86,T2113,Le syndrome de la tête explosive nécessite habituellement un traitement.,N
+620,GW86,T2113,Le syndrome de la tête explosive se produit chez environ un quart de la population.,C
+621,GW52,T2114,Le Fast of Esther est un événement de toute la journée.,E
+622,GW52,T2114,« La fête d'Esther » est observée par tous les Juifs pratiquants.,N
+623,GW52,T2114,Le Fast of Esther se déroule chaque année le même jour.,C
+624,GW74,T2114,Fast of Esther est dans le même mois en 2020 et 2019,E
+625,GW74,T2114,Tous les Juifs fastent pendant la fête d'Esther,N
+626,GW74,T2114,La date 2018 est un mois après la date 2019.,C
+627,GW4,T2114,Le Fast of Esther ne dure qu'un jour.,E
+628,GW4,T2114,Toutes les personnes juives observent la Fête d'Esther.,N
+629,GW4,T2114,Le Fast of Esther est le même jour chaque année.,C
+630,GW2,T2115,La prévision de la stéatose hépatique est bonne si elle est capturée tôt.,E
+631,GW2,T2115,La plupart des cas de cirrhose sont causés par le foie gras.,N
+632,GW2,T2115,La stéatose hépatique affecte moins de 70 % des personnes qui consomment des boissons lourdes.,C
+633,GW52,T2115,Le « foie gras » a plusieurs types.,E
+634,GW52,T2115,Le « foie gras » n'a pas d'incidence sur l'espérance de vie.,N
+635,GW52,T2115,Le « foie gras » ne peut être causé que par l'alcool.,C
+636,GW25,T2115,"La stéatose hépatique, également connue sous le nom de foie grasse, peut être diagnostiquée à l'aide de plusieurs méthodes.",E
+637,GW25,T2115,Le « foie gras » est présent chez les personnes qui consomment des boissons lourdes et le renoncement à la consommation est une bonne solution.,N
+638,GW25,T2115,"Le « foie gras » est souvent associé à l'alcoolisme excessif, mais il n'entraîne pas de cirrhose ou de cancer du foie.",C
+639,GW52,T2116,La fluorine est l'un des dix premiers éléments découverts.,E
+640,GW52,T2116,La flourine est largement utilisée aujourd'hui.,N
+641,GW52,T2116,La fluorine a été découverte au XVIIIe siècle.,C
+642,GW63,T2116,La personne qui a nommé Fluorine est différente de la personne qui l'a découvert.,E
+643,GW63,T2116,La « fluorine » peut être isolée dans un état solide.,N
+644,GW63,T2116,La « fluorine » est solide lorsqu'elle est en phase STP.,C
+645,GW25,T2116,"« Fluorine » est un métal réactif avec alpha, beta Allotropes.",E
+646,GW25,T2116,"Bien que André-Marie Ampère ait découvert Flourine pour la première fois, l'isolement d'Henri Moissan lui a permis d'obtenir l'acceptation des universitaires en chimie.",N
+647,GW25,T2116,"Humphry Davy a nommé Flourine, mais Henri Moissan l'a découvert.",C
+648,GW1,T2117,La station de métro Main Street (Système double IRT) a été inaugurée à l'automne 1928.,E
+649,GW1,T2117,La station de métro de Main Street (Système double IRT) a toujours deux plates-formes insulaires.,N
+650,GW1,T2117,La station de métro de Main Street (Système double IRT) fonctionne depuis plus d'un siècle.,C
+651,GW86,T2117,La station de métro Main Street compte plus de voies que de plate-formes.,E
+652,GW86,T2117,La station de métro Main Street a été construite il y a 91 ans.,N
+653,GW86,T2117,La station de métro Main Street compte plus de plates-formes que de voies.,C
+654,GW52,T2117,La station de métro de Main Street (Système double IRT) a été inaugurée au XXe siècle.,E
+655,GW52,T2117,La station de métro Main Street (Système double IRT) continue de fonctionner aujourd'hui.,N
+656,GW52,T2117,La station de métro Main Street (Dual System IRT) traverse l'ensemble de New York.,C
+657,GW106,T2118,Le siège original de «Fosters Freeze» est situé dans une ville différente de son siège actuel.,E
+658,GW106,T2118,Sanjay Patel a démissionné du poste de CEO de Google afin d'accepter le poste de chef de «Fosters Freeze».,N
+659,GW106,T2118,"Fosters Freeze a mis à l'essai une nouvelle version de Strawberry Shortcake soft serve twist flavor dans certains magasins de Phoenix, AZ.",C
+660,GW83,T2118,Foster's Freeze a été fondé par George Foster,E
+661,GW83,T2118,"Il y a un emmagasinage de Foster à Pasadena, en Californie.",N
+662,GW83,T2118,"Foster's Freeze a été fondé à Hollywood, en Californie.",C
+663,GW86,T2118,Le siège de «Fosters Freeze» est situé dans une ville différente de la ville où la chaîne a été fondée.,E
+664,GW86,T2118,Le fondateur de Fosters Freeze est décédé.,N
+665,GW86,T2118,«Fosters Freeze» compte des restaurants dans plusieurs États.,C
+666,GW52,T2119,Ganesh Chaturthi dure presque deux semaines.,E
+667,GW52,T2119,Ganesh Chaturthi peut se terminer en août.,N
+668,GW52,T2119,Ganesh Chaturthi est observé par toute l'Asie.,C
+669,GW28,T2119,Ganesh Chaturthi est une célébration religieuse multi-journée qui se déroule chaque année à différents jours.,E
+670,GW28,T2119,La tradition du Ganesh Chaturthi stipule que l'argent doit être donné aux enfants en tant que cadeau pendant l'observation.,N
+671,GW28,T2119,Ganesh Chaturthi est un jour unique d'observation commençant à la fin de l'été.,C
+672,GW4,T2119,Ganesh Chaturthi dure plus d'une semaine.,E
+673,GW4,T2119,Ganesh Chaturthi fait partie de la tradition hindoue depuis plus de 1000 ans.,N
+674,GW4,T2119,Ganesh Chaturthi se produit chaque année à la même date.,C
+675,GW106,T2120,Le «Garfield Park Branch» est ouvert et fermé au cours du même mois pendant 63 ans.,E
+676,GW106,T2120,La Garfield Park Branch est la seule ligne de transit rapide à survivre en deux siècles distincts à Chicago.,N
+677,GW106,T2120,"La «Garfield Park Branch» est entièrement exploitée dans le comté de Cook, en Illinois.",C
+678,GW74,T2120,Garfield Park Branch a fermé le même mois qu'elle a ouvert,E
+679,GW74,T2120,« Garfield Park Branch » comptait 22 stations en 1895,N
+680,GW74,T2120,Metropolitan West Side Elevated Railroad a été l'exploitant lorsque la « Garfield Park Branch » s'est fermée,C
+681,GW28,T2120,La Direction générale du parc de Garfield n'est pas en activité depuis plus de cinquante ans.,E
+682,GW28,T2120,«Garfield Park Branch» est abandonné et condamné.,N
+683,GW28,T2120,«Garfield Park Branch» dessert plusieurs États du Midwest.,C
+684,GW52,T2121,L'examen général des femmes n'a été utilisé qu'une décennie.,E
+685,GW52,T2121,L'« examen général des femmes » devait être un pied dans la porte du travail.,N
+686,GW52,T2121,L'examen général des femmes a été effectué au XXe siècle.,C
+687,GW28,T2121,L'examen général pour les femmes était un examen qui permettait aux femmes d'accéder à l'enseignement supérieur à l'université.,E
+688,GW28,T2121,L'examen général pour les femmes était nécessaire pour les femmes qui souhaitaient poursuivre une carrière universitaire.,N
+689,GW28,T2121,L'examen général pour les femmes a été offert en plusieurs langues et se poursuit jusqu'à ce jour.,C
+690,GW74,T2121,« Examen général des femmes » a pris fin 11 ans après son lancement,E
+691,GW74,T2121,L'Université de Londres était la seule université à avoir fait un « examen général pour les femmes » en 1869.,N
+692,GW74,T2121,L’« examen général des femmes » a duré 20 ans à l’Université de Londres,C
+693,GW28,T2122,Le pont George Washington relie New York et NJ.,E
+694,GW28,T2122,Le pont George Washington est le plus fréquent au monde.,N
+695,GW28,T2122,Le « pont George Washington » est un pont d'acier libre à niveau unique.,C
+696,GW52,T2122,Le GW compte près de 300 000 véhicules qui le traversent chaque jour.,E
+697,GW52,T2122,Le GW n'a jamais été rénové.,N
+698,GW52,T2122,Le GW a été ouvert au XIXe siècle.,C
+699,GW86,T2122,Le « pont George Washington » est situé dans plus d'un État.,E
+700,GW86,T2122,Les camions sont interdits d'utiliser le « pont George Washington ».,N
+701,GW86,T2122,Moins de 30 ans se sont écoulés entre le début de la construction du pont et l'ouverture de toutes les sections du pont au public.,C
+702,GW28,T2123,La artérite à cellules géantes affecte principalement les adultes plus âgés.,E
+703,GW28,T2123,La artérite à cellules géantes rend le visage rouge en raison d'une inflammation.,N
+704,GW28,T2123,La artérite à cellules géantes affecte des millions d'aînés et court leur durée de vie.,C
+705,GW86,T2123,La artérite à cellules géantes est associée à la perte totale de la vision et aux troubles cardiaques.,E
+706,GW86,T2123,La artérite à cellules géantes se produit seulement chez les personnes âgées de plus de 50 ans.,N
+707,GW86,T2123,La « arterite géant-cellulaire » a généralement une incidence sur la durée de vie prévue.,C
+708,GW52,T2123,L'artérite à cellules gigantesques se produit généralement chez les aînés.,E
+709,GW52,T2123,La maladie de Horton ne se produit pas chez les enfants.,N
+710,GW52,T2123,L'arthrite affecte l'espérance de vie des personnes touchées.,C
+711,GW12,T2124,Le « bon vendredi » est une fête chrétienne qui se déroule chaque année.,E
+712,GW12,T2124,Le « bon vendredi » n'est observé que dans le mois d'avril.,N
+713,GW12,T2124,"Considéré comme un jour férié religieux, le « bon vendredi » se tient le vendredi suivant immédiatement le dimanche de Pâques.",C
+714,GW19,T2124,"Comme à Easter, le « bon vendredi » ne tombe pas chaque année sur une date précise.",E
+715,GW19,T2124,Le « bon vendredi » coïncide avec le premier jour du Pâques.,N
+716,GW19,T2124,Les branches occidentale et orientale du christianisme célèbrent la resurrection du Christ le même jour.,C
+717,GW28,T2124,Le « bon vendredi » est une célébration religieuse annuelle qui tombe sur différents jours chaque année.,E
+718,GW28,T2124,Le « bon vendredi » est la période la plus sainte de l'année pour les chrétiens.,N
+719,GW28,T2124,Le « bon vendredi » est une célébration festive et vive des chrétiens.,C
+720,GW74,T2125,La note est valide 3 ans à compter de 31 ans après le début de l'année.,E
+721,GW74,T2125,Plus d'étudiants en Inde suivent le GATE que dans les États-Unis.,N
+722,GW74,T2125,La note était valide 3 ans 10 ans après le début de l'année.,C
+723,GW86,T2125,"Les frais d'inscription au GATE varient selon le sexe, la nationalité et le statut d'invalidité.",E
+724,GW86,T2125,GATE a été introduite avant 2015.,N
+725,GW86,T2125,Le GATE est un test écrit.,C
+726,GW4,T2125,Le Graduate Aptitude Test in Engineering a commencé dans les années 80.,E
+727,GW4,T2125,Le Graduate Aptitude Test in Engineering n'est organisé qu'en Inde.,N
+728,GW4,T2125,Le Graduate Aptitude Test in Engineering est gratuit pour les étudiants.,C
+729,GW52,T2126,Le GMAT a été suivi par plusieurs centaines d'étudiants.,E
+730,GW52,T2126,Le GMAT a toujours été un outil d'admission primaire.,N
+731,GW52,T2126,Le GMAT est bon pour la vie.,C
+732,GW106,T2126,L'examen GMAT comporte quatre sections.,E
+733,GW106,T2126,Les majors d'anglais représentaient le groupe le plus élevé de notes parfaites lors de l'examen GMAT.,N
+734,GW106,T2126,Les candidats ayant obtenu plus de 850 points au GMAT ont la plus grande probabilité d'être acceptés dans les programmes d'affaires les plus prestigieux des collèges et universités américains.,C
+735,GW28,T2126,Le Graduate Management Admission Test est un examen de langue anglaise utilisé dans l'admission à des écoles d'affaires.,E
+736,GW28,T2126,Le test d'admission de la direction supérieure est frauduleux et non frauduleux.,N
+737,GW28,T2126,L'examen d'admission à la gestion supérieure est un examen de plusieurs jours qui exige un séjour d'une nuit à l'autre.,C
+738,GW28,T2127,« Examen des dossiers : examen général » est offert dans plusieurs pays mais dans une seule langue.,E
+739,GW28,T2127,« Examen du dossier : Test général » est le test le plus populaire offert.,N
+740,GW28,T2127,« Examen des dossiers : examen général » n'est pas nécessaire lorsqu'il s'agit d'une demande à l'école,C
+741,GW106,T2127,Les étudiants qui suivent le GRE comme examen sur papier sont admissibles à l'examen plus souvent que ceux qui suivent l'examen par ordinateur.,E
+742,GW106,T2127,Le GRE est obligatoire pour les diplômés des États-Unis.,N
+743,GW106,T2127,Le GRE est un test normalisé qui a été offert pour la première fois durant l'administration de Truman.,C
+744,GW60,T2127,Les GRE prises en 1936 sont valides jusqu'en 1941.,E
+745,GW60,T2127,Le GRE est le seul examen offert par le Service d'examens éducatifs.,N
+746,GW60,T2127,Certaines notes GRE sont devenues invalides en 1939.,C
+747,GW28,T2128,Le concepteur graphique est une profession axée sur la création et la visualisation.,E
+748,GW28,T2128,Les « designers graphiques » sont bien compensés.,N
+749,GW28,T2128,Les « designers graphiques » peuvent travailler dans de nombreuses professions techniques telles que l'ingénieur.,C
+750,GW106,T2128,Un directeur créatif d'une agence de publicité serait une profession idéale pour un concepteur graphique.,E
+751,GW106,T2128,La plupart des concepteurs graphiques qui ont réussi dans l'industrie de l'édition de bureaux ont suivi des cours d'histoire de l'art à l'université.,N
+752,GW106,T2128,Les perspectives de carrière des designers graphiques dans le domaine de l'édition ont diminué ces dernières années à la suite de l'augmentation des livres numériques.,C
+753,GW60,T2128,Un directeur artistique doit être compétent dans l'histoire de l'art.,E
+754,GW60,T2128,Un directeur créatif peut toujours aussi être un concepteur de site Web.,N
+755,GW60,T2128,Un répertoire d'art ne peut pas fonctionner dans la typographie.,C
+756,GW28,T2129,Le syndrome Guillain-Barré est une condition médicale de cause inconnue et de durée prolongée de récupération après diagnostic et traitement.,E
+757,GW28,T2129,Le traitement du syndrome Guillain-Barré est coûteux et prend des années.,N
+758,GW28,T2129,Le syndrome Guillain-Barré commence dans le cerveau et affecte les yeux et les oreilles.,C
+759,GW74,T2129,Il y a plus de complications que de symptômes,E
+760,GW74,T2129,Observer la faiblesse musculaire des mains et des pieds est la meilleure méthode de diagnostic,N
+761,GW74,T2129,Les décès des personnes touchées sont moins élevés que la fréquence des personnes touchées par année,C
+762,GW52,T2129,Le syndrome Guillain-Barré a un taux de mortalité faible.,E
+763,GW52,T2129,La fréquence du syndrome Guillain-Barré a augmenté.,N
+764,GW52,T2129,Le syndrome Guillain-Barré a des causes connues.,C
+765,GW60,T2130,La Guru Purnima de 2018 a été célébrée plus tard dans l'année que la Guru Purnima de 2019.,E
+766,GW60,T2130,Guru Purnima est également une fête nationale en Inde.,N
+767,GW60,T2130,La Guru Purnima de 2020 sera célébrée plus tôt dans l'année que la Guru Purnima de 2019.,C
+768,GW1,T2130,Guru Purnima se déroule en été.,E
+769,GW1,T2130,Le Népal est le seul endroit où se célèbre la Guru Purnima.,N
+770,GW1,T2130,La Guru Purnima se produit deux fois par an.,C
+771,GW4,T2130,Guru Purnima est quelque chose qui se produit chaque année.,E
+772,GW4,T2130,Les gens mangent habituellement beaucoup de nourriture à Guru Purnima.,N
+773,GW4,T2130,Guru Purnima se produit toujours le même jour.,C
+774,GW12,T2131,« Hanukkah » est un jour férié juif observé par les Juifs.,E
+775,GW12,T2131,"« Hanukkah » comprend l'éclairage de candes, le chant de chansons et l'alimentation.",N
+776,GW12,T2131,« Hanukkah » est un jour férié juif qui ne se produit qu'en décembre.,C
+777,GW52,T2131,« Hanukkah » est célébré chaque année.,E
+778,GW52,T2131,« Hanukkah » est célébré dans tous les pays.,N
+779,GW52,T2131,« Hanukkah » se déroule tous les ans aux mêmes dates.,C
+780,GW60,T2131,Hannukkah a commencé plus tôt en 2018 qu'en 2019,E
+781,GW60,T2131,Hannukkah commencera plus tôt en 2021 que n'importe quel autre année du XXIe siècle.,N
+782,GW60,T2131,Hannukkah commencera plus tard dans l'année en 2021 qu'au cours de toute autre année du XXIe siècle.,C
+783,GW89,T2132,Le Holi aura lieu le 9 mars 2020.,E
+784,GW89,T2132,Le Holi se tient chaque année à une date différente.,N
+785,GW89,T2132,La date de Holi est basée sur le calendrier romain.,C
+786,GW106,T2132,Holi une célébration culturelle observée par de nombreuses religions.,E
+787,GW106,T2132,"La couleur violette, la couleur verte et la couleur bleue revêtent une importance particulière pour les personnes qui les portent au cours du feu d'artifice Holika.",N
+788,GW106,T2132,Holi se déroule toujours au cours de la printemps.,C
+789,GW19,T2132,Holi est une fête indienne célébrée par plusieurs croyances.,E
+790,GW19,T2132,Le Holi est considéré comme le jour le plus saint de l'année en Inde.,N
+791,GW19,T2132,"Dans l'Inde, toutes les religions observent le Holi en fastant et en participant à la prière solennelle.",C
+792,GW52,T2133,Le projet «Howrah Bridge» a pris plusieurs années pour être achevé.,E
+793,GW52,T2133,Le pont Howrah n'a pas été rénové depuis son ouverture.,N
+794,GW52,T2133,Le pont Howrah coûte un péage pour traverser.,C
+795,GW1,T2133,La construction du « pont Howrah » a pris plus de cinq ans.,E
+796,GW1,T2133,Le « pont Howrah » est le seul pont que « et Tritton » ont conçu.,N
+797,GW1,T2133,Le « pont Howrah » a été ouvert à l'été 1943.,C
+798,GW12,T2133,Le pont Howrah est en acier et est entretenu par Kolkata Port Trust.,E
+799,GW12,T2133,La construction du « pont Howrah » a commencé en 1942 et a été ouverte en 1943.,N
+800,GW12,T2133,"Au total, 800 000 personnes et véhicules traversent le pont Howrah chaque jour.",C
+801,GW28,T2134,HTC Dream est un smartphone utilisant Android's Donut.,E
+802,GW28,T2134,HTC Dream est un smartphone de première génération.,N
+803,GW28,T2134,HTC Dream est équipé de caméras arrière et avant comme standard.,C
+804,GW52,T2134,HTC's Dream a une batterie de plus de 1000 mAh,E
+805,GW52,T2134,Le HTC Dream est encore en production.,N
+806,GW52,T2134,HTC's Dream est un téléphone mobile.,C
+807,GW4,T2134,Le HTC Dream a plus de 1000 mAh de batterie.,E
+808,GW4,T2134,Un HTC Dream a été conçu pour copier un iPhone,N
+809,GW4,T2134,Le HTC Dream n'a qu'une antenne de bande unique.,C
+810,GW86,T2135,Le Huawei Ascend G300 peut fonctionner sur plus d'un type de réseau.,E
+811,GW86,T2135,Le Huawei Ascend G300 est actuellement fabriqué.,N
+812,GW86,T2135,Le Huawei Ascend G300 est un appareil tablet.,C
+813,GW52,T2135,Le système d'exploitation initial de l'Ascend G300 était Android 4.,E
+814,GW52,T2135,L'Ascend G300 est encore en production,N
+815,GW52,T2135,L'Ascend G300 avait la même caméra dans chaque modèle.,C
+816,GW38,T2135,Le Huawei Ascend G300 est compatible avec les réseaux HSPA900/2100.,E
+817,GW38,T2135,Le Huawei Ascend G300 est le smartphone le plus rapide fabriqué par Huawei,N
+818,GW38,T2135,Le Huawei Ascend G300 fonctionne sur le système d'exploitation Android 2.0,C
+819,GW12,T2136,"La fréquence de l'hyperthyroïdie, une thyroïdie trop active, est de 1,2 % aux États-Unis.",E
+820,GW12,T2136,La maladie de Graves est la seule cause d'hyperthyroïdie.,N
+821,GW12,T2136,L'hyperthyroidisme se produit habituellement durant l'enfance.,C
+822,GW74,T2136,Il y a plus de symptômes que les causes de l'hyperthyroïdie,E
+823,GW74,T2136,La maladie de Graves provoque une faiblesse musculaire,N
+824,GW74,T2136,Il y a plus de médicaments que de traitements,C
+825,GW52,T2136,L'hyperthyroidisme se produit chez plus de 1 % de la population.,E
+826,GW52,T2136,L'hyperthyroidisme se manifeste avant 20 ans et après 50 ans.,N
+827,GW52,T2136,L'hyperthyroidisme n'a aucune cause connue.,C
+828,GW63,T2137,"Le Corona Yard, East 180th Street Yard est intégré au réseau de métro de New York.",E
+829,GW63,T2137,Il n'y a un métro que à New York.,N
+830,GW63,T2137,La « Interborough Rapid Transit Company » fonctionne depuis plus de 100 ans.,C
+831,GW52,T2137,L'Administration de transit rapide d'Interborough a commencé au XXe siècle.,E
+832,GW52,T2137,Le métro dessert l'ensemble de New York.,N
+833,GW52,T2137,L'Administration de transit rapide Interborough continue de fonctionner aujourd'hui.,C
+834,GW28,T2137,La société Interborough Rapid Transit existe depuis 37 ans.,E
+835,GW28,T2137,La « Interborough Rapid Transit Company » est en faillite et a été acquise par la Manhattan Railway Company.,N
+836,GW28,T2137,La « Interborough Rapid Transit Company » est une entité privée qui fonctionne à ce jour.,C
+837,GW28,T2138,« International English Language Testing System » est un test normalisé de compétence en langue anglaise.,E
+838,GW28,T2138,« International English Language Testing System » est le test de langue anglaise le plus populaire au monde.,N
+839,GW28,T2138,Le « International English Language Testing System » peut être pris en ligne en tout temps.,C
+840,GW74,T2138,"Il y a plus de collèges, d'agences et d'autres établissements qui utilisent les résultats des tests IELTS que les centres d'examen.",E
+841,GW74,T2138,Commençant par le Royaume-Uni en 1980,N
+842,GW74,T2138,Il y a plus de pays qui utilisent les résultats des tests que ceux des centres d'examen.,C
+843,GW105,T2138,Le « International English Language Testing System » comporte plusieurs parties différentes.,E
+844,GW105,T2138,Le test est principalement destiné aux immigrants du Mexique.,N
+845,GW105,T2138,Seuls quelques collèges utilisent ce critère.,C
+846,GW107,T2139,« iOS » est développé par Apple.,E
+847,GW107,T2139,iOS est le meilleur système d'exploitation.,N
+848,GW107,T2139,« iOS » est écrit en Python.,C
+849,GW52,T2139,« iOS » a été dévoilé pour la première fois dans les années 2000.,E
+850,GW52,T2139,« iOS » a reçu des mises à jour fréquentes au cours des douze dernières années.,N
+851,GW52,T2139,« iOS » est un logiciel libre.,C
+852,GW74,T2139,La dernière mise à jour de iOS a eu lieu 8 jours après la dernière version,E
+853,GW74,T2139,« iOS » est disponible dans 40 langues depuis 2007,N
+854,GW74,T2139,La dernière version de iOS a eu lieu le même mois que la version initiale,C
+855,GW52,T2140,L'IBS se produit avant que les adultes atteignent l'âge adulte.,E
+856,GW52,T2140,La fréquence de l'IBS a augmenté avec le temps.,N
+857,GW52,T2140,Les personnes atteintes d'IBS ont une durée de vie plus courte.,C
+858,GW63,T2140,"Bien que le SBI ne soit pas une condition à court terme, les gens n'ont pas à s'inquiéter de la réduction de la durée de vie.",E
+859,GW63,T2140,Vous ne pouvez jamais avoir le SIB à 40 ans.,N
+860,GW63,T2140,Les causes connues de la SIB peuvent être traitées par chirurgie,C
+861,GW28,T2140,Le syndrome de l'intestin irritable est une condition médicale qui affecte les mouvements de l'intestin.,E
+862,GW28,T2140,Le traitement du syndrome de l'intestin irritable est facile et non coûteux.,N
+863,GW28,T2140,Le syndrome de l'intestin irritable est parfois fatal.,C
+864,GW52,T2141,"La ligne q111 q113, q114 Jamaica-Far Rockaway est en service d'une manière ou d'une autre depuis le début du XXe siècle.",E
+865,GW52,T2141,La ligne q113 Jamaica-Far Rockaway fonctionne selon un horaire de 24 heures,N
+866,GW52,T2141,"Les lignes q111 q113, q114 Jamaica-Far Rockaway ont toutes la même distance.",C
+867,GW60,T2141,Le Q111 transporte plus de passagers par milles que les Q113 et Q114.,E
+868,GW60,T2141,Le dépôt de Baisley Park appartient à la MTA Bus Company.,N
+869,GW60,T2141,Le Q113 n'est jamais fermé durant la journée.,C
+870,GW28,T2141,"q111 q113, q114 La ligne Jamaica-Far Rockaway est une ligne de bus entre Queens et le comté de Nassau.",E
+871,GW28,T2141,"q111 q113, q114 La ligne Jamaica-Far Rockaway est équipée d'un accès Wifi public sur tous ses autobus.",N
+872,GW28,T2141,"q111 q113, q114 La ligne Jamaïque-Far Rockaway est une ligne rarement utilisée.",C
+873,GW4,T2142,La « rougeur » cause que la couleur de la peau change chez les gens.,E
+874,GW4,T2142,La maladie Jaundice peut être guériée par des médicaments.,N
+875,GW4,T2142,La maladie Jaundice est une maladie qui est généralement mortelle pour les gens.,C
+876,GW28,T2142,La « jaundice » est une condition médicale qui décolore la peau et les yeux en jaune.,E
+877,GW28,T2142,La Jaundice est parfois fatale.,N
+878,GW28,T2142,La « jaundice » est causée par une mauvaise alimentation et un manque d'exercice.,C
+879,GW12,T2142,La « jaundice » est une spécialité d'hépatologie impliquant la coloration jaune de la peau.,E
+880,GW12,T2142,La peau et le blanc des yeux deviennent jaunes lorsqu'un individu souffre de jaundice.,N
+881,GW12,T2142,Il n'existe qu'un seul test pour diagnostiquer la jaundice.,C
+882,GW1,T2143,L'examen d'entrée conjointe est offert tous les deux ans.,E
+883,GW1,T2143,L'Agence nationale d'examen n'administre que l'examen d'entrée conjoint.,N
+884,GW1,T2143,L'examen d'entrée conjointe a commencé au XXe siècle.,C
+885,GW52,T2143,Le JEE Main a commencé dans les années 2000.,E
+886,GW52,T2143,Le JEE Main a augmenté le nombre d'essais effectués au fil des ans.,N
+887,GW52,T2143,Le JEE Main n'a qu'une plage de points positive.,C
+888,GW60,T2143,Il faut 6 heures pour remplir tous les documents requis pour le JEE Main.,E
+889,GW60,T2143,Le JEE Main comprend le calcul différentiel.,N
+890,GW60,T2143,Vous pouvez prendre l'examen chaque fois qu'il est offert pendant 2 ans en succession.,C
+891,GW86,T2144,L'extension de la ligne Kelana Jaya a été ouverte il y a plus de trois ans.,E
+892,GW86,T2144,L'extension de la ligne Kelana Jaya est actuellement opérationnelle.,N
+893,GW86,T2144,L'extension de la ligne Kelana Jaya a été ouverte il y a 4 ans.,C
+894,GW74,T2144,Il y a 12 stations plus que les services,E
+895,GW74,T2144,La prolongation de la ligne Kelana Jaya a ouvert 13 stations le 30 juin 2016,N
+896,GW74,T2144,Il y a plus de services que Termini,C
+897,GW28,T2144,L'extension de la ligne Kelana Jaya a commencé à fonctionner au XXIe siècle en Asie du Sud-Est,E
+898,GW28,T2144,Kelana Jaya line extension fonctionne exclusivement avec Mag-lev.,N
+899,GW28,T2144,L'extension de la ligne Kelana Jaya fonctionne dans plusieurs pays sur des milliers de milles de voie.,C
+900,GW52,T2145,Les lignes « 35 / 36 Metro Lines » permettent le transfert de services.,E
+901,GW52,T2145,Un passager de la ligne 35 peut aussi utiliser la ligne 36.,N
+902,GW52,T2145,Les lignes de métro 35/36 sont opérationnelles 24 heures sur 24.,C
+903,GW28,T2145,« 35 / 36 Metro Lines » est une ligne de transport public qui fonctionne selon un calendrier établi.,E
+904,GW28,T2145,Les passagers peuvent payer les tarifs des lignes de métro 35/36 avec leurs ordinateurs.,N
+905,GW28,T2145,« 35 / 36 Metro Lines » fonctionne 24 heures sur 24 sans interruption.,C
+906,GW4,T2145,Les lignes de métro 35/36 passent 6 fois par jour.,E
+907,GW4,T2145,Les lignes de métro 35/36 couvrent une grande partie de l'aire.,N
+908,GW4,T2145,Les « 35 / 36 Metro Lines » utilisent des véhicules Audi.,C
+909,GW106,T2146,Moins de 10 % des occupants du vol 2933 de LaMia ont survécu à l'accident.,E
+910,GW106,T2146,Tous les survivants à bord du vol 2933 de LaMia étaient des passagers.,N
+911,GW106,T2146,L'aéronef Avro RJ85 utilisé lors du vol 2933 de LaMia avait un seuil de carburant défectueux.,C
+912,GW74,T2146,Il y avait plus d'occupants que de passagers,E
+913,GW74,T2146,4 des six survivants étaient membres de l'équipage,N
+914,GW74,T2146,Aucun survivant n'a été blessé.,C
+915,GW95,T2146,Il y avait 18 passagers pour chaque membre d'équipage.,E
+916,GW95,T2146,"sur les 6 survivants, 3 étaient membres de l'équipage.",N
+917,GW95,T2146,L'accident n'aurait pas pu être prévenu.,C
+918,GW74,T2147,Le radius minimal est plus long que la hauteur de la plus haute altitude,E
+919,GW74,T2147,« Las Vegas Monorail » comptait 7 stations en 1995,N
+920,GW74,T2147,Las Vegas Monorail appartient à une autre compagnie que celle qui l'exploite,C
+921,GW4,T2147,Le Las Vegas Monorail existe depuis plus de 15 ans.,E
+922,GW4,T2147,Le Las Vegas Monorail s'arrête dans la plupart des hôtels.,N
+923,GW4,T2147,Le Las Vegas Monorail marche plus lentement que les voitures.,C
+924,GW86,T2147,Le Las Vegas Monorail a d'abord été ouvert sous un autre nom.,E
+925,GW86,T2147,Le Las Vegas Monorail a une vitesse maximale de 50 mph.,N
+926,GW86,T2147,Le «Las Vegas Monorail» fonctionne depuis 1995 sans interruption de service.,C
+927,GW28,T2148,La Tomatina est une célébration culturelle annuelle en Espagne,E
+928,GW28,T2148,La Tomatina gaspille chaque année des millions de gallons de tomates.,N
+929,GW28,T2148,La Tomatina arrive le même jour chaque année.,C
+930,GW4,T2148,La Tomatina est une fête célébrée en Europe.,E
+931,GW4,T2148,La Tomatina est un festival plein de nourriture.,N
+932,GW4,T2148,« La Tomatina » se produit chaque année à la même date.,C
+933,GW52,T2148,« La Tomatina » se déroule chaque août.,E
+934,GW52,T2148,La Tomatina est un événement d'une semaine.,N
+935,GW52,T2148,« La Tomatina » se produit le même jour chaque année.,C
+936,GW28,T2149,"Le test d'admission à l'école de droit est un test normalisé utilisé pour l'admission à l'école de droit dans de nombreux pays anglophones, principalement les États-Unis.",E
+937,GW28,T2149,Le « test d'admission à l'école de droit » peut également être utilisé pour l'admission à certains programmes de doctorat et non seulement à des écoles de droit.,N
+938,GW28,T2149,Le « Test d'admission à l'école de droit » est un examen de plusieurs jours donné en plusieurs langues.,C
+939,GW86,T2149,Le « test d'admission à l'école de droit » existe depuis plus de 70 ans.,E
+940,GW86,T2149,La section de rédaction du LSAT n'est pas prise en considération dans les admissions à l'école de droit.,N
+941,GW86,T2149,Les résultats de l'essai LSAT effectué en 2006 sont valides aujourd'hui.,C
+942,GW52,T2149,Le LSAT est disponible pour être utilisé dans le monde entier.,E
+943,GW52,T2149,Les résultats du LSAT sont bons pour toute la vie.,N
+944,GW52,T2149,Le LSAT a un score négatif.,C
+945,GW28,T2150,LG Optimus G est un smartphone coréen avec une seule caméra.,E
+946,GW28,T2150,LG Optimus G a été un bestseller pour LG.,N
+947,GW28,T2150,LG Optimus G est fabriqué pour le marché coréen intérieur.,C
+948,GW74,T2150,Le stockage est supérieur à 30 GB à la mémoire,E
+949,GW74,T2150,LG Optimus G que sur Android 4.0 Ice Cream Sandwich ont 16 GB de stockage,N
+950,GW74,T2150,Le LG G2 est arrivé avant le LG Optimus 4X HD,C
+951,GW52,T2150,Le LG Optimus G a plusieurs options de stockage.,E
+952,GW52,T2150,Le LG Optimus G continue à être produit jusqu'à ce jour.,N
+953,GW52,T2150,Le LG Optimus G était le premier de la série Optimus.,C
+954,GW74,T2151,La famille OS et l'interface d'utilisateur par défaut sont Unix,E
+955,GW74,T2151,« Linux » était disponible en plusieurs langues en 1991,N
+956,GW74,T2151,Il y a le même nombre de cibles de marketing que les plateformes,C
+957,GW1,T2151,Linux a été lancé au cours de la dernière décennie du XXe siècle.,E
+958,GW1,T2151,Linus Torvalds a fait plus pour développer Linux que la communauté a fait.,N
+959,GW1,T2151,Linus travaille sur plus de 30 plateformes basées sur le tableau.,C
+960,GW52,T2151,« Linux » a été développé dans les années 90.,E
+961,GW52,T2151,Linux est l'un des meilleurs logiciels sur le marché aujourd'hui.,N
+962,GW52,T2151,Linux est écrit en C+.,C
+963,GW1,T2152,« Lion Air Flight 610 » a échoué à l'automne 2018.,E
+964,GW1,T2152,Le seul plongeur de sauvetage de l'avion « Lion Air Flight 610 » est mort.,N
+965,GW1,T2152,Il y avait des survivants du vol 610 de Lion Air.,C
+966,GW12,T2152,Il y avait 181 passagers et 8 membres d'équipage sur le vol 610 de Lion Air.,E
+967,GW12,T2152,Le numéro IATA et le numéro de l'ICAO pour Lion Air Flight 610 sont les mêmes.,N
+968,GW12,T2152,« Lion Air Flight 610 » a été exploité par Lion Air et a échoué au début de 2018.,C
+969,GW52,T2152,Le JT610 a échoué l'année dernière.,E
+970,GW52,T2152,Le sort du vol JT610 n'a pas de preuves claires.,N
+971,GW52,T2152,Le JT610 a causé plus de 200 décès.,C
+972,GW95,T2153,Loi Krathong se produit près de la fin de l'année,E
+973,GW95,T2153,Les gens voyagent en Thaïlande pour célébrer Loi Krathong,N
+974,GW95,T2153,« Loi Krathong » est observé surtout par les occidentales,C
+975,GW86,T2153,« Loi Krathong » est observé une fois par an.,E
+976,GW86,T2153,« Loi Krathong » est observé le 22 novembre chaque année.,N
+977,GW86,T2153,« Loi Krathong » est connue par quatre noms différents seulement.,C
+978,GW52,T2153,« Loi Krathong » se produit chaque année.,E
+979,GW52,T2153,Loi Krathong est célébré dans toute l'Asie.,N
+980,GW52,T2153,« Loi Krathong » est célébré en Amérique du Nord.,C
+981,GW52,T2154,Lupercalia est une occasion appuyée par la nourriture.,E
+982,GW52,T2154,Lupercalia sacrifie chaque fois un animal spécifique.,N
+983,GW52,T2154,Lupercalia se déroule chaque année à la même date.,C
+984,GW86,T2154,La «Lupercalia» est observée à plusieurs dates.,E
+985,GW86,T2154,La Lupercalia est encore observée aujourd'hui par certains individus.,N
+986,GW86,T2154,La Lupercalia est observée exclusivement à une date.,C
+987,GW74,T2154,Lupercalia a été célébrée avec des fêtes en février,E
+988,GW74,T2154,Les sacrifices de chèvres et d’un chien par les Luperci étaient pratiqués par tous les Romains.,N
+989,GW74,T2154,L'Empire romain célèbre Lupercalia à l'automne,C
+990,GW86,T2155,«Māgha Pūjā» est observé dans au moins cinq pays.,E
+991,GW86,T2155,«Māgha Pūjā» est observé dans seulement six pays.,N
+992,GW86,T2155,« Māgha Pūjā » a été observé l'été 2019.,C
+993,GW52,T2155,Māgha Pūjā a eu lieu en février de cette année.,E
+994,GW52,T2155,«Māgha Pūjā» est célébré depuis des siècles.,N
+995,GW52,T2155,«Māgha Pūjā» est une célébration strictement bouddhiste.,C
+996,GW74,T2155,Le 19 février 2019 a eu une pleine moon.,E
+997,GW74,T2155,"Le festival de la pagode Shwedagon a une procession avec la lumière,",N
+998,GW74,T2155,Le troisième mois de la Lune était en mars 2019.,C
+999,GW84,T2156,L'anniversaire de la naissance du lord Mahavir est célébré au printemps.,E
+1000,GW84,T2156,Le anniversaire de la naissance de Mahaveer Swami ne sera pas célébré en 2019.,N
+1001,GW84,T2156,Le anniversaire de la naissance de Mahaveer Swami exige que les gens apportent des cadeaux.,C
+1002,GW60,T2156,Mahaveer Swami est important dans la religion des Jains.,E
+1003,GW60,T2156,Les prières ne sont faites que dans le temple Jain.,N
+1004,GW60,T2156,Il n'y a pas de temples Jain en Inde.,C
+1005,GW4,T2156,« Mahaveer Janma Kalyanak » est un jour férié qui se déroule chaque année en Inde.,E
+1006,GW4,T2156,Mahaveer Janma Kalyanak se produit toujours le même jour chaque année.,N
+1007,GW4,T2156,"En 2019, Mahaveer Janma Kalyanak a eu lieu en mai.",C
+1008,GW28,T2157,"Le « trouble dépressif majeur » est une condition psychologique qui apparaît chez les jeunes adultes et qui peut durer des mois, voire des années.",E
+1009,GW28,T2157,Le « trouble dépressif majeur » n'apparaît pas chez les jeunes enfants.,N
+1010,GW28,T2157,Les « troubles dépressifs majeurs » peuvent être guérisés par un changement dans l'environnement.,C
+1011,GW106,T2157,La faible estime de soi est un des symptômes de la dépression unipolaire.,E
+1012,GW106,T2157,La plupart des personnes souffrant d'une dépression clinique sont également victimes d'un préjudice personnel.,N
+1013,GW106,T2157,La thérapie électroconvulsive est la forme de traitement la plus couramment utilisée pour lutter contre la probabilité de suicide chez les patients atteints d'un trouble unipolaire.,C
+1014,GW52,T2157,Le grand trouble dépressif est attribué à plus de 100 millions de cas.,E
+1015,GW52,T2157,Le nombre de cas diagnostiqués de troubles dépressifs majeurs est en hausse.,N
+1016,GW52,T2157,Le syndrome dépressif majeur est une condition aiguë.,C
+1017,GW28,T2158,Makara Sankranti peut tomber à différents jours en janvier.,E
+1018,GW28,T2158,Makara Sankranti est la fête la plus sacrée pour les Hindus.,N
+1019,GW28,T2158,Makara Sankranti est une fête solennelle avec contemplation et observation tranquilles.,C
+1020,GW89,T2158,Makara Sankranti est le Festival de la récolte.,E
+1021,GW89,T2158,Makara Sankranti tombe le même jour chaque année.,N
+1022,GW89,T2158,Makara Sankranti utilise la corrélation du calendrier américain.,C
+1023,GW52,T2158,La méla est une célébration largement hindoue.,E
+1024,GW52,T2158,La méla varie le jour de la fête.,N
+1025,GW52,T2158,La méla est purement un événement culturel.,C
+1026,GW52,T2159,On a présumé que le vol 370 de Malaysia Airlines n'avait aucun survivant.,E
+1027,GW52,T2159,MH370 est encore en cours de recherche aujourd'hui.,N
+1028,GW52,T2159,Le MAS370 a été récemment découvert en 2019.,C
+1029,GW12,T2159,La cause n'est pas connue pour l'écrasement du vol 370 de Malaysia Airlines en 2014.,E
+1030,GW12,T2159,Le vol 370 de Malaysia Airlines comptait 12 membres d'équipage et 227 passagers.,N
+1031,GW12,T2159,Le vol 370 de Malaysia Airlines a commencé à l'aéroport international de la capitale de Beijing et était destiné à l'aéroport international de Kuala Lumpur.,C
+1032,GW19,T2159,L'endroit exact de l'accident de l'Air 370 malaisien n'a jamais été déterminé.,E
+1033,GW19,T2159,Les enquêteurs ont déterminé que l'avion malaisien 370 a disparu en raison d'un acte humain intentionnel.,N
+1034,GW19,T2159,Les enquêteurs ont conclu avec certitude que l'avion malaisien 370 a échoué en raison d'une erreur de pilote,C
+1035,GW1,T2160,La construction du « pont de Manhattan » a commencé au début du XXe siècle.,E
+1036,GW1,T2160,Le « pont de Manhattan » a toujours été libre dans les deux sens.,N
+1037,GW1,T2160,Il a fallu plus de 15 ans pour construire le « pont de Manhattan ».,C
+1038,GW52,T2160,Le « pont de Manhattan » est en usage depuis plus d'un siècle.,E
+1039,GW52,T2160,Le pont de Manhattan n'a jamais été rénové.,N
+1040,GW52,T2160,Le « pont de Manhattan » traverse chaque jour plus de 100 000 véhicules.,C
+1041,GW63,T2160,Il n'y a pas de péage pour la longueur de 6855 pieds du « pont de Manhattan ».,E
+1042,GW63,T2160,Le pont de Manhattan est le seul pont entretenu par le New York City Department of Transportation.,N
+1043,GW63,T2160,La construction du pont de Manhattan a pris moins de cinq ans.,C
+1044,GW86,T2161,« Mawlid » est un jour férié dans plus de trente pays.,E
+1045,GW86,T2161,Le Mawlid est célébré le 10 ou le 15 novembre chaque année.,N
+1046,GW86,T2161,Le mot Mawlid est célébré exclusivement par les adhérents de l'islam sunni et shia.,C
+1047,GW52,T2161,« Mawlid » a différentes dates observées selon le contexte sunnite ou shia.,E
+1048,GW52,T2161,Le mot Mawlid est célébré par plusieurs continents.,N
+1049,GW52,T2161,« Mawlid » est un événement fondé sur les Hindus.,C
+1050,GW28,T2161,Mawlid est une observation islamique associée à la naissance de Muhammad.,E
+1051,GW28,T2161,Le Mawlid est la fête islamique la plus populaire du monde.,N
+1052,GW28,T2161,Le mot Mawlid est également célébré dans les pays chrétiens.,C
+1053,GW74,T2162,La sortie de puissance et la sortie de torque ont des plages supérieures à 150,E
+1054,GW74,T2162,Mazda J engine La puissance est déterminée par le débit de torque,N
+1055,GW74,T2162,Le matériel de bloc et le matériel de tête sont le même type de matériel.,C
+1056,GW19,T2162,Le moteur Mazda J a plusieurs configurations valvetraines différentes.,E
+1057,GW19,T2162,Le « moteur Mazda J » est le moteur le plus puissant fabriqué par Mazda.,N
+1058,GW19,T2162,Le V8 Mazda J engine est l'un des moteurs les plus puissants fabriqués au Japon.,C
+1059,GW52,T2162,Certains moteurs Mazda J produisent plus de 200 hp.,E
+1060,GW52,T2162,Le moteur Mazda J est encore en usage aujourd'hui.,N
+1061,GW52,T2162,La puissance de torque du Mazda J est toujours supérieure à celle de son HP,C
+1062,GW74,T2163,Le début habituel de la rougeole est en moyenne plus long que la durée,E
+1063,GW74,T2163,La fièvre survient 10 jours après l'exposition,N
+1064,GW74,T2163,Le nombre de décès en 2015 est de moitié plus élevé que la fréquence de la rougeole,C
+1065,GW52,T2163,Le début et la durée de la « rougeole » sont d'environ trois semaines au total.,E
+1066,GW52,T2163,Le « rougeole » présente la même façon pour toutes les personnes touchées.,N
+1067,GW52,T2163,Les décès causés par la rougeole dépassent 100 000 par an.,C
+1068,GW4,T2163,Il existe un vaccin qui peut empêcher les gens de contracter la rougeole.,E
+1069,GW4,T2163,Le paludisme est une maladie qui peut disparaître par elle-même.,N
+1070,GW4,T2163,Le « rougeole » tue plus de 20 % des personnes qui l'éprouvent.,C
+1071,GW74,T2164,"Quiconque prend le MCAT peut le prendre en janvier, en juin et de nouveau en août 2017, mais pas encore en septembre.",E
+1072,GW74,T2164,Plus de gens ont pris la MCAT aux États-Unis qu'au Canada,N
+1073,GW74,T2164,Une personne peut prendre le MCAT 4 fois en 2017 entre janvier et février,C
+1074,GW106,T2164,L'Association des collèges médicaux américains offre le MCAT depuis la fin des années 1920.,E
+1075,GW106,T2164,Les étudiants majorés en biologie obtiennent généralement des notes plus élevées que les étudiants majorés en physique lors de l'examen MCAT.,N
+1076,GW106,T2164,"Au Canada, le MCAT est offert en anglais et en français aux candidats aux examens.",C
+1077,GW28,T2164,"Le test d'admission au collège médical est utilisé dans de nombreux pays, mais il n'est donné qu'en anglais.",E
+1078,GW28,T2164,Le test d'admission au collège médical est le test le plus respecté utilisé par les collèges médicaux.,N
+1079,GW28,T2164,Le « Test d'admission au Collège médical » est gratuit et ouvert à tous les candidats.,C
+1080,GW89,T2165,Le MGM Grand Las Vegas a ouvert ses portes il y a près de 26 ans.,E
+1081,GW89,T2165,"Selon le nombre de chambres, le MGM Grand est l'un des plus grands hôtels de Las Vegas.",N
+1082,GW89,T2165,Le Grand MGM a été rénové en 2001.,C
+1083,GW52,T2165,Le Grand MGM est âgé de plus de 25 ans.,E
+1084,GW52,T2165,Le Grand MGM est actuellement en cours de rénovation.,N
+1085,GW52,T2165,Le Grand MGM compte plus de 7000 chambres.,C
+1086,GW28,T2165,«MGM Grand Las Vegas» est en exploitation depuis plus de deux décennies avec plusieurs rénovations.,E
+1087,GW28,T2165,MGM Grand Las Vegas réalise des milliards de dollars en profit chaque année.,N
+1088,GW28,T2165,«MGM Grand Las Vegas» a subi sa première rénovation dix ans après son ouverture.,C
+1089,GW25,T2166,« MicroBee » est un système d'ordinateurs à domicile qui a été vendu sous forme de kit pour 399 $.,E
+1090,GW25,T2166,"Bien que la mémoire de 16 kB ou 32 kB soit petite, le générateur de son monotone et le haut-parleur étaient considérés comme très bons pour l'époque.",N
+1091,GW25,T2166,Le microBee a été introduit pour la première fois en 1982 et a cessé de fonctionner en 1992 après une période de dix ans.,C
+1092,GW52,T2166,La MicroBee est en production depuis près d'une décennie.,E
+1093,GW52,T2166,Le MicroBee était un ordinateur domestique populaire.,N
+1094,GW52,T2166,Le MicroBee avait plusieurs CPUs.,C
+1095,GW4,T2166,MicroBee est sur le marché depuis huit ans.,E
+1096,GW4,T2166,MicroBee a pu vendre des millions d'unités.,N
+1097,GW4,T2166,Le MicroBee fonctionne toujours sur Unix.,C
+1098,GW106,T2167,Les médicaments en vente libre peuvent parfois être efficaces dans le traitement des migraines.,E
+1099,GW106,T2167,Le risque de souffrir de migraines augmente avec la quantité d'oestrogène dans le système.,N
+1100,GW106,T2167,Les tumeurs cérébrales sont la principale cause des migraines.,C
+1101,GW86,T2167,Les « migrations » ont plusieurs causes et facteurs de risque.,E
+1102,GW86,T2167,Les « migrations » se produisent parfois chez les mâles.,N
+1103,GW86,T2167,Les « migraines » sont également connues sous le nom de céphalées de tension et de céphalées de grappe.,C
+1104,GW28,T2167,Les « migrations » affectent habituellement les femmes et peuvent être une condition permanente.,E
+1105,GW28,T2167,"Si les migrants ne sont pas traités, ils risquent de se suicider.",N
+1106,GW28,T2167,Les Migraines peuvent être traitées par massage et chirurgie.,C
+1107,GW106,T2168,Le stockage remplaçable du Moto G peut être étendu avec un microSDXC de 16 GB.,E
+1108,GW106,T2168,"Le Moto G était le meilleur appareil vendu dans les appareils de la 3e génération de Motorola, qui comprenaient aussi le Moto X Style et le Moto X Play.",N
+1109,GW106,T2168,Le dernier OS disponible pour le Moto G était Android 7.0 Nougat.,C
+1110,GW19,T2168,La troisième génération Moto G permet aux utilisateurs d'élargir la mémoire au moyen d'un slot de carte microSD.,E
+1111,GW19,T2168,Les générations subséquentes de la troisième génération Moto G offraient de plus grandes possibilités de stockage.,N
+1112,GW19,T2168,La troisième génération Moto G est l'offre la plus récente du fabricant.,C
+1113,GW52,T2168,Le Moto G est un téléphone qui a été discontinué.,E
+1114,GW52,T2168,Le Moto G est encore soutenu aujourd'hui.,N
+1115,GW52,T2168,Le Moto G avait des sites Web pour chaque continent.,C
+1116,GW1,T2169,"En 2015, la « sclérose multiple » a entraîné moins de 20 000 décès.",E
+1117,GW1,T2169,Il y a plusieurs causes de la « sclérose multiple ».,N
+1118,GW1,T2169,La sclérose multiple n'a que quelques symptômes.,C
+1119,GW63,T2169,Les personnes de l'âge moyen qui souffrent de sclérose multiple sont prédites à vivre 5 à 10 ans moins longtemps que les personnes normales.,E
+1120,GW63,T2169,La « sclérose multiple » ne peut être traitée que par un neurologiste.,N
+1121,GW63,T2169,La fréquence des personnes touchées par la sclérose en plaques en 2015 était deux fois plus élevée que le nombre de décès causés par cette maladie.,C
+1122,GW108,T2169,La « sclérose multiple » est une maladie neurologique.,E
+1123,GW108,T2169,La personne atteinte aura des difficultés à la sensation et à la coordination.,N
+1124,GW108,T2169,La « sclérose multiple » peut apparaître chez les jeunes enfants.,C
+1125,GW4,T2170,Le « Nash equilibrium » est nommé pour la personne qui l'a trouvée.,E
+1126,GW4,T2170,Le « équilibre Nash » existe depuis plus de 20 ans.,N
+1127,GW4,T2170,Le Nash equilibrium est bon pour les jeux coopératifs.,C
+1128,GW86,T2170,L'« équilibre Nash » s'applique toujours aux jeux qui ne comportent pas de coopération.,E
+1129,GW86,T2170,« Nash equilibrium » s'applique à certains jeux impliquant la coopération.,N
+1130,GW86,T2170,« Nash equilibrium » n'a aucune relation avec l'équilibre corrélatif.,C
+1131,GW60,T2170,"« Nash equilibrium » contient une main tremblante parfaite, mais non épsilon-équilibre.",E
+1132,GW60,T2170,L'équilibre épsilon est utilisé dans tous les jeux non coopératifs.,N
+1133,GW60,T2170,"« Nash equilibrium » contient un équilibre épsilon, mais pas une main tremblante parfaite.",C
+1134,GW4,T2171,L'examen national d'admissibilité et l'examen d'admission sont des questions d'importance pour l'accès à l'université en Inde.,E
+1135,GW4,T2171,L'examen national d'admissibilité et d'admission prend des années pour être étudié.,N
+1136,GW4,T2171,Le test national d'admissibilité et d'entrée est effectué sur un ordinateur portable.,C
+1137,GW28,T2171,Le test national d'admissibilité et d'admission est un examen d'admission aux collèges indiens.,E
+1138,GW28,T2171,L'examen national d'admissibilité et d'admission est gratuit.,N
+1139,GW28,T2171,Le test national d'admissibilité et d'admission est offert dans plusieurs langues et prend plusieurs jours.,C
+1140,GW52,T2171,Le NEET (UG) a une plage de points négatives.,E
+1141,GW52,T2171,Les résultats du NEET sont bons pour toute la vie.,N
+1142,GW52,T2171,Le NEET (UG) se déroule aux États-Unis.,C
+1143,GW28,T2172,La carte de l'ancienne « Route nationale 2 » en rouge est située à New Delhi et à Kolkata.,E
+1144,GW28,T2172,La carte de l'ancienne « Route nationale 2 » en rouge indique les droits à percevoir.,N
+1145,GW28,T2172,La carte de l'ancienne « Route nationale 2 » en rouge relie une poignée de localités.,C
+1146,GW4,T2172,La carte de l'ancienne « route nationale 2 » en rouge couvre plus de 500 milles de routes.,E
+1147,GW4,T2172,La carte de l'ancienne « route nationale 2 » en rouge a été achevée après 2000.,N
+1148,GW4,T2172,La carte de l'ancienne « route nationale 2 » en rouge ne couvre que deux grandes routes.,C
+1149,GW74,T2172,Il y a plus de destinations primaires que d'États,E
+1150,GW74,T2172,L’ancienne route nationale est plus fréquentée à Haryana que n’importe quel autre État,N
+1151,GW74,T2172,Delhi a 1/3 de la longueur totale de l'ancienne autoroute nationale,C
+1152,GW28,T2173,"« Navaratri », une célébration hindoue de plusieurs jours.",E
+1153,GW28,T2173,Les célébrations de Navaratri comportent des feux d'artifice et des peintures corporelles.,N
+1154,GW28,T2173,« Navaratri » est célébré la même semaine une fois par année.,C
+1155,GW86,T2173,« Navaratri » dure plus d'une semaine.,E
+1156,GW86,T2173,Les Hindus prennent un congé de travail pendant « Navaratri ».,N
+1157,GW86,T2173,« Navaratri » est observé chaque année aux mêmes dates.,C
+1158,GW1,T2173,« Navaratri » dure plus d'une semaine.,E
+1159,GW1,T2173,La durée de Navaratri a toujours été de 9 jours.,N
+1160,GW1,T2173,« Navaratri » se déroule toujours en été.,C
+1161,GW28,T2174,Nissan BD Engine dispose d'une injection de carburant et d'un système de refroidissement.,E
+1162,GW28,T2174,Nissan BD Engine a été conçu par les Japonais.,N
+1163,GW28,T2174,L'« Engine BD Nissan » est alimenté par des batteries d'ion de lithium et refroidi par le vent.,C
+1164,GW19,T2174,Le moteur Nissan BD n'est pas un V8.,E
+1165,GW19,T2174,Le système de refroidissement utilisé pour le moteur Nissan BD est,N
+1166,GW19,T2174,Le moteur Nissan BD est un moteur électrique puissant.,C
+1167,GW52,T2174,Nissan BD Engine affiche une puissance de moins de 100 hp.,E
+1168,GW52,T2174,Le moteur Nissan BD est encore en service.,N
+1169,GW52,T2174,Le moteur Nissan BD est un V6.,C
+1170,GW86,T2175,La Nokia 9 PureView a plusieurs caméras.,E
+1171,GW86,T2175,La Nokia 9 PureView utilise un écran tactile.,N
+1172,GW86,T2175,Le Nokia 9 PureView est devenu disponible pour la première fois il y a plus d'un an.,C
+1173,GW28,T2175,Nokia 9 PureView est un smartphone avec des caméras avant et arrière.,E
+1174,GW28,T2175,Nokia 9 PureView est vendu pour plus de 1000 USD.,N
+1175,GW28,T2175,Nokia 9 PureView est un téléphone mobile avec une antenne étendue.,C
+1176,GW106,T2175,Le Nokia 9 Pureview a un écran inférieur à 6 pouces.,E
+1177,GW106,T2175,"Foxconn a fabriqué le Nokia 9 Pureview et son prédécesseur, le Nokia 8 Sirocco.",N
+1178,GW106,T2175,La Nokia 9 PureView fonctionne nativement sur la plateforme Android Oreo.,C
+1179,GW28,T2176,Nowruz est une fête du Nouvel An dans certaines régions du Moyen-Orient et de l'Asie.,E
+1180,GW28,T2176,Nowruz est célébré par le tir d'armes dans l'air.,N
+1181,GW28,T2176,Nowruz débarque chaque année à des dates différentes.,C
+1182,GW74,T2176,Nowruz tombe à la même date en 2018 et 2019,E
+1183,GW74,T2176,Plus d'Iraqiens célèbrent Nowruz que d'Israël,N
+1184,GW74,T2176,Nowruz est un week-end en 2019 et 2021,C
+1185,GW86,T2176,Nowruz est célébré dans plus de 20 pays.,E
+1186,GW86,T2176,Le Nuruz tombe habituellement le 20 mars.,N
+1187,GW86,T2176,Nowruz est un jour férié religieux.,C
+1188,GW28,T2177,« Route 8 de l'ONF » est une route de bus qui termine son trajet en moins d'une heure.,E
+1189,GW28,T2177,La route 8 de l'NWFB traverse un circuit autour de l'île.,N
+1190,GW28,T2177,Le temps d'attente pour la route 8 de la BNF est de 30 min en raison de sa route de 30 km.,C
+1191,GW60,T2177,La route 8 de l'ONF dispose d'une autre route.,E
+1192,GW60,T2177,La route 8 de l'NWFB s'étend du nord au sud.,N
+1193,GW60,T2177,Le New World First Bus exploite également la ligne MTR Island Line,C
+1194,GW12,T2177,La route 8 de la BNF commence à Heng Fa Chuen et se termine à Wan Chai North.,E
+1195,GW12,T2177,"La route 8 de l'ONF compte deux concurrents, la ligne MTR Island et la route N8 de l'ONF.",N
+1196,GW12,T2177,La route 8 de la BNF est la seule route vers le nord de Wan Chai.,C
+1197,GW86,T2178,Les troubles obsésifs-compulsifs peuvent mener à la mort.,E
+1198,GW86,T2178,Les troubles obsésifs-compulsifs nécessitent un traitement avec des médicaments.,N
+1199,GW86,T2178,Les troubles obsessifs-compulsifs ont une cause définie.,C
+1200,GW28,T2178,L'obsession-compulsion est une condition psychiatrique qui apparaît généralement chez les jeunes adultes après des années d'abus.,E
+1201,GW28,T2178,Le trouble obsésif-compulsif est une condition facilement traitée.,N
+1202,GW28,T2178,Les troubles obsésifs-compulsifs peuvent être traités avec des huiles et des odeurs.,C
+1203,GW52,T2178,Le VIH/sida survient dans plus de 2 % de la population.,E
+1204,GW52,T2178,Le début de l'OCD peut varier considérablement.,N
+1205,GW52,T2178,Les causes de ce phénomène sont connues.,C
+1206,GW60,T2179,Le festival de 2019 se déroule plus tard dans l'année que le festival de 2018.,E
+1207,GW60,T2179,Chingham a une durée de 60 jours.,N
+1208,GW60,T2179,Le festival a un nombre différent de jours chaque année.,C
+1209,GW74,T2179,"« Onam, Thiruvonam » se produit durant un mois différent en 2019 par rapport à 2018.",E
+1210,GW74,T2179,"Tous les Hindus participent au Tug of War pour observer Onam, Thiruvonam",N
+1211,GW74,T2179,"« Onam, Thiruvonam » débute et se termine le même jour de la semaine en 2018 et 2019",C
+1212,GW28,T2179,"« Onam, Thiruvonam » est un festival religieux hindou qui tombe à différentes dates chaque année.",E
+1213,GW28,T2179,"« Onam, Thiruvonam » n'est célébré que par les Hindus en Inde.",N
+1214,GW28,T2179,"« Onam, Thiruvonam » est un festival célébré par les Pakistanais.",C
+1215,GW52,T2180,"La « Oregon, California and Eastern Railway » est de plus de 60 milles de longueur.",E
+1216,GW52,T2180,"Le train « Oregon, California and Eastern Railway » circule tout le jour.",N
+1217,GW52,T2180,"La « Oregon, California and Eastern Railway » se déroule dans l'ensemble de l'Oregon.",C
+1218,GW28,T2180,"« Oregon, California and Eastern Railway » dessert plusieurs stations.",E
+1219,GW28,T2180,"« Oregon, California and Eastern Railway » est rentable chaque année depuis sa création.",N
+1220,GW28,T2180,"« Oregon, California and Eastern Railway » étend ses services à la côte est de l'Amérique.",C
+1221,GW86,T2180,"Le « Oregon, California and Eastern Railway » est parfois connu sous un autre nom.",E
+1222,GW86,T2180,"Le « Oregon, California and Eastern Railway » est actuellement opérationnel.",N
+1223,GW86,T2180,"Le chemin de fer d'Oregon, Californie et de l'Est est de plus de 70 milles de longueur.",C
+1224,GW28,T2181,L'oxygène est un gaz incolore.,E
+1225,GW28,T2181,L'oxygène fait partie de la couche d'ozone.,N
+1226,GW28,T2181,L'expression « oxygène » a été donnée au nom du scientifique qui a étudié ses propriétés.,C
+1227,GW12,T2181,L'oxygène est un gaz dont le nombre atomique est de 8.,E
+1228,GW12,T2181,Antoine Lavoisier a désigné l'oxygène gazeux en 1777.,N
+1229,GW12,T2181,Le point de cuisson et le point de fusion de l'oxygène sont exactement les mêmes.,C
+1230,GW1,T2181,« L'oxygène » a été désigné au XVIIIe siècle.,E
+1231,GW1,T2181,« L'oxygène » a été découvert en même temps qu'il a été nommé.,N
+1232,GW1,T2181,L'oxygène a une densité (au STP) inférieure à 1 g/L.,C
+1233,GW74,T2182,Il y a plus d'employés qu'il n'y a des emplacements de Panda Express,E
+1234,GW74,T2182,"Andrew Cherng est originaire de Glendale, en Californie",N
+1235,GW74,T2182,Panda Express a son siège dans la même ville où il a été fondé,C
+1236,GW60,T2182,Panda Express n'est pas actif en Europe.,E
+1237,GW60,T2182,Panda Express est la seule filiale du Panda Restaurant Group.,N
+1238,GW60,T2182,« Panda Express » a son siège dans la même ville où elle a été fondée.,C
+1239,GW28,T2182,« Panda Express » a des milliers d'endroits dans le monde entier.,E
+1240,GW28,T2182,« Panda Express » est rentable chaque année depuis sa fondation.,N
+1241,GW28,T2182,« Panda Express » a été fondé en Europe et a des bureaux partout en Europe.,C
+1242,GW4,T2183,La maladie de Parkinson peut être traitée par des médicaments.,E
+1243,GW4,T2183,La maladie de Parkinson conduit toujours aux tremblements chez les gens.,N
+1244,GW4,T2183,Quiconque souffre de la maladie de Parkinson aura une vie normale.,C
+1245,GW3,T2183,"Les symptômes de la maladie parkinsons comme le tremblement, la rigidité, la lenteur des mouvements et la difficulté à marcher sont traités avec des agonistes de dopamine.",E
+1246,GW3,T2183,La démence est toujours une complication de la « maladie de Parkinson ».,N
+1247,GW3,T2183,La maladie de Parkinson est une maladie psychiatrique.,C
+1248,GW52,T2183,La maladie de Parkinson affecte plus de six millions de personnes par année.,E
+1249,GW52,T2183,Le Parkinson peut apparaître à n'importe quel âge.,N
+1250,GW52,T2183,Les patients atteints de Parkinson n'ont pas une durée de vie plus courte.,C
+1251,GW12,T2184,Paryushana est une célébration observée par Jains.,E
+1252,GW12,T2184,L'observation de Paryushana implique d'aller au Temple Jain et de faire du fasting.,N
+1253,GW12,T2184,Paryushana est également appelé Das Lakshana et Samvatsari.,C
+1254,GW52,T2184,Paryushana est une célébration qui est observée par fasting.,E
+1255,GW52,T2184,Paryushana est observée par les Hindus.,N
+1256,GW52,T2184,Paryushana a la même durée pour toute célébration.,C
+1257,GW19,T2184,Paryushana est une fête observée par les Jains qui a des conotations religieuses.,E
+1258,GW19,T2184,Paryushana est le jour le plus saint pour les membres de la foi jaïne.,N
+1259,GW19,T2184,Paryushana est une fête nationale observée par l'ensemble du sous-continent indien.,C
+1260,GW52,T2185,Le chemin de fer Pau-Cranfranc a été ouvert au XXe siècle,E
+1261,GW52,T2185,Le chemin de fer n'a pas fait l'objet de rénovations depuis son ouverture.,N
+1262,GW52,T2185,Le chemin de fer demeure ouvert depuis qu'il a été ouvert pour la première fois en 1928.,C
+1263,GW28,T2185,La voie ferrée Pau-Canfranc n'a pas été restée ininterrompue depuis son ouverture.,E
+1264,GW28,T2185,Le chemin de fer Pau-Canfranc traverse plusieurs pays européens.,N
+1265,GW28,T2185,Le chemin de fer Pau-Canfranc fonctionne continuellement depuis son ouverture.,C
+1266,GW60,T2185,La « voie ferrée de Pau-Canfranc » a été électrique l'année même où elle a été ouverte.,E
+1267,GW60,T2185,TER Aquitaine est l'exploitant ferroviaire depuis toute sa existence.,N
+1268,GW60,T2185,Le chemin de fer a passé plus d'années fermées que ouvertes depuis 1928.,C
+1269,GW1,T2186,"En 2018, « Pentecost » était au printemps.",E
+1270,GW1,T2186,« Pentecost » a été connu comme « Whitsunday » auparavant.,N
+1271,GW1,T2186,"En 2020, Pentecost sera à l'automne.",C
+1272,GW74,T2186,La date « Pentecost » est 11 jours plus tard dans l'Ouest qu'en 2020 qu'en 2018.,E
+1273,GW74,T2186,Les orthodoxes orientales observent la Communauté sainte le,N
+1274,GW74,T2186,« Pentecost » tombe à la même date de Pâques en 2019 que en 2020,C
+1275,GW106,T2186,Le Pentacost se produit chaque année au cours de la printemps.,E
+1276,GW106,T2186,Le Pentacost tombe habituellement durant le mois de juin.,N
+1277,GW106,T2186,Certaines confessions juives observent la Journée des Vingt.,C
+1278,GW28,T2187,« Perfect Bayesian Equilibrium » est lié à l'équilibre Bayesian Nash,E
+1279,GW28,T2187,« Perfect Bayesian Equilibrium » est un concept utilisé pour décrire la théorie des jeux.,N
+1280,GW28,T2187,Perfect Bayesian Equilibrium n'est pas associé ou relié aux jeux.,C
+1281,GW19,T2187,L'équilibre Bayésien parfait n'est pas le smae comme l'équilibirbium Nash Bayésien,E
+1282,GW19,T2187,Cho et Kreps ont travaillé ensemble pendant de nombreuses années avant de proposer le concept d'équilibirum Bayésien parfait.,N
+1283,GW19,T2187,Perfect Bayesian equilibirium est le nom technique pour gagner la médaille d'or sur le faisceau de balance.,C
+1284,GW52,T2187,L'équilibre Byesien parfait est un type de jeu.,E
+1285,GW52,T2187,L'équilibre parfait de Bayes est utilisé dans une grande partie du codage.,N
+1286,GW52,T2187,L'équilibre parfait de Bayes est un système stable.,C
+1287,GW106,T2188,L'examen PCAT est limité à une durée de moins de trois heures et demie.,E
+1288,GW106,T2188,Une note de 400 est considérée comme une note de passage à l'examen PCAT.,N
+1289,GW106,T2188,Les notes PCAT sont utilisées par de nombreux comités d'admission à l'école de médecine aux États-Unis et au Canada.,C
+1290,GW52,T2188,Le PCAT a été administré pour la première fois dans les années 1970.,E
+1291,GW52,T2188,La redevance du PCAT est demeurée la même tout au long de son histoire.,N
+1292,GW52,T2188,Le PCAT dispose d'une mesure de score négatif.,C
+1293,GW89,T2188,Le CPT est utilisé aux fins d'admission des étudiants qui fréquentent des collèges de pharmacie.,E
+1294,GW89,T2188,Les frais du test sont moins élevés pour les étudiants canadiens.,N
+1295,GW89,T2188,Le PCAT a été introduit en 1970.,C
+1296,GW52,T2189,Il a fallu plus d'un siècle pour prouver la conjecture de Poincaré.,E
+1297,GW52,T2189,La conjecture de Poincaré partage des concepts communs avec d'autres conjectures.,N
+1298,GW52,T2189,La « conjecture de Poincaré » a été évoquée pour la première fois au XIXe siècle.,C
+1299,GW28,T2189,« Conjecture Poincaré » est dénommée après Henri Poincare.,E
+1300,GW28,T2189,La conjecture de Poincaré est un problème mathématique non résolu,N
+1301,GW28,T2189,La conjecture de Poincaré a été résolue en 2006.,C
+1302,GW25,T2189,La conjecture de Poincaré est un domaine de topologie géométrique équivalant à la conjecture de forme spherique de l'espace.,E
+1303,GW25,T2189,«Poincaré conjecture» a été conjectué par Henri Poincaré qui a établi le domaine de la topologie géométrique.,N
+1304,GW25,T2189,La conjecture Poincaré s'inscrit dans le domaine de la topologie géométrique et est équivalente à la conjecture Zeeman.,C
+1305,GW52,T2190,La poliomyélite touche moins de 200 personnes par an.,E
+1306,GW52,T2190,La polio a été largement éradiquée.,N
+1307,GW52,T2190,La polio prend des semaines pour présenter les symptômes.,C
+1308,GW28,T2190,La poliomyélite est une maladie infectieuse qui est évitable et guérable.,E
+1309,GW28,T2190,Le vaccin contre la poliomyélite est un traitement coûteux.,N
+1310,GW28,T2190,La poliomyélite a été éradiquée depuis le XXe siècle.,C
+1311,GW74,T2190,"À 136 personnes en 2018, on peut avoir vécu une faiblesse musculaire entraînant une incapacité de déplacement",E
+1312,GW74,T2190,Le virus de la poliomyélite a été trouvé dans les excréments de 136 personnes en 2016.,N
+1313,GW74,T2190,Une faiblesse musculaire entraînant une incapacité de déplacer les ensembles après quelques minutes,C
+1314,GW105,T2191,Le potassium a tendance à ressembler à un gris argenté.,E
+1315,GW105,T2191,Le potassium a des centaines d'utilisations différentes.,N
+1316,GW105,T2191,Le « potassium » est créé dans un laboratoire.,C
+1317,GW12,T2191,Le « potassium » a une apparence grise argentée et un nombre atomique de 19.,E
+1318,GW12,T2191,Humphry Davy a découvert pour la première fois le potassium au début des années 1800.,N
+1319,GW12,T2191,La dureté de Mohs et la dureté de Brinell sont les mêmes.,C
+1320,GW52,T2191,Le « potassium » était l'un des 20 premiers éléments découverts.,E
+1321,GW52,T2191,Le « potassium » est présent dans de nombreux aliments aujourd'hui.,N
+1322,GW52,T2191,Le « potassium » a été découvert pour la première fois au XVIIIe siècle.,C
+1323,GW86,T2192,Les psychiatres sont des spécialistes de la médecine.,E
+1324,GW86,T2192,Les psychiatres sont des médecins.,N
+1325,GW86,T2192,"Actuellement, les psychiatres sont également appelés étrangers.",C
+1326,GW60,T2192,Un psychiatre est également un professionnel de la médecine.,E
+1327,GW60,T2192,"Un psychiatre doit avoir un médecin, un médecin de famille et un médecin de famille.",N
+1328,GW60,T2192,Un psychiatre n'exige pas de formation en médecine.,C
+1329,GW28,T2192,Un Psychiatrist a besoin d'un niveau élevé d'éducation et de caractéristiques positives.,E
+1330,GW28,T2192,Les Psychiatrists ont tendance à ouvrir leur propre pratique.,N
+1331,GW28,T2192,Les psychiatres ne sont pas médecins.,C
+1332,GW52,T2193,Les M8 ont été ouverts l'année dernière.,E
+1333,GW52,T2193,Les M8 ont été construits en un an.,N
+1334,GW52,T2193,Les M8 dépassent 60 mph.,C
+1335,GW19,T2193,"La « ligne Fujiang », qui fait partie du réseau de transport public de Shanghai, compte moins de 10 stations.",E
+1336,GW19,T2193,Le réseau de métro de transit public de Shanghai est entièrement au-dessus du sol.,N
+1337,GW19,T2193,"Malgré sa croissance économique au cours des 20 dernières années, la Chine n'a pas encore construit de systèmes de transit public dans ses grandes villes.",C
+1338,GW28,T2193,Pujiang Line est un métro de transport public situé à Shanghai.,E
+1339,GW28,T2193,La ligne Fujiang est la ligne la plus récente du réseau de métro de Shanghai.,N
+1340,GW28,T2193,La ligne Pujiang fonctionne avec des wagons fabriqués au pays.,C
+1341,GW52,T2194,Les « rabies » causent plus de 17 000 décès par année.,E
+1342,GW52,T2194,Rabies n'a pas actuellement de guérison.,N
+1343,GW52,T2194,Un diagnostic de rabie garantit la mort.,C
+1344,GW4,T2194,Les Rabies en fin de compte tuent habituellement les animaux qui y arrivent.,E
+1345,GW4,T2194,Rabies peuvent les gens les gens mousse à la bouche.,N
+1346,GW4,T2194,Rabies est capable d'être guéri par une coupe.,C
+1347,GW28,T2194,Les rabies sont une maladie infectieuse qui peut être traitée mais qui est souvent mortelle.,E
+1348,GW28,T2194,Les Rabies sont transmissibles aussi entre les humains.,N
+1349,GW28,T2194,Les « rabies » causent la cécité et la diarrhée.,C
+1350,GW60,T2195,Le «Raksha Bandhan» de 2018 a eu lieu plus tard dans l'année que le «Raksha Bandhan» de 2019.,E
+1351,GW60,T2195,Bhai Duj se produit à la même date que Raksha Bandhan.,N
+1352,GW60,T2195,Rakri n'est pas lié à Bhai Tika.,C
+1353,GW52,T2195,Raksha Bandhan est une fête holistique.,E
+1354,GW52,T2195,Raksha Bandhan se déroule toujours en août.,N
+1355,GW52,T2195,« Raksha Bandhan » est observé dans l'ensemble de l'Asie.,C
+1356,GW4,T2195,Raksha Bandhan se produit toujours au huitième moth de l'année.,E
+1357,GW4,T2195,Raksha Bandhan est généralement célébré en Inde.,N
+1358,GW4,T2195,«Raksha Bandhan» se tient toujours à la même date chaque année.,C
+1359,GW95,T2196,Le Ramadan se déroule pendant un mois par année.,E
+1360,GW95,T2196,Les musulmans lisent le Coran avant de commencer à faster chaque jour.,N
+1361,GW95,T2196,Le Ramadan se produit en hiver.,C
+1362,GW28,T2196,Le Ramadan est une fête musulmane qui tombe chaque année à des jours différents selon le pays.,E
+1363,GW28,T2196,Le Ramadan est la célébration la plus sainte pour les musulmans.,N
+1364,GW28,T2196,Le Ramadan est observé en célébrant un jour de l'année.,C
+1365,GW52,T2196,Le Ramadan est un événement annuel.,E
+1366,GW52,T2196,La routine du Ramadan est la même pour tous ceux qui la pratiquent.,N
+1367,GW52,T2196,Le Ramadan se déroule en même temps pour tous les participants.,C
+1368,GW1,T2197,« Rama Navami » se produit une fois par an.,E
+1369,GW1,T2197,Rama Navami est et a toujours été au printemps.,N
+1370,GW1,T2197,« Rama Navami » se produit à l'automne.,C
+1371,GW52,T2197,« Rama Navami » se produit une fois par an.,E
+1372,GW52,T2197,« Rama Navami » est pratiqué par toute la culture hindoue.,N
+1373,GW52,T2197,« Rama Navami » se déroule chaque année le même jour.,C
+1374,GW19,T2197,Les Hindus célèbrent la naissance de Rama à la fin de Chaitra Navrati,E
+1375,GW19,T2197,Chaitra Navrati est l'un des jours les plus sains pour les Hindus.,N
+1376,GW19,T2197,Chaitra Navrati est une célébration d'un mois observée par les Hindus et les Bhudistes.,C
+1377,GW86,T2198,Les autobus de la ligne E sont opérationnels la plupart du jour.,E
+1378,GW86,T2198,Le nombre de conducteurs de la ligne « E » au cours des jours du week-end est inférieur au nombre de conducteurs au cours des jours de semaine.,N
+1379,GW86,T2198,La ligne E est opérationnelle 24 heures par jour.,C
+1380,GW52,T2198,La ligne E a été établie il y a cinq ans.,E
+1381,GW52,T2198,La ligne E est l'une d'une série de lignes de bus nouvellement ajoutées.,N
+1382,GW52,T2198,La ligne E fonctionne sur un horaire de 24 heures.,C
+1383,GW106,T2198,"Le Aurora Village Transit Center est situé dans le comté de King, à Washington.",E
+1384,GW106,T2198,La « ligne E » a plus de temps d'exploitation que la route 358X qui l'a précédée.,N
+1385,GW106,T2198,La ligne E fonctionne entièrement dans une seule ville du comté de King.,C
+1386,GW12,T2199,Gary Rhodes est chef au restaurant officiel appelé Rhodes W1.,E
+1387,GW12,T2199,Rhodes W1 ne propose que des repas de type haute cuisine.,N
+1388,GW12,T2199,"Ouvert 24 heures sur 24, Rhodes W1 est situé à Londres, en Angleterre.",C
+1389,GW52,T2199,Le W1 n'est plus en activité.,E
+1390,GW52,T2199,Le Rhodes W1 a été considéré comme une entreprise prospère.,N
+1391,GW52,T2199,Le W1 a plus de 50 couches.,C
+1392,GW74,T2199,Gary Rhodes prépare la cuisine Haute à Rhodes W1,E
+1393,GW74,T2199,"Gary Rhodes est de Londres, Angleterre",N
+1394,GW74,T2199,Gary Rhodes prépare surtout la cuisine française,C
+1395,GW52,T2200,«REX Richmond Highway Express» a commencé à fonctionner il y a cinq ans.,E
+1396,GW52,T2200,Le REX Richmond Highway Express n'a pas encore été rénové.,N
+1397,GW52,T2200,«REX Richmond Highway Express» fonctionne 24 heures sur 24.,C
+1398,GW28,T2200,Le «REX Richmond Highway Express» est en service en Virginie depuis plus d'une décennie.,E
+1399,GW28,T2200,Le REX Richmond Highway Express ne coûte qu'un dollar par trajet.,N
+1400,GW28,T2200,«REX Richmond Highway Express» dessert plusieurs États depuis des décennies.,C
+1401,GW74,T2200,Le démarrage du «REX Richmond Highway Express» est également l’un des points de repère des,E
+1402,GW74,T2200,"La station Eisenhower Avenue se trouve à Huntington, en Virginie.",N
+1403,GW74,T2200,«REX Richmond Highway Express» se déroule tous les 30 minutes à partir de 4 h 30 le samedi.,C
+1404,GW86,T2201,Les « maladies » peuvent causer des anomalies physiques et mentales.,E
+1405,GW86,T2201,Les « maladies » impliquent toujours une déficience en vitamine D.,N
+1406,GW86,T2201,"Les « maladies » sont rares en dehors de l'Amérique du Nord, de l'Amérique du Sud, de l'Asie et de l'Australie.",C
+1407,GW12,T2201,Les « maladies » surviennent habituellement en enfance et peuvent être traitées avec de la vitamine D et du calcium.,E
+1408,GW12,T2201,Les « maladies » peuvent être diagnostiquées au moyen de tests sanguins et de rayons X.,N
+1409,GW12,T2201,Le Rickets est une maladie celiaque que l'on ne trouve qu'en Afrique.,C
+1410,GW52,T2201,Les « maladies » surviennent habituellement chez les enfants.,E
+1411,GW52,T2201,La chirurgie n’est pas nécessaire pour les rickets.,N
+1412,GW52,T2201,Les Rickets sont rares à l'est de l'Atlantique.,C
+1413,GW12,T2202,"Située en Bavière en Allemagne, le chemin de fer Rosenheim-Salzburg a également le nom maternel de Bahnstrecke Rosenheim-Salzburg.",E
+1414,GW12,T2202,Le chemin de fer Rosenheim–Salzburg compte 13 stations situées dans toute la Bavière et Salzburg.,N
+1415,GW12,T2202,La Deutsche Bahn est à la fois propriétaire et exploitant du chemin de fer Rosenheim-Salzburg.,C
+1416,GW63,T2202,Plus de dix stations sont encore en service sur le chemin de fer Rosenheim–Salzburg,E
+1417,GW63,T2202,Le chemin de fer Rosenheim-Salzburg n'a jamais dépassé la vitesse de 99 mph.,N
+1418,GW63,T2202,Des voies triangulaires de 90 km sont établies dans la voie ferrée Rosenheim–Salzburg,C
+1419,GW52,T2202,Le chemin de fer Rosenheim-Salzburg atteint des vitesses de près de 100 mph.,E
+1420,GW52,T2202,Le chemin de fer Rosenheim–Salzburg a toujours eu 13 stations.,N
+1421,GW52,T2202,La voie ferrée Rosenheim–Salzburg a récemment été fermée.,C
+1422,GW86,T2203,Le Samsung Galaxy Note9 a plusieurs caméras.,E
+1423,GW86,T2203,Le Samsung Galaxy Note9 est encore en cours de fabrication.,N
+1424,GW86,T2203,Le Samsung Galaxy Note9 est le dernier modèle d'une série d'appareils.,C
+1425,GW52,T2203,Le Samsung Galaxy Note9 a été lancé pour la première fois l'année dernière.,E
+1426,GW52,T2203,Le Samsung Galaxy Note9 est encore en production.,N
+1427,GW52,T2203,Le Samsung Galaxy Note9 est le premier de la série Note.,C
+1428,GW106,T2203,Les utilisateurs peuvent interagir avec leur Galaxy Note 9 en appuyant sur le bouton Bixby ou en utilisant le Pen S.,E
+1429,GW106,T2203,Le numéro de modèle de la variante AT&T de Galaxy Note 9 aux États-Unis est SM-N960A.,N
+1430,GW106,T2203,La Galaxy Note 9 a acquis la capacité de fonctionner sur des réseaux 5G après une mise à jour de logiciels en décembre 2018.,C
+1431,GW52,T2204,Le pont San Francisco-Oakland Bay a été ouvert dans les années 1930.,E
+1432,GW52,T2204,Le pont San Francisco-Oakland Bay a fait l'objet de rénovations au fil des ans.,N
+1433,GW52,T2204,Le pont San Francisco-Oakland Bay traverse chaque jour moins de 100 000 wagons.,C
+1434,GW4,T2204,Le pont San Francisco-Oakland Bay existe depuis plus de 80 ans.,E
+1435,GW4,T2204,Le pont San Francisco-Oakland Bay a toujours coûté le même montant pour traverser.,N
+1436,GW4,T2204,Le pont San Francisco-Oakland Bay compte seulement 10 000 personnes qui y circulent par jour.,C
+1437,GW86,T2204,La construction du pont San Francisco-Oakland Bay a pris plus de trois ans.,E
+1438,GW86,T2204,"La plus haute clairance au-dessus de tout point du pont San Francisco-Oakland Bay est de 14,67 pieds.",N
+1439,GW86,T2204,La longueur totale de la partie est du pont San Francisco-Oakland Bay est supérieure à la longueur totale de l'Ouest.,C
+1440,GW74,T2205,Le SAT est offert dans le monde entier en anglais.,E
+1441,GW74,T2205,Le SAT 60 $ au Canada,N
+1442,GW74,T2205,Il est possible d'obtenir une note de 900 en mathématiques,C
+1443,GW4,T2205,Le SAT est pris en personne sur papier.,E
+1444,GW4,T2205,Le SAT s'achève en apportant des millions de dollars par yera.,N
+1445,GW4,T2205,Le SAT a été inventé dans les années 1950.,C
+1446,GW28,T2205,Le « SAT » est un test normalisé utilisé pour l'admission aux programmes d'études supérieures américains.,E
+1447,GW28,T2205,Le « SAT » est un test sécuritaire et non frauduleux utilisé par les étudiants du monde entier.,N
+1448,GW28,T2205,Le SAT est un test de plusieurs jours offert en plusieurs langues.,C
+1449,GW28,T2206,Le « trouble schizoaffective » est une condition psychiatrique traitable.,E
+1450,GW28,T2206,Le « trouble schizoaffective » affecte principalement les femmes.,N
+1451,GW28,T2206,Les « troubles schizoaffectives » sont dus à des facteurs environnementaux.,C
+1452,GW106,T2206,L'usage de drogues est un facteur connu pour accroître les symptômes de troubles schizoaffectives tels que les hallucinations et les délusions.,E
+1453,GW106,T2206,Les taux de suicide chez les personnes atteintes d'un trouble schizoaffective de type dépressif sont inférieurs à ceux des personnes atteintes d'un trouble bipolaire.,N
+1454,GW106,T2206,Le renoncement à l'usage de drogues peut guérer le trouble schizoaffective.,C
+1455,GW19,T2206,"Malgré les progrès de la médecine moderne, les psychiatres n’ont pas été en mesure d’identifier la cause précise de la schizophrénie",E
+1456,GW19,T2206,Les stabilisateurs de l'humeur sont plus efficaces dans le traitement des troubles bipolaires que les antipsychotiques.,N
+1457,GW19,T2206,Les progrès de la médecine moderne ont permis aux psychiatres de traiter la schizophrénie en modifiant le comportement.,C
+1458,GW86,T2207,La « schizophrénie » peut entraîner la mort.,E
+1459,GW86,T2207,La « schizophrénie » se manifeste parfois chez les personnes âgées de plus de 30 ans.,N
+1460,GW86,T2207,La schizophrénie est une condition aiguë.,C
+1461,GW106,T2207,L'autisme et la schizophrénie présentent plusieurs des mêmes symptômes.,E
+1462,GW106,T2207,Les personnes atteintes de schizophrénie n'ont une durée de vie plus courte que la moyenne que s'ils souffrent également de maladies cardiaques concomitantes.,N
+1463,GW106,T2207,La plupart des personnes souffrant de schizophrénie ne sont pas en mesure d'occuper un emploi.,C
+1464,GW52,T2207,La « schizophrénie » entraîne plus de 15 000 décès par année.,E
+1465,GW52,T2207,La « schizophrénie » peut apparaître à tout âge.,N
+1466,GW52,T2207,La « schizophrénie » ne s'accompagne pas d'une augmentation de l'espérance de vie.,C
+1467,GW60,T2208,La SQA dispose d'un budget d'environ 11 333 livres par employé.,E
+1468,GW60,T2208,Dave Middleton aime Glasgow.,N
+1469,GW60,T2208,David Middleton ne parle pas anglais au travail.,C
+1470,GW12,T2208,On trouvera de l'information sur l'AQS à l'adresse www.sqa.org.uk.,E
+1471,GW12,T2208,"L'Administration écossaise des qualifications, située en Écosse, compte 750 employés.",N
+1472,GW12,T2208,David Middleton est président de la Scottish Qualifications Authority.,C
+1473,GW52,T2208,L'Administration écossaise des qualifications dispose d'un budget supérieur à 10 millions de dollars.,E
+1474,GW52,T2208,L'AQS peut être considérée comme une petite entreprise.,N
+1475,GW52,T2208,L'AC du SQA est en Angleterre.,C
+1476,GW52,T2209,La ligne de métro 3 de Seoul a été ouverte il y a plus de 30 ans.,E
+1477,GW52,T2209,La ligne de métro 3 de Seoul n'a jamais été rénovée.,N
+1478,GW52,T2209,La ligne de métro de Seoul 3 a la même longueur pour toutes les voies.,C
+1479,GW74,T2209,Il y a 8 stations de Korail plus que le nombre de voies,E
+1480,GW74,T2209,Il y avait 44 stations lors de l'ouverture de la ligne de métro 3 de Seoul en 1985.,N
+1481,GW74,T2209,Il y a plus Termini que nombre de pistes,C
+1482,GW12,T2209,Le nom maternel de la ligne de métro de Seoul 3 est Sam Hoseon.,E
+1483,GW12,T2209,La ligne de métro de Seoul 3 est un réseau de métro de transit rapide qui compte trois stations.,N
+1484,GW12,T2209,La ligne de métro Seoul 3 a été inaugurée l'hiver 1985.,C
+1485,GW52,T2210,La ligne Settle–Carlisle est ouverte dans les années 1870.,E
+1486,GW52,T2210,La ligne Settle–Carlisle a diminué d'usage au fil des ans.,N
+1487,GW52,T2210,La longueur de la ligne Settle–Carlisle est de 100 milles.,C
+1488,GW12,T2210,La ligne Settle–Carlisle est la principale ligne du réseau ferroviaire national.,E
+1489,GW12,T2210,Le nord-ouest de l'Angleterre est le seul endroit où se trouve la ligne Settle–Carlisle.,N
+1490,GW12,T2210,Le réseau ferroviaire et Neville Hill sont propriétaires de la ligne Settle–Carlisle.,C
+1491,GW25,T2210,La ligne Settle–Carlisle compte 10 stations situées dans le nord de l'Angleterre.,E
+1492,GW25,T2210,La ligne Settle–Carlisle est une ligne de chemin de fer fortement parcourue.,N
+1493,GW25,T2210,Le Settle–Carlisle appartient au Northern Rail et offre 5 services.,C
+1494,GW105,T2211,Les personnes âgées sont plus exposées à la menace de la maladie.,E
+1495,GW105,T2211,Shingles durera 3 semaines.,N
+1496,GW105,T2211,Les symptômes peuvent être diagnostiqués à l'aide d'un test sanguin.,C
+1497,GW52,T2211,« Les symptômes » affectent une personne sur trois à un moment donné de sa vie.,E
+1498,GW52,T2211,Les Shingles ont une âge d'apparition commun.,N
+1499,GW52,T2211,Shingles prend plus d'un mois pour s'évacuer.,C
+1500,GW25,T2211,On peut prévenir les symptômes par un vaccin et on peut les traiter par des médicaments.,E
+1501,GW25,T2211,Une éclosion du virus Varicella zoster est basée sur des symptômes où une éruption douloureuse se manifeste sur les jambes.,N
+1502,GW25,T2211,"Les herpes simplex, l'angine et les bites d'insectes sont les seules maladies associées à la variole.",C
+1503,GW106,T2212,Tous les occupants du vol 368 des compagnies aériennes de Singapour ont pu évacuer l'aéronef sans être blessés.,E
+1504,GW106,T2212,Le feu d'aéronef survenu pendant le vol 368 des compagnies aériennes de Singapour a eu lieu après l'atterrissage de l'aéronef.,N
+1505,GW106,T2212,La fuite de pétrole qui a causé l'incendie de l'aéronef lors du vol 368 des compagnies aériennes de Singapour s'est produite peu après avoir quitté l'aéroport de Malpensa.,C
+1506,GW52,T2212,L'écrasement de SQ368 n'était pas fatal.,E
+1507,GW52,T2212,L'équipage du SQ368 a signalé avoir vu de la fumée.,N
+1508,GW52,T2212,L'accident du SQ368 a eu lieu dans les années 90.,C
+1509,GW74,T2212,Il y avait plus d'occupants que de passagers sur le vol 368 des compagnies aériennes de Singapour,E
+1510,GW74,T2212,Singapore Airlines utilise toujours Boeing 777-312ER,N
+1511,GW74,T2212,Il y a eu plus de blessures que de décès,C
+1512,GW86,T2213,On estime parfois que la « paralysie du sommeil » se produit chez la moitié des personnes.,E
+1513,GW86,T2213,La « paralysie du sommeil » nécessite toujours un traitement médical.,N
+1514,GW86,T2213,La « paralysie du sommeil » peut durer jusqu'à une heure.,C
+1515,GW52,T2213,La « paralysie du sommeil » peut affecter la moitié de la population.,E
+1516,GW52,T2213,La « paralysie du sommeil » a augmenté dans les prévisions au fil du temps.,N
+1517,GW52,T2213,La paralysie du sommeil peut durer une heure.,C
+1518,GW28,T2213,La « paralysie du sommeil » est une condition médicale temporaire dans laquelle les personnes perdent la fonction motrice avant ou après le sommeil.,E
+1519,GW28,T2213,La « paralysie du sommeil » affecte surtout les femmes.,N
+1520,GW28,T2213,La « paralysie du sommeil » peut durer des jours,C
+1521,GW95,T2214,Les travailleurs sociaux sont tous allés à l'université.,E
+1522,GW95,T2214,La plupart des travailleurs sociaux travaillent en chruches.,N
+1523,GW95,T2214,Vous pouvez être un travailleur social si vous avez un diplôme d'Associates,C
+1524,GW28,T2214,Le travail social peut mener à travailler dans divers rôles et organisations après avoir obtenu un diplôme.,E
+1525,GW28,T2214,Le travail social est une profession bien rémunérée.,N
+1526,GW28,T2214,Les travailleurs sociaux ne peuvent trouver un emploi qu'avec un diplôme universitaire.,C
+1527,GW52,T2214,Le travail social comporte plusieurs degrés.,E
+1528,GW52,T2214,Le travail social a augmenté depuis le tournant du XXe siècle.,N
+1529,GW52,T2214,Le travail social ne traite que de la santé physique.,C
+1530,GW25,T2215,Humphry Davy a découvert et isolé pour la première fois Sodium qui a une apparence métallique argentée blanche.,E
+1531,GW25,T2215,"La plupart des métaux alcalins ont une apparence métallique argentée blanche, ce qui les rend difficiles à distinguer.",N
+1532,GW25,T2215,Le sodium a une apparence métallique d'or argenté et une occurrence naturelle réparatrice.,C
+1533,GW4,T2215,Le « sodium » est connu pour sa couleur blanche et argentine.,E
+1534,GW4,T2215,Le « sodium » explode lorsqu'il interagit avec l'eau.,N
+1535,GW4,T2215,Le « sodium » a été découvert dans les années 1500.,C
+1536,GW52,T2215,Le « sodium » a été découvert pour la première fois au XIXe siècle.,E
+1537,GW52,T2215,Le « sodium » est actuellement utilisé dans de nombreux aliments.,N
+1538,GW52,T2215,Le « sodium » était l'un des 10 premiers éléments découverts.,C
+1539,GW52,T2216,La Xperia X8 est dévoilé dans cette décennie.,E
+1540,GW52,T2216,La Xperia X8 est encore produite actuellement.,N
+1541,GW52,T2216,La Xperia X8 a 1GB de mémoire.,C
+1542,GW86,T2216,La Sony Ericsson Xperia X8 a une mémoire plus grande que la capacité de stockage.,E
+1543,GW86,T2216,Le Sony Ericsson Xperia X8 est doté de 16 GB de stockage remplaçable.,N
+1544,GW86,T2216,Le Sony Ericsson Xperia X8 est disponible depuis plus d'une décennie.,C
+1545,GW1,T2216,Le Sony Ericsson Xperia X8 est sorti en été 2010.,E
+1546,GW1,T2216,Le Sony Ericsson Xperia X8 a un meilleur son que le Sony Ericsson Xperia X10 Mini.,N
+1547,GW1,T2216,Le Sony Ericsson Xperia X8 pesa plus de 4 livres.,C
+1548,GW74,T2217,SSC CGL est conçu pour assurer les emplois dans les organisations gouvernementales de l’Inde,E
+1549,GW74,T2217,SSC CGL est offert en Inde en même temps chaque année,N
+1550,GW74,T2217,La SSC CGL a commencé en Inde au XIXe siècle.,C
+1551,GW4,T2217,Le « SSC Combined Graduate Level Examination » exige que quelqu'un soit inscrit au collège d'abord.,E
+1552,GW4,T2217,Le « SSC Combined Graduate Level Examination » fait beaucoup d'argent pour l'Inde.,N
+1553,GW4,T2217,Le « SSC Combined Graduate Level Examination » est pratiqué depuis plus de 50 ans.,C
+1554,GW52,T2217,Le SSC CGL a commencé dans les années 1970.,E
+1555,GW52,T2217,Le SSC CGL a été offert à l'extérieur de l'Inde.,N
+1556,GW52,T2217,Le SSC CGL est gratuit pour tous les testeurs.,C
+1557,GW52,T2218,« Subgame Perfect Equilibrium » est utilisé pour les jeux.,E
+1558,GW52,T2218,« Subgame Perfect Equilibrium » est une technologie récente.,N
+1559,GW52,T2218,L'« équilibre parfait du sous- jeu » se croise avec la stratégie évolutivement diversifiée.,C
+1560,GW28,T2218,« Subgame Perfect Equilibrium » est une stratégie employée dans les jeux.,E
+1561,GW28,T2218,« Subgame Perfect Equilibrium » a été créé par un économiste de Harvard.,N
+1562,GW28,T2218,« Subgame Perfect Equilibrium » est un concept autonome.,C
+1563,GW12,T2218,"Utilisé pour des jeux de forme étendues, le jeu Ultimatum est un exemple de « Subgame Perfect Equilibrium ».",E
+1564,GW12,T2218,« Subgame Perfect Equilibrium » se croise avec Nash equilibrium.,N
+1565,GW12,T2218,« Subgame Perfect Equilibrium » a été proposé par plus de gens que Reinhard Selten.,C
+1566,GW106,T2219,Le vol 139 de la Sudan Airways a échoué l'été 2003.,E
+1567,GW106,T2219,La plupart des passagers à bord du vol 139 étaient des citoyens du Soudan.,N
+1568,GW106,T2219,Plus de 50 % de l'équipage et des passagers du vol 139 ont finalement été sauvés à quelques milles de l'aéroport international de Khartoum.,C
+1569,GW74,T2219,L’équipage et les passagers ont totalisé 117,E
+1570,GW74,T2219,Sudan Airways n'a utilisé que Boeing 737-200C,N
+1571,GW74,T2219,Il y a eu moins de décès que les passagers,C
+1572,GW12,T2219,Le vol 139 de la Sudan Airways est arrivé à l'aéroport international de Khartoum le 8 juillet 2003.,E
+1573,GW12,T2219,Le vol 139 de la Sudan Airways était un Boeing dont le nom était White Nile.,N
+1574,GW12,T2219,Il y a eu 117 passagers et 106 morts lors de l'écrasement du vol 139 de la Sudan Airways.,C
+1575,GW105,T2220,Le restaurant Sushi Mizutani existe depuis onze ans.,E
+1576,GW105,T2220,Hachiro Mizutani accueille personnellement les invités.,N
+1577,GW105,T2220,Les grands groupes peuvent simplement se présenter pour manger.,C
+1578,GW1,T2220,Le restaurant Sushi Mizutani est fermé à l'automne 2016.,E
+1579,GW1,T2220,Les réservations sont difficiles à obtenir au Sushi Mizutani Restaurant.,N
+1580,GW1,T2220,Le restaurant Sushi Mizutani est ouvert à l'été 2005.,C
+1581,GW109,T2220,Le propriétaire a maintenu le code de vêtement est d'affaires casual pour tout le temps.,E
+1582,GW109,T2220,Dans ce restaurant est le plus précieux pour ces périodes.,N
+1583,GW109,T2220,Le type de nourriture n'est pas sushi un autre type de nourriture qu'ils doivent préparer bien.,C
+1584,GW86,T2221,« Syncope » se produit habituellement rapidement et dure un court temps.,E
+1585,GW86,T2221,« Syncope » résulte habituellement d'une affection cardiaque.,N
+1586,GW86,T2221,La « syncope » se produit dans environ 5 % de la population.,C
+1587,GW28,T2221,« Syncope » est une condition médicale de diminution de la circulation sanguine dans le cerveau qui cause une personne à céder.,E
+1588,GW28,T2221,« Syncope » est facile et abordable à traiter.,N
+1589,GW28,T2221,« Syncope » cause un hyperconscient lorsqu'il est affecté.,C
+1590,GW52,T2221,La « syncope » se produit dans moins de 1 % de la population.,E
+1591,GW52,T2221,Les symptômes de Syncope sont les mêmes pour tous les cas.,N
+1592,GW52,T2221,« Syncope » dure longtemps.,C
+1593,GW52,T2222,Tangerine_Microtan_65 a débuté dans les années 1970.,E
+1594,GW52,T2222,Tangerine_Microtan_65 est encore en usage aujourd'hui.,N
+1595,GW52,T2222,Tangerine_Microtan_65 contient plus de 100 Ko de RAM.,C
+1596,GW74,T2222,"Tangerine_Microtan_65 coûtait 79,35 £ en kit initialement en 1979.",E
+1597,GW74,T2222,Tangerine_Microtan_65 a été le premier ordinateur personnel en 1979,N
+1598,GW74,T2222,Tangerine_Microtan_65 coûtait initialement 100 livres en 1979.,C
+1599,GW19,T2222,L'ordinateur personnel Tangerine Microtan 65 a été introduit il y a environ 40 ans.,E
+1600,GW19,T2222,L'ordinateur personnel Tangerine Microtan 65 a été un favori immédiat parmi les techniciens dès sa sortie en 1979.,N
+1601,GW19,T2222,Le PC Tangerine Microtan 65 a fait son debut au CES 2014.,C
+1602,GW4,T2223,Les personnes qui sont des enseignants ont généralement besoin d'une éducation spéciale.,E
+1603,GW4,T2223,Les enseignants travaillent toujours dans les écoles.,N
+1604,GW4,T2223,Les enseignants enseignent habituellement des sujets qu'ils n'ont pas étudiés.,C
+1605,GW12,T2223,Un enseignant est une profession professionnelle qui se déroule dans une école.,E
+1606,GW12,T2223,Un enseignant devrait avoir des compétences en planification et en leadership.,N
+1607,GW12,T2223,La psychologie est la seule compétence requise par un enseignant scolaire.,C
+1608,GW86,T2223,Un enseignant est considéré comme un professionnel.,E
+1609,GW86,T2223,Un certificat d'enseignement d'un pays permet habituellement d'enseigner dans d'autres pays.,N
+1610,GW86,T2223,L'enseignement comporte une seule compétence.,C
+1611,GW86,T2224,Le Telmac 1800 faisait partie d'une série de modèles d'ordinateurs à domicile.,E
+1612,GW86,T2224,Le Telmac 1800 pouvait afficher des graphiques en couleur.,N
+1613,GW86,T2224,Le Telmac 1800 utilise des disques floppy.,C
+1614,GW52,T2224,Le Telmac 1800 a démarré il y a plus de 40 ans.,E
+1615,GW52,T2224,Le Telmac 1800 a un CPU expansible.,N
+1616,GW52,T2224,Le Telmac 1800 était considéré comme un microordinateur.,C
+1617,GW12,T2224,Le Telmac 1800 était un ordinateur à domicile lancé il y a 42 ans.,E
+1618,GW12,T2224,"Considéré comme un kit informatique, le Telmac 1800 avait une résolution d'affichage de 64 x 32 pixels.",N
+1619,GW12,T2224,"Avec 2 kB de RAM, le Telmac 1800 n'avait que le Telmac TMC-600 comme successeur.",C
+1620,GW52,T2225,Le dixième de Tevet est un événement juif.,E
+1621,GW52,T2225,Le dixième de Tevet se déroule habituellement chaque année.,N
+1622,GW52,T2225,"La dixième édition de Tevet, pour 2019, aura lieu en 2019.",C
+1623,GW4,T2225,Le dixième de Tevet commence avant que le soleil ne s'écoule,E
+1624,GW4,T2225,Le « dixième de Tevet » est pratiqué depuis plus de 1000 ans.,N
+1625,GW4,T2225,Le « dixième de Tevet » est un endroit où les gens mangent plus de nourriture que normalement.,C
+1626,GW74,T2225,Les dates de 2019 et 2020 pour le dixième de Tevet se déroulent tous deux en 2020,E
+1627,GW74,T2225,Tous les Juifs se hâtent sur Le dixième de Tevet,N
+1628,GW74,T2225,La date 2018 et la date 2020 pour le dixième de Tevet se produisent pendant différents mois.,C
+1629,GW1,T2226,Le terme terbium a été découvert et isolé pour la première fois au XIXe siècle.,E
+1630,GW1,T2226,Terbium est presque toujours un solide.,N
+1631,GW1,T2226,Terbium est plus foncé.,C
+1632,GW4,T2226,Terbium a un poids atomique supérieur à 150.,E
+1633,GW4,T2226,Le terbium peut être trouvé sous forme solide.,N
+1634,GW4,T2226,Terbium a été fondé à la fin des années 1900.,C
+1635,GW28,T2226,Le terme terbium est un élément découvert et isolé par un seul homme.,E
+1636,GW28,T2226,Le terme terbium est un élément rare.,N
+1637,GW28,T2226,Le terme Terbium a été donné à la personne qui l'a découvert.,C
+1638,GW106,T2227,Un candidat à un collège peut utiliser une note TOEFL d'un examen effectué au cours de l'année précédente.,E
+1639,GW106,T2227,L'examen TOEFL est exigé par la plupart des collèges et universités de la Ivy League aux États-Unis.,N
+1640,GW106,T2227,La partie mathématique de l'examen TOEFL représente 25 % de la note totale de l'examen.,C
+1641,GW19,T2227,Le « Test of English as a Foreign Language » (TOEFL) est une méthode internationalement reconnue pour établir la compétence linguistique.,E
+1642,GW19,T2227,L'Organisation des Nations Unies exige que les demandeurs d'emploi réussissent le TOEFL.,N
+1643,GW19,T2227,Le TOEFL n'est offert que dans les pays d'Europe orientale et d'Asie du Sud-Est.,C
+1644,GW52,T2227,Le TOEFL a été lancé dans les années 1960.,E
+1645,GW52,T2227,Le TOEFL peut être tiré de tous les continents.,N
+1646,GW52,T2227,Le TOEFL a une valeur de score négative.,C
+1647,GW12,T2228,Tetanus et Lockjaw sont la même maladie.,E
+1648,GW12,T2228,La vaccination contre le tétanos peut prévenir le lockjaw.,N
+1649,GW12,T2228,"Les spasmes musculaires, la fièvre et la douleur de la tête sont des facteurs de risque du tétanos.",C
+1650,GW105,T2228,Le Tetanus est une maladie infectieuse qui peut se manifester partout depuis quelques jours jusqu'à près d'un mois.,E
+1651,GW105,T2228,La plupart des patients souffrent de Tetanus pendant 15 jours.,N
+1652,GW105,T2228,"Dans la plupart des cas, le tétanos est très mortel.",C
+1653,GW19,T2228,"En 2015, moins de la moitié des personnes souffrant d'une catarrhée ont perdu la vie à cause de la maladie.",E
+1654,GW19,T2228,Lockjaw a été éradiqué aux États-Unis.,N
+1655,GW19,T2228,Lockjaw est une maladie terminale in curable.,C
+1656,GW105,T2229,Le restaurant Ledbury a été ouvert il y a plus d'une décennie.,E
+1657,GW105,T2229,Le restaurant Ledbury a une forte présence en ligne.,N
+1658,GW105,T2229,Le restaurant Ledbury peut accueillir des centaines de personnes à la fois.,C
+1659,GW60,T2229,Brett Graham est chef de cuisine britannique.,E
+1660,GW60,T2229,Brett Graham vit à Londres.,N
+1661,GW60,T2229,Brett Graham est chef-chef du restaurant Ledbury depuis 20 ans.,C
+1662,GW1,T2229,Le restaurant Ledbury est ouvert au cours de la première décennie du XXIe siècle.,E
+1663,GW1,T2229,Brett Graham était le chef originaire du restaurant Ledbury,N
+1664,GW1,T2229,Le restaurant Ledbury peut accueillir plus de 60 personnes.,C
+1665,GW19,T2230,"La station Tukwila International Boulevard, une station de chemin de fer léger de l'État de Washington, est ouverte depuis plus de dix ans.",E
+1666,GW19,T2230,La station Tukwila International Boulevard est une station populaire pour les commuters qui se rendent au centre-ville de Seattle.,N
+1667,GW19,T2230,La station Tukwila International Boulevard est une station populaire de la capitale de la nation.,C
+1668,GW86,T2230,La station Tukwila International Boulevard compte autant de plate-formes que de voies ferrées.,E
+1669,GW86,T2230,La station Tukwila International Boulevard dispose de rampes pour fauteuils roulants.,N
+1670,GW86,T2230,La station Tukwila International Boulevard a été ouverte il y a moins d'une décennie.,C
+1671,GW28,T2230,Tukwila International Boulevard Station (Link Light Rail Station) est une station de transport public américaine située dans l'État de Washington.,E
+1672,GW28,T2230,Tukwila International Boulevard Station (Link Light Rail Station) accepte les paiements en espèces et numériques.,N
+1673,GW28,T2230,Tukwila International Boulevard Station (Link Light Rail Station) dispose d'une voie expresse avec deux voies locales.,C
+1674,GW1,T2231,Le diabète de type 1 présente plusieurs symptômes.,E
+1675,GW1,T2231,Le diabète de type 1 était initialement appelé diabète juvénile.,N
+1676,GW1,T2231,Il n'existe qu'une forme de traitement pour le diabète de type 1.,C
+1677,GW28,T2231,Le diabète de type 1 peut être traité mais non prévenu.,E
+1678,GW28,T2231,Le diabète de type 1 touche plus de femmes que d'hommes.,N
+1679,GW28,T2231,La cause du « diabète de type 1 » est un mystère et inlégible,C
+1680,GW74,T2231,Il y a plus de facteurs de risque que de causes,E
+1681,GW74,T2231,maladies celliques Causes de l'urine fréquente,N
+1682,GW74,T2231,Le début habituel et la durée sont les mêmes.,C
+1683,GW12,T2232,Le diabète non dépendant de l'insuline (NIDDM) est un autre nom pour le diabète de type 2.,E
+1684,GW12,T2232,Le diabète de type 2 est une maladie à long terme qui survient durant l'enfance.,N
+1685,GW12,T2232,Les personnes atteintes du diabète de type 2 peuvent s'attendre à vivre dix ans plus longtemps que la personne moyenne.,C
+1686,GW28,T2232,Le diabète de type 2 est une maladie traitable qui affecte surtout les adultes plus âgés.,E
+1687,GW28,T2232,Le diabète de type 2 est causé par une consommation excessive de sucre.,N
+1688,GW28,T2232,Le diabète de type 2 peut être guéri par des médicaments.,C
+1689,GW52,T2232,Le diabète de type 2 a une durée de vie plus courte que celle des adultes normaux.,E
+1690,GW52,T2232,Le diabète de type 2 est le type le plus courant de diabète.,N
+1691,GW52,T2232,Le diabète de type 2 est diagnostiqué par l'étude du sommeil.,C
+1692,GW60,T2233,"Au plus 0,5 % des personnes auront besoin d'une colonoscopie avec des biopsies de tissus pour diagnostiquer la « colite ulcerative ».",E
+1693,GW60,T2233,Plus de personnes meurent de la colite ulcerative que de la maladie de Crohn.,N
+1694,GW60,T2233,Les adolescents ne peuvent pas contracter de colite ulcerative.,C
+1695,GW52,T2233,"La colite ulcerative, associée à celle de Crohn, cause plus de 47 000 décès par année.",E
+1696,GW52,T2233,La colite ulcerative n'a pas de méthodes de prévention.,N
+1697,GW52,T2233,La colite ulcerative touche plus de 1 % de la population.,C
+1698,GW74,T2233,Il y a plus de symptômes que de complications,E
+1699,GW74,T2233,La durée de la « colite ulcerative » est aussi longue que le début habituel,N
+1700,GW74,T2233,Méthode diagnostique dépassant les traitements,C
+1701,GW4,T2234,La ligne d'autobus Unaza circule plus de 20 fois par jour.,E
+1702,GW4,T2234,La ligne d'autobus Unaza fait plus de 50 milles par heure.,N
+1703,GW4,T2234,La ligne d'autobus Unaza arrive seulement tous les demi-heures.,C
+1704,GW86,T2234,La ligne d'autobus Unaza est hors service pendant moins de 6 heures par jour.,E
+1705,GW86,T2234,Un voyage sur la ligne d'autobus Unaza prend parfois plus de 30 minutes.,N
+1706,GW86,T2234,La ligne d'autobus Unaza fonctionne moins fréquemment les fins de semaine que durant la semaine.,C
+1707,GW52,T2234,La ligne d'autobus Unaza dessert plus de 3/4 de la journée.,E
+1708,GW52,T2234,La ligne d'autobus Unaza n'a pas encore été modifiée ou rénovée.,N
+1709,GW52,T2234,La ligne d'autobus Unaza est de plus de 100 milles de longueur.,C
+1710,GW52,T2235,Le « Test d'aptitude clinique de l'université » a été effectué par environ 25 000 personnes chaque année.,E
+1711,GW52,T2235,Le « test d'aptitude clinique de l'université » est un facteur déterminant important de l'admission.,N
+1712,GW52,T2235,Le « Test d'aptitude clinique de l'université » prend toute une journée pour se terminer.,C
+1713,GW1,T2235,Le test d'aptitude clinique de l'université prend environ 120 minutes.,E
+1714,GW1,T2235,Le « Test d'aptitude clinique de l'université » est le seul test administré par Pearson.,N
+1715,GW1,T2235,Le « test d'aptitude clinique de l'université » a été administré pour la première fois au XXe siècle.,C
+1716,GW105,T2235,Les participants à l'essai peuvent utiliser le processus d'élimination.,E
+1717,GW105,T2235,Certains participants peuvent compléter le « Test d'aptitude clinique de l'université » en moins de vingt minutes.,N
+1718,GW105,T2235,Des millions de personnes suivent le test chaque année.,C
+1719,GW86,T2236,L'accident du vol 1549 de l'US Airways a été causé par des animaux.,E
+1720,GW86,T2236,Tous les membres de l'équipage du vol 1549 de l'US Airways ont subi de graves blessures.,N
+1721,GW86,T2236,Le vol 1549 de l'US Airways est tombé entre son point d'arrêt et sa destination finale.,C
+1722,GW4,T2236,« US Airways Flight 1549 » a décollé de la côte est des États-Unis.,E
+1723,GW4,T2236,« US Airways Flight 1549 » a frappé une goose en vol.,N
+1724,GW4,T2236,« US Airways Flight 1549 » a pu terminer son vol.,C
+1725,GW52,T2236,US1549 a échoué il y a dix ans.,E
+1726,GW52,T2236,L'US1549 n'avait signalé aucun problème de moteur avant l'attaque des oiseaux.,N
+1727,GW52,T2236,L'écrasement de US1549 a causé 5 morts.,C
+1728,GW52,T2237,L'Utah Valley Express vient d'être ouvert l'année dernière.,E
+1729,GW52,T2237,Le « Utah Valley Express » fonctionne 24 heures sur 24.,N
+1730,GW52,T2237,Le « Utah Valley Express » circule à des vitesses supérieures à 60 mph.,C
+1731,GW4,T2237,Le « Utah Valley Express » existe depuis moins de dix ans.,E
+1732,GW4,T2237,Le « Utah Valley Express » a pris 5 ans à construire.,N
+1733,GW4,T2237,Le « Utah Valley Express » se déplace plus rapidement que les voitures sur l'autoroute.,C
+1734,GW19,T2237,"Le « Utah Valley Express », un service d'autobus rapide dans le sud d'Orem (Utah), est exploité par l'Administration de transit de l'Utah depuis plus d'un an.",E
+1735,GW19,T2237,"Aucun changement de route n'a été apporté à la ligne de bus rapide dans le sud d'Orem, en Utah, lorsqu'elle a été changée du Provo Urem Max au « Utah Valley Express ».",N
+1736,GW19,T2237,La ligne de bus rapide « Utah Valley Express » dessert la région métropolitaine de Salt Lake City.,C
+1737,GW28,T2238,"Vaisakhi, Baisakhi Punjabi (en anglais) est un usage religieux pratiqué par les Sikhs et les Hindus.",E
+1738,GW28,T2238,"Vaisakhi, Baisakhi Punjabi : envoyer des feux de artificiel et échanger des cadeaux dans le cadre des célébrations.",N
+1739,GW28,T2238,"Vaisakhi, Baisakhi Punjabi :........................................",C
+1740,GW86,T2238,Vaisakhi est connu sous quatre noms différents.,E
+1741,GW86,T2238,Le Vaisakhi est observé le 13 ou le 14 avril chaque année.,N
+1742,GW86,T2238,Vaisakhi est strictement une observation culturelle.,C
+1743,GW52,T2238,Le Baisakh se déroule à environ la même heure chaque année.,E
+1744,GW52,T2238,Le Baisakh a les mêmes célébrations pour tous ceux qui célèbrent.,N
+1745,GW52,T2238,Le Baisakh se produit le même jour chaque année.,C
+1746,GW86,T2239,« Vesak » est connu par au moins une demi-douzaine de noms officiels.,E
+1747,GW86,T2239,« Vesak » est observé par plus de bouddhistes que les Hindus dans le monde entier.,N
+1748,GW86,T2239,Le Vesak est célébré chaque année à la même date.,C
+1749,GW52,T2239,La Journée du Buddha est organisée annuellement.,E
+1750,GW52,T2239,La Journée du Buddha est célébrée par toute l'Asie.,N
+1751,GW52,T2239,"En 2018, le jour du Buddha a été célébré le même jour pour tous les pays d'Asie.",C
+1752,GW12,T2239,« Vesak » est un jour férié annuel et a été célébré le 19 mai 2019.,E
+1753,GW12,T2239,Vesak est une fête religieuse célébrant le Buddha Gautama.,N
+1754,GW12,T2239,Le Vesak est célébré durant les mois d'hiver.,C
+1755,GW28,T2240,« Vidyasagar Setu » est un pont à six voies.,E
+1756,GW28,T2240,« Vidyasagar Setu » coûte des milliards de dollars américains.,N
+1757,GW28,T2240,Vidyasagar Setu est connu pour son design unique de cantilever.,C
+1758,GW12,T2240,« Vidyasagar Setu » est également connu sous le nom de deuxième pont Hooghly et est un pont à deux voies avec trois voies.,E
+1759,GW12,T2240,La Braithwaite Burn and Jessop Construction Company Limited est la seule société qui a participé à la construction du pont.,N
+1760,GW12,T2240,Le « Vidyasagar Setu » est ouvert au printemps 1992.,C
+1761,GW86,T2240,« Vidyasagar Setu » compte au total six voies.,E
+1762,GW86,T2240,Les véhicules utilisant Vidyasagar Setu paient un péage pour voyager dans les deux directions.,N
+1763,GW86,T2240,Vidyasagar Setu ne coûte rien pour les véhicules à utiliser.,C
+1764,GW28,T2241,« Viva Purple » est une ligne d'autobus de plus d'une décennie.,E
+1765,GW28,T2241,Wifi public est disponible sur tous les autobus Viva Purple.,N
+1766,GW28,T2241,Viva Purple arrive deux fois l'heure.,C
+1767,GW4,T2241,Viva Purple part quatre fois par heure.,E
+1768,GW4,T2241,Viva Purple fonctionne quotidiennement depuis plus de 14 ans.,N
+1769,GW4,T2241,La ligne « Viva Purple » ne compte que quelques centaines de personnes qui y circulent par année.,C
+1770,GW52,T2241,Viva Purple jouit d'une circulation de plus de 5 000 personnes.,E
+1771,GW52,T2241,Viva Purple fonctionne sur un horaire de 24 heures.,N
+1772,GW52,T2241,« Viva Purple » a commencé à fonctionner dans les années 90.,C
+1773,GW4,T2242,Le Xiaomi Mi 2S a deux caméras différentes à l'arrière.,E
+1774,GW4,T2242,Le Xiaomi Mi 2S a une batterie plus grande qu'un iPhone.,N
+1775,GW4,T2242,Le Xiaomi Mi 2S est plus petit que 120mm de largeur.,C
+1776,GW74,T2242,Le stockage est supérieur à 30 GB à la mémoire,E
+1777,GW74,T2242,Xiaomi Mi 2S avec Android 4.1 Jelly Bean systèmes d'exploitation ont 16 GB de stockage,N
+1778,GW74,T2242,Xiaomi Mi3 est arrivé avant Xiaomi Mi2,C
+1779,GW105,T2242,Le Xiaomi Mi 2S est un téléphone intelligent.,E
+1780,GW105,T2242,Il y a assez de mémoire pour des centaines de photos.,N
+1781,GW105,T2242,Le Xiaomi Mi 2S dispose d'une grande quantité d'entreposage remplaçable.,C
+1782,GW28,T2243,« B1 » est une ligne de bus qui circule quotidiennement à Zhengzhou.,E
+1783,GW28,T2243,« B1 » est un système d'autobus sans caisse et utilise des formes de paiement électroniques.,N
+1784,GW28,T2243,« B1 » fonctionne continuellement depuis plus d'une décennie.,C
+1785,GW12,T2243,"Situé à Zhengzhou, « B1 » est exploité par la Zhengzhou Bus Communication Corporation.",E
+1786,GW12,T2243,B1 commence à Zhongzhou Avenue et Nongye Road et se termine à Dianchang Road B/T.,N
+1787,GW12,T2243,« B1 » fonctionne tous les sept minutes.,C
+1788,GW52,T2243,Le « B1 » est en service depuis une décennie.,E
+1789,GW52,T2243,Le « B1 » est l'un des trajets de bus les plus populaires.,N
+1790,GW52,T2243,Le « B1 » fonctionne sur un horaire de 24 heures.,C
+1791,GW28,T2244,"« Indonesia AirAsia Flight 8501 » destiné à Singapour est tombé dans la mer, tuant tous à bord.",E
+1792,GW28,T2244,« Indonesia AirAsia Flight 8501 » peut avoir eu une mauvaise communication entre pilotes qui a contribué à l'accident.,N
+1793,GW28,T2244,« Indonesia AirAsia Flight 8501 » était un jumbo de Boeing qui est tombé pendant l'atterrissage sur la piste.,C
+1794,GW52,T2244,L'écrasement du QZ8501 a entraîné toutes les morts à bord.,E
+1795,GW52,T2244,Le QZ8501 avait signalé des problèmes de moteur avant de s'arrêter.,N
+1796,GW52,T2244,L'accident du QZ8501 a eu lieu dans les années 90.,C
+1797,GW1,T2244,Tous les passagers de l'avion « Indonesia AirAsia Flight 8501 » sont morts.,E
+1798,GW1,T2244,« Indonesia AirAsia Flight 8501 » est le seul « Indonesia AirAsia Flight 8501 » à écraser.,N
+1799,GW1,T2244,« Indonesia AirAsia Flight 8501 » a échoué en été 2014.,C

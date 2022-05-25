@@ -1,0 +1,56 @@
+{
+    "Titel": [
+        "Settle-Carlisle-Linie"
+    ],
+    "Typ": [
+        "Hauptlinie"
+    ],
+    "System": [
+        "Nationale Eisenbahn"
+    ],
+    "Status": [
+        "Betrieb"
+    ],
+    "Locale": [
+        "North West England, Yorkshire und der Humber"
+    ],
+    "Termini": [
+        "Settle, 54°04′01′′N 2°16′51′′W / 54.0669°N 2.2807°W / 54.0669; -2.2807 (Settle Station), Carlisle, 54°53′28′′N 2°56′01′′W / 54.8911°N 2.9335°W / 54.8911; -2.9335 (Settle Station)"
+    ],
+    "Bahnhöfe": [
+        "10"
+    ],
+    "Dienstleistungen": [
+        "1"
+    ],
+    "geöffnet": [
+        "1875 (Waren) und 1876 (Passagiere)"
+    ],
+    "Eigentümer": [
+        "Netzbahn"
+    ],
+    "Betreiber": [
+        "Nordbahn"
+    ],
+    "Depot(s)": [
+        "Neville Hill, Leeds"
+    ],
+    "Fahrzeuge": [
+        "Hauptsächlich Klasse 158 und Klasse 153"
+    ],
+    "Streckenlänge": [
+        "71,75 mi (115,47 km)"
+    ],
+    "Anzahl der Gleise": [
+        "Doppelt (außer auf dem Ribblehead Viadukt)"
+    ],
+    "Spurweite": [
+        "Standardspur 4 ft 8 1 ⁄ 2 in (1,435 mm)"
+    ],
+    "Betriebsgeschwindigkeit": [
+        "60 mph"
+    ],
+    "Höchste Erhebung": [
+        "Ais Gill (356 m)"
+    ]
+}

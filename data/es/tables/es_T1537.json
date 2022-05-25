@@ -1,0 +1,25 @@
+{
+    "t\u00edtulo": [
+        "\u201cSurface temp\u201d."
+    ],
+    "Presi\u00f3n superficial": [
+        "20-200 kPa; 70 kPa"
+    ],
+    "Altitud de la escala": [
+        "27 km (17 mi)"
+    ],
+    "Composici\u00f3n por volumen": [
+        "89% +- 2.0% hidr\u00f3geno (H 2 )",
+        "10% +- 2.0% helio (He)",
+        "0,3% +- 0,1% metano (CH 4 )",
+        "0.026% +- 0.004% amon\u00edaco (NH 3 )",
+        "0.0028% +- 0.001% deuter\u00eddeo de hidr\u00f3geno (HD)",
+        "0.0006% +- 0.0002% etano (C 2 H 6 )",
+        "0.0004% +- 0.0004% agua (H 2 O)"
+    ],
+    "Hielo": [
+        "amon\u00edaco (NH 3)",
+        "Agua (H 2 O)",
+        "Hidrosulfuro de amonio (NH 4 SH)"
+    ]
+}

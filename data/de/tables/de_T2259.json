@@ -1,0 +1,38 @@
+{
+    "Titel": [
+        "Exidy Sorcerer"
+    ],
+    "Hersteller": [
+        "Exidy"
+    ],
+    "Typ": [
+        "Home Computer"
+    ],
+    "Veröffentlichungsdatum": [
+        "1978; vor 41 Jahren (1978)"
+    ],
+    "Lebensdauer": [
+        "1978-1980"
+    ],
+    "Einleitender Preis": [
+        "US$895 (entspricht $3.438 im Jahr 2018)"
+    ],
+    "CPU": [
+        "Zilog Z80 @ 2.106 MHz (später 4 MHz)"
+    ],
+    "Arbeitsspeicher": [
+        "4 Kb RAM (erweiterbar auf 48 kB. größere Größen kamen in späteren Durchläufen Standard) / 4 kB ROM (Kartuschen könnten 4 bis 16 kB umfassen)"
+    ],
+    "Anzeige": [
+        "64×30 Zeichenanzeige, monochrom"
+    ],
+    "Sound": [
+        "keine (externe Ergänzungen möglich)"
+    ],
+    "Konnektivität": [
+        "Composite-Video, Centronics parallel, RS-232, Sound in/out für Kassetten, 50 Pin-Bändchenstecker inklusive S-100-Bus."
+    ],
+    "Verwandte Artikel": [
+        "Tulpe"
+    ]
+}

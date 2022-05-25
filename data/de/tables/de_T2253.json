@@ -1,0 +1,47 @@
+{
+    "Titel": [
+        "Brighton Main Line"
+    ],
+    "Typ": [
+        "Pendelbahn, Suburbanbahn"
+    ],
+    "System": [
+        "Nationale Eisenbahn"
+    ],
+    "Status": [
+        "Betrieb"
+    ],
+    "Locale": [
+        "Greater London, South East England"
+    ],
+    "Termini": [
+        "London Bridge, London Victoria, Brighton"
+    ],
+    "geöffnet": [
+        "1839-1841"
+    ],
+    "Eigentümer": [
+        "Netzwerkbahn"
+    ],
+    "Betreiber": [
+        "Southern Thameslink, Great Western Railway, London Overground"
+    ],
+    "Depot(s)": [
+        "Selhurst, Brighton Lovers Walk, Stewarts Lane"
+    ],
+    "Fahrzeuge": [
+        "Klasse 165 Turbo, Klasse 166 Turbo Express, Klasse 171 Turbostar, Klasse 377 Electrostar, Klasse 378 Capitalstar, Klasse 387 Electrostar, Klasse 455, Klasse 700 Desiro City"
+    ],
+    "Anzahl der Gleise": [
+        "2-4"
+    ],
+    "Spurweite": [
+        "4 ft 8 1 ⁄ 2 in (1,435 mm) Standardanzeige"
+    ],
+    "Elektrifizierung": [
+        "750 V DC dritte Schiene"
+    ],
+    "Betriebsgeschwindigkeit": [
+        "maximal 90 Meilen pro Stunde (140 Kilometer pro Stunde)"
+    ]
+}

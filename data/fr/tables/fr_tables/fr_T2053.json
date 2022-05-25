@@ -1,0 +1,53 @@
+{
+    "title": [
+        "Acorn Microcomputer"
+    ],
+    "D\u00e9veloppeur": [
+        "Acorn Computers"
+    ],
+    "Type": [
+        "8 bits semi-professionnel"
+    ],
+    "Date de sortie": [
+        "Mars 1979; il y a 40 ans (1979-03)"
+    ],
+    "Prix d'introduction": [
+        "\u00a365 (kit), \u00a375 (mont\u00e9)"
+    ],
+    "CPU": [
+        "6502 @ 1MHz"
+    ],
+    "M\u00e9moire": [
+        "1.125K"
+    ],
+    "Stockage": [
+        "Interface de cassette CUTS"
+    ],
+    "Affichage": [
+        "LED"
+    ],
+    "Graphisme": [
+        "-"
+    ],
+    "Son": [
+        "-"
+    ],
+    "Entr\u00e9e": [
+        "clavier \u00e0 25 cl\u00e9s"
+    ],
+    "Entr\u00e9e du contr\u00f4leur": [
+        "-"
+    ],
+    "Connectivit\u00e9": [
+        "INS8154 puce d'extension RAMIO (facultatif), interface cassette CUTS, socket pour ROM/EPROM suppl\u00e9mentaire en option"
+    ],
+    "Puissance": [
+        "7,5V+ de PSU externe \u00e0 bord du r\u00e9gulateur 5V"
+    ],
+    "Dimensions": [
+        "160 x 100mm deux planches empil\u00e9es"
+    ],
+    "Successeur": [
+        "Syst\u00e8me de ma\u00efs 2, Atome de ma\u00efs"
+    ]
+}

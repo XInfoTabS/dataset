@@ -1,0 +1,45 @@
+{
+    "Titel": [
+        "Jupiter"
+    ],
+    "Aphelion": [
+        "816,62 Millionen km (5.4588 AU)"
+    ],
+    "Perihelion": [
+        "740,52 Millionen km (4.9501 AU)"
+    ],
+    "Halb-Hauptachse": [
+        "778,57 Millionen km (5.2044 AU)"
+    ],
+    "Exzentrizität": [
+        "0.0489"
+    ],
+    "Orbitalperiode": [
+        "11.862 Jahre",
+        "4.332.59 d",
+        "10.475,8 Jovian Sonnentage"
+    ],
+    "Synodische Periode": [
+        "398.88 d"
+    ],
+    "Mittlere Umlaufgeschwindigkeit": [
+        "13,07 km/s (8,12 mi/s)"
+    ],
+    "Mittlere Anomalie": [
+        "20.020"
+    ],
+    "Neigung": [
+        "1.303 zur Ekliptik",
+        "6.09 zum Äquator der Sonne",
+        "0.32 zur unveränderlichen Ebene"
+    ],
+    "Länge des aufsteigenden Knotens": [
+        "100.464"
+    ],
+    "Argument des Perihelion": [
+        "273.867"
+    ],
+    "Bekannte Satelliten": [
+        "79 (Stand 2018)"
+    ]
+}

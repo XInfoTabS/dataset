@@ -1,0 +1,63 @@
+{
+    "Titel": [
+        "Sony Ericsson Xperia X8"
+    ],
+    "Codename": [
+        "Shakira"
+    ],
+    "Hersteller": [
+        "Sony Ericsson"
+    ],
+    "Serie": [
+        "Xperia"
+    ],
+    "Kompatible Netzwerke": [
+        "GSM 850.900 1800 1900 MHz, UMTS 900 2100 MHz, UMTS 850 1900 2100 MHz (Nordamerika)"
+    ],
+    "Verfügbarkeit nach Region": [
+        "16. Juni 2010 (2010-06-16)"
+    ],
+    "Verwandte": [
+        "Sony Ericsson Xperia X10 mini"
+    ],
+    "Typ": [
+        "Smartphone"
+    ],
+    "Formfaktor": [
+        "Schließen"
+    ],
+    "Abmessungen": [
+        "99 mm (3,9 in) H, 54 mm (2,1 in) W, 15 mm (0,59 in) D"
+    ],
+    "Masse": [
+        "104 g (3,7 Unzen) mit Batterie"
+    ],
+    "Betriebssystem": [
+        "Android 1.6, auf 2.1 aufrüstbar, Inoffizielle Upgrades auf 4.4.x über CyanogenMod"
+    ],
+    "CPU": [
+        "600 MHz ARMv6 Prozessor, Qualcomm MSM7227 Chipsatz"
+    ],
+    "GPU": [
+        "Adreno 200"
+    ],
+    "Speicher": [
+        "175 MB",
+        "128 MB"
+    ],
+    "Abnehmbarer Speicher": [
+        "microSDHC, bis zu 16 GB"
+    ],
+    "Batterie": [
+        "1200 mAh Li-Polymer austauschbar"
+    ],
+    "Dateneingaben": [
+        "Touchscreen, Beschleunigungsmesser, aGPS, Magnetometer, Näherungssensor, Kompass"
+    ],
+    "Display": [
+        "3,0 Zoll (76 mm) kapazitiver Touchscreen, 16 M Farben, 320×480 Pixel, TFT LCD"
+    ],
+    "Konnektivität": [
+        "Bluetooth 2.1 mit A2DP, microUSB 2.0, 3,5 mm Audiobuchse, aGPS, Stereo FM Tuner mit RDS, Wi-Fi b/g"
+    ]
+}

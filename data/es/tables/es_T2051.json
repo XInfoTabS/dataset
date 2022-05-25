@@ -1,0 +1,47 @@
+{
+    "t\u00edtulo": [
+        "2016 Terremoto en Ecuador"
+    ],
+    "Tiempo UTC": [
+        "2016-04-16 23:58:36"
+    ],
+    "Evento ISC": [
+        "608556966"
+    ],
+    "USGS-ANSS": [
+        "\u201cComCat\u201d"
+    ],
+    "Fecha local": [
+        "16 de abril de 2016 (2016-04-16)"
+    ],
+    "Tiempo local": [
+        "18:58:37 ECT (UTC-5)"
+    ],
+    "Magnitud": [
+        "7,8 M w"
+    ],
+    "Profundidad": [
+        "20.6 km (12.8 mi)"
+    ],
+    "Epicentro": [
+        "0\u00b022\u203216\u2032\u2032N 79\u00b056\u203224\u2032\u2032W / 0.371\u00b0N 79.940\u00b0W / 0.371; -79.940"
+    ],
+    "Tipo": [
+        "\u00abThrust\u00bb"
+    ],
+    "\u00c1reas afectadas": [
+        "Ecuador, Colombia, Per\u00fa"
+    ],
+    "Max. intensidad": [
+        "VIII ( severo )"
+    ],
+    "Precipitaciones": [
+        "4.8 M w"
+    ],
+    "Aftershocks": [
+        "1,034 a partir de 07:50 ECT (12:50 UTC) 28 de abril"
+    ],
+    "Muertos": [
+        "668 muertos, 8 desaparecidos y 6.274 gravemente heridos"
+    ]
+}

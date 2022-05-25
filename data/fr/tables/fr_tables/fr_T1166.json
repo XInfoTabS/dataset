@@ -1,0 +1,49 @@
+{
+    "titre": [
+        "Flyby de Titan (\u00e9tude de l'atmosph\u00e8re)"
+    ],
+    "Type de mission": [
+        "Exploration de la plan\u00e8te ext\u00e9rieure, de l'h\u00e9liosph\u00e8re et du milieu interstellaire"
+    ],
+    "Op\u00e9rateur": [
+        "NASA / Jet Propulsion Laboratory"
+    ],
+    "COSPAR ID": [
+        "1977-084A"
+    ],
+    "SATCAT n\u00b0": [
+        "10321"
+    ],
+    "Site web": [
+        "voyageur.jpl.nasa.gov"
+    ],
+    "Dur\u00e9e de la mission": [
+        "41 ans, 8 mois et 20 jours \u00e9coul\u00e9s",
+        "Mission plan\u00e9taire: 3 ans, 3 mois, 9 jours",
+        "Mission interstellaire : 38 ans, 5 mois et 11 jours (suite)"
+    ],
+    "Fabricant": [
+        "Laboratoire de propulsion de Jet"
+    ],
+    "Masse de lancement": [
+        "825,5 kg (1 820 lb)"
+    ],
+    "Puissance": [
+        "470 watts (au lancement)"
+    ],
+    "Date de lancement": [
+        "5 septembre 1977, 12:56:00 (1977-09-05UTC12:56Z) UTC"
+    ],
+    "Rocket": [
+        "Titan IIIE"
+    ],
+    "Site de lancement": [
+        "Complexe de lancement Cap Canaveral 41"
+    ],
+    "Approche la plus proche": [
+        "12 novembre 1980"
+    ],
+    "Distance": [
+        "6,490 km (4,030 mi)"
+    ]
+}

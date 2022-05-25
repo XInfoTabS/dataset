@@ -1,0 +1,38 @@
+{
+    "t\u00edtulo": [
+        "\u201cExidy Sorcerer\u201d"
+    ],
+    "Fabricante": [
+        "\u201cMujer\u201d"
+    ],
+    "Tipo": [
+        "Computador dom\u00e9stico"
+    ],
+    "Fecha de lanzamiento": [
+        "1978; hace 41 a\u00f1os (1978)"
+    ],
+    "Lifespan": [
+        "1978-1980"
+    ],
+    "Precio introductorio": [
+        "US$895 (equivalente a $3,438 en 2018)"
+    ],
+    "CPU": [
+        "Zilog Z80 @ 2.106 MHz (m\u00e1s tarde 4 MHz)"
+    ],
+    "Memoria": [
+        "4 Kb de RAM (expandible a 48 kB. los tama\u00f1os m\u00e1s grandes fueron est\u00e1ndar en versiones posteriores) / 4 kB de ROM (las cartuchos podr\u00edan incluir 4 a 16 kB)"
+    ],
+    "Display": [
+        "Display de 64\u00d730 caracteres, monocromo"
+    ],
+    "Sonido": [
+        "No hay (posibles adiciones externas)"
+    ],
+    "Conectividad": [
+        "v\u00eddeo compuesto, Centronics paralelo, RS-232, sonido en / fuera para el uso de la cassette, conector de cinta de 50 pin incluyendo el bus S-100."
+    ],
+    "Art\u00edculos relacionados": [
+        "Tulipas"
+    ]
+}

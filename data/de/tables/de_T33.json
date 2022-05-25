@@ -1,0 +1,35 @@
+{
+    "Titel": [
+        "K2-21c"
+    ],
+    "Stern": [
+        "K2-21"
+    ],
+    "Sternbild": [
+        "Aquarius"
+    ],
+    "Rechtsaufstieg": [
+        "22 h 41 m 12.8862 s"
+    ],
+    "Deklination": [
+        "-14 29' 20.4349"
+    ],
+    "Entfernung": [
+        "273.5+-0,9 ly (83.8+-0,3 pc)"
+    ],
+    "Masse": [
+        "0,64 + 0,11 M"
+    ],
+    "Radius": [
+        "0,6 + 0,1 R"
+    ],
+    "Temperatur": [
+        "4043+- 375 K"
+    ],
+    "Metallizität": [
+        "-0.11 +- 0.13"
+    ],
+    "Alter": [
+        ">1 Gyr"
+    ]
+}

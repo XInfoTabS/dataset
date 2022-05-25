@@ -1,0 +1,81 @@
+{
+    "Titel": [
+        "Xiaomi Mi 2S"
+    ],
+    "Codename": [
+        "aries"
+    ],
+    "Hersteller": [
+        "Xiaomi Tech"
+    ],
+    "Serie": [
+        "Xiaomi Phone"
+    ],
+    "Kompatible Netzwerke": [
+        "GSM 850, 900, 1800 und 1900 MHz & WCDMA 850, 1900 und 2100 MHz"
+    ],
+    "Vorgänger": [
+        "Xiaomi Mi2"
+    ],
+    "Nachfolger": [
+        "Xiaomi Mi3"
+    ],
+    "Verwandte": [
+        "Xiaomi Mi2A"
+    ],
+    "Typ": [
+        "Smartphone"
+    ],
+    "Formfaktor": [
+        "Schließen"
+    ],
+    "Abmessungen": [
+        "126 mm (5.0 in) H, 62 mm (2.4 in) W, 10,2 mm (0.40 in) D"
+    ],
+    "Masse": [
+        "145 g (5.1 Unzen)"
+    ],
+    "Betriebssystem": [
+        "Ursprünglich: MIUI v5 (Android 4.1 Jelly Bean)Aktuell: MIUI 9 (Android 5.0.1 Lollipop)"
+    ],
+    "CPU": [
+        "Qualcomm Snapdragon 600 APQ8064T Quad-Core Krait 300 @ 1,7 GHz"
+    ],
+    "GPU": [
+        "Adreno 320"
+    ],
+    "Arbeitsspeicher": [
+        "2 GB Arbeitsspeicher"
+    ],
+    "Speicher": [
+        "16 GB / 32 GB ROM"
+    ],
+    "Abnehmbarer Speicher": [
+        "Keine"
+    ],
+    "Batterie": [
+        "2000 mAh"
+    ],
+    "Dateneingaben": [
+        "Kapazitiver Touchscreen"
+    ],
+    "Display": [
+        "IPS Display 4,3 Zoll @ 1280px x 720px (341 PPI) (Hergestellt von Sharp Inc.)"
+    ],
+    "Rückkamera": [
+        "8 Megapixel (16 GB Version) / 13 Megapixel (32 GB Version)(Hinterseite beleuchtet (BSI)), Rekorde 1080p bei 30fps und 720p bei 90fps"
+    ],
+    "Vorderkamera": [
+        "2 Megapixel, 1080p bei 30fps"
+    ],
+    "Konnektivität": [
+        "Liste Bluetooth 4.0 + A2DP",
+        "WLAN (802.11 b/g/n)",
+        "Wi-Fi Direkt",
+        "Micro-USB On-The-Go mit MHL-Link",
+        "DLNA"
+    ],
+    "Webseite": [
+        "mi.com /mi2s"
+    ]
+}

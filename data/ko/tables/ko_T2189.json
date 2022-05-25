@@ -1,0 +1,31 @@
+{
+    "타이틀": [
+        "Poincaré conjecture"
+    ],
+    "필드": [
+        "Geometric topology"
+    ],
+    "에 의해 추측": [
+        "Henri Poincaré"
+    ],
+    "수학": [
+        "1904"
+    ],
+    "첫 번째 증거": [
+        "Grigori Perelman"
+    ],
+    "첫 번째 증명": [
+        "2006"
+    ],
+    "Implied by": [
+        "수학적 추측",
+        "Zeman 추측"
+    ],
+    "Equivalent to": [
+        "스페셜 공간 형식 추측",
+        "Thurston elliptization conjecture"
+    ],
+    "일반화": [
+        "일반화 된 Poincaré 추측"
+    ]
+}

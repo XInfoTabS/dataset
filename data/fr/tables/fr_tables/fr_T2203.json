@@ -1,0 +1,113 @@
+{
+    "titre": [
+        "Samsung Galaxy Note9"
+    ],
+    "Nom de code": [
+        "Crown"
+    ],
+    "Marque": [
+        "Samsung Galaxy"
+    ],
+    "Fabricant": [
+        "Samsung Electronics"
+    ],
+    "Slogan": [
+        "Le nouveau super puissant Note"
+    ],
+    "S\u00e9rie": [
+        "Samsung Galaxy Note"
+    ],
+    "Mod\u00e8le": [
+        "Mod\u00e8les internationaux :, SM-N960x (La derni\u00e8re lettre varie selon le transporteur et les mod\u00e8les internationaux)",
+        "Mod\u00e8les japonais :, SCV40 (au), SC-01L (NTT Docomo)"
+    ],
+    "R\u00e9seaux compatibles": [
+        "2G, 3G, 4G, 4G LTE"
+    ],
+    "Premi\u00e8re sortie": [
+        "9 ao\u00fbt 2018; il y a 14 mois (2018-08-09)"
+    ],
+    "Pr\u00e9d\u00e9cesseur": [
+        "Samsung Galaxy Note 8"
+    ],
+    "Successeur": [
+        "Samsung Galaxy Note 10"
+    ],
+    "Related": [
+        "Samsung Galaxy S9, Samsung Galaxy A9 (2018)"
+    ],
+    "Type": [
+        "Phablet"
+    ],
+    "Facteur de forme": [
+        "Slate"
+    ],
+    "Dimensions": [
+        "H: 161,9 mm (6,37 po), L: 76,4 mm (3,01 po), D: 8,8 mm (0,35 po)"
+    ],
+    "Masse": [
+        "201 g (7,1 oz)"
+    ],
+    "Syst\u00e8me d'exploitation": [
+        "Original : Android Oreo 8.1 avec Samsung Experience 9.5, Courant : Android Pie 9 avec Samsung One UI 1.0"
+    ],
+    "Syst\u00e8me sur puce": [
+        "Global : Samsung Exynos 9810, \u00c9tats-Unis, Canada, Chine et Japon : Qualcomm Snapdragon 845"
+    ],
+    "CPU": [
+        "Exynos : Octa-core (4x2,7 GHz Cortex-A55 et 4x1,7 GHz Mongoose M3), Snapdragon : Octa-core (4x2,8 GHz Kryo 385 Or et 4x1,7 GHz Kryo 385 Argent)"
+    ],
+    "GPU": [
+        "Exynos: Mali-G72 MP18",
+        "Snapdragon: Adreno 630"
+    ],
+    "M\u00e9moire": [
+        "6 Go (mod\u00e8le 128 Go) 8 Go (512 Go)"
+    ],
+    "Stockage": [
+        "128 Go ou 512 Go UFS 2.1"
+    ],
+    "Stockage amovible": [
+        "support de carte microSD jusqu'\u00e0 512 Go"
+    ],
+    "Batterie": [
+        "4000 mAh (non amovible)"
+    ],
+    "Entr\u00e9es de donn\u00e9es (capteurs)": [
+        "Acc\u00e9l\u00e9rom\u00e8tre",
+        "Barom\u00e8tre",
+        "Scanner d'empreinte digitale (mont\u00e9 \u00e0 l'arri\u00e8re)",
+        "Capteur g\u00e9omagn\u00e9tique",
+        "Gyroscope",
+        "Capteur de hauteur",
+        "Capteur de proximit\u00e9",
+        "Capteur de saturation de la fr\u00e9quence cardiaque et de l'oxyg\u00e8ne sanguin"
+    ],
+    "Entr\u00e9es de donn\u00e9es (Senseurs)": [
+        "Scanner Iris"
+    ],
+    "Entr\u00e9es de donn\u00e9es (Autres)": [
+        "S Pen",
+        "Claques de volume du son physique",
+        "Bixby key"
+    ],
+    "Affichage": [
+        "6,4 pouces (162.0 mm)",
+        "\u00c9cran tactile capacitif Super AMOLED, r\u00e9solution 2960x1440 px (516 ppi)"
+    ],
+    "Cam\u00e9ra arri\u00e8re": [
+        "Dual 12 MP (1,4 \u03bcm, f/1.5/2.4) + 12 MP ((1,0 \u03bcm), f/2.4) Dual OIS, 4K \u00e0 30 ou 60 fps (limit\u00e9e \u00e0 5 min)[1], QHD \u00e0 30 fps, 1080p \u00e0 30 ou 60 fps, 720p \u00e0 30 fps et ralenti \u00e0 960 fps"
+    ],
+    "Cam\u00e9ra avant": [
+        "8 MP (1.22 \u03bcm, f/1.7), autofocus"
+    ],
+    "Son": [
+        "Haut-parleurs st\u00e9r\u00e9o accord\u00e9 par AKG avec support Dolby Atmos"
+    ],
+    "Connectivit\u00e9": [
+        "Wi-Fi 802.11 a/b/g/n/ac (2.4/5GHz), VHT80, MU-MIMO, 1024-QAM Bluetooth 5.0 (LE jusqu'\u00e0 2Mbps), ANT+, USB-C, prise casque 3,5mm, NFC, emplacement (GPS, Galileo, GLONASS, BeiDou)"
+    ],
+    "Site web": [
+        "www.samsung.com/global/galaxy/galaxy-note9/"
+    ]
+}

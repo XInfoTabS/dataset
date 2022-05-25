@@ -1,0 +1,61 @@
+{
+    "t\u00edtulo": [
+        "2.2 y 2.5 motores"
+    ],
+    "Fabricante": [
+        "\u201cChrysler\u201d"
+    ],
+    "Producci\u00f3n": [
+        "1981-1995"
+    ],
+    "Configuraci\u00f3n": [
+        "inline-four"
+    ],
+    "Desplazamiento": [
+        "2213 cc (135.0 cu en)",
+        "2501 cc (152.6 cu en)"
+    ],
+    "Boreo de cilindro": [
+        "87.5 mm (3.44 in)"
+    ],
+    "Golpe de pist\u00f3n": [
+        "92 mm (3,62 in)",
+        "104 mm (4.09 in)"
+    ],
+    "Material de bloqueo": [
+        "Cast Iron"
+    ],
+    "Material principal": [
+        "Aluminio"
+    ],
+    "Valvetrain": [
+        "Doble camshafts sobre cabeza",
+        "Camshaft \u00fanico sobre cabeza"
+    ],
+    "Relaci\u00f3n de compresi\u00f3n": [
+        "8.1:1",
+        "8.5:1",
+        "8.9:1",
+        "9.0: 1",
+        "9.5:1"
+    ],
+    "Sistema de combustible": [
+        "Carburetor",
+        "Injeci\u00f3n de combustible de un solo punto",
+        "Injeci\u00f3n de combustible multipunto"
+    ],
+    "Tipo de combustible": [
+        "Gasolina",
+        "Metanol"
+    ],
+    "Sistema de petr\u00f3leo": [
+        "Wet sump"
+    ],
+    "Sistema de refrigeraci\u00f3n": [
+        "refrigerado por agua"
+    ],
+    "Sucesor": [
+        "Motor AMC straight-4",
+        "Motores Chrysler 1.8, 2.0 y 2.4"
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "titre": [
+        "Hydrog\u00e8ne, 1H"
+    ],
+    "Apparence": [
+        "gaz incolore"
+    ],
+    "Poids atomique standard.mw-parser-output.nobold{poids de la chemin\u00e9e:normal} Ar, std(H)": [
+        "[1.00784, 1.00811] conventionnel: 1.008"
+    ],
+    "Num\u00e9ro atomique (Z)": [
+        "1"
+    ],
+    "Groupe": [
+        "1: H et m\u00e9taux alcalins"
+    ],
+    "P\u00e9riode": [
+        "p\u00e9riode 1"
+    ],
+    "Bloc": [
+        "s-block"
+    ],
+    "Cat\u00e9gorie d'\u00e9l\u00e9ment": [
+        "Non m\u00e9tallique r\u00e9actif"
+    ],
+    "Configuration \u00e9lectronique": [
+        "1s 1"
+    ],
+    "\u00c9lectrons par r\u00e9servoir": [
+        "1"
+    ],
+    "Phase au STP": [
+        "gaz"
+    ],
+    "Point de fusion": [
+        "(H 2 ) 13.99 K (\u2212259.16 \u00b0C, \u2212434.49 \u00b0F)"
+    ],
+    "point d'\u00e9bullition": [
+        "(H 2 ) 20.271 K (\u2212252.879 \u00b0C, \u2212423.182 \u00b0F)"
+    ],
+    "Densit\u00e9 (au STP)": [
+        "0,08988 g/L"
+    ],
+    "en cas de liquide (\u00e0 la p.m.)": [
+        "0,07 g/cm 3 (solide: 0,0763 g/cm 3 )"
+    ],
+    "en cas de liquide (en b.p.)": [
+        "0,07099 g/cm 3"
+    ],
+    "Triple point": [
+        "13,8033 K, 7,041 kPa"
+    ],
+    "Point critique": [
+        "32.938 K, 1.2858 MPa"
+    ],
+    "Chaleur de fusion": [
+        "(H 2 ) 0,117 kJ/mol"
+    ],
+    "Chaleur de vaporisation": [
+        "(H 2 ) 0,904 kJ/mol"
+    ],
+    "Capacit\u00e9 calorifique molaire": [
+        "(H 2 ) 28.836 J/(mol\u00b7K)"
+    ],
+    "\u00e9tats d'oxydation": [
+        "\u22121, +1 (oxyde d'amphot\u00e9rique)"
+    ],
+    "\u00c9chelle d'\u00e9lectron\u00e9gativit\u00e9": [
+        "Pauling: 2.20"
+    ],
+    "\u00c9nergies d'ionisation": [
+        "1\u00e8re: 1312,0 kJ/mol"
+    ],
+    "Rayon covalent": [
+        "31\u00b15 pm"
+    ],
+    "Rayon Van der Waals": [
+        "120 pm"
+    ],
+    "Accident naturel": [
+        "primordial"
+    ],
+    "Vitesse du son": [
+        "1310 m/s (gaz, 27 \u00b0C)"
+    ],
+    "Conductivit\u00e9 thermique": [
+        "0,1805 W/(m\u00b7K)"
+    ],
+    "Commande magn\u00e9tique": [
+        "diamagn\u00e9tique"
+    ],
+    "Sensibilit\u00e9 magn\u00e9tique": [
+        "\u22123.98\u00b710 \u22126 cm 3 /mol (298 K)"
+    ],
+    "Num\u00e9ro CAS": [
+        "12385-13-6, 1333-74-0 (H 2 )"
+    ],
+    "D\u00e9couverte": [
+        "Henry Cavendish (1766)"
+    ],
+    "Nomm\u00e9 par": [
+        "Antoine Lavoisier (1783)"
+    ]
+}
