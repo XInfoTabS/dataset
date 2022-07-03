@@ -1,4 +1,7 @@
 # Evaluating Multilingual Tabular Natural Language Inference
+
+![XinfoTabS Logo](./xinfotabs_logo2.png)
+
 The Official dataset for "XINFOTABS: Evaluating Multilingual Tabular Natural Language Inference", containing tables and corresponding hypothesis in 10 languages i.e. English (en), German (de), French (fr), Spanish (es), Afrikaans (af), Russian (ru), Chinese (zh), Arabic (ar), Korean (ko) and Hindi (hi).
 
 # Data
