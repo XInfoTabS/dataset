@@ -26,9 +26,7 @@ The Official dataset for "XINFOTABS: Evaluating Multilingual Tabular Natural Lan
 
 # Data
 
-The data is categorized according to language having tables and hypothesis files for each language in seperate folder. 
-
-The data split is as follows:
+Upon downloading the files the ```data``` folder, you would find multiple folders with language codes containing a folder for the language tables (all 2720 of them) and 5 ```.csv``` files containing the translated hypothesis statements, in the below described manner. 
 
 ```
 data/
