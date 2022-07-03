@@ -26,3 +26,42 @@ The Official dataset for "XINFOTABS: Evaluating Multilingual Tabular Natural Lan
 
 # Data
 
+The data is categorized according to language having tables and hypothesis files for each language in seperate folder. 
+
+The data split is as follows:
+
+```
+data/
+├── af/
+│   ├── af_tables/
+│   │   ├── af_T0.json
+│   │   ├── af_T1.json
+│   │   ├── af_T10.json
+│   │   ├── af_T100.json
+│   │   └── ...
+│   ├── af_hypothesis_alpha1.csv
+│   ├── af_hypothesis_alpha2.csv
+│   ├── af_hypothesis_alpha3.csv
+│   ├── af_hypothesis_dev.csv
+│   └── af_hypothesis_train.csv
+├── ar/
+│   └── ...
+├── de/
+│   └── ...
+├── en/
+│   └── ...
+├── es/
+│   └── ...
+├── fr/
+│   └── ...
+├── hi/
+│   └── ...
+├── ko/
+│   └── ...
+├── ru/
+│   └── ...
+└── zh/
+    └── ...
+```
+
+
