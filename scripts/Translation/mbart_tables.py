@@ -52,7 +52,7 @@ def dict_to_json(obj : Dict, path: str) -> None:
 
 # ----- MAIN FUNCTION -----
 
-def table_translate_M2M100 (tables_path: str, context_file_path:str, og_lang_code:str, tr_lang_code:str, save_path:str):
+def table_translate_mBART (tables_path: str, context_file_path:str, og_lang_code:str, tr_lang_code:str, save_path:str):
 
   #loading the device for the model
   device = 'cuda' if torch.cuda.is_available() else 'cpu'
@@ -188,4 +188,4 @@ if __name__ == '__main__':
   parser = config(parser)
   args = vars(parser.parse_args())
 
-  table_translate_M2M100(args['tables_path'], args['context_file_path'], args['original_lang'], args['translation_lang'], args['save_path'])
+  table_translate_mBART(args['tables_path'], args['context_file_path'], args['original_lang'], args['translation_lang'], args['save_path'])
