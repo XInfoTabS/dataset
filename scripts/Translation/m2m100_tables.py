@@ -15,6 +15,7 @@ import torchtext as tt
 import spacy
 ner = spacy.load("en_core_web_sm")
 
+from transformers import M2M100Tokenizer, M2M100ForConditionalGeneration
 
 def config(parser):
     parser.add_argument('--tables_path',  default='../../data/en/tables', type=str)
@@ -73,7 +74,7 @@ def table_translate_M2M100 (tables_path: str, context_file_path:str, og_lang_cod
 
   table_prefix = tr_lang_code + '_'
   tables_already_translated = [table_name.replace(table_prefix, "") for table_name in os.listdir(save_path)]
-  tables_left = [a for a in infotabs_tables if a not in tables_already_translated]
+  tables_left = [a for a in tables if a not in tables_already_translated]
   print(f"Tables left to translate: {len(tables_left)}")
 
   cat_table = pd.read_csv(context_file_path, delimiter='\t', index_col=0)
