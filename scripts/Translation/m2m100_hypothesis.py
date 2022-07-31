@@ -110,4 +110,4 @@ if __name__ == '__main__':
     args = vars(parser.parse_args())
     
 
-    hypothesis_translate_M2M100(args['hypothesis_path'],args['tables_path'], args['og_lang_code'], args['tr_lang_code'], args['save_path'])
+    hypothesis_translate_M2M100(args['hypothesis_path'],args['tables_path'], args['original_lang'], args['translation_lang'], args['save_path'])

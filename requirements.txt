@@ -1,0 +1,8 @@
+tqdm
+transformers
+sentencepiece
+spacy
+pandas
+numpy
+torch 
+torchtext
