@@ -42,6 +42,30 @@ data/
     └── ...
 ```
 
+# Code
+
+To run the translation code, install the dependencies from the `requirements.txt` file and run any of the particular scripts found in the `Translation` folder under the `scripts` folder, in a similar manner to the following example
+
+
+```bash
+python3 ./scripts/translation/m2m100_tables.py --tables_path="./data/en/tables" \
+--context_file_path="./utilities/additional_data/table_categories.tsv" \
+--translation_lang="fr" \
+--original_lang="en" \
+--save_path="./data/fr/tables"
+```
+
+The above example would translate the tables from English to French, taking the tables form the `en/tables` folder and saving them to `fr/tables` folder. Same options exist for all other language models for table translation. 
+
+For hypothesis, translation, follow the following example:
+
+```bash
+python3 ./scripts/translation/m2m100_hypothesis.py --hypothesis_path="./data/en/en_train.tsv" \
+--tables_path="./data/en/tables" \
+--translation_lang="fr" \
+--original_lang="en" \
+--save_path="./data/en"
+```
 
 
 
