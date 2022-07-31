@@ -50,7 +50,7 @@ def dict_to_json(obj : Dict, path: str) -> None:
     file.write(json.dumps(obj, indent=4))
 
 
-def hypothesis_translate_M2M100 (hypo_path:str, tables_path:str, og_lang_code:str, tr_lang_code:str, save_path: str):
+def hypothesis_translate_mBART (hypo_path:str, tables_path:str, og_lang_code:str, tr_lang_code:str, save_path: str):
     if hypo_path.split('.')[-1] == 'tsv':
         hypo_df = pd.read_csv(hypo_path, delimiter='\t', index_col=0)
     elif hypo_path.split('.')[-1] == 'csv':
@@ -111,4 +111,4 @@ if __name__ == '__main__':
     args = vars(parser.parse_args())
     
 
-    hypothesis_translate_M2M100(args['hypothesis_path'],args['tables_path'], args['original_lang'], args['translation_lang'], args['save_path'])
+    hypothesis_translate_mBART(args['hypothesis_path'],args['tables_path'], args['original_lang'], args['translation_lang'], args['save_path'])
